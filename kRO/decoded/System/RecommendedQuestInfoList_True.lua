@@ -1,5 +1,5 @@
 -- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
--- Command line: RecommendedQuestInfoList_True.lub 
+-- Command line: .\System\RecommendedQuestInfoList_True.lub 
 
 -- params : ...
 -- function num : 0
