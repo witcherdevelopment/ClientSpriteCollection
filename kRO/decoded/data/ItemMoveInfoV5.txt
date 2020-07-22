@@ -5153,3 +5153,4 @@
 200051	1	1	0	1	1	1	1	1	//Stone_Coin_PackageIII
 400076	1	1	0	1	0	1	1	1	//C_20th_Anniversary
 1000320	1	1	0	1	0	1	1	1	//Kafra_Coin_Kr
+400115	1	1	0	1	1	1	1	1	//C_Rag_Origin_Hat

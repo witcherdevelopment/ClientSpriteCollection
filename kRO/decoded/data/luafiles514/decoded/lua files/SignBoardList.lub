@@ -10,6 +10,8 @@ IT_SIGNBOARD = 3
 SignBoardList = {
 {"Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "입력안하셨습니다", "#0x009EBDFF"}
 , 
+{"malangdo", 124, 152, 0, IT_SIGNBOARD, "item\\suffragium.bmp", "  기간한정 스톤교환", "#0x00FFFFFF"}
+, 
 {"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
 , 
 {"ein_dun02", 16, 250, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  180Lv미만 출입금지", "#0x00FFFFFF"}

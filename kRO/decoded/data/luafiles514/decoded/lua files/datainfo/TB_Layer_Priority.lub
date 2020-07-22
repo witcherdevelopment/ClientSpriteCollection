@@ -5,6 +5,14 @@
 -- function num : 0
 TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, 
 Items_List = {
+[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Female] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Male] = {Default = 143, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Baby_Polar_Bear] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Mike_Stand] = {Default = 304, isIgnoreRiding = true}

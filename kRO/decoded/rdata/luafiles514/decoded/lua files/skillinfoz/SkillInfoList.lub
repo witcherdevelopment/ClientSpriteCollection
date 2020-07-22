@@ -68,6 +68,206 @@ SpAmount = {0, 0, 0, 0, 0}
 AttackRange = {1, 1, 1, 1, 1}
 }
 , 
+[SKID.NPC_WIDEBLEEDING2] = {"NPC_WIDEBLEEDING2"; SkillName = "µ¥¸ð´Ð ¸Å½ººí¸®µù", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDESILENCE2] = {"NPC_WIDESILENCE2"; SkillName = "µ¥¸ð´Ð ¸Å½º»çÀÏ·±½º", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDESTUN2] = {"NPC_WIDESTUN2"; SkillName = "µ¥¸ð´Ð ¸Å½º½ºÅÏ", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDESTONE2] = {"NPC_WIDESTONE2"; SkillName = "µ¥¸ð´Ð ¸Å½º½ºÅæ", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDESLEEP2] = {"NPC_WIDESLEEP2"; SkillName = "µ¥¸ð´Ð ¸Å½º½½¸³", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDECURSE2] = {"NPC_WIDECURSE2"; SkillName = "µ¥¸ð´Ð ¸Å½ºÄ¿½º", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDECONFUSE2] = {"NPC_WIDECONFUSE2"; SkillName = "µ¥¸ð´Ð ¸Å½ºÄÁÇ»Áî", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDEFREEZE2] = {"NPC_WIDEFREEZE2"; SkillName = "µ¥¸ð´Ð ¸Å½ºÇÁ¸®Áî", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_EVILLAND2] = {"NPC_EVILLAND2"; SkillName = "µ¥¸ð´Ð ÀÌºí·£µå", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+SkillScale = {
+[1] = {x = 11, y = 11}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 11, y = 11}
+, 
+[4] = {x = 11, y = 11}
+, 
+[5] = {x = 11, y = 11}
+, 
+[6] = {x = 13, y = 13}
+, 
+[7] = {x = 15, y = 15}
+, 
+[8] = {x = 19, y = 19}
+, 
+[9] = {x = 23, y = 23}
+, 
+[10] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_HELLJUDGEMENT2] = {"NPC_HELLJUDGEMENT2"; SkillName = "µ¥¸ð´Ð Çï ÀúÁö¸ÕÆ®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 29, y = 29}
+, 
+[2] = {x = 29, y = 29}
+, 
+[3] = {x = 29, y = 29}
+, 
+[4] = {x = 29, y = 29}
+, 
+[5] = {x = 29, y = 29}
+, 
+[6] = {x = 29, y = 29}
+, 
+[7] = {x = 29, y = 29}
+, 
+[8] = {x = 29, y = 29}
+, 
+[9] = {x = 29, y = 29}
+, 
+[10] = {x = 29, y = 29}
+}
+}
+, 
 [SKID.NPC_ALL_STAT_DOWN] = {"NPC_ALL_STAT_DOWN"; SkillName = "¿Ã½ºÅÝ ´Ù¿î", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
@@ -1945,7 +2145,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.RK_WINDCUTTER] = {"RK_WINDCUTTER"; SkillName = "À©µå Ä¿ÅÍ", MaxLv = 5, 
-SpAmount = {34, 38, 42, 46, 50}
+SpAmount = {23, 26, 29, 32, 35}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -2253,7 +2453,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.NJ_KAMAITACHI] = {"NJ_KAMAITACHI"; SkillName = "»èÇ³(Þýù¦)", MaxLv = 5, 
-SpAmount = {24, 28, 32, 36, 40}
+SpAmount = {17, 19, 21, 23, 25}
 , bSeperateLv = true, 
 AttackRange = {5, 6, 7, 8, 9}
 , 
@@ -3256,18 +3456,6 @@ AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1}
-, 
-SkillScale = {
-[1] = {x = 5, y = 5}
-, 
-[2] = {x = 11, y = 11}
-, 
-[3] = {x = 17, y = 17}
-, 
-[4] = {x = 23, y = 23}
-, 
-[5] = {x = 29, y = 29}
-}
 }
 , 
 [SKID.NPC_CRITICALWOUND] = {"NPC_CRITICALWOUND"; SkillName = "Ä¡¸íÀûÀÎ »óÃ³", MaxLv = 5, 
@@ -3328,56 +3516,12 @@ SkillScale = {
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-, 
-SkillScale = {
-[1] = {x = 5, y = 5}
-, 
-[2] = {x = 11, y = 11}
-, 
-[3] = {x = 17, y = 17}
-, 
-[4] = {x = 23, y = 23}
-, 
-[5] = {x = 27, y = 27}
-, 
-[6] = {x = 27, y = 27}
-, 
-[7] = {x = 27, y = 27}
-, 
-[8] = {x = 27, y = 27}
-, 
-[9] = {x = 27, y = 27}
-, 
-[10] = {x = 27, y = 27}
-}
 }
 , 
 [SKID.NPC_WIDESOULDRAIN] = {"NPC_WIDESOULDRAIN"; SkillName = "¸¶³ª ¹ø", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-, 
-SkillScale = {
-[1] = {x = 5, y = 5}
-, 
-[2] = {x = 11, y = 11}
-, 
-[3] = {x = 17, y = 17}
-, 
-[4] = {x = 23, y = 23}
-, 
-[5] = {x = 27, y = 27}
-, 
-[6] = {x = 27, y = 27}
-, 
-[7] = {x = 27, y = 27}
-, 
-[8] = {x = 27, y = 27}
-, 
-[9] = {x = 27, y = 27}
-, 
-[10] = {x = 27, y = 27}
-}
 }
 , 
 [SKID.ALL_INCCARRY] = {"ALL_INCCARRY"; SkillName = "¼ÒÁö·® Áõ°¡R", MaxLv = 10, 
@@ -3734,16 +3878,6 @@ NeedSkillList = {
 }
 }
 , 
-[SKID.KN_RIDING] = {"KN_RIDING"; SkillName = "¶óÀÌµù", MaxLv = 1, 
-SpAmount = {0}
-, bSeperateLv = false, 
-AttackRange = {1}
-, 
-_NeedSkillList = {
-{SKID.SM_ENDURE, 1}
-}
-}
-, 
 [SKID.KN_CHARGEATK] = {"KN_CHARGEATK"; SkillName = "Ã­Áö ¾îÅÃ", MaxLv = 1, Type = "Quest", 
 SpAmount = {40}
 , bSeperateLv = false, 
@@ -3816,6 +3950,16 @@ SpAmount = {40}
 AttackRange = {1}
 }
 , 
+[SKID.KN_RIDING] = {"KN_RIDING"; SkillName = "¶óÀÌµù", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SM_ENDURE, 1}
+}
+}
+, 
 [SKID.BS_GREED] = {"BS_GREED"; SkillName = "Å½¿å", MaxLv = 1, Type = "Quest", 
 SpAmount = {10}
 , bSeperateLv = false, 
@@ -3824,12 +3968,6 @@ AttackRange = {1}
 , 
 [SKID.MO_KITRANSLATION] = {"MO_KITRANSLATION"; SkillName = "Áø±âÁÖÀÔ(òÉÑ¨ñ¼ìý)", MaxLv = 1, Type = "Quest", 
 SpAmount = {40}
-, bSeperateLv = false, 
-AttackRange = {9}
-}
-, 
-[SKID.SA_ELEMENTWATER] = {"SA_ELEMENTWATER"; SkillName = "¿¤·¹¸àÅ» Ã¼ÀÎÁö (¼ö)", MaxLv = 1, Type = "Quest", 
-SpAmount = {30}
 , bSeperateLv = false, 
 AttackRange = {9}
 }
@@ -3847,6 +3985,12 @@ AttackRange = {9}
 }
 , 
 [SKID.SA_ELEMENTWIND] = {"SA_ELEMENTWIND"; SkillName = "¿¤·¹¸àÅ» Ã¼ÀÎÁö (Ç³)", MaxLv = 1, Type = "Quest", 
+SpAmount = {30}
+, bSeperateLv = false, 
+AttackRange = {9}
+}
+, 
+[SKID.SA_ELEMENTWATER] = {"SA_ELEMENTWATER"; SkillName = "¿¤·¹¸àÅ» Ã¼ÀÎÁö (¼ö)", MaxLv = 1, Type = "Quest", 
 SpAmount = {30}
 , bSeperateLv = false, 
 AttackRange = {9}
@@ -4095,7 +4239,7 @@ _NeedSkillList = {
 [SKID.NC_POWERSWING] = {"NC_POWERSWING"; SkillName = "ÆÄ¿ö ½ºÀ®", MaxLv = 10, 
 SpAmount = {20, 22, 24, 26, 28, 30, 32, 34, 36, 38}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
 , 
 _NeedSkillList = {
 {SKID.NC_AXEBOOMERANG, 3}
@@ -4165,17 +4309,17 @@ _NeedSkillList = {
 }
 , 
 [SKID.LG_CANNONSPEAR] = {"LG_CANNONSPEAR"; SkillName = "Ä³³í ½ºÇÇ¾î", MaxLv = 5, 
-SpAmount = {12, 16, 20, 24, 28}
+SpAmount = {30, 35, 40, 45, 50}
 , bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
+AttackRange = {7, 7, 7, 7, 7}
 , 
 _NeedSkillList = {
 {SKID.LG_PINPOINTATTACK, 1}
 }
 }
 , 
-[SKID.LG_REFLECTDAMAGE] = {"LG_REFLECTDAMAGE"; SkillName = "¸®ÇÃ·ºÆ® µ¥¹ÌÁö", MaxLv = 5, 
-SpAmount = {60, 80, 100, 120, 140}
+[SKID.LG_REFLECTDAMAGE] = {"LG_REFLECTDAMAGE"; SkillName = "¸®ÇÃ·ºÆ® µ¥¹ÌÁö ¸®´ö¼Ç", MaxLv = 5, 
+SpAmount = {60, 70, 80, 90, 100}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -4218,16 +4362,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SR_SKYNETBLOW] = {"SR_SKYNETBLOW"; SkillName = "Ãµ¶óÁö¸Á(ô¸Ôþò¢ØÑ)", MaxLv = 5, 
-SpAmount = {12, 14, 16, 18, 20}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_DRAGONCOMBO, 3}
-}
-}
-, 
 [SKID.PR_KYRIE] = {"PR_KYRIE"; SkillName = "±â¸®¿¡ ¿¤·¹ÀÌ¼Õ", MaxLv = 10, 
 SpAmount = {20, 20, 20, 25, 25, 25, 30, 30, 30, 35}
 , bSeperateLv = true, 
@@ -4235,42 +4369,6 @@ AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
 _NeedSkillList = {
 {SKID.AL_ANGELUS, 2}
-}
-}
-, 
-[SKID.SR_LIGHTNINGWALK] = {"SR_LIGHTNINGWALK"; SkillName = "¼¶Àüº¸(àìï³ÜÆ)", MaxLv = 5, 
-SpAmount = {40, 40, 40, 40, 40}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_WINDMILL, 1}
-}
-}
-, 
-[SKID.SR_GATEOFHELL] = {"SR_GATEOFHELL"; SkillName = "³ªÂûÆÄÈ²°Ý(ÑÜóË÷òüÅÌª)", MaxLv = 10, 
-SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
-, bSeperateLv = true, 
-AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
-, 
-_NeedSkillList = {
-{SKID.SR_TIGERCANNON, 5}
-, 
-{SKID.SR_RAMPAGEBLASTER, 1}
-}
-}
-, 
-[SKID.SR_GENTLETOUCH_CHANGE] = {"SR_GENTLETOUCH_CHANGE"; SkillName = "Á¡Ç÷-¹Ý(ïÇúë-Úã)", MaxLv = 5, 
-SpAmount = {40, 50, 60, 70, 80}
-, bSeperateLv = true, 
-AttackRange = {2, 2, 2, 2, 2}
-, 
-_NeedSkillList = {
-{SKID.SR_GENTLETOUCH_QUIET, 1}
-, 
-{SKID.SR_GENTLETOUCH_CURE, 1}
-, 
-{SKID.SR_GENTLETOUCH_ENERGYGAIN, 3}
 }
 }
 , 
@@ -4984,10 +5082,16 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.MA_SHARPSHOOTING] = {"MA_SHARPSHOOTING"; SkillName = "»þÇÁ ½´ÆÃ", MaxLv = 5, 
-SpAmount = {18, 21, 24, 27, 30}
-, bSeperateLv = false, 
-AttackRange = {9, 9, 9, 9, 9}
+[SKID.SN_SHARPSHOOTING] = {"SN_SHARPSHOOTING"; SkillName = "»þÇÁ½´ÆÃ", MaxLv = 5, 
+SpAmount = {16, 18, 20, 22, 24}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.AC_DOUBLE, 5}
+, 
+{SKID.AC_CONCENTRATION, 10}
+}
 }
 , 
 [SKID.MER_COMPRESS] = {"MER_COMPRESS"; SkillName = "ÄÄÇÁ·¹½º", MaxLv = 1, 
@@ -5627,7 +5731,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.NC_BOOSTKNUCKLE] = {"NC_BOOSTKNUCKLE"; SkillName = "ºÎ½ºÆ® ³ÊÅ¬", MaxLv = 5, 
-SpAmount = {3, 6, 9, 12, 15}
+SpAmount = {5, 10, 15, 20, 25}
 , bSeperateLv = true, 
 AttackRange = {11, 11, 11, 11, 11}
 , 
@@ -5679,7 +5783,7 @@ AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
 , 
 [SKID.NC_AXETORNADO] = {"NC_AXETORNADO"; SkillName = "¾×½º Åä³×ÀÌµµ", MaxLv = 5, 
-SpAmount = {18, 20, 22, 24, 26}
+SpAmount = {45, 45, 45, 45, 45}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -5773,7 +5877,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.LG_HESPERUSLIT] = {"LG_HESPERUSLIT"; SkillName = "Çì½ºÆä·ç½º ¸®Æ®", MaxLv = 5, 
-SpAmount = {80, 90, 100, 110, 120}
+SpAmount = {37, 44, 51, 58, 65}
 , bSeperateLv = true, 
 AttackRange = {3, 3, 3, 3, 3}
 , 
@@ -5784,50 +5888,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SR_EARTHSHAKER] = {"SR_EARTHSHAKER"; SkillName = "Áö·ÚÁø(ò¢Öôòè)", MaxLv = 5, 
-SpAmount = {36, 40, 44, 48, 52}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_DRAGONCOMBO, 3}
-}
-}
-, 
 [SKID.SM_AUTOBERSERK] = {"SM_AUTOBERSERK"; SkillName = "¿ÀÅä ¹ö¼­Å©", MaxLv = 1, Type = "Quest", 
 SpAmount = {1}
 , bSeperateLv = false, 
 AttackRange = {1}
-}
-, 
-[SKID.SR_KNUCKLEARROW] = {"SR_KNUCKLEARROW"; SkillName = "¼ö¶ó½ÅÅº(áóÔþãó÷¥)", MaxLv = 10, 
-SpAmount = {12, 14, 16, 18, 20, 22, 24, 26, 28, 30}
-, bSeperateLv = false, 
-AttackRange = {7, 7, 8, 8, 9, 9, 10, 10, 11, 11}
-, 
-_NeedSkillList = {
-{SKID.SR_LIGHTNINGWALK, 1}
-}
-}
-, 
-[SKID.SR_ASSIMILATEPOWER] = {"SR_ASSIMILATEPOWER"; SkillName = "Èí±â°ø(ýåÑ¨Íô)", MaxLv = 1, 
-SpAmount = {10}
-, bSeperateLv = false, 
-AttackRange = {1}
-, 
-_NeedSkillList = {
-{SKID.MO_ABSORBSPIRITS, 1}
-, 
-{SKID.SR_POWERVELOCITY, 1}
-}
-}
-, 
-[SKID.SR_GENTLETOUCH_QUIET] = {"SR_GENTLETOUCH_QUIET"; SkillName = "Á¡Ç÷-¹¬(ïÇúë-Ùù)", MaxLv = 5, 
-SpAmount = {20, 25, 30, 35, 40}
-, bSeperateLv = true, 
-AttackRange = {2, 2, 2, 2, 2}
-, 
-_NeedSkillList = {}
 }
 , 
 [SKID.AC_MAKINGARROW] = {"AC_MAKINGARROW"; SkillName = "È­»ì ¸¸µé±â", MaxLv = 1, Type = "Quest", 
@@ -5977,7 +6041,7 @@ AttackRange = {1}
 }
 , 
 [SKID.GN_BLOOD_SUCKER] = {"GN_BLOOD_SUCKER"; SkillName = "ºí·¯µå ¼­Ä¿", MaxLv = 5, 
-SpAmount = {30, 35, 40, 45, 50}
+SpAmount = {50, 55, 60, 65, 70}
 , bSeperateLv = true, 
 AttackRange = {11, 11, 11, 11, 11}
 , 
@@ -6367,16 +6431,6 @@ AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.RG_INTIMIDATE, 5}
-}
-}
-, 
-[SKID.SR_DRAGONCOMBO] = {"SR_DRAGONCOMBO"; SkillName = "½Ö·æ°¢(äª×£ÊÅ)", MaxLv = 10, 
-SpAmount = {3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.MO_TRIPLEATTACK, 5}
 }
 }
 , 
@@ -6868,38 +6922,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SR_RIDEINLIGHTNING] = {"SR_RIDEINLIGHTNING"; SkillName = "³ú±¤Åº(ÒâÎÃ÷¥)", MaxLv = 5, 
-SpAmount = {40, 50, 60, 70, 80}
-, bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
-, 
-_NeedSkillList = {
-{SKID.MO_FINGEROFFENSIVE, 3}
-}
-}
-, 
-[SKID.SR_HOWLINGOFLION] = {"SR_HOWLINGOFLION"; SkillName = "»çÀÚÈÄ(Þâí­ý©)", MaxLv = 5, 
-SpAmount = {80, 90, 100, 110, 120}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_RIDEINLIGHTNING, 3}
-, 
-{SKID.SR_ASSIMILATEPOWER, 1}
-}
-}
-, 
-[SKID.SR_TIGERCANNON] = {"SR_TIGERCANNON"; SkillName = "È£Æ÷(ûÜøß)", MaxLv = 10, 
-SpAmount = {30, 35, 40, 45, 50, 55, 60, 65, 70, 75}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_FALLENEMPIRE, 3}
-}
-}
-, 
 [SKID.AM_REST] = {"AM_REST"; SkillName = "¾È½Ä", MaxLv = 1, 
 SpAmount = {50}
 , bSeperateLv = false, 
@@ -6988,16 +7010,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SR_CRESCENTELBOW] = {"SR_CRESCENTELBOW"; SkillName = "ÆÄ¼âÁÖ(÷òáïñº)", MaxLv = 5, 
-SpAmount = {80, 80, 80, 80, 80}
-, bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_WINDMILL, 1}
-}
-}
-, 
 [SKID.GN_CARTBOOST] = {"GN_CARTBOOST"; SkillName = "Ä«Æ® ºÎ½ºÆ®", MaxLv = 5, 
 SpAmount = {20, 24, 28, 32, 36}
 , bSeperateLv = true, 
@@ -7028,7 +7040,7 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.GN_CART_TORNADO] = {"GN_CART_TORNADO"; SkillName = "Ä«Æ® Åä³×ÀÌµµ ¾îÅÃ", MaxLv = 10, 
+[SKID.GN_CART_TORNADO] = {"GN_CART_TORNADO"; SkillName = "Ä«Æ® Åä³×ÀÌµµ", MaxLv = 10, 
 SpAmount = {30, 30, 30, 30, 30, 30, 30, 30, 30, 30}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
@@ -7231,28 +7243,6 @@ AttackRange = {9, 9, 9}
 , 
 _NeedSkillList = {
 {SKID.SO_SUMMON_AQUA, 3}
-}
-}
-, 
-[SKID.SR_RAISINGDRAGON] = {"SR_RAISINGDRAGON"; SkillName = "Àá·æ½ÂÃµ(íÖ×£ã°ô¸)", MaxLv = 10, 
-SpAmount = {120, 120, 120, 120, 120, 120, 120, 120, 120, 120}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.MO_CALLSPIRITS, 5}
-, 
-{SKID.SR_POWERVELOCITY, 1}
-}
-}
-, 
-[SKID.SR_POWERVELOCITY] = {"SR_POWERVELOCITY"; SkillName = "Àü±âÁÖÀÔ(îïÑ¨ñ¼ìý)", MaxLv = 1, 
-SpAmount = {50}
-, bSeperateLv = false, 
-AttackRange = {3}
-, 
-_NeedSkillList = {
-{SKID.MO_CALLSPIRITS, 5}
 }
 }
 , 
@@ -7477,16 +7467,6 @@ _NeedSkillList = {
 {SKID.MO_EXTREMITYFIST, 3}
 , 
 {SKID.MO_STEELBODY, 3}
-}
-}
-, 
-[SKID.SR_GENTLETOUCH_ENERGYGAIN] = {"SR_GENTLETOUCH_ENERGYGAIN"; SkillName = "Á¡Ç÷-±¸(ïÇúë-Ï¹)", MaxLv = 5, 
-SpAmount = {40, 50, 60, 70, 80}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_GENTLETOUCH_CURE, 1}
 }
 }
 , 
@@ -7819,7 +7799,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.RA_ARROWSTORM] = {"RA_ARROWSTORM"; SkillName = "¾Ö·Î¿ì ½ºÅè", MaxLv = 10, 
-SpAmount = {30, 32, 34, 36, 38, 40, 42, 44, 46, 48}
+SpAmount = {24, 28, 32, 36, 40, 44, 48, 52, 56, 60}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
@@ -8049,7 +8029,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.LG_RAYOFGENESIS] = {"LG_RAYOFGENESIS"; SkillName = "·¹ÀÌ ¿Àºê Á¦³×½Ã½º", MaxLv = 10, 
-SpAmount = {45, 50, 55, 60, 65, 70, 75, 80, 85, 90}
+SpAmount = {30, 40, 50, 60, 70, 80, 90, 100, 110, 120}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
@@ -8064,46 +8044,16 @@ SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 }
 , 
-[SKID.SR_FALLENEMPIRE] = {"SR_FALLENEMPIRE"; SkillName = "´ëÀüºØÃß(ÓÞï«ÝÚõÍ)", MaxLv = 10, 
-SpAmount = {18, 21, 24, 27, 30, 33, 36, 39, 42, 45}
-, bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_DRAGONCOMBO, 3}
-}
-}
-, 
 [SKID.SA_CLASSCHANGE] = {"SA_CLASSCHANGE"; SkillName = "Å¬·¡½º Ã¼ÀÎÁö", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 }
 , 
-[SKID.SR_WINDMILL] = {"SR_WINDMILL"; SkillName = "¼±Ç³Åð(àÁù¦÷Ú)", MaxLv = 1, 
-SpAmount = {45}
-, bSeperateLv = false, 
-AttackRange = {1}
-, 
-_NeedSkillList = {
-{SKID.SR_CURSEDCIRCLE, 1}
-}
-}
-, 
 [SKID.SA_SUMMONMONSTER] = {"SA_SUMMONMONSTER"; SkillName = "¼­¸Õ ¸ó½ºÅÍ", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-}
-, 
-[SKID.SR_GENTLETOUCH_CURE] = {"SR_GENTLETOUCH_CURE"; SkillName = "Á¡Ç÷-Äè(ïÇúë-öá)", MaxLv = 5, 
-SpAmount = {40, 50, 60, 70, 80}
-, bSeperateLv = false, 
-AttackRange = {2, 2, 2, 2, 2}
-, 
-_NeedSkillList = {
-{SKID.SR_GENTLETOUCH_QUIET, 1}
-}
 }
 , 
 [SKID.SA_REVERSEORCISH] = {"SA_REVERSEORCISH"; SkillName = "¸®¹ö½º ¿ÀÅ°½¬", MaxLv = 10, 
@@ -8183,7 +8133,7 @@ AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
 , 
 [SKID.WM_REVERBERATION] = {"WM_REVERBERATION"; SkillName = "Áøµ¿ ÀÜÇâ", MaxLv = 5, 
-SpAmount = {40, 46, 52, 58, 64}
+SpAmount = {56, 62, 68, 74, 80}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9}
 , 
@@ -8296,20 +8246,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SR_GENTLETOUCH_REVITALIZE] = {"SR_GENTLETOUCH_REVITALIZE"; SkillName = "Á¡Ç÷-È°(ïÇúë-üÀ)", MaxLv = 5, 
-SpAmount = {40, 50, 60, 70, 80}
-, bSeperateLv = true, 
-AttackRange = {2, 2, 2, 2, 2}
-, 
-_NeedSkillList = {
-{SKID.SR_GENTLETOUCH_QUIET, 1}
-, 
-{SKID.SR_GENTLETOUCH_CURE, 1}
-, 
-{SKID.SR_GENTLETOUCH_ENERGYGAIN, 3}
-}
-}
-, 
 [SKID.BD_LULLABY] = {"BD_LULLABY"; SkillName = "ÀÚÀå°¡", MaxLv = 1, 
 SpAmount = {40}
 , bSeperateLv = false, 
@@ -8394,16 +8330,6 @@ NeedSkillList = {
 }
 }
 , 
-[SKID.SR_CURSEDCIRCLE] = {"SR_CURSEDCIRCLE"; SkillName = "ÁÖ¹ÚÁø(ñ±ÚÚòæ)", MaxLv = 5, 
-SpAmount = {40, 60, 80, 100, 120}
-, bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.MO_BLADESTOP, 2}
-}
-}
-, 
 [SKID.BD_RINGNIBELUNGEN] = {"BD_RINGNIBELUNGEN"; SkillName = "´Ïº§·î°ÕÀÇ ¹ÝÁö", MaxLv = 5, 
 SpAmount = {64, 60, 56, 52, 48}
 , bSeperateLv = true, 
@@ -8437,16 +8363,6 @@ NeedSkillList = {
 [JOBID.JT_DANCER] = {
 {SKID.DC_DONTFORGETME, 10}
 }
-}
-}
-, 
-[SKID.SR_RAMPAGEBLASTER] = {"SR_RAMPAGEBLASTER"; SkillName = "Æø±â»êÅº(øïÑ¨ß¤÷¥)", MaxLv = 5, 
-SpAmount = {100, 100, 100, 100, 100}
-, bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_EARTHSHAKER, 2}
 }
 }
 , 
@@ -9001,7 +8917,7 @@ _NeedSkillList = {
 [SKID.NC_ARMSCANNON] = {"NC_ARMSCANNON"; SkillName = "¾ÏÁî Ä³³í", MaxLv = 5, 
 SpAmount = {40, 45, 50, 55, 60}
 , bSeperateLv = true, 
-AttackRange = {9, 9, 11, 11, 13}
+AttackRange = {9, 9, 9, 9, 9}
 , 
 _NeedSkillList = {
 {SKID.NC_FLAMELAUNCHER, 2}
@@ -9011,7 +8927,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.NC_VULCANARM] = {"NC_VULCANARM"; SkillName = "¹ßÄ­ ¾Ï", MaxLv = 3, 
-SpAmount = {2, 4, 6}
+SpAmount = {9, 12, 15}
 , bSeperateLv = true, 
 AttackRange = {13, 13, 13}
 , 
@@ -9329,7 +9245,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.LK_CONCENTRATION] = {"LK_CONCENTRATION"; SkillName = "ÄÁ¼¾Æ®·¹ÀÌ¼Ç", MaxLv = 5, 
-SpAmount = {14, 18, 22, 26, 30}
+SpAmount = {20, 20, 20, 20, 20}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -9521,7 +9437,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.GC_DARKILLUSION] = {"GC_DARKILLUSION"; SkillName = "´ÙÅ© ÀÏ·çÁ¯", MaxLv = 5, 
-SpAmount = {20, 25, 30, 35, 40}
+SpAmount = {40, 40, 40, 40, 40}
 , bSeperateLv = true, 
 AttackRange = {5, 6, 7, 8, 9}
 , 
@@ -9531,7 +9447,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.HW_MAGICPOWER] = {"HW_MAGICPOWER"; SkillName = "¸¶¹ý·Â ÁõÆø", MaxLv = 10, 
-SpAmount = {30, 35, 40, 45, 50, 55, 60, 65, 70, 75}
+SpAmount = {35, 40, 45, 50, 55, 60, 65, 70, 75, 80}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
@@ -9775,9 +9691,9 @@ AttackRange = {4}
 }
 , 
 [SKID.ASC_BREAKER] = {"ASC_BREAKER"; SkillName = "±â°øÆ÷", MaxLv = 10, 
-SpAmount = {20, 20, 20, 20, 20, 20, 20, 20, 20, 20}
+SpAmount = {60, 60, 60, 60, 60, 60, 60, 60, 60, 60}
 , bSeperateLv = true, 
-AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+AttackRange = {4, 4, 4, 4, 4, 4, 4, 4, 4, 4}
 , 
 _NeedSkillList = {
 {SKID.TF_DOUBLE, 5}
@@ -9841,18 +9757,6 @@ AttackRange = {1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.NJ_NINPOU, 5}
-}
-}
-, 
-[SKID.SN_SHARPSHOOTING] = {"SN_SHARPSHOOTING"; SkillName = "»þÇÁ½´ÆÃ", MaxLv = 5, 
-SpAmount = {18, 21, 24, 27, 30}
-, bSeperateLv = true, 
-AttackRange = {9, 9, 9, 9, 9}
-, 
-_NeedSkillList = {
-{SKID.AC_DOUBLE, 5}
-, 
-{SKID.AC_CONCENTRATION, 10}
 }
 }
 , 
@@ -10238,22 +10142,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SR_FLASHCOMBO] = {"SR_FLASHCOMBO"; SkillName = "¼¶±¤¿¬°Ý(àìÎÃææÌª)", MaxLv = 5, 
-SpAmount = {65, 65, 65, 65, 65}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.SR_DRAGONCOMBO, 3}
-, 
-{SKID.SR_FALLENEMPIRE, 3}
-, 
-{SKID.SR_SKYNETBLOW, 1}
-, 
-{SKID.SR_TIGERCANNON, 5}
-}
-}
-, 
 [SKID.SC_ESCAPE] = {"SC_ESCAPE"; SkillName = "±ä±ÞÅ»Ãâ", MaxLv = 5, 
 SpAmount = {30, 26, 22, 18, 14}
 , bSeperateLv = true, 
@@ -10634,12 +10522,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.ALL_GLASTHEIM_RECALL] = {"ALL_GLASTHEIM_RECALL"; SkillName = "±Û·¹½ºÆ®ÇìÀÓ ±ÍÈ¯", MaxLv = 1, 
-SpAmount = {0}
-, bSeperateLv = false, 
-AttackRange = {1}
-}
-, 
 [SKID.SU_SOULATTACK] = {"SU_SOULATTACK"; SkillName = "½É·É¾îÅÃ", MaxLv = 1, 
 SpAmount = {0}
 , bSeperateLv = false, 
@@ -10768,6 +10650,12 @@ AttackRange = {}
 _NeedSkillList = {
 {SKID.SU_SHRIMPARTY, 5}
 }
+}
+, 
+[SKID.ALL_GLASTHEIM_RECALL] = {"ALL_GLASTHEIM_RECALL"; SkillName = "±Û·¹½ºÆ®ÇìÀÓ ±ÍÈ¯", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
 }
 , 
 [SKID.GS_GLITTERING] = {"GS_GLITTERING"; SkillName = "ÇÃ¸³ ´õ ÄÚÀÎ", MaxLv = 5, 
@@ -11632,12 +11520,2206 @@ AttackRange = {1, 1, 1, 1, 1}
 _NeedSkillList = {}
 }
 , 
+[SKID.SR_SKYNETBLOW] = {"SR_SKYNETBLOW"; SkillName = "Ãµ¶óÁö¸Á(ô¸Ôþò¢ØÑ)", MaxLv = 5, 
+SpAmount = {12, 14, 16, 18, 20}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_DRAGONCOMBO, 3}
+}
+}
+, 
+[SKID.SR_LIGHTNINGWALK] = {"SR_LIGHTNINGWALK"; SkillName = "¼¶Àüº¸(àìï³ÜÆ)", MaxLv = 5, 
+SpAmount = {40, 40, 40, 40, 40}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_WINDMILL, 1}
+}
+}
+, 
+[SKID.SR_GATEOFHELL] = {"SR_GATEOFHELL"; SkillName = "³ªÂûÆÄÈ²°Ý(ÑÜóË÷òüÅÌª)", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.SR_TIGERCANNON, 5}
+, 
+{SKID.SR_RAMPAGEBLASTER, 1}
+}
+}
+, 
+[SKID.SR_GENTLETOUCH_CHANGE] = {"SR_GENTLETOUCH_CHANGE"; SkillName = "Á¡Ç÷-¹Ý(ïÇúë-Úã)", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.SR_GENTLETOUCH_QUIET, 1}
+, 
+{SKID.SR_GENTLETOUCH_CURE, 1}
+, 
+{SKID.SR_GENTLETOUCH_ENERGYGAIN, 3}
+}
+}
+, 
+[SKID.SR_EARTHSHAKER] = {"SR_EARTHSHAKER"; SkillName = "Áö·ÚÁø(ò¢Öôòè)", MaxLv = 5, 
+SpAmount = {36, 40, 44, 48, 52}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_DRAGONCOMBO, 3}
+}
+}
+, 
+[SKID.SR_KNUCKLEARROW] = {"SR_KNUCKLEARROW"; SkillName = "¼ö¶ó½ÅÅº(áóÔþãó÷¥)", MaxLv = 10, 
+SpAmount = {12, 14, 16, 18, 20, 22, 24, 26, 28, 30}
+, bSeperateLv = false, 
+AttackRange = {7, 7, 8, 8, 9, 9, 10, 10, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.SR_LIGHTNINGWALK, 1}
+}
+}
+, 
+[SKID.SR_ASSIMILATEPOWER] = {"SR_ASSIMILATEPOWER"; SkillName = "Èí±â°ø(ýåÑ¨Íô)", MaxLv = 1, 
+SpAmount = {10}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.MO_ABSORBSPIRITS, 1}
+, 
+{SKID.SR_POWERVELOCITY, 1}
+}
+}
+, 
+[SKID.SR_GENTLETOUCH_QUIET] = {"SR_GENTLETOUCH_QUIET"; SkillName = "Á¡Ç÷-¹¬(ïÇúë-Ùù)", MaxLv = 5, 
+SpAmount = {20, 25, 30, 35, 40}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {}
+}
+, 
+[SKID.SR_DRAGONCOMBO] = {"SR_DRAGONCOMBO"; SkillName = "½Ö·æ°¢(äª×£ÊÅ)", MaxLv = 10, 
+SpAmount = {3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.MO_TRIPLEATTACK, 5}
+}
+}
+, 
+[SKID.SR_RIDEINLIGHTNING] = {"SR_RIDEINLIGHTNING"; SkillName = "³ú±¤Åº(ÒâÎÃ÷¥)", MaxLv = 5, 
+SpAmount = {25, 30, 35, 40, 45}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.MO_FINGEROFFENSIVE, 3}
+}
+}
+, 
+[SKID.SR_HOWLINGOFLION] = {"SR_HOWLINGOFLION"; SkillName = "»çÀÚÈÄ(Þâí­ý©)", MaxLv = 5, 
+SpAmount = {70, 70, 70, 70, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_RIDEINLIGHTNING, 3}
+, 
+{SKID.SR_ASSIMILATEPOWER, 1}
+}
+}
+, 
+[SKID.SR_TIGERCANNON] = {"SR_TIGERCANNON"; SkillName = "È£Æ÷(ûÜøß)", MaxLv = 10, 
+SpAmount = {30, 35, 40, 45, 50, 55, 60, 65, 70, 75}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_FALLENEMPIRE, 3}
+}
+}
+, 
+[SKID.SR_CRESCENTELBOW] = {"SR_CRESCENTELBOW"; SkillName = "ÆÄ¼âÁÖ(÷òáïñº)", MaxLv = 5, 
+SpAmount = {80, 80, 80, 80, 80}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_WINDMILL, 1}
+}
+}
+, 
+[SKID.SR_RAISINGDRAGON] = {"SR_RAISINGDRAGON"; SkillName = "Àá·æ½ÂÃµ(íÖ×£ã°ô¸)", MaxLv = 10, 
+SpAmount = {120, 120, 120, 120, 120, 120, 120, 120, 120, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MO_CALLSPIRITS, 5}
+, 
+{SKID.SR_POWERVELOCITY, 1}
+}
+}
+, 
+[SKID.SR_POWERVELOCITY] = {"SR_POWERVELOCITY"; SkillName = "Àü±âÁÖÀÔ(îïÑ¨ñ¼ìý)", MaxLv = 1, 
+SpAmount = {50}
+, bSeperateLv = false, 
+AttackRange = {3}
+, 
+_NeedSkillList = {
+{SKID.MO_CALLSPIRITS, 5}
+}
+}
+, 
+[SKID.SR_GENTLETOUCH_ENERGYGAIN] = {"SR_GENTLETOUCH_ENERGYGAIN"; SkillName = "Á¡Ç÷-±¸(ïÇúë-Ï¹)", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_GENTLETOUCH_CURE, 1}
+}
+}
+, 
+[SKID.SR_FALLENEMPIRE] = {"SR_FALLENEMPIRE"; SkillName = "´ëÀüºØÃß(ÓÞï«ÝÚõÍ)", MaxLv = 10, 
+SpAmount = {18, 21, 24, 27, 30, 33, 36, 39, 42, 45}
+, bSeperateLv = false, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.SR_DRAGONCOMBO, 3}
+}
+}
+, 
+[SKID.SR_WINDMILL] = {"SR_WINDMILL"; SkillName = "¼±Ç³Åð(àÁù¦÷Ú)", MaxLv = 1, 
+SpAmount = {45}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SR_CURSEDCIRCLE, 1}
+}
+}
+, 
+[SKID.SR_GENTLETOUCH_CURE] = {"SR_GENTLETOUCH_CURE"; SkillName = "Á¡Ç÷-Äè(ïÇúë-öá)", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = false, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.SR_GENTLETOUCH_QUIET, 1}
+}
+}
+, 
+[SKID.SR_GENTLETOUCH_REVITALIZE] = {"SR_GENTLETOUCH_REVITALIZE"; SkillName = "Á¡Ç÷-È°(ïÇúë-üÀ)", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.SR_GENTLETOUCH_QUIET, 1}
+, 
+{SKID.SR_GENTLETOUCH_CURE, 1}
+, 
+{SKID.SR_GENTLETOUCH_ENERGYGAIN, 3}
+}
+}
+, 
+[SKID.SR_CURSEDCIRCLE] = {"SR_CURSEDCIRCLE"; SkillName = "ÁÖ¹ÚÁø(ñ±ÚÚòæ)", MaxLv = 5, 
+SpAmount = {40, 60, 80, 100, 120}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MO_BLADESTOP, 2}
+}
+}
+, 
+[SKID.SR_RAMPAGEBLASTER] = {"SR_RAMPAGEBLASTER"; SkillName = "Æø±â»êÅº(øïÑ¨ß¤÷¥)", MaxLv = 5, 
+SpAmount = {100, 100, 100, 100, 100}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_EARTHSHAKER, 2}
+}
+}
+, 
+[SKID.SR_FLASHCOMBO] = {"SR_FLASHCOMBO"; SkillName = "¼¶±¤¿¬°Ý(àìÎÃææÌª)", MaxLv = 5, 
+SpAmount = {65, 65, 65, 65, 65}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SR_DRAGONCOMBO, 3}
+, 
+{SKID.SR_FALLENEMPIRE, 3}
+, 
+{SKID.SR_SKYNETBLOW, 1}
+, 
+{SKID.SR_TIGERCANNON, 5}
+}
+}
+, 
 [SKID.RK_LUXANIMA] = {"RK_LUXANIMA"; SkillName = "·°½º ¾Æ´Ï¸¶", MaxLv = 1, 
 SpAmount = {0}
 , bSeperateLv = false, 
 AttackRange = {1}
 , 
 _NeedSkillList = {}
+}
+, 
+[SKID.DK_SERVANTWEAPON] = {"DK_SERVANTWEAPON"; SkillName = "¼­¹øÆ® ¿þÆù", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.DK_SERVANT_W_SIGN] = {"DK_SERVANT_W_SIGN"; SkillName = "¼­¹øÆ® ¿þÆù - »çÀÎ", MaxLv = 5, 
+SpAmount = {15, 15, 15, 15, 15}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANTWEAPON, 3}
+}
+}
+, 
+[SKID.DK_SERVANT_W_PHANTOM] = {"DK_SERVANT_W_PHANTOM"; SkillName = "¼­¹øÆ® ¿þÆù - ÆÒÅÒ", MaxLv = 5, 
+SpAmount = {40, 40, 40, 40, 40}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANTWEAPON, 5}
+, 
+{SKID.DK_SERVANT_W_SIGN, 5}
+}
+}
+, 
+[SKID.DK_SERVANT_W_DEMOL] = {"DK_SERVANT_W_DEMOL"; SkillName = "¼­¹øÆ® ¿þÆù - µ¥¸ô¸®¼Ç", MaxLv = 5, 
+SpAmount = {30, 35, 40, 45, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANT_W_PHANTOM, 5}
+}
+}
+, 
+[SKID.DK_CHARGINGPIERCE] = {"DK_CHARGINGPIERCE"; SkillName = "Ã­Â¡ ÇÇ¾î½º", MaxLv = 10, 
+SpAmount = {25, 30, 35, 40, 45, 50, 55, 60, 65, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.RK_HUNDREDSPEAR, 5}
+}
+}
+, 
+[SKID.DK_TWOHANDDEF] = {"DK_TWOHANDDEF"; SkillName = "ÅõÇÚµå µðÆæµù", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.DK_HACKANDSLASHER] = {"DK_HACKANDSLASHER"; SkillName = "ÇÙ ¾Øµå ½½·¡¼Å", MaxLv = 10, 
+SpAmount = {34, 38, 42, 46, 50, 54, 58, 62, 66, 70}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.DK_TWOHANDDEF, 5}
+}
+}
+, 
+[SKID.DK_DRAGONIC_AURA] = {"DK_DRAGONIC_AURA"; SkillName = "µå·¡°í´Ð ¿À¶ó", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.DK_CHARGINGPIERCE, 10}
+, 
+{SKID.RK_DRAGONBREATH, 10}
+, 
+{SKID.RK_DRAGONBREATH_WATER, 10}
+}
+}
+, 
+[SKID.DK_MADNESS_CRUSHER] = {"DK_MADNESS_CRUSHER"; SkillName = "¸Åµå´Ï½º Å©·¯¼Å", MaxLv = 5, 
+SpAmount = {34, 38, 42, 46, 50}
+, bSeperateLv = true, 
+AttackRange = {4, 4, 4, 4, 4}
+, 
+_NeedSkillList = {
+{SKID.DK_CHARGINGPIERCE, 5}
+, 
+{SKID.DK_HACKANDSLASHER, 10}
+}
+}
+, 
+[SKID.DK_VIGOR] = {"DK_VIGOR"; SkillName = "ºñ°í¸£", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANT_W_DEMOL, 3}
+, 
+{SKID.DK_STORMSLASH, 5}
+}
+}
+, 
+[SKID.DK_STORMSLASH] = {"DK_STORMSLASH"; SkillName = "½ºÅè ½½·¡½¬", MaxLv = 5, 
+SpAmount = {30, 35, 40, 45, 50}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.DK_TWOHANDDEF, 10}
+, 
+{SKID.DK_HACKANDSLASHER, 5}
+}
+}
+, 
+[SKID.AG_DEADLY_PROJECTION] = {"AG_DEADLY_PROJECTION"; SkillName = "µ¥µé¸® ÇÁ·ÎÁ§¼Ç", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_MYSTERY_ILLUSION, 3}
+}
+}
+, 
+[SKID.AG_DESTRUCTIVE_HURRICANE] = {"AG_DESTRUCTIVE_HURRICANE"; SkillName = "µð½ºÆ®·°Æ¼ºê Çã¸®ÄÉÀÎ", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_TORNADO_STORM, 3}
+}
+}
+, 
+[SKID.AG_RAIN_OF_CRYSTAL] = {"AG_RAIN_OF_CRYSTAL"; SkillName = "·¹ÀÎ ¿Àºê Å©¸®½ºÅ»", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WL_FROSTMISTY, 3}
+}
+}
+, 
+[SKID.AG_MYSTERY_ILLUSION] = {"AG_MYSTERY_ILLUSION"; SkillName = "¹Ì½ºÅÍ¸® ÀÏ·çÀü", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_SOUL_VC_STRIKE, 3}
+, 
+{SKID.WL_HELLINFERNO, 3}
+}
+}
+, 
+[SKID.AG_VIOLENT_QUAKE] = {"AG_VIOLENT_QUAKE"; SkillName = "¹ÙÀÏ·±Æ® ÄùÀÌÅ©", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_STRANTUM_TREMOR, 3}
+}
+}
+, 
+[SKID.AG_SOUL_VC_STRIKE] = {"AG_SOUL_VC_STRIKE"; SkillName = "¼Ò¿ï ¹ßÄ­ ½ºÆ®¶óÀÌÅ©", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WL_SOULEXPANSION, 5}
+, 
+{SKID.AG_TWOHANDSTAFF, 3}
+}
+}
+, 
+[SKID.AG_STRANTUM_TREMOR] = {"AG_STRANTUM_TREMOR"; SkillName = "½ºÆ®·¹ÀÌÅÒ Æ®·¡¸Ó", MaxLv = 5, 
+SpAmount = {35, 45, 55, 65, 75}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WL_SIENNAEXECRATE, 3}
+}
+}
+, 
+[SKID.AG_ALL_BLOOM] = {"AG_ALL_BLOOM"; SkillName = "¿Ã ºí·ë", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_FLORAL_FLARE_ROAD, 3}
+}
+}
+, 
+[SKID.AG_CRYSTAL_IMPACT] = {"AG_CRYSTAL_IMPACT"; SkillName = "Å©¸®½ºÅ» ÀÓÆÑÆ®", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_RAIN_OF_CRYSTAL, 3}
+}
+}
+, 
+[SKID.AG_TORNADO_STORM] = {"AG_TORNADO_STORM"; SkillName = "Åä³×ÀÌµµ ½ºÅè", MaxLv = 5, 
+SpAmount = {45, 55, 65, 75, 85}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WL_CHAINLIGHTNING, 3}
+}
+}
+, 
+[SKID.AG_FLORAL_FLARE_ROAD] = {"AG_FLORAL_FLARE_ROAD"; SkillName = "ÇÃ·Î¶ö ÇÃ·¹¾î ·Îµå", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WL_CRIMSONROCK, 3}
+}
+}
+, 
+[SKID.AG_CLIMAX] = {"AG_CLIMAX"; SkillName = "Å¬¶óÀÌ¸·½º", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WL_TETRAVORTEX, 5}
+, 
+{SKID.AG_TWOHANDSTAFF, 3}
+}
+}
+, 
+[SKID.AG_ASTRAL_STRIKE] = {"AG_ASTRAL_STRIKE"; SkillName = "¾Æ½ºÆ®¶ö ½ºÆ®¶óÀÌÅ©", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WL_COMET, 5}
+, 
+{SKID.AG_MYSTERY_ILLUSION, 3}
+, 
+{SKID.AG_DEADLY_PROJECTION, 3}
+}
+}
+, 
+[SKID.AG_ROCK_DOWN] = {"AG_ROCK_DOWN"; SkillName = "·Ï ´Ù¿î", MaxLv = 5, 
+SpAmount = {65, 70, 75, 80, 85}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_STRANTUM_TREMOR, 1}
+}
+}
+, 
+[SKID.AG_STORM_CANNON] = {"AG_STORM_CANNON"; SkillName = "½ºÅè Ä³³í", MaxLv = 5, 
+SpAmount = {60, 70, 80, 90, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_TORNADO_STORM, 1}
+}
+}
+, 
+[SKID.AG_CRIMSON_ARROW] = {"AG_CRIMSON_ARROW"; SkillName = "Å©¸²Áð ¾Ö·Î¿ì", MaxLv = 5, 
+SpAmount = {65, 75, 85, 95, 105}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_FLORAL_FLARE_ROAD, 1}
+}
+}
+, 
+[SKID.AG_FROZEN_SLASH] = {"AG_FROZEN_SLASH"; SkillName = "ÇÁ·ÎÁð ½½·¡½¬", MaxLv = 5, 
+SpAmount = {45, 55, 65, 75, 85}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_RAIN_OF_CRYSTAL, 1}
+}
+}
+, 
+[SKID.AG_TWOHANDSTAFF] = {"AG_TWOHANDSTAFF"; SkillName = "ÅõÇÚµå ½ºÅÂÇÁ ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IQ_POWERFUL_FAITH] = {"IQ_POWERFUL_FAITH"; SkillName = "°­ÀÎÇÑ ½Å³ä", MaxLv = 5, 
+SpAmount = {54, 58, 62, 66, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_FIRM_FAITH] = {"IQ_FIRM_FAITH"; SkillName = "±»°ÇÇÑ ½Å³ä", MaxLv = 5, 
+SpAmount = {54, 58, 62, 66, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_WILL_OF_FAITH] = {"IQ_WILL_OF_FAITH"; SkillName = "¹ÏÀ½ÀÇ ÀÇÁö", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IQ_OLEUM_SANCTUM] = {"IQ_OLEUM_SANCTUM"; SkillName = "¼ºÀ¯¼¼·Ê", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AL_HOLYWATER, 1}
+, 
+{SKID.IQ_WILL_OF_FAITH, 3}
+}
+}
+, 
+[SKID.IQ_SINCERE_FAITH] = {"IQ_SINCERE_FAITH"; SkillName = "½Å½ÇÇÑ ½Å³ä", MaxLv = 5, 
+SpAmount = {54, 58, 62, 66, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_FIRST_BRAND] = {"IQ_FIRST_BRAND"; SkillName = "Á¦1°Ý : ³«ÀÎ", MaxLv = 5, 
+SpAmount = {22, 29, 36, 43, 50}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 2}
+}
+}
+, 
+[SKID.IQ_FIRST_FAITH_POWER] = {"IQ_FIRST_FAITH_POWER"; SkillName = "Á¦1Àå : ½Å³äÀÇ Èû", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 3}
+, 
+{SKID.IQ_FIRST_BRAND, 1}
+}
+}
+, 
+[SKID.IQ_THIRD_PUNISH] = {"IQ_THIRD_PUNISH"; SkillName = "Á¦3°Ý : ´ÜÁË", MaxLv = 5, 
+SpAmount = {56, 62, 68, 74, 80}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_FAITH, 2}
+}
+}
+, 
+[SKID.IQ_THIRD_FLAME_BOMB] = {"IQ_THIRD_FLAME_BOMB"; SkillName = "Á¦3°Ý : ¸êÈ­°Ý", MaxLv = 5, 
+SpAmount = {74, 78, 82, 86, 90}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_FLAME, 2}
+}
+}
+, 
+[SKID.IQ_THIRD_CONSECRATION] = {"IQ_THIRD_CONSECRATION"; SkillName = "Á¦3°Ý : Á¤È­", MaxLv = 5, 
+SpAmount = {65, 70, 75, 80, 85}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_JUDGEMENT, 2}
+}
+}
+, 
+[SKID.IQ_SECOND_FLAME] = {"IQ_SECOND_FLAME"; SkillName = "Á¦2°Ý : ¸ê¸¶ÁöÈ­", MaxLv = 5, 
+SpAmount = {46, 52, 58, 64, 70}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_THIRD_EXOR_FLAME, 1}
+}
+}
+, 
+[SKID.IQ_SECOND_FAITH] = {"IQ_SECOND_FAITH"; SkillName = "Á¦2°Ý : ½Å³ä", MaxLv = 5, 
+SpAmount = {36, 42, 48, 54, 60}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_FIRST_FAITH_POWER, 1}
+}
+}
+, 
+[SKID.IQ_SECOND_JUDGEMENT] = {"IQ_SECOND_JUDGEMENT"; SkillName = "Á¦2°Ý : ½ÉÆÇ", MaxLv = 5, 
+SpAmount = {45, 50, 55, 60, 65}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_JUDGE, 1}
+}
+}
+, 
+[SKID.IQ_EXPOSION_BLASTER] = {"IQ_EXPOSION_BLASTER"; SkillName = "ÆøÈ­½ÅÅº", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_OLEUM_SANCTUM, 1}
+}
+}
+, 
+[SKID.IQ_MASSIVE_F_BLASTER] = {"IQ_MASSIVE_F_BLASTER"; SkillName = "¿°È­¸ê¸¶½ÅÅº", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_OLEUM_SANCTUM, 3}
+, 
+{SKID.IQ_EXPOSION_BLASTER, 3}
+, 
+{SKID.IQ_WILL_OF_FAITH, 5}
+}
+}
+, 
+[SKID.IQ_JUDGE] = {"IQ_JUDGE"; SkillName = "Á¦2Àå : ½ÉÆÇÀÚ", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_FIRST_FAITH_POWER, 1}
+}
+}
+, 
+[SKID.IQ_THIRD_EXOR_FLAME] = {"IQ_THIRD_EXOR_FLAME"; SkillName = "ÃÖÁ¾Àå : ¸ê¸¶ÀÇ ºÒ²É", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_JUDGE, 1}
+}
+}
+, 
+[SKID.IG_GUARD_STANCE] = {"IG_GUARD_STANCE"; SkillName = "°¡µå ½ºÅÄ½º", MaxLv = 5, 
+SpAmount = {50, 50, 50, 50, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 3}
+}
+}
+, 
+[SKID.IG_GUARDIAN_SHIELD] = {"IG_GUARDIAN_SHIELD"; SkillName = "°¡µð¾ð ½¯µå", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_GUARD_STANCE, 2}
+}
+}
+, 
+[SKID.IG_REBOUND_SHIELD] = {"IG_REBOUND_SHIELD"; SkillName = "¸®¹Ù¿îµå ½¯µå", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_GUARD_STANCE, 4}
+}
+}
+, 
+[SKID.IG_SHIELD_MASTERY] = {"IG_SHIELD_MASTERY"; SkillName = "½¯µå ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IG_SPEAR_SWORD_M] = {"IG_SPEAR_SWORD_M"; SkillName = "½ºÇÇ¾î&¼Òµå ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IG_ATTACK_STANCE] = {"IG_ATTACK_STANCE"; SkillName = "¾îÅÃ ½ºÅÄ½º", MaxLv = 5, 
+SpAmount = {50, 50, 50, 50, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SPEAR_SWORD_M, 3}
+}
+}
+, 
+[SKID.IG_ULTIMATE_SACRIFICE] = {"IG_ULTIMATE_SACRIFICE"; SkillName = "¾óÆ¼¸ÞÀÌÆ® ¼¼Å©¸®ÆÄÀÌ½º", MaxLv = 5, 
+SpAmount = {120, 120, 120, 120, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_REBOUND_SHIELD, 3}
+, 
+{SKID.IG_GUARDIAN_SHIELD, 3}
+}
+}
+, 
+[SKID.IG_HOLY_SHIELD] = {"IG_HOLY_SHIELD"; SkillName = "È¦¸® ½¯µå", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 5}
+, 
+{SKID.IG_CROSS_RAIN, 3}
+}
+}
+, 
+[SKID.IG_GRAND_JUDGEMENT] = {"IG_GRAND_JUDGEMENT"; SkillName = "±×·£µå ÀúÁö¸ÕÆ®", MaxLv = 10, 
+SpAmount = {41, 44, 47, 50, 54, 58, 62, 66, 70, 74}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_OVERSLASH, 5}
+, 
+{SKID.IG_SPEAR_SWORD_M, 5}
+}
+}
+, 
+[SKID.IG_JUDGEMENT_CROSS] = {"IG_JUDGEMENT_CROSS"; SkillName = "ÀúÁö¸ÕÆ® Å©·Î½º", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_CROSS_RAIN, 5}
+, 
+{SKID.IG_HOLY_SHIELD, 3}
+}
+}
+, 
+[SKID.IG_SHIELD_SHOOTING] = {"IG_SHIELD_SHOOTING"; SkillName = "½¯µå ½´ÆÃ", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 5}
+, 
+{SKID.IG_ATTACK_STANCE, 2}
+}
+}
+, 
+[SKID.IG_OVERSLASH] = {"IG_OVERSLASH"; SkillName = "¿À¹ö ½½·¡½¬", MaxLv = 10, 
+SpAmount = {41, 44, 47, 50, 53, 56, 59, 62, 65, 68}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_ATTACK_STANCE, 3}
+}
+}
+, 
+[SKID.IG_CROSS_RAIN] = {"IG_CROSS_RAIN"; SkillName = "Å©·Î½º ·¹ÀÎ", MaxLv = 10, 
+SpAmount = {50, 54, 58, 62, 66, 70, 74, 78, 82, 86}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 1}
+}
+}
+, 
+[SKID.SHC_DANCING_KNIFE] = {"SHC_DANCING_KNIFE"; SkillName = "´í½Ì ³ªÀÌÇÁ", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+}
+}
+, 
+[SKID.SHC_SAVAGE_IMPACT] = {"SHC_SAVAGE_IMPACT"; SkillName = "¼¼ºñÁö ÀÓÆÑÆ®", MaxLv = 10, 
+SpAmount = {28, 31, 34, 37, 40, 43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+, 
+{SKID.GC_CROSSIMPACT, 5}
+}
+}
+, 
+[SKID.SHC_SHADOW_SENSE] = {"SHC_SHADOW_SENSE"; SkillName = "½¦µµ¿ì ¼¾½º", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.SHC_ETERNAL_SLASH] = {"SHC_ETERNAL_SLASH"; SkillName = "ÀÌÅÍ³Î ½½·¡½¬", MaxLv = 5, 
+SpAmount = {40, 40, 40, 40, 40}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_DANCING_KNIFE, 3}
+, 
+{SKID.GC_WEAPONBLOCKING, 3}
+}
+}
+, 
+[SKID.SHC_ENCHANTING_SHADOW] = {"SHC_ENCHANTING_SHADOW"; SkillName = "ÀÎÃ¦ÆÃ ½¦µµ¿ì", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+, 
+{SKID.GC_POISONINGWEAPON, 5}
+}
+}
+, 
+[SKID.SHC_POTENT_VENOM] = {"SHC_POTENT_VENOM"; SkillName = "Æ÷ÅÙÆ® º£³Ñ", MaxLv = 10, 
+SpAmount = {15, 20, 25, 30, 35, 40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_ENCHANTING_SHADOW, 3}
+}
+}
+, 
+[SKID.SHC_SHADOW_EXCEED] = {"SHC_SHADOW_EXCEED"; SkillName = "½¦µµ¿ì ÀÍ½Ãµå", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 7}
+, 
+{SKID.SHC_ENCHANTING_SHADOW, 5}
+, 
+{SKID.SHC_POTENT_VENOM, 3}
+}
+}
+, 
+[SKID.SHC_FATAL_SHADOW_CROW] = {"SHC_FATAL_SHADOW_CROW"; SkillName = "ÆäÀÌÅ» ½¦µµ¿ì Å©·Î¿ì", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_STAB, 5}
+, 
+{SKID.SHC_IMPACT_CRATER, 5}
+}
+}
+, 
+[SKID.SHC_SHADOW_STAB] = {"SHC_SHADOW_STAB"; SkillName = "½¦µµ¿ì ½ºÅÇ", MaxLv = 5, 
+SpAmount = {45, 50, 55, 60, 65}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_DANCING_KNIFE, 5}
+, 
+{SKID.SHC_ETERNAL_SLASH, 3}
+, 
+{SKID.GC_CLOAKINGEXCEED, 5}
+}
+}
+, 
+[SKID.SHC_IMPACT_CRATER] = {"SHC_IMPACT_CRATER"; SkillName = "ÀÓÆÑÆ® Å©·¹ÀÌÅÍ", MaxLv = 5, 
+SpAmount = {43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_SAVAGE_IMPACT, 5}
+, 
+{SKID.GC_ROLLINGCUTTER, 5}
+, 
+{SKID.GC_WEAPONBLOCKING, 3}
+}
+}
+, 
+[SKID.CD_REPARATIO] = {"CD_REPARATIO"; SkillName = "·¹ÆÄ¶óÆ¼¿À", MaxLv = 5, 
+SpAmount = {120, 120, 120, 120, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+}
+}
+, 
+[SKID.CD_MEDIALE_VOTUM] = {"CD_MEDIALE_VOTUM"; SkillName = "¸Þµð¾Ë·¹ º¸Åù", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_DILECTIO_HEAL, 3}
+}
+}
+, 
+[SKID.CD_MACE_BOOK_M] = {"CD_MACE_BOOK_M"; SkillName = "¸ÞÀÌ½º&ºÏ ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.CD_ARGUTUS_VITA] = {"CD_ARGUTUS_VITA"; SkillName = "¾Æ¸£±¸Åõ½º ºñÅ¸", MaxLv = 5, 
+SpAmount = {30, 45, 60, 75, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_ARGUTUS_TELUM] = {"CD_ARGUTUS_TELUM"; SkillName = "¾Æ¸£±¸Åõ½º ÅÚ·ë", MaxLv = 5, 
+SpAmount = {30, 45, 60, 75, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_ARBITRIUM] = {"CD_ARBITRIUM"; SkillName = "¾Æ¸£ºñÆ®¸®¿ò", MaxLv = 10, 
+SpAmount = {50, 60, 70, 80, 90, 100, 110, 120, 130, 140}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_ADORAMUS, 5}
+, 
+{SKID.CD_FRAMEN, 3}
+}
+}
+, 
+[SKID.CD_PRESENS_ACIES] = {"CD_PRESENS_ACIES"; SkillName = "ÇÁ·¹¼¾½º ¾ÆÄ¡¿¡½º", MaxLv = 5, 
+SpAmount = {30, 45, 60, 75, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_FIDUS_ANIMUS] = {"CD_FIDUS_ANIMUS"; SkillName = "ÇÇµÎ½º ¾Æ´Ï¹«½º", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.CD_EFFLIGO] = {"CD_EFFLIGO"; SkillName = "¿¡ÇÃ¸®°í", MaxLv = 10, 
+SpAmount = {60, 60, 60, 60, 60, 60, 60, 60, 60, 60}
+, 
+ApAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.AB_ORATIO, 5}
+, 
+{SKID.CD_PETITIO, 10}
+}
+}
+, 
+[SKID.CD_COMPETENTIA] = {"CD_COMPETENTIA"; SkillName = "ÄÞÆäÅÙÆ¼¾Æ", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.CD_PRESENS_ACIES, 2}
+, 
+{SKID.CD_ARGUTUS_TELUM, 2}
+, 
+{SKID.CD_ARGUTUS_VITA, 2}
+}
+}
+, 
+[SKID.CD_PNEUMATICUS_PROCELLA] = {"CD_PNEUMATICUS_PROCELLA"; SkillName = "ÇÁ³×¿ì¸¶Æ¼Äí½º ÇÁ·ÎÃ¿¶ó", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_FRAMEN, 5}
+, 
+{SKID.CD_ARBITRIUM, 10}
+}
+}
+, 
+[SKID.CD_DILECTIO_HEAL] = {"CD_DILECTIO_HEAL"; SkillName = "µô·ºÆ¼¿À Èú", MaxLv = 5, 
+SpAmount = {50, 55, 60, 65, 70}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_CHEAL, 3}
+, 
+{SKID.AB_HIGHNESSHEAL, 3}
+}
+}
+, 
+[SKID.CD_RELIGIO] = {"CD_RELIGIO"; SkillName = "·¼¸®Áö¿À", MaxLv = 5, 
+SpAmount = {70, 75, 80, 85, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_CLEMENTIA, 3}
+, 
+{SKID.CD_DILECTIO_HEAL, 2}
+}
+}
+, 
+[SKID.CD_BENEDICTUM] = {"CD_BENEDICTUM"; SkillName = "º£³×µñÅù", MaxLv = 5, 
+SpAmount = {70, 75, 80, 85, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_CANTO, 3}
+, 
+{SKID.CD_DILECTIO_HEAL, 2}
+}
+}
+, 
+[SKID.CD_PETITIO] = {"CD_PETITIO"; SkillName = "ÆäÆ¼Æ¼¿À", MaxLv = 10, 
+SpAmount = {32, 34, 36, 38, 40, 42, 44, 46, 48, 50}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.AB_DUPLELIGHT, 10}
+, 
+{SKID.CD_MACE_BOOK_M, 5}
+}
+}
+, 
+[SKID.CD_FRAMEN] = {"CD_FRAMEN"; SkillName = "ÇÃ¶ó¸à", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_JUDEX, 10}
+, 
+{SKID.CD_FIDUS_ANIMUS, 5}
+}
+}
+, 
+[SKID.BO_BIONIC_PHARMACY] = {"BO_BIONIC_PHARMACY"; SkillName = "¹ÙÀÌ¿À´Ð ÆÄ¸Ó½Ã", MaxLv = 5, 
+SpAmount = {30, 30, 30, 30, 30}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.GN_S_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_BIONICS_M] = {"BO_BIONICS_M"; SkillName = "¹ÙÀÌ¿À´Ð ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.BO_THE_WHOLE_PROTECTION] = {"BO_THE_WHOLE_PROTECTION"; SkillName = "´õ È¦ ÇÁ·ÎÅØ¼Ç", MaxLv = 5, 
+SpAmount = {220, 260, 300, 340, 380}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ADVANCE_PROTECTION] = {"BO_ADVANCE_PROTECTION"; SkillName = "Ç® ½¦µµ¿ì ÇÁ·ÎÅØ¼Ç", MaxLv = 4, 
+SpAmount = {120, 130, 140, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_WATER] = {"BO_ACIDIFIED_ZONE_WATER"; SkillName = "¾Ö½ÃµðÆÄÀÌµå Á¸(¼ö)", MaxLv = 5, 
+SpAmount = {40, 52, 64, 76, 88}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_WIND, 1}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_GROUND] = {"BO_ACIDIFIED_ZONE_GROUND"; SkillName = "¾Ö½ÃµðÆÄÀÌµå Á¸(Áö)", MaxLv = 5, 
+SpAmount = {40, 52, 64, 76, 88}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 3}
+, 
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_FIRE] = {"BO_ACIDIFIED_ZONE_FIRE"; SkillName = "¾Ö½ÃµðÆÄÀÌµå Á¸(È­)", MaxLv = 5, 
+SpAmount = {40, 52, 64, 76, 88}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_GROUND, 1}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_WIND] = {"BO_ACIDIFIED_ZONE_WIND"; SkillName = "¾Ö½ÃµðÆÄÀÌµå Á¸(Ç³)", MaxLv = 5, 
+SpAmount = {40, 52, 64, 76, 88}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 3}
+, 
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_WOODENWARRIOR] = {"BO_WOODENWARRIOR"; SkillName = "Å©¸®¿¡ÀÌÆÃ ¿ìµç ¿ö¸®¾î", MaxLv = 5, 
+SpAmount = {100, 120, 140, 160, 180}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_CREEPER, 3}
+}
+}
+, 
+[SKID.BO_WOODEN_FAIRY] = {"BO_WOODEN_FAIRY"; SkillName = "Å©¸®¿¡ÀÌÆÃ ¿ìµç Æä¾î¸®", MaxLv = 5, 
+SpAmount = {120, 155, 180, 205, 230}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_CREEPER, 3}
+}
+}
+, 
+[SKID.BO_CREEPER] = {"BO_CREEPER"; SkillName = "Å©¸®¿¡ÀÌÆÃ Å©¸®ÆÛ", MaxLv = 5, 
+SpAmount = {80, 96, 112, 128, 144}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 5}
+}
+}
+, 
+[SKID.BO_RESEARCHREPORT] = {"BO_RESEARCHREPORT"; SkillName = "¸®¼­Ä¡ ¸®Æ÷Æ®", MaxLv = 1, 
+SpAmount = {60}
+, 
+ApAmount = {100}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_WIND, 1}
+, 
+{SKID.BO_ACIDIFIED_ZONE_GROUND, 1}
+}
+}
+, 
+[SKID.BO_HELLTREE] = {"BO_HELLTREE"; SkillName = "Å©¸®¿¡ÀÌÆÃ Çï Æ®¸®", MaxLv = 5, 
+SpAmount = {100, 100, 100, 100, 100}
+, 
+ApAmount = {100, 100, 100, 100, 100}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_WOODENWARRIOR, 3}
+, 
+{SKID.BO_WOODEN_FAIRY, 3}
+}
+}
+, 
+[SKID.WH_ADVANCED_TRAP] = {"WH_ADVANCED_TRAP"; SkillName = "¾îµå¹ê½ºµå Æ®·¦", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.RA_RESEARCHTRAP, 3}
+}
+}
+, 
+[SKID.WH_WIND_SIGN] = {"WH_WIND_SIGN"; SkillName = "À©µå »çÀÎ", MaxLv = 5, 
+SpAmount = {100, 90, 80, 70, 60}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WH_NATUREFRIENDLY, 5}
+}
+}
+, 
+[SKID.WH_NATUREFRIENDLY] = {"WH_NATUREFRIENDLY"; SkillName = "ÀÚ¿¬ Ä£È­", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.WH_HAWKRUSH] = {"WH_HAWKRUSH"; SkillName = "È£Å© ·¯½¬", MaxLv = 5, 
+SpAmount = {40, 44, 48, 52, 56}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WH_HAWK_M, 1}
+}
+}
+, 
+[SKID.WH_HAWK_M] = {"WH_HAWK_M"; SkillName = "È£Å© ¸¶½ºÅÍ¸®", MaxLv = 1, 
+SpAmount = {5}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.HT_STEELCROW, 1}
+}
+}
+, 
+[SKID.WH_CALAMITYGALE] = {"WH_CALAMITYGALE"; SkillName = "Ä¶·¯¹ÌÆ¼ °¡ÀÏ", MaxLv = 1, 
+SpAmount = {300}
+, 
+ApAmount = {200}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.WH_GALESTORM, 5}
+, 
+{SKID.WH_WIND_SIGN, 5}
+}
+}
+, 
+[SKID.WH_HAWKBOOMERANG] = {"WH_HAWKBOOMERANG"; SkillName = "È£Å© ºÎ¸Þ¶û", MaxLv = 5, 
+SpAmount = {120, 120, 120, 120, 120}
+, 
+ApAmount = {50, 50, 50, 50, 50}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WH_HAWKRUSH, 5}
+}
+}
+, 
+[SKID.WH_GALESTORM] = {"WH_GALESTORM"; SkillName = "°¡ÀÏ ½ºÅè", MaxLv = 10, 
+SpAmount = {80, 91, 102, 113, 124, 135, 146, 157, 168, 179}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WH_CRESCIVE_BOLT, 3}
+}
+}
+, 
+[SKID.WH_DEEPBLINDTRAP] = {"WH_DEEPBLINDTRAP"; SkillName = "µö ºí¶óÀÎµå Æ®·¦", MaxLv = 5, 
+SpAmount = {50, 53, 56, 59, 62}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_ADVANCED_TRAP, 3}
+}
+}
+, 
+[SKID.WH_SOLIDTRAP] = {"WH_SOLIDTRAP"; SkillName = "¼Ö¸®µå Æ®·¦", MaxLv = 5, 
+SpAmount = {70, 80, 90, 100, 110}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_ADVANCED_TRAP, 3}
+}
+}
+, 
+[SKID.WH_SWIFTTRAP] = {"WH_SWIFTTRAP"; SkillName = "½ºÀ§ÇÁÆ® Æ®·¦", MaxLv = 5, 
+SpAmount = {60, 62, 64, 66, 68}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_DEEPBLINDTRAP, 1}
+}
+}
+, 
+[SKID.WH_CRESCIVE_BOLT] = {"WH_CRESCIVE_BOLT"; SkillName = "Å©·¹½Ãºê º¼Æ®", MaxLv = 10, 
+SpAmount = {55, 60, 65, 70, 75, 80, 85, 90, 95, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.RA_AIMEDBOLT, 5}
+}
+}
+, 
+[SKID.WH_FLAMETRAP] = {"WH_FLAMETRAP"; SkillName = "ÇÃ·¹ÀÓ Æ®·¦", MaxLv = 5, 
+SpAmount = {40, 44, 48, 52, 56}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_SOLIDTRAP, 1}
+}
+}
+, 
+[SKID.TR_STAGE_MANNER] = {"TR_STAGE_MANNER"; SkillName = "¹«´ë ¸Å³Ê", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.TR_RETROSPECTION] = {"TR_RETROSPECTION"; SkillName = "È¸»ó", MaxLv = 1, 
+SpAmount = {1}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 1}
+}
+}
+, 
+[SKID.TR_MYSTIC_SYMPHONY] = {"TR_MYSTIC_SYMPHONY"; SkillName = "¹Ì½ºÆ½ ½ÉÆ÷´Ï", MaxLv = 1, 
+SpAmount = {250}
+, 
+ApAmount = {100}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_METALIC_FURY, 1}
+, 
+{SKID.TR_ROSEBLOSSOM, 5}
+}
+}
+, 
+[SKID.TR_KVASIR_SONATA] = {"TR_KVASIR_SONATA"; SkillName = "¼Ò³ªÅ¸ ¿Àºê Å©¹Ù½Ã¸£", MaxLv = 1, 
+SpAmount = {300}
+, 
+ApAmount = {100}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_ROKI_CAPRICCIO, 1}
+, 
+{SKID.TR_NIPELHEIM_REQUIEM, 1}
+}
+}
+, 
+[SKID.TR_ROSEBLOSSOM] = {"TR_ROSEBLOSSOM"; SkillName = "·ÎÁ¦ ºí¶ó½æ", MaxLv = 5, 
+SpAmount = {215, 230, 245, 260, 275}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.TR_RHYTHMSHOOTING, 3}
+}
+}
+, 
+[SKID.TR_RHYTHMSHOOTING] = {"TR_RHYTHMSHOOTING"; SkillName = "¸®µë ½´ÆÃ", MaxLv = 5, 
+SpAmount = {80, 92, 104, 116, 128}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+}
+, 
+[SKID.TR_METALIC_FURY] = {"TR_METALIC_FURY"; SkillName = "¸ÞÅ»¸¯ Ç»¸®", MaxLv = 5, 
+SpAmount = {120, 132, 144, 156, 168}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.TR_SOUNDBLEND, 1}
+}
+}
+, 
+[SKID.TR_SOUNDBLEND] = {"TR_SOUNDBLEND"; SkillName = "»ç¿îµå ºí·»µå", MaxLv = 5, 
+SpAmount = {80, 92, 104, 116, 128}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WM_METALICSOUND, 5}
+}
+}
+, 
+[SKID.TR_GEF_NOCTURN] = {"TR_GEF_NOCTURN"; SkillName = "°ÔÆä´Ï¾Æ ³ìÅÏ", MaxLv = 5, 
+SpAmount = {120, 160, 200, 240, 280}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 3}
+}
+}
+, 
+[SKID.TR_ROKI_CAPRICCIO] = {"TR_ROKI_CAPRICCIO"; SkillName = "·ÎÅ°ÀÇ º¯´ö½º·¯¿ò", MaxLv = 5, 
+SpAmount = {120, 160, 200, 240, 280}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_JAWAII_SERENADE, 1}
+}
+}
+, 
+[SKID.TR_AIN_RHAPSODY] = {"TR_AIN_RHAPSODY"; SkillName = "¸¶ÀÎ¿öÄ¿ ·¦¼Òµð", MaxLv = 5, 
+SpAmount = {120, 160, 200, 240, 280}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 3}
+}
+}
+, 
+[SKID.TR_MUSICAL_INTERLUDE] = {"TR_MUSICAL_INTERLUDE"; SkillName = "¹ÂÁöÄÃ ÀÎÅÍ·çµå", MaxLv = 5, 
+SpAmount = {171, 182, 193, 204, 215}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_AIN_RHAPSODY, 1}
+}
+}
+, 
+[SKID.TR_JAWAII_SERENADE] = {"TR_JAWAII_SERENADE"; SkillName = "Àú³á ³ëÀ»ÀÇ ¼¼·¹³ªµ¥", MaxLv = 5, 
+SpAmount = {140, 150, 160, 170, 180}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_GEF_NOCTURN, 1}
+}
+}
+, 
+[SKID.TR_NIPELHEIM_REQUIEM] = {"TR_NIPELHEIM_REQUIEM"; SkillName = "Á×ÀºÀÚµéÀ» À§ÇÑ ÁøÈ¥°î", MaxLv = 5, 
+SpAmount = {120, 160, 200, 240, 280}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_MUSICAL_INTERLUDE, 1}
+, 
+{SKID.TR_PRON_MARCH, 1}
+}
+}
+, 
+[SKID.TR_PRON_MARCH] = {"TR_PRON_MARCH"; SkillName = "ÇÁ·ÐÅ×¶ó ÇàÁø°î", MaxLv = 5, 
+SpAmount = {140, 150, 160, 170, 180}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_AIN_RHAPSODY, 1}
+}
+}
+, 
+[SKID.ABC_DAGGER_AND_BOW_M] = {"ABC_DAGGER_AND_BOW_M"; SkillName = "´ë°Å&º¸¿ì ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.ABC_MAGIC_SWORD_M] = {"ABC_MAGIC_SWORD_M"; SkillName = "¸ÅÁ÷¼Òµå ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SC_REPRODUCE, 5}
+, 
+{SKID.SC_AUTOSHADOWSPELL, 5}
+}
+}
+, 
+[SKID.ABC_STRIP_SHADOW] = {"ABC_STRIP_SHADOW"; SkillName = "½ºÆ®¸³ ½¦µµ¿ì", MaxLv = 5, 
+SpAmount = {29, 33, 37, 41, 45}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.SC_STRIPACCESSARY, 1}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 7}
+}
+}
+, 
+[SKID.ABC_ABYSS_DAGGER] = {"ABC_ABYSS_DAGGER"; SkillName = "¾îºñ½º ´ë°Å", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SC_FATALMENACE, 5}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 3}
+}
+}
+, 
+[SKID.ABC_UNLUCKY_RUSH] = {"ABC_UNLUCKY_RUSH"; SkillName = "¾ð·°Å° ·¯½¬", MaxLv = 5, 
+SpAmount = {30, 35, 40, 45, 50}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 4}
+}
+}
+, 
+[SKID.ABC_CHAIN_REACTION_SHOT] = {"ABC_CHAIN_REACTION_SHOT"; SkillName = "Ã¼ÀÎ ¸®¾×¼Ç ¼¦", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.SC_TRIANGLESHOT, 5}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 3}
+}
+}
+, 
+[SKID.ABC_FROM_THE_ABYSS] = {"ABC_FROM_THE_ABYSS"; SkillName = "ÇÁ·Ò µð ¾îºñ½º", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.ABC_MAGIC_SWORD_M, 3}
+}
+}
+, 
+[SKID.ABC_ABYSS_SLAYER] = {"ABC_ABYSS_SLAYER"; SkillName = "¾îºñ½º ½½·¹ÀÌ¾î", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 5}
+, 
+{SKID.ABC_DEFT_STAB, 5}
+}
+}
+, 
+[SKID.ABC_ABYSS_STRIKE] = {"ABC_ABYSS_STRIKE"; SkillName = "¿À¸Þ°¡ ¾îºñ½º ½ºÆ®¶óÀÌÅ©", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_FROM_THE_ABYSS, 3}
+, 
+{SKID.ABC_ABYSS_SQUARE, 3}
+}
+}
+, 
+[SKID.ABC_DEFT_STAB] = {"ABC_DEFT_STAB"; SkillName = "µ¥ÇÁÆ® ½ºÅÇ", MaxLv = 10, 
+SpAmount = {28, 31, 34, 37, 40, 43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 5}
+}
+}
+, 
+[SKID.ABC_ABYSS_SQUARE] = {"ABC_ABYSS_SQUARE"; SkillName = "¾îºñ½º ½ºÄù¾î", MaxLv = 5, 
+SpAmount = {65, 75, 85, 95, 105}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_MAGIC_SWORD_M, 5}
+, 
+{SKID.ABC_FROM_THE_ABYSS, 1}
+}
+}
+, 
+[SKID.ABC_FRENZY_SHOT] = {"ABC_FRENZY_SHOT"; SkillName = "ÇÁ·»Áö ¼¦", MaxLv = 10, 
+SpAmount = {40, 45, 50, 55, 60, 65, 70, 75, 80, 85}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_CHAIN_REACTION_SHOT, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 5}
+}
+}
+, 
+[SKID.MT_AXE_STOMP] = {"MT_AXE_STOMP"; SkillName = "¾×½º ½ºÅèÇÁ", MaxLv = 5, 
+SpAmount = {25, 30, 35, 40, 45}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_TWOAXEDEF, 5}
+}
+}
+, 
+[SKID.MT_RUSH_QUAKE] = {"MT_RUSH_QUAKE"; SkillName = "·¯½¬ ÄùÀÌÅ©", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.MT_AXE_STOMP, 5}
+}
+}
+, 
+[SKID.MT_M_MACHINE] = {"MT_M_MACHINE"; SkillName = "ÀåÄ¡ Á¦Á¶", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.MT_A_MACHINE] = {"MT_A_MACHINE"; SkillName = "°ø°Ý ÀåÄ¡ È°¼ºÈ­", MaxLv = 5, 
+SpAmount = {43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_AXE_STOMP, 3}
+, 
+{SKID.MT_M_MACHINE, 3}
+}
+}
+, 
+[SKID.MT_D_MACHINE] = {"MT_D_MACHINE"; SkillName = "¹æ¾î ÀåÄ¡ È°¼ºÈ­", MaxLv = 5, 
+SpAmount = {43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_M_MACHINE, 1}
+}
+}
+, 
+[SKID.MT_TWOAXEDEF] = {"MT_TWOAXEDEF"; SkillName = "Åõ ¾×½º µðÆæµù", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MT_ABR_M] = {"MT_ABR_M"; SkillName = "ABR ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_M_MACHINE, 1}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_BATTLE_WARIOR] = {"MT_SUMMON_ABR_BATTLE_WARIOR"; SkillName = "ABR-¹èÆ²¿ö¸®¾î", MaxLv = 4, 
+SpAmount = {30, 40, 50, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 1}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_DUAL_CANNON] = {"MT_SUMMON_ABR_DUAL_CANNON"; SkillName = "ABR-µà¾óÄ³³í", MaxLv = 4, 
+SpAmount = {30, 40, 50, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 3}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 2}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_MOTHER_NET] = {"MT_SUMMON_ABR_MOTHER_NET"; SkillName = "ABR-¸¶´õ³Ý", MaxLv = 4, 
+SpAmount = {30, 40, 50, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 5}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 3}
+, 
+{SKID.MT_SUMMON_ABR_DUAL_CANNON, 3}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_INFINITY] = {"MT_SUMMON_ABR_INFINITY"; SkillName = "ABR-ÀÎÇÇ´ÏÆ¼", MaxLv = 4, 
+SpAmount = {30, 40, 50, 60}
+, 
+ApAmount = {200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 10}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 4}
+, 
+{SKID.MT_SUMMON_ABR_DUAL_CANNON, 4}
+, 
+{SKID.MT_SUMMON_ABR_MOTHER_NET, 4}
+}
+}
+, 
+[SKID.ABR_DUAL_CANNON_FIRE] = {"ABR_DUAL_CANNON_FIRE"; SkillName = "µà¾ó Ä³³í ÆÄÀÌ¾î", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_BATTLE_BUSTER] = {"ABR_BATTLE_BUSTER"; SkillName = "¹èÆ² ¹ö½ºÅÍ", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_NET_REPAIR] = {"ABR_NET_REPAIR"; SkillName = "³Ý ¸®Æä¾î", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_NET_SUPPORT] = {"ABR_NET_SUPPORT"; SkillName = "³Ý ¼­Æ÷Æ®", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_INFINITY_BUSTER] = {"ABR_INFINITY_BUSTER"; SkillName = "ÀÎÇÇ´ÏÆ¼ ¹ö½ºÅÍ", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_MAGIC_BOOK_M] = {"EM_MAGIC_BOOK_M"; SkillName = "¸ÅÁ÷ ºÏ ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.EM_SPELL_ENCHANTING] = {"EM_SPELL_ENCHANTING"; SkillName = "½ºÆç ÀÎÃ¦ÆÃ", MaxLv = 5, 
+SpAmount = {43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 5}
+}
+}
+, 
+[SKID.EM_ACTIVITY_BURN] = {"EM_ACTIVITY_BURN"; SkillName = "¾×Æ¼ºñÆ¼ ¹ø", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_SPELL_ENCHANTING, 3}
+}
+}
+, 
+[SKID.EM_INCREASING_ACTIVITY] = {"EM_INCREASING_ACTIVITY"; SkillName = "ÀÎÅ©¸®Â¡ ¾×Æ¼ºñÆ¼", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, 
+ApAmount = {50, 50, 50, 50, 50}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_ACTIVITY_BURN, 5}
+}
+}
+, 
+[SKID.EM_DIAMOND_STORM] = {"EM_DIAMOND_STORM"; SkillName = "´ÙÀÌ¾Æ¸óµå ½ºÅè", MaxLv = 5, 
+SpAmount = {84, 88, 92, 96, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_LIGHTNING_LAND] = {"EM_LIGHTNING_LAND"; SkillName = "¶óÀÌÆ®´× ·£µå", MaxLv = 5, 
+SpAmount = {65, 70, 80, 85, 95}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_VENOM_SWAMP] = {"EM_VENOM_SWAMP"; SkillName = "º£³ð ½º¿úÇÁ", MaxLv = 5, 
+SpAmount = {84, 88, 92, 96, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_CONFLAGRATION] = {"EM_CONFLAGRATION"; SkillName = "ÄÁÇÁ·¡±×·¹ÀÌ¼Ç", MaxLv = 5, 
+SpAmount = {70, 80, 90, 100, 110}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_TERRA_DRIVE] = {"EM_TERRA_DRIVE"; SkillName = "Å×¶ó µå¶óÀÌºê", MaxLv = 5, 
+SpAmount = {84, 88, 92, 96, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_SPIRIT_M] = {"EM_ELEMENTAL_SPIRIT_M"; SkillName = "¿¤·¹¸àÅ» ½ºÇÇ¸´ ¸¶½ºÅÍ¸®", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SO_EL_SYMPATHY, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_ARDOR] = {"EM_SUMMON_ELEMENTAL_ARDOR"; SkillName = "¼­¸ó ¿¤·¹¸àÅ» ¾Æ¸£µµ¸£", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_AGNI, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_CONFLAGRATION, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_DILUVIO] = {"EM_SUMMON_ELEMENTAL_DILUVIO"; SkillName = "¼­¸ó ¿¤·¹¸àÅ» µô·çºñ¿À", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_AQUA, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_DIAMOND_STORM, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_PROCELLA] = {"EM_SUMMON_ELEMENTAL_PROCELLA"; SkillName = "¼­¸ó ¿¤·¹¸àÅ» ÇÁ·ÎÃ¿¶ó", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_VENTUS, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_LIGHTNING_LAND, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_TERREMOTUS] = {"EM_SUMMON_ELEMENTAL_TERREMOTUS"; SkillName = "¼­¸ó ¿¤·¹¸àÅ» Å×·¹¸ðÅõ½º", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_TERA, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_TERRA_DRIVE, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_SERPENS] = {"EM_SUMMON_ELEMENTAL_SERPENS"; SkillName = "¼­¸ó ¿¤·¹¸àÅ» ¼¼¸£Ææ½º", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_AGNI, 3}
+, 
+{SKID.SO_SUMMON_AQUA, 3}
+, 
+{SKID.SO_SUMMON_VENTUS, 3}
+, 
+{SKID.SO_SUMMON_TERA, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_VENOM_SWAMP, 1}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_BUSTER] = {"EM_ELEMENTAL_BUSTER"; SkillName = "¿¤·¹¸àÅ» ¹ö½ºÅÍ", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.EM_SUMMON_ELEMENTAL_SERPENS, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_TERREMOTUS, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_PROCELLA, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_DILUVIO, 1}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 5}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_ARDOR, 1}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_VEIL] = {"EM_ELEMENTAL_VEIL"; SkillName = "¿¤·¹¸àÅ» º£ÀÏ", MaxLv = 5, 
+SpAmount = {70, 75, 80, 85, 90}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.EM_ELEMENTAL_SPIRIT_M, 3}
+}
+}
+, 
+[SKID.EM_EL_FLAMETECHNIC] = {"EM_EL_FLAMETECHNIC"; SkillName = "ÇÃ·¹ÀÓ Å×Å©´Ð", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_FLAMEARMOR] = {"EM_EL_FLAMEARMOR"; SkillName = "ÇÃ·¹ÀÓ ¾Æ¸Ó", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_FLAMEROCK] = {"EM_EL_FLAMEROCK"; SkillName = "ÇÃ·¹ÀÓ ·Ï", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_COLD_FORCE] = {"EM_EL_COLD_FORCE"; SkillName = "ÄÝµå Æ÷½º", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_CRYSTAL_ARMOR] = {"EM_EL_CRYSTAL_ARMOR"; SkillName = "Å©¸®½ºÅ» ¾Æ¸Ó", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_AGE_OF_ICE] = {"EM_EL_AGE_OF_ICE"; SkillName = "¿¡ÀÌÁö ¿Àºê ¾ÆÀÌ½º", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_GRACE_BREEZE] = {"EM_EL_GRACE_BREEZE"; SkillName = "±×·¹ÀÌ½º ºê¸®Áî", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_EYES_OF_STORM] = {"EM_EL_EYES_OF_STORM"; SkillName = "¾ÆÀÌÁî ¿Àºê ½ºÅè", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_STORM_WIND] = {"EM_EL_STORM_WIND"; SkillName = "½ºÅè À©µå", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_EARTH_CARE] = {"EM_EL_EARTH_CARE"; SkillName = "¾î½º ÄÉ¾î", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_STRONG_PROTECTION] = {"EM_EL_STRONG_PROTECTION"; SkillName = "½ºÆ®·Õ ÇÁ·ÎÅØ¼Ç", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_AVALANCHE] = {"EM_EL_AVALANCHE"; SkillName = "¾Æ¹ß¶õÃ¼", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_DEEP_POISONING] = {"EM_EL_DEEP_POISONING"; SkillName = "µö Æ÷ÀÌÁî´×", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_POISON_SHIELD] = {"EM_EL_POISON_SHIELD"; SkillName = "Æ÷ÀÌÁð ½¯µå", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_DEADLY_POISON] = {"EM_EL_DEADLY_POISON"; SkillName = "µ¥µé¸® Æ÷ÀÌÁð", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
 }
 }
 

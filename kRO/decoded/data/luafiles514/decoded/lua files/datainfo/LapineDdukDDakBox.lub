@@ -5,6 +5,30 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+Egirnion_Box = {ItemID = 100468, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"에기르헬름K", 1, 19026}
+, 
+{"에기르아머K", 1, 15138}
+, 
+{"에기르슈즈K", 1, 22059}
+, 
+{"에기르망토K", 1, 20756}
+}
+, NeedSource_String = "바다신 에길의 방어구"}
+, 
+OneSkyOneSun_Cube = {ItemID = 100402, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"OneSkyOneSun", 1, 28631}
+}
+, NeedSource_String = "일천일양"}
+, 
+SoulWeight_Cube = {ItemID = 100403, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"SoulWeight", 1, 26154}
+}
+, NeedSource_String = "혼령추"}
+, 
 Crimson_Rose_Cube = {ItemID = 100404, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
 {"Crimson_Rose", 1, 32302}
@@ -3094,6 +3118,36 @@ SourceItems = {
 {"S_Silvervine_Pendant", 1, 24644}
 , 
 {"S_Silvervine_Shoes", 1, 24645}
+, 
+{"S_Sunshine_Weapon", 1, 24646}
+, 
+{"S_Sunshine_Shield", 1, 24647}
+, 
+{"S_Sunshine_Armor", 1, 24648}
+, 
+{"S_Moonlight_Earring", 1, 24649}
+, 
+{"S_Moonlight_Pendant", 1, 24650}
+, 
+{"S_Moonlight_Shoes", 1, 24651}
+, 
+{"S_Stardust_Weapon", 1, 24652}
+, 
+{"S_Stardust_Shield", 1, 24653}
+, 
+{"S_Stardust_Armor", 1, 24654}
+, 
+{"S_S_Weapon", 1, 24655}
+, 
+{"S_S_Shield", 1, 24656}
+, 
+{"S_S_Armor", 1, 24657}
+, 
+{"S_Evilcurse_Earring", 1, 24658}
+, 
+{"S_Evilcurse_Pendant", 1, 24659}
+, 
+{"S_Evilcurse_Shoes", 1, 24660}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -4664,6 +4718,14 @@ SourceItems = {
 {"C_Disapear_Time_TW", 1, 400074}
 , 
 {"C_Magic_Heir_TW", 1, 410005}
+, 
+{"C_Blink_Eyes_Sakura", 1, 31934}
+, 
+{"C_Angola_Intention", 1, 31815}
+, 
+{"C_Stall_Of_Dominions", 1, 31566}
+, 
+{"C_Flowery_Vision_TH", 1, 31497}
 }
 , NeedSource_String = "냥다래 의상"}
 }

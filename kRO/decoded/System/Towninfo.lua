@@ -476,6 +476,8 @@ malangdo = {
 {name = "도구점", X = 232, Y = 163, TYPE = 0}
 , 
 {name = "여관", X = 147, Y = 120, TYPE = 5}
+, 
+{name = "대장간", X = 224, Y = 172, TYPE = 3}
 }
 , 
 xmas = {
