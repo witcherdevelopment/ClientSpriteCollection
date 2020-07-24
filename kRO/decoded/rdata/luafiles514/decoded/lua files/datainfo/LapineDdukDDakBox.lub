@@ -5,433 +5,35 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
-Royal_Bow_K_Cube = {ItemID = 100376, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+Crimson_Rose_Cube = {ItemID = 100404, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
-{"Royal_Bow_K", 1, 18164}
+{"Crimson_Rose", 1, 32302}
 }
-, NeedSource_String = "왕가의 활"}
+, NeedSource_String = "크림슨 로즈"}
 , 
-Scalet_Dragon_L_Cube = {ItemID = 100377, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+Master_Soul_Rifle_Cube = {ItemID = 100405, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
-{"Scalet_Dragon_L_Bow", 1, 700003}
+{"Master_Soul_Rifle", 1, 28255}
 }
-, NeedSource_String = "스칼렛 드래곤 레더보우"}
+, NeedSource_String = "마스터 소울 라이플"}
 , 
-Shadow_Staff_K_Cube = {ItemID = 100378, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+Golden_L_Launcher_Cube = {ItemID = 100406, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
-{"Shadow_Staff_K", 1, 26118}
+{"Golden_L_Launcher", 1, 28257}
 }
-, NeedSource_String = "쉐도우 스태프"}
+, NeedSource_String = "골든 로드 런처"}
 , 
-Freezing_Rod_Cube = {ItemID = 100379, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+The_Black_Gatling_Cube = {ItemID = 100407, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
-{"Freezing_Rod", 1, 550007}
+{"The_Black_Gatling", 1, 28258}
 }
-, NeedSource_String = "냉기의 지팡이"}
+, NeedSource_String = "더 블랙"}
 , 
-["3Lv_9Refine_Weapon_7Gu"] = {ItemID = 100381, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 9, 
+Demon_S_Shot_Cube = {ItemID = 100408, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
-{"진홍의너클", 1, 1839}
-, 
-{"진홍의대거", 1, 28705}
-, 
-{"진홍의랜스", 1, 1498}
-, 
-{"진홍의로드", 1, 1680}
-, 
-{"진홍의리볼버", 1, 13127}
-, 
-{"진홍의메이스", 1, 16040}
-, 
-{"진홍의바이블", 1, 28604}
-, 
-{"진홍의바이올린", 1, 1939}
-, 
-{"진홍의보우", 1, 18130}
-, 
-{"진홍의세이버", 1, 13454}
-, 
-{"진홍의스태프", 1, 2025}
-, 
-{"진홍의스피어", 1, 1443}
-, 
-{"진홍의와이어", 1, 1995}
-, 
-{"진홍의카타르", 1, 28007}
-, 
-{"진홍의투핸드소드", 1, 21015}
-, 
-{"진홍의투핸드액스", 1, 28106}
-, 
-{"진홍의풍마수리검", 1, 13327}
+{"Demon_S_Shot", 1, 28256}
 }
-, NeedSource_String = "+9 3레벨 무기"}
-, 
-["3Lv_10Refine_Weapon_8Gu"] = {ItemID = 100382, NeedCount = 1, NeedRefineMin = 10, NeedRefineMax = 10, 
-SourceItems = {
-{"진홍의너클", 1, 1839}
-, 
-{"진홍의대거", 1, 28705}
-, 
-{"진홍의랜스", 1, 1498}
-, 
-{"진홍의로드", 1, 1680}
-, 
-{"진홍의리볼버", 1, 13127}
-, 
-{"진홍의메이스", 1, 16040}
-, 
-{"진홍의바이블", 1, 28604}
-, 
-{"진홍의바이올린", 1, 1939}
-, 
-{"진홍의보우", 1, 18130}
-, 
-{"진홍의세이버", 1, 13454}
-, 
-{"진홍의스태프", 1, 2025}
-, 
-{"진홍의스피어", 1, 1443}
-, 
-{"진홍의와이어", 1, 1995}
-, 
-{"진홍의카타르", 1, 28007}
-, 
-{"진홍의투핸드소드", 1, 21015}
-, 
-{"진홍의투핸드액스", 1, 28106}
-, 
-{"진홍의풍마수리검", 1, 13327}
-}
-, NeedSource_String = "+10 3레벨 무기"}
-, 
-["3Lv_11Refine_Weapon_9Gu"] = {ItemID = 100383, NeedCount = 1, NeedRefineMin = 11, NeedRefineMax = 11, 
-SourceItems = {
-{"진홍의너클", 1, 1839}
-, 
-{"진홍의대거", 1, 28705}
-, 
-{"진홍의랜스", 1, 1498}
-, 
-{"진홍의로드", 1, 1680}
-, 
-{"진홍의리볼버", 1, 13127}
-, 
-{"진홍의메이스", 1, 16040}
-, 
-{"진홍의바이블", 1, 28604}
-, 
-{"진홍의바이올린", 1, 1939}
-, 
-{"진홍의보우", 1, 18130}
-, 
-{"진홍의세이버", 1, 13454}
-, 
-{"진홍의스태프", 1, 2025}
-, 
-{"진홍의스피어", 1, 1443}
-, 
-{"진홍의와이어", 1, 1995}
-, 
-{"진홍의카타르", 1, 28007}
-, 
-{"진홍의투핸드소드", 1, 21015}
-, 
-{"진홍의투핸드액스", 1, 28106}
-, 
-{"진홍의풍마수리검", 1, 13327}
-}
-, NeedSource_String = "+11 3레벨 무기"}
-, 
-["3Lv_12Refine_Weapon_10G"] = {ItemID = 100384, NeedCount = 1, NeedRefineMin = 12, NeedRefineMax = 12, 
-SourceItems = {
-{"진홍의너클", 1, 1839}
-, 
-{"진홍의대거", 1, 28705}
-, 
-{"진홍의랜스", 1, 1498}
-, 
-{"진홍의로드", 1, 1680}
-, 
-{"진홍의리볼버", 1, 13127}
-, 
-{"진홍의메이스", 1, 16040}
-, 
-{"진홍의바이블", 1, 28604}
-, 
-{"진홍의바이올린", 1, 1939}
-, 
-{"진홍의보우", 1, 18130}
-, 
-{"진홍의세이버", 1, 13454}
-, 
-{"진홍의스태프", 1, 2025}
-, 
-{"진홍의스피어", 1, 1443}
-, 
-{"진홍의와이어", 1, 1995}
-, 
-{"진홍의카타르", 1, 28007}
-, 
-{"진홍의투핸드소드", 1, 21015}
-, 
-{"진홍의투핸드액스", 1, 28106}
-, 
-{"진홍의풍마수리검", 1, 13327}
-}
-, NeedSource_String = "+12 3레벨 무기"}
-, 
-["4Lv_9Refine_Weapon_8Gu"] = {ItemID = 100385, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 9, 
-SourceItems = {
-{"타노스의검", 1, 13441}
-, 
-{"타노스의너클", 1, 1836}
-, 
-{"타노스의단검", 1, 13093}
-, 
-{"타노스의대검", 1, 21009}
-, 
-{"타노스의도끼", 1, 28100}
-, 
-{"타노스의망치", 1, 16028}
-, 
-{"타노스의바이올린", 1, 1933}
-, 
-{"타노스의양손지팡이", 1, 2023}
-, 
-{"타노스의양손창", 1, 1496}
-, 
-{"타노스의윕소드", 1, 1988}
-, 
-{"타노스의지팡이", 1, 1669}
-, 
-{"타노스의창", 1, 1438}
-, 
-{"타노스의카타르", 1, 28000}
-, 
-{"타노스의활", 1, 18119}
-, 
-{"사념의대거", 1, 28706}
-, 
-{"사념의랜스", 1, 1450}
-, 
-{"사념의로드", 1, 1600}
-, 
-{"사념의리볼버", 1, 13128}
-, 
-{"사념의메이스", 1, 16041}
-, 
-{"사념의바이올린", 1, 1900}
-, 
-{"사념의보우", 1, 18121}
-, 
-{"사념의북", 1, 28605}
-, 
-{"사념의세이버", 1, 13455}
-, 
-{"사념의스태프", 1, 2026}
-, 
-{"사념의스피어", 1, 1400}
-, 
-{"사념의와이어", 1, 1996}
-, 
-{"사념의카타르", 1, 28008}
-, 
-{"사념의투핸드소드", 1, 21016}
-, 
-{"사념의투핸드액스", 1, 28107}
-, 
-{"사념의풍마수리검", 1, 13328}
-, 
-{"사념의피스트", 1, 1800}
-}
-, NeedSource_String = "+9 4레벨 무기"}
-, 
-["4Lv_10Refine_Weapon_9Gu"] = {ItemID = 100386, NeedCount = 1, NeedRefineMin = 10, NeedRefineMax = 10, 
-SourceItems = {
-{"타노스의검", 1, 13441}
-, 
-{"타노스의너클", 1, 1836}
-, 
-{"타노스의단검", 1, 13093}
-, 
-{"타노스의대검", 1, 21009}
-, 
-{"타노스의도끼", 1, 28100}
-, 
-{"타노스의망치", 1, 16028}
-, 
-{"타노스의바이올린", 1, 1933}
-, 
-{"타노스의양손지팡이", 1, 2023}
-, 
-{"타노스의양손창", 1, 1496}
-, 
-{"타노스의윕소드", 1, 1988}
-, 
-{"타노스의지팡이", 1, 1669}
-, 
-{"타노스의창", 1, 1438}
-, 
-{"타노스의카타르", 1, 28000}
-, 
-{"타노스의활", 1, 18119}
-, 
-{"사념의대거", 1, 28706}
-, 
-{"사념의랜스", 1, 1450}
-, 
-{"사념의로드", 1, 1600}
-, 
-{"사념의리볼버", 1, 13128}
-, 
-{"사념의메이스", 1, 16041}
-, 
-{"사념의바이올린", 1, 1900}
-, 
-{"사념의보우", 1, 18121}
-, 
-{"사념의북", 1, 28605}
-, 
-{"사념의세이버", 1, 13455}
-, 
-{"사념의스태프", 1, 2026}
-, 
-{"사념의스피어", 1, 1400}
-, 
-{"사념의와이어", 1, 1996}
-, 
-{"사념의카타르", 1, 28008}
-, 
-{"사념의투핸드소드", 1, 21016}
-, 
-{"사념의투핸드액스", 1, 28107}
-, 
-{"사념의풍마수리검", 1, 13328}
-, 
-{"사념의피스트", 1, 1800}
-}
-, NeedSource_String = "+10 4레벨 무기"}
-, 
-["4Lv_11Refine_Weapon_10G"] = {ItemID = 100387, NeedCount = 1, NeedRefineMin = 11, NeedRefineMax = 11, 
-SourceItems = {
-{"타노스의검", 1, 13441}
-, 
-{"타노스의너클", 1, 1836}
-, 
-{"타노스의단검", 1, 13093}
-, 
-{"타노스의대검", 1, 21009}
-, 
-{"타노스의도끼", 1, 28100}
-, 
-{"타노스의망치", 1, 16028}
-, 
-{"타노스의바이올린", 1, 1933}
-, 
-{"타노스의양손지팡이", 1, 2023}
-, 
-{"타노스의양손창", 1, 1496}
-, 
-{"타노스의윕소드", 1, 1988}
-, 
-{"타노스의지팡이", 1, 1669}
-, 
-{"타노스의창", 1, 1438}
-, 
-{"타노스의카타르", 1, 28000}
-, 
-{"타노스의활", 1, 18119}
-, 
-{"사념의대거", 1, 28706}
-, 
-{"사념의랜스", 1, 1450}
-, 
-{"사념의로드", 1, 1600}
-, 
-{"사념의리볼버", 1, 13128}
-, 
-{"사념의메이스", 1, 16041}
-, 
-{"사념의바이올린", 1, 1900}
-, 
-{"사념의보우", 1, 18121}
-, 
-{"사념의북", 1, 28605}
-, 
-{"사념의세이버", 1, 13455}
-, 
-{"사념의스태프", 1, 2026}
-, 
-{"사념의스피어", 1, 1400}
-, 
-{"사념의와이어", 1, 1996}
-, 
-{"사념의카타르", 1, 28008}
-, 
-{"사념의투핸드소드", 1, 21016}
-, 
-{"사념의투핸드액스", 1, 28107}
-, 
-{"사념의풍마수리검", 1, 13328}
-, 
-{"사념의피스트", 1, 1800}
-}
-, NeedSource_String = "+11 4레벨 무기"}
-, 
-Avenger_Cube = {ItemID = 100360, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Avenger", 1, 28130}
-}
-, NeedSource_String = "복수자"}
-, 
-Meteor_Striker_Cube = {ItemID = 100361, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Meteor_Striker", 1, 590002}
-}
-, NeedSource_String = "메테오 스트라이커"}
-, 
-Magic_Sword_Cube = {ItemID = 100362, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Magic_Sword", 1, 28744}
-}
-, NeedSource_String = "마도검"}
-, 
-Fatalist_Cube = {ItemID = 100363, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Fatalist", 1, 510006}
-}
-, NeedSource_String = "페이탈리스트"}
-, 
-Sword_Of_Bluefire_Cube = {ItemID = 100327, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Sword_Of_Bluefire", 1, 13485}
-}
-, NeedSource_String = "홍련의 검"}
-, 
-Slate_Sword_Cube = {ItemID = 100328, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Slate_Sword", 1, 500004}
-}
-, NeedSource_String = "슬레이트 소드"}
-, 
-Narcis_Bow_Cube = {ItemID = 100329, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Narcis_Bow", 1, 18170}
-}
-, NeedSource_String = "나르시스 보우"}
-, 
-Trumpet_Shell_K_Cube = {ItemID = 100330, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Trumpet_Shell_K", 1, 570002}
-}
-, NeedSource_String = "소라고둥 나팔"}
-, 
-Barb_Wire_K_Cube = {ItemID = 100331, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
-SourceItems = {
-{"Barb_Wire_K", 1, 580002}
-}
-, NeedSource_String = "가시철사 채찍"}
+, NeedSource_String = "데몬 슬레이어 샷"}
 , 
 Remodel_Hero_Boots = {ItemID = 100273, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
@@ -549,7 +151,7 @@ SourceItems = {
 }
 , NeedSource_String = "4월의 냥다래 의상"}
 , 
-Piercing_Mix = {ItemID = 100053, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+Piercing_Mix = {ItemID = 100053, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 9, 
 SourceItems = {
 {"액서큐서너웨폰S", 1, 24156}
 , 
@@ -573,7 +175,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7 피어싱 쉐도우"}
 , 
-Hasty_Mix = {ItemID = 100058, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+Hasty_Mix = {ItemID = 100058, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 9, 
 SourceItems = {
 {"헤이스티슈즈S2", 1, 24320}
 , 
@@ -583,7 +185,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7 헤이스티 쉐도우"}
 , 
-PerfectSize_Mix = {ItemID = 100010, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+PerfectSize_Mix = {ItemID = 100010, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 9, 
 SourceItems = {
 {"빅웨폰S", 1, 24075}
 , 
@@ -599,7 +201,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7 사이즈 쉐도우"}
 , 
-MagicPiercing_Mix = {ItemID = 100011, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+MagicPiercing_Mix = {ItemID = 100011, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 9, 
 SourceItems = {
 {"매직액서큐서너웨폰S", 1, 24170}
 , 
@@ -633,675 +235,7 @@ SourceItems = {
 }
 , NeedSource_String = "젤로피,솜털,단단한껍질"}
 , 
-EnchantStone_Recipe_9m = {ItemID = 23967, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"C체인퍼펫", 1, 19960}
-, 
-{"C늘어진아르지오프", 1, 19959}
-, 
-{"C_Baby_Penguin", 1, 31437}
-, 
-{"C_Sorcerer_Hood", 1, 31396}
-, 
-{"C_Fluffy_Heart_Earmuffs", 1, 31439}
-, 
-{"C_Luwmin_Ice", 1, 31432}
-, 
-{"C요마의휴일", 1, 31314}
-, 
-{"C_Blessing_Sky_Lantern", 1, 31460}
-, 
-{"C_Astro_Circle", 1, 31433}
-, 
-{"C_Elephangel_TH", 1, 31498}
-, 
-{"C_Flying_Drone", 1, 31463}
-, 
-{"C_Bouquet_Hat", 1, 31489}
-, 
-{"C_Poring_Muffler", 1, 31490}
-, 
-{"C_Happy_Rabbit_Ribbon", 1, 31529}
-, 
-{"C세피아캡", 1, 20171}
-, 
-{"C낙원의새장", 1, 20482}
-, 
-{"C법사관", 1, 20033}
-, 
-{"C흰토끼의귀", 1, 31139}
-, 
-{"C_Autumn_Headband", 1, 31606}
-, 
-{"C토끼뿅모자", 1, 31249}
-}
-, NeedSource_String = "9월의 냥다래 의상"}
-, 
-Bs_Item_M_S_2 = {ItemID = 23818, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"Token_of_OrcGeneral", 150, 25508}
-}
-, NeedSource_String = "오크 장군의 증표, 제르늄"}
-, 
-Bs_Item_M_S_8 = {ItemID = 23819, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"발할라의꽃", 150, 7510}
-}
-, NeedSource_String = "발할라의 꽃, 제르늄"}
-, 
-Bs_Item_M_S_10 = {ItemID = 23820, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"부서진왕관", 150, 7754}
-}
-, NeedSource_String = "부서진 왕관, 제르늄"}
-, 
-Bs_Item_M_S_11 = {ItemID = 23821, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"어머니의악몽", 150, 7020}
-}
-, NeedSource_String = "어머니의 악몽, 제르늄"}
-, 
-Bs_Item_M_S_34 = {ItemID = 23822, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"해골갑옷조각", 150, 7450}
-}
-, NeedSource_String = "해골 갑옷 조각, 제르늄"}
-, 
-Bs_Item_M_S_41 = {ItemID = 23823, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"어머니의악몽", 150, 7020}
-}
-, NeedSource_String = "어머니의 악몽, 제르늄"}
-, 
-Bs_Item_M_S_42 = {ItemID = 23824, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"빛나는창날", 50, 7109}
-}
-, NeedSource_String = "빛나는 창날, 제르늄"}
-, 
-Bs_Item_M_S_43 = {ItemID = 23825, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"오시리스인형", 30, 751}
-}
-, NeedSource_String = "오시리스 인형, 제르늄"}
-, 
-Bs_Item_M_S_44 = {ItemID = 23826, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 10, 25731}
-, 
-{"가름의이빨", 120, 7036}
-}
-, NeedSource_String = "하티의 이빨, 제르늄"}
-, 
-Bs_Sha_M_S_1 = {ItemID = 23827, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 10, 25729}
-, 
-{"회중시계", 50, 7513}
-}
-, NeedSource_String = "회중시계, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_17 = {ItemID = 23828, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 10, 25729}
-, 
-{"오시리스인형", 10, 751}
-}
-, NeedSource_String = "오시리스 인형, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_18 = {ItemID = 23829, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 10, 25729}
-, 
-{"바포메트인형", 10, 750}
-}
-, NeedSource_String = "바포메트 인형, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_19 = {ItemID = 23830, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 10, 25729}
-, 
-{"빛나는창날", 50, 7109}
-}
-, NeedSource_String = "빛나는 창날, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_20 = {ItemID = 23831, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 10, 25729}
-, 
-{"로키의속삭임", 50, 7019}
-}
-, NeedSource_String = "로키의 속삭임, 쉐도우데오콘"}
-, 
-Bs_Item_M_S_4 = {ItemID = 23832, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"바포메트인형", 30, 750}
-}
-, NeedSource_String = "바포메트인형, 제르늄"}
-, 
-Bs_Item_M_S_6 = {ItemID = 23833, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"호랑이의발바닥", 150, 1030}
-}
-, NeedSource_String = "호랑이 발바닥, 제르늄"}
-, 
-Bs_Item_M_S_7 = {ItemID = 23834, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"White_Snake_Tear", 150, 25622}
-}
-, NeedSource_String = "하얀 뱀의 눈물, 제르늄"}
-, 
-Bs_Item_M_S_12 = {ItemID = 23835, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"원석", 150, 7300}
-}
-, NeedSource_String = "보석의 원석, 제르늄"}
-, 
-Bs_Item_M_S_13 = {ItemID = 23836, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"어린나뭇가지", 150, 7018}
-}
-, NeedSource_String = "어린 나뭇가지, 제르늄"}
-, 
-Bs_Item_M_S_15 = {ItemID = 23837, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"태극패", 150, 7169}
-}
-, NeedSource_String = "태극패, 제르늄"}
-, 
-Bs_Item_M_S_28 = {ItemID = 23838, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"얼음비늘", 150, 7562}
-}
-, NeedSource_String = "얼음 비늘, 제르늄"}
-, 
-Bs_Item_M_S_29 = {ItemID = 23839, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"원석", 150, 7300}
-}
-, NeedSource_String = "보석의 원석, 제르늄"}
-, 
-Bs_Item_M_S_31 = {ItemID = 23840, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"검붉은비늘조각", 150, 6091}
-}
-, NeedSource_String = "검붉은 비늘 조각, 제르늄"}
-, 
-Bs_Item_M_S_32 = {ItemID = 23841, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"어머니의악몽", 150, 7020}
-}
-, NeedSource_String = "어머니의 악몽, 제르늄"}
-, 
-Bs_Item_M_S_33 = {ItemID = 23842, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"부서진왕관", 150, 7754}
-}
-, NeedSource_String = "부서진 왕관, 제르늄"}
-, 
-Bs_Item_M_S_36 = {ItemID = 23843, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"호랑이의발바닥", 150, 1030}
-}
-, NeedSource_String = "호랑이 발바닥, 제르늄"}
-, 
-Bs_Item_M_S_37 = {ItemID = 23844, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"로키의속삭임", 150, 7019}
-}
-, NeedSource_String = "로키의 속삭임, 제르늄"}
-, 
-Bs_Item_M_S_38 = {ItemID = 23845, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"회중시계", 150, 7513}
-}
-, NeedSource_String = "회중시계, 제르늄"}
-, 
-Bs_Item_M_S_39 = {ItemID = 23846, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"투탄카멘마스크", 150, 7114}
-}
-, NeedSource_String = "투탄카멘 마스크, 제르늄"}
-, 
-Bs_Item_M_S_40 = {ItemID = 23847, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"깨진파라오상징", 150, 7113}
-}
-, NeedSource_String = "깨진 파라오의 상징, 제르늄"}
-, 
-Bs_Item_M_S_45 = {ItemID = 23848, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"검붉은비늘조각", 150, 6091}
-}
-, NeedSource_String = "검붉은 비늘 조각, 제르늄"}
-, 
-Bs_Item_M_S_46 = {ItemID = 23849, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"화룡의비늘조각", 150, 7451}
-}
-, NeedSource_String = "화룡의 비늘 조각, 제르늄"}
-, 
-Bs_Item_M_S_47 = {ItemID = 23850, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"Konts_Letter", 150, 25629}
-}
-, NeedSource_String = "매듭 편지, 제르늄"}
-, 
-Bs_Item_M_S_48 = {ItemID = 23851, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"오시리스인형", 30, 751}
-}
-, NeedSource_String = "오시리스 인형, 제르늄"}
-, 
-Bs_Item_M_S_49 = {ItemID = 23852, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"Token_of_OrcGeneral", 150, 25508}
-}
-, NeedSource_String = "오크 장군의 증표, 제르늄"}
-, 
-Bs_Item_M_S_50 = {ItemID = 23853, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"어린나뭇가지", 150, 7018}
-}
-, NeedSource_String = "어린 나뭇가지, 제르늄"}
-, 
-Bs_Item_M_S_51 = {ItemID = 23894, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 20, 25731}
-, 
-{"여왕의날개조각", 150, 6326}
-}
-, NeedSource_String = "여왕의 날개 조각, 제르늄"}
-, 
-Bs_Sha_M_S_2 = {ItemID = 23854, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"화룡의비늘조각", 50, 7451}
-}
-, NeedSource_String = "화룡의 비늘 조각, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_5 = {ItemID = 23855, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"여왕의날개조각", 50, 6326}
-}
-, NeedSource_String = "여왕의 날개 조각, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_6 = {ItemID = 23856, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"호랑이의발바닥", 50, 1030}
-}
-, NeedSource_String = "호랑이 발바닥, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_7 = {ItemID = 23857, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"깨진방패조각", 50, 7108}
-}
-, NeedSource_String = "깨진 방패 조각, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_8 = {ItemID = 23858, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"암흑의의지_", 50, 7566}
-}
-, NeedSource_String = "붉은 암흑의 의지, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_13 = {ItemID = 23859, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"오크용자의증표", 50, 968}
-}
-, NeedSource_String = "오크 용자의 증표, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_15 = {ItemID = 23860, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"Token_of_OrcGeneral", 50, 25508}
-}
-, NeedSource_String = "오크 장군의 증표, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_16 = {ItemID = 23861, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"어머니의악몽", 50, 7020}
-}
-, NeedSource_String = "어머니의 악몽, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_23 = {ItemID = 23862, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 20, 25729}
-, 
-{"부러진뿔", 50, 6649}
-}
-, NeedSource_String = "부러진 뿔, 쉐도우데오콘"}
-, 
-Bs_Item_M_S_5 = {ItemID = 23863, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 25, 25731}
-, 
-{"오시리스인형", 30, 751}
-}
-, NeedSource_String = "오시리스 인형, 제르늄"}
-, 
-Bs_Item_M_S_9 = {ItemID = 23864, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 25, 25731}
-, 
-{"발할라의꽃", 150, 7510}
-}
-, NeedSource_String = "발할라의 꽃, 제르늄"}
-, 
-Bs_Item_M_S_14 = {ItemID = 23865, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 25, 25731}
-, 
-{"검붉은비늘조각", 150, 6091}
-}
-, NeedSource_String = "검붉은 비늘 조각, 제르늄"}
-, 
-Bs_Item_M_S_16 = {ItemID = 23866, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 25, 25731}
-, 
-{"암흑의의지_", 150, 7566}
-}
-, NeedSource_String = "붉은 암흑의 의지, 제르늄"}
-, 
-Bs_Item_M_S_17 = {ItemID = 23867, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 25, 25731}
-, 
-{"어머니의악몽", 150, 7020}
-}
-, NeedSource_String = "어머니의 악몽, 제르늄"}
-, 
-Bs_Item_M_S_19 = {ItemID = 23868, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 25, 25731}
-, 
-{"얼음비늘", 150, 7562}
-}
-, NeedSource_String = "얼음비늘, 제르늄"}
-, 
-Bs_Item_M_S_27 = {ItemID = 23869, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 25, 25731}
-, 
-{"부서진왕관", 150, 7754}
-}
-, NeedSource_String = "부서진 왕관, 제르늄"}
-, 
-Bs_Item_M_S_35 = {ItemID = 23870, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 25, 25731}
-, 
-{"암흑의의지_", 150, 7566}
-}
-, NeedSource_String = "붉은 암흑의 의지, 제르늄"}
-, 
-Bs_Sha_M_S_9 = {ItemID = 23871, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 25, 25729}
-, 
-{"어린나뭇가지", 50, 7018}
-}
-, NeedSource_String = "어린 나뭇가지, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_10 = {ItemID = 23872, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 25, 25729}
-, 
-{"호랑이의발바닥", 50, 1030}
-}
-, NeedSource_String = "호랑이 발바닥, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_11 = {ItemID = 23873, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 25, 25729}
-, 
-{"암흑의의지_", 50, 7566}
-}
-, NeedSource_String = "붉은 암흑의 의지, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_21 = {ItemID = 23874, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 25, 25729}
-, 
-{"빛나는창날", 10, 7109}
-}
-, NeedSource_String = "빛나는 창날, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_22 = {ItemID = 23875, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 25, 25729}
-, 
-{"가름의이빨", 50, 7036}
-}
-, NeedSource_String = "하티의 이빨, 쉐도우데오콘"}
-, 
-Bs_Item_M_S_1 = {ItemID = 23876, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"발할라의꽃", 300, 7510}
-}
-, NeedSource_String = "발할라의 꽃, 제르늄"}
-, 
-Bs_Item_M_S_3 = {ItemID = 23877, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"부서진왕관", 150, 7754}
-}
-, NeedSource_String = "부서진 왕관, 제르늄"}
-, 
-Bs_Item_M_S_18 = {ItemID = 23879, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"로제타스톤", 150, 7211}
-}
-, NeedSource_String = "로제타스톤 조각, 제르늄"}
-, 
-Bs_Item_M_S_20 = {ItemID = 23880, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"로키의속삭임", 200, 7019}
-}
-, NeedSource_String = "로키의 속삭임, 제르늄"}
-, 
-Bs_Item_M_S_21 = {ItemID = 23881, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"부러진뿔", 150, 6649}
-}
-, NeedSource_String = "부러진 뿔, 제르늄"}
-, 
-Bs_Item_M_S_22 = {ItemID = 23882, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"태극패", 150, 7169}
-}
-, NeedSource_String = "태극패, 제르늄"}
-, 
-Bs_Item_M_S_23 = {ItemID = 23883, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"가름의이빨", 150, 7036}
-}
-, NeedSource_String = "하티의 이빨, 제르늄"}
-, 
-Bs_Item_M_S_24 = {ItemID = 23884, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"원석", 150, 7300}
-}
-, NeedSource_String = "보석의 원석, 제르늄"}
-, 
-Bs_Item_M_S_25 = {ItemID = 23885, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"어린나뭇가지", 150, 7018}
-}
-, NeedSource_String = "어린 나뭇가지, 제르늄"}
-, 
-Bs_Item_M_S_26 = {ItemID = 23886, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"깨진방패조각", 150, 7108}
-}
-, NeedSource_String = "깨진 방패 조각, 제르늄"}
-, 
-Bs_Item_M_S_30 = {ItemID = 23887, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Zelunium", 30, 25731}
-, 
-{"빛나는창날", 50, 7109}
-}
-, NeedSource_String = "빛나는 창날, 제르늄"}
-, 
-Bs_Sha_M_S_3 = {ItemID = 23888, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 30, 25729}
-, 
-{"해골갑옷조각", 50, 7450}
-}
-, NeedSource_String = "해골 갑옷 조각, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_4 = {ItemID = 23889, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 30, 25729}
-, 
-{"Konts_Letter", 50, 25629}
-}
-, NeedSource_String = "매듭 편지, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_12 = {ItemID = 23890, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 30, 25729}
-, 
-{"태극패", 50, 7169}
-}
-, NeedSource_String = "태극패, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_14 = {ItemID = 23891, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 30, 25729}
-, 
-{"로키의속삭임", 50, 7019}
-}
-, NeedSource_String = "로키의 속삭임, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_24 = {ItemID = 23892, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 25, 25729}
-, 
-{"회중시계", 150, 7513}
-}
-, NeedSource_String = "회중시계, 쉐도우데오콘"}
-, 
-Bs_Sha_M_S_25 = {ItemID = 23893, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"Shadowdecon", 25, 25729}
-, 
-{"원석", 150, 7300}
-}
-, NeedSource_String = "보석의 원석, 쉐도우데오콘"}
-, 
-PhysicalMagical_Mix = {ItemID = 23665, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
-SourceItems = {
-{"피지컬웨폰S", 1, 24019}
-, 
-{"피지컬이어링S", 1, 24018}
-, 
-{"피지컬펜던트S", 1, 24020}
-, 
-{"매지컬웨폰S", 1, 24022}
-, 
-{"매지컬이어링S", 1, 24021}
-, 
-{"매지컬펜던트S", 1, 24023}
-}
-, NeedSource_String = "피지컬매지컬 쉐도우"}
-, 
-ImmunedAthena_Mix = {ItemID = 23666, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+ImmunedAthena_Mix = {ItemID = 23666, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 9, 
 SourceItems = {
 {"이뮨드아머S", 1, 24027}
 , 
@@ -1340,6 +274,792 @@ SourceItems = {
 {"크리티컬아머S", 1, 24030}
 }
 , NeedSource_String = "크리티컬 쉐도우"}
+, 
+PhysicalMagical_Mix = {ItemID = 23665, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"피지컬웨폰S", 1, 24019}
+, 
+{"피지컬이어링S", 1, 24018}
+, 
+{"피지컬펜던트S", 1, 24020}
+, 
+{"매지컬웨폰S", 1, 24022}
+, 
+{"매지컬이어링S", 1, 24021}
+, 
+{"매지컬펜던트S", 1, 24023}
+}
+, NeedSource_String = "피지컬매지컬 쉐도우"}
+, 
+Zero_Costume_Mix = {ItemID = 23641, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"C_Pope_Sitting_Head", 1, 31397}
+, 
+{"C_Straight_Long_WHK", 1, 31369}
+, 
+{"C_Straight_Long_YLK", 1, 31370}
+, 
+{"C3D안경", 1, 19954}
+, 
+{"C가스마스크", 1, 19736}
+, 
+{"C간호모", 1, 19637}
+, 
+{"C강한자의헤어", 1, 18740}
+, 
+{"C개구리모자", 1, 19548}
+, 
+{"C갱스카프", 1, 19605}
+, 
+{"C검성의왕관", 1, 20036}
+, 
+{"C검은고양이", 1, 31186}
+, 
+{"C계란후라이", 1, 20160}
+, 
+{"C고글", 1, 19578}
+, 
+{"C고급선글래스", 1, 19886}
+, 
+{"C고블린가면1호", 1, 19792}
+, 
+{"C고블린가면2호", 1, 19793}
+, 
+{"C고블린가면3호", 1, 19794}
+, 
+{"C고블린가면4호", 1, 19732}
+, 
+{"C고스트링톨햇", 1, 31123}
+, 
+{"C고양이귀모자", 1, 20499}
+, 
+{"C고양이머리띠", 1, 19843}
+, 
+{"C고양이모자", 1, 31171}
+, 
+{"C고양이산타모자", 1, 19976}
+, 
+{"C곰돌이모자", 1, 19851}
+, 
+{"C광대모자", 1, 19865}
+, 
+{"C교황의관", 1, 20489}
+, 
+{"C교황의리본", 1, 20488}
+, 
+{"C귀마개", 1, 19941}
+, 
+{"C귀찮은너구리", 1, 19931}
+, 
+{"C그리폰모자", 1, 19537}
+, 
+{"C글래스", 1, 19888}
+, 
+{"C금빛음색", 1, 20440}
+, 
+{"C금색느낌표", 1, 19977}
+, 
+{"C금색물음표", 1, 19979}
+, 
+{"C깃털모자", 1, 20057}
+, 
+{"C깃털베레모", 1, 19585}
+, 
+{"C까마귀천구의가면", 1, 20399}
+, 
+{"C꼬깔모자", 1, 20184}
+, 
+{"C꼬꼬댁모자", 1, 20190}
+, 
+{"C꽃머리띠", 1, 19633}
+, 
+{"C꽃머리핀", 1, 19983}
+, 
+{"C꽃의왈츠", 1, 20487}
+, 
+{"C나비의날갯짓", 1, 5914}
+, 
+{"C날으는갈라파고", 1, 20349}
+, 
+{"C남자의훈장", 1, 20278}
+, 
+{"C남자의훈장골드", 1, 20287}
+, 
+{"C너구리모자", 1, 20304}
+, 
+{"C네코미미카프라", 1, 19729}
+, 
+{"C넥타이", 1, 20208}
+, 
+{"C뇌신지력", 1, 31170}
+, 
+{"C눈가리개", 1, 19885}
+, 
+{"C눈사람모자", 1, 20231}
+, 
+{"C늘어진고양이", 1, 19782}
+, 
+{"C늘어진여고생인형모자", 1, 20329}
+, 
+{"C늘어진토끼", 1, 19878}
+, 
+{"C늘어진하얀고양이", 1, 31204}
+, 
+{"C니플헤임버니햇", 1, 20398}
+, 
+{"C닌자의두루마리", 1, 19606}
+, 
+{"C다이아뎀", 1, 19748}
+, 
+{"C다크네스헬름", 1, 19721}
+, 
+{"C달과별의장식", 1, 18742}
+, 
+{"C당고머리_갈", 1, 31069}
+, 
+{"C당고머리_녹", 1, 31066}
+, 
+{"C당고머리_백", 1, 31068}
+, 
+{"C당고머리_자", 1, 31070}
+, 
+{"C당고머리_적", 1, 31064}
+, 
+{"C당고머리_청", 1, 31063}
+, 
+{"C당고머리_황", 1, 31065}
+, 
+{"C당고머리_흑", 1, 31067}
+, 
+{"C대지의실크햇", 1, 19937}
+, 
+{"C대형마제스틱고우트", 1, 19836}
+, 
+{"C대형오크히어로투구", 1, 31205}
+, 
+{"C덮어쓴포링", 1, 20133}
+, 
+{"C데비루치풍선", 1, 20202}
+, 
+{"C돌풍의헌팅캡", 1, 19935}
+, 
+{"C돼지코", 1, 31029}
+, 
+{"C둥근모자", 1, 19844}
+, 
+{"C드래군헬름", 1, 19667}
+, 
+{"C드워프수염", 1, 31087}
+, 
+{"C따뜻한고양이머플러", 1, 31300}
+, 
+{"C떠돌이늑대왕투구", 1, 19598}
+, 
+{"C러브발그레", 1, 20255}
+, 
+{"C러브토끼후드", 1, 19875}
+, 
+{"C레빗헤드드레스", 1, 20200}
+, 
+{"C레이저오브이글", 1, 20491}
+, 
+{"C로드서클릿", 1, 19795}
+, 
+{"C로리타텐겔론모자", 1, 19815}
+, 
+{"C로보아이", 1, 20145}
+, 
+{"C로키와니드호그모자", 1, 20212}
+, 
+{"C롤트윈_갈", 1, 31077}
+, 
+{"C롤트윈_녹", 1, 31074}
+, 
+{"C롤트윈_백", 1, 31076}
+, 
+{"C롤트윈_자", 1, 31078}
+, 
+{"C롤트윈_적", 1, 31072}
+, 
+{"C롤트윈_청", 1, 31071}
+, 
+{"C롤트윈_황", 1, 31073}
+, 
+{"C롤트윈_흑", 1, 31075}
+, 
+{"C롱포니_갈", 1, 31085}
+, 
+{"C롱포니_녹", 1, 31082}
+, 
+{"C롱포니_백", 1, 31084}
+, 
+{"C롱포니_자", 1, 31086}
+, 
+{"C롱포니_적", 1, 31080}
+, 
+{"C롱포니_청", 1, 31079}
+, 
+{"C롱포니_황", 1, 31081}
+, 
+{"C롱포니_흑", 1, 31083}
+, 
+{"C루이제빨간모자", 1, 20433}
+, 
+{"C루즈웨이브트윈_검정", 1, 20342}
+, 
+{"C루즈웨이브트윈_노랑", 1, 20364}
+, 
+{"C루즈웨이브트윈_녹색", 1, 20365}
+, 
+{"C루즈웨이브트윈_보라", 1, 20366}
+, 
+{"C루즈웨이브트윈_빨강", 1, 20367}
+, 
+{"C루즈웨이브트윈_연갈색", 1, 20368}
+, 
+{"C루즈웨이브트윈_파랑", 1, 20369}
+, 
+{"C루즈웨이브트윈_흰색", 1, 20370}
+, 
+{"C룬매듭머리띠", 1, 31206}
+, 
+{"C룬헬름", 1, 31160}
+, 
+{"C리틀아쿠아리움", 1, 20325}
+, 
+{"C리틀엔젤돌", 1, 19712}
+, 
+{"C리프인형모자", 1, 19835}
+, 
+{"C마리오넷모자", 1, 20017}
+, 
+{"C마스크", 1, 19634}
+, 
+{"C마칭햇", 1, 19653}
+, 
+{"C망원경", 1, 19734}
+, 
+{"C매드해터", 1, 31088}
+, 
+{"C매지컬페더", 1, 31040}
+, 
+{"C맹목모", 1, 19746}
+, 
+{"C머리끈", 1, 19833}
+, 
+{"C머리끈_녹색", 1, 20094}
+, 
+{"C머리끈_빨강", 1, 20095}
+, 
+{"C머리끈_파랑", 1, 20096}
+, 
+{"C머리끈_하양", 1, 20097}
+, 
+{"C머리띠", 1, 20073}
+, 
+{"C머리빗", 1, 20226}
+, 
+{"C머리안경", 1, 19525}
+, 
+{"C머리포자기", 1, 19845}
+, 
+{"C메긴캡", 1, 20186}
+, 
+{"C면사포", 1, 19790}
+, 
+{"C명사수의사과", 1, 19797}
+, 
+{"C모노크롬리본햇", 1, 20464}
+, 
+{"C모리아네헬름", 1, 19784}
+, 
+{"C목말", 1, 31165}
+, 
+{"C무낙모자", 1, 19849}
+, 
+{"C무통라이프_파랑", 1, 31168}
+, 
+{"C물고기머리모자", 1, 20105}
+, 
+{"C물의니트캡", 1, 19936}
+, 
+{"C물의마스터", 1, 20448}
+, 
+{"C뭔가있어", 1, 20183}
+, 
+{"C미니글래스", 1, 20125}
+, 
+{"C미스트레스왕관", 1, 19786}
+, 
+{"C미스틱로즈", 1, 20181}
+, 
+{"C밀짚모자", 1, 19829}
+, 
+{"C바나르간드의투구", 1, 19884}
+, 
+{"C바닐미르스모자", 1, 19839}
+, 
+{"C바람의이정표", 1, 19668}
+, 
+{"C반창고", 1, 20049}
+, 
+{"C발키리깃털투구", 1, 19613}
+, 
+{"C발키리서클릿", 1, 5909}
+, 
+{"C발할라아이돌", 1, 20459}
+, 
+{"C방한모자", 1, 19984}
+, 
+{"C배틀온라인", 1, 19624}
+, 
+{"C밴시마스터의키스", 1, 20201}
+, 
+{"C뱀파이어의사역마", 1, 31120}
+, 
+{"C벙거지모자", 1, 19828}
+, 
+{"C벨의비둘기", 1, 20147}
+, 
+{"C변신나뭇잎", 1, 19858}
+, 
+{"C병아리모자", 1, 19608}
+, 
+{"C복호나한가면", 1, 19564}
+, 
+{"C본건모자", 1, 19850}
+, 
+{"C본헬름", 1, 19796}
+, 
+{"C부드러운양모자", 1, 20273}
+, 
+{"C분노입", 1, 19798}
+, 
+{"C분홍토끼머리띠", 1, 19586}
+, 
+{"C불꽃의텐겔론햇", 1, 19934}
+, 
+{"C브라운스톨", 1, 31164}
+, 
+{"C비레타", 1, 20074}
+, 
+{"C비밀의지퍼", 1, 20266}
+, 
+{"C비상하는천사", 1, 19859}
+, 
+{"C빨간드레스햇", 1, 19706}
+, 
+{"C빨간테일리본", 1, 20224}
+, 
+{"C삐침머리_검정", 1, 20341}
+, 
+{"C삐침머리_노랑", 1, 20350}
+, 
+{"C삐침머리_녹색", 1, 20351}
+, 
+{"C삐침머리_보라", 1, 20352}
+, 
+{"C삐침머리_빨강", 1, 20353}
+, 
+{"C삐침머리_연갈색", 1, 20354}
+, 
+{"C삐침머리_파랑", 1, 20355}
+, 
+{"C삐침머리_흰색", 1, 20356}
+, 
+{"C사념의오오라", 1, 20132}
+, 
+{"C사념의오오라_빨강", 1, 20407}
+, 
+{"C사무라이마스크", 1, 19566}
+, 
+{"C사슴뿔", 1, 19939}
+, 
+{"C사악한마칭햇", 1, 20199}
+, 
+{"C사안봉인의붕대", 1, 19825}
+, 
+{"C산타포링모자", 1, 19682}
+, 
+{"C새끼악마의모자", 1, 19547}
+, 
+{"C새하얀뿔", 1, 20272}
+, 
+{"C새해의빛", 1, 20439}
+, 
+{"C생선모자", 1, 20157}
+, 
+{"C서큐버스뿔", 1, 19862}
+, 
+{"C서클릿", 1, 20158}
+, 
+{"C선글래스", 1, 19830}
+, 
+{"C선장모자", 1, 19654}
+, 
+{"C세인트프릴리본", 1, 19750}
+, 
+{"C세일표지판", 1, 20092}
+, 
+{"C셀린느의리본", 1, 20232}
+, 
+{"C소년모로크수하", 1, 20430}
+, 
+{"C소울리스윙", 1, 19677}
+, 
+{"C솜브레로", 1, 20330}
+, 
+{"C수다쟁이앵무새", 1, 31134}
+, 
+{"C쉐이빙폼", 1, 31162}
+, 
+{"C슈퍼스타장식", 1, 18744}
+, 
+{"C스노우노우모자", 1, 20242}
+, 
+{"C스마일", 1, 19638}
+, 
+{"C스몰포링머리띠", 1, 20447}
+, 
+{"C스위트젠틀", 1, 19789}
+, 
+{"C스트레이트포니_검정", 1, 20340}
+, 
+{"C스트레이트포니_노랑", 1, 20357}
+, 
+{"C스트레이트포니_녹색", 1, 20358}
+, 
+{"C스트레이트포니_보라", 1, 20359}
+, 
+{"C스트레이트포니_빨강", 1, 20360}
+, 
+{"C스트레이트포니_연갈색", 1, 20361}
+, 
+{"C스트레이트포니_파랑", 1, 20362}
+, 
+{"C스트레이트포니_흰색", 1, 20363}
+, 
+{"C스팀펑크햇", 1, 20381}
+, 
+{"C스핑크스모자", 1, 19580}
+, 
+{"C승리의날개", 1, 19710}
+, 
+{"C승천블랙드래곤", 1, 19575}
+, 
+{"C신카우보이모자_J", 1, 19809}
+, 
+{"C심두멸각머플러", 1, 31178}
+, 
+{"C심지", 1, 20137}
+, 
+{"C아미스트르캡", 1, 19827}
+, 
+{"C아이언케인", 1, 19528}
+, 
+{"C아프로가발", 1, 19864}
+, 
+{"C악마날개귀", 1, 19621}
+, 
+{"C악마의머리띠", 1, 19731}
+, 
+{"C안테나", 1, 20120}
+, 
+{"C알람가면", 1, 19791}
+, 
+{"C알록달록알껍질", 1, 20182}
+, 
+{"C암살자해골가면", 1, 31118}
+, 
+{"C애널라이즈아이", 1, 20315}
+, 
+{"C양갈래산타모자", 1, 19702}
+, 
+{"C양쪽귀밑리본", 1, 19889}
+, 
+{"C언더림안경레드", 1, 20286}
+, 
+{"C얼음날개귀", 1, 19826}
+, 
+{"C에레메스스카프", 1, 20405}
+, 
+{"C에레메스스카프검정", 1, 31057}
+, 
+{"C엔젤링모자", 1, 19848}
+, 
+{"C엘레노아가발", 1, 31062}
+, 
+{"C여우가면", 1, 19618}
+, 
+{"C연꽃모자", 1, 20121}
+, 
+{"C오리모자", 1, 19852}
+, 
+{"C오색깃털장식", 1, 19650}
+, 
+{"C오페라유령가면", 1, 19846}
+, 
+{"C와일드포링라이더", 1, 20458}
+, 
+{"C왕리본", 1, 19847}
+, 
+{"C외눈안경", 1, 19887}
+, 
+{"C웨스턴그레이스", 1, 20180}
+, 
+{"C위스퍼톨햇", 1, 20130}
+, 
+{"C위저드햇", 1, 20093}
+, 
+{"C은색느낌표", 1, 19978}
+, 
+{"C은색물음표", 1, 19980}
+, 
+{"C음악의장식", 1, 19871}
+, 
+{"C음유시인모자", 1, 19656}
+, 
+{"C이블드루이드모자", 1, 19824}
+, 
+{"C인비지블마스크", 1, 19604}
+, 
+{"C인비지블선글라스", 1, 19603}
+, 
+{"C인비지블캡", 1, 19602}
+, 
+{"C인큐버스뿔", 1, 19863}
+, 
+{"C일본트윈리본", 1, 19590}
+, 
+{"C임프모자", 1, 19599}
+, 
+{"C입에문워그", 1, 20071}
+, 
+{"C입에문황금물고기", 1, 20328}
+, 
+{"C자세교정모자", 1, 19932}
+, 
+{"C잠자는고양이모자", 1, 19739}
+, 
+{"C잠자는이클립스가족", 1, 20268}
+, 
+{"C장례건", 1, 20114}
+, 
+{"C장식용꽃", 1, 20205}
+, 
+{"C장식용알껍질", 1, 20090}
+, 
+{"C장식용해바라기", 1, 20271}
+, 
+{"C잭캐슬배트", 1, 20034}
+, 
+{"C젖꼭지", 1, 20054}
+, 
+{"C제미니S58의눈", 1, 19158}
+, 
+{"C졸린고양이모자", 1, 20263}
+, 
+{"C죽은자의투구", 1, 19574}
+, 
+{"C줄무늬머리띠", 1, 20207}
+, 
+{"C지르타스가면", 1, 20244}
+, 
+{"C찰스턴안테나", 1, 20318}
+, 
+{"C천사날개귀_", 1, 19781}
+, 
+{"C천사들의축복", 1, 20404}
+, 
+{"C천사의유령", 1, 20146}
+, 
+{"C천사의투구", 1, 20472}
+, 
+{"C청색머리띠", 1, 20159}
+, 
+{"C청이의영혼", 1, 18743}
+, 
+{"C초록이모자", 1, 20396}
+, 
+{"C카네이션머리띠", 1, 19800}
+, 
+{"C칼리츠버그기사투구", 1, 20432}
+, 
+{"C커다란금방울", 1, 20004}
+, 
+{"C커다란리본머플러", 1, 20239}
+, 
+{"C커세어_K", 1, 19737}
+, 
+{"C케이크모자", 1, 20118}
+, 
+{"C코로넷", 1, 19719}
+, 
+{"C퀸안즈리벤지", 1, 31125}
+, 
+{"C크라운", 1, 19630}
+, 
+{"C크로크카스캐트", 1, 31136}
+, 
+{"C타레교황사복모", 1, 31031}
+, 
+{"C타레교황인형모자", 1, 19576}
+, 
+{"C타레네코크루", 1, 19544}
+, 
+{"C탐정모자_K", 1, 19738}
+, 
+{"C털모자", 1, 20119}
+, 
+{"C테디베어후드", 1, 31166}
+, 
+{"C토끼귀모자", 1, 19876}
+, 
+{"C토스트", 1, 19785}
+, 
+{"C티아라", 1, 19629}
+, 
+{"C파산자의가면", 1, 20230}
+, 
+{"C파이프담배", 1, 20091}
+, 
+{"C팬더곰모자", 1, 19733}
+, 
+{"C펌킨헤드", 1, 20172}
+, 
+{"C페이스_크래셔", 1, 20299}
+, 
+{"C페코페코캡", 1, 19816}
+, 
+{"C포링버블파이프", 1, 31055}
+, 
+{"C포링선글래스", 1, 20295}
+, 
+{"C프로펠라", 1, 19635}
+, 
+{"C프론테라군모", 1, 20161}
+, 
+{"C프리티토끼후드", 1, 19881}
+, 
+{"C플라워포트마스크", 1, 19882}
+, 
+{"C피린트스카프", 1, 20032}
+, 
+{"C피아멧트의두건", 1, 19883}
+, 
+{"C필리르모자", 1, 19831}
+, 
+{"C하트날개헤어밴드", 1, 19573}
+, 
+{"C하트머리핀", 1, 19861}
+, 
+{"C학사모", 1, 20050}
+, 
+{"C할퀴는고양이", 1, 20195}
+, 
+{"C항룡나한가면", 1, 19563}
+, 
+{"C해적의대거", 1, 19584}
+, 
+{"C해피벌룬", 1, 20344}
+, 
+{"C햇", 1, 19632}
+, 
+{"C헌팅캡", 1, 20204}
+, 
+{"C혜군모자", 1, 19821}
+, 
+{"C호박모자", 1, 20225}
+, 
+{"C화이트릴리", 1, 19761}
+, 
+{"C황금아기천사상", 1, 20233}
+, 
+{"C휘케바인의귀", 1, 19643}
+, 
+{"C흑과백의유혹", 1, 20449}
+, 
+{"C흩날리는낙엽", 1, 20154}
+, 
+{"C흩날리는벚꽃", 1, 20285}
+, 
+{"C흩날리는천사의날개", 1, 5979}
+, 
+{"C흰고양이후드", 1, 19823}
+, 
+{"C흰수염", 1, 19783}
+, 
+{"C힐윈드_마스크", 1, 20300}
+, 
+{"나비날개귀", 1, 19509}
+, 
+{"노란햇", 1, 19515}
+, 
+{"노래하는새", 1, 19516}
+, 
+{"닭벼슬", 1, 19517}
+, 
+{"닭부리", 1, 19513}
+, 
+{"맑은태양", 1, 19507}
+, 
+{"머리박힌나사", 1, 19510}
+, 
+{"무지개", 1, 19518}
+, 
+{"미니크라운1", 1, 19522}
+, 
+{"벼락구름", 1, 19519}
+, 
+{"비구름", 1, 19520}
+, 
+{"찰리의모자", 1, 19521}
+, 
+{"찰리의수염", 1, 19514}
+, 
+{"풀죽은엘리엇모자", 1, 19601}
+, 
+{"풀죽은키엘모자", 1, 19600}
+, 
+{"하트눈안대1", 1, 19511}
+, 
+{"하트눈안대2", 1, 19512}
+, 
+{"C노아의모자", 1, 19922}
+, 
+{"C다크에이지", 1, 19923}
+, 
+{"C괴도의외눈안경", 1, 19925}
+, 
+{"C리본_검정", 1, 19926}
+, 
+{"C회색늘어진고양이", 1, 19927}
+, 
+{"C클래식리본", 1, 19929}
+, 
+{"C천사의미니실크햇", 1, 19930}
+, 
+{"C오딘마스크", 1, 19924}
+, 
+{"C고딕하트날개헤어밴드", 1, 19928}
+, 
+{"C마녀의모자", 1, 19903}
+, 
+{"C스컬캡", 1, 19904}
+, 
+{"C흰색새끼악마모자", 1, 19909}
+, 
+{"C할로윈모자", 1, 19910}
+, 
+{"C삼각지붕모자", 1, 19911}
+, 
+{"C고양이눈", 1, 19912}
+, 
+{"C화려한팬텀마스크", 1, 19907}
+, 
+{"C비밀결사단의두건", 1, 19905}
+}
+, NeedSource_String = "의상 아이템"}
 , 
 Silver_Statue = {ItemID = 23545, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
@@ -1394,12 +1114,6 @@ SourceItems = {
 {"언커즈펜던트S", 1, 24108}
 }
 , NeedSource_String = "+5 상태이상 쉐도우"}
-, 
-["부스터증폭기"] = {ItemID = 23308, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
-SourceItems = {
-{"매지컬부스터K", 1, 19241}
-}
-, NeedSource_String = "매지컬 부스터"}
 , 
 ["레이스S변환상자"] = {ItemID = 23281, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 20, 
 SourceItems = {
@@ -1512,210 +1226,6 @@ SourceItems = {
 {"어틀레틱슈즈S", 1, 24045}
 }
 , NeedSource_String = "스테이터스 쉐도우"}
-, 
-["직업S변환상자_웨폰"] = {ItemID = 23236, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
-SourceItems = {
-{"슈퍼노비스웨폰S", 1, 24282}
-, 
-{"건슬링거웨폰S", 1, 24283}
-, 
-{"태권웨폰S", 1, 24284}
-, 
-{"닌자웨폰S", 1, 24285}
-, 
-{"도람매지컬웨폰S", 1, 24286}
-, 
-{"도람피지컬웨폰S", 1, 24287}
-, 
-{"룬나이트웨폰S", 1, 24288}
-, 
-{"로얄가드웨폰S", 1, 24289}
-, 
-{"미케닉웨폰S", 1, 24290}
-, 
-{"제네릭웨폰S", 1, 24291}
-, 
-{"아크비숍웨폰S", 1, 24292}
-, 
-{"수라웨폰S", 1, 24293}
-, 
-{"길로틴크로스웨폰S", 1, 24294}
-, 
-{"쉐도우체이서웨폰S", 1, 24295}
-, 
-{"워록웨폰S", 1, 24296}
-, 
-{"소서러웨폰S", 1, 24297}
-, 
-{"레인져웨폰S", 1, 24298}
-, 
-{"민스트럴웨폰S", 1, 24299}
-, 
-{"원더러웨폰S", 1, 24300}
-}
-, NeedSource_String = "+7 클래스 웨폰 쉐도우"}
-, 
-["직업S변환상자_아머"] = {ItemID = 23237, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
-SourceItems = {
-{"나이트아머S", 1, 24269}
-, 
-{"크루세이더아머S", 1, 24270}
-, 
-{"블랙스미스아머S", 1, 24271}
-, 
-{"알케미스트아머S", 1, 24272}
-, 
-{"프리스트아머S", 1, 24273}
-, 
-{"몽크아머S", 1, 24274}
-, 
-{"어쌔신아머S", 1, 24275}
-, 
-{"로그아머S", 1, 24276}
-, 
-{"위저드아머S", 1, 24277}
-, 
-{"세이지아머S", 1, 24278}
-, 
-{"헌터아머S", 1, 24279}
-, 
-{"바드아머S", 1, 24280}
-, 
-{"댄서아머S", 1, 24281}
-, 
-{"S_Rebellion_Armor", 1, 24402}
-, 
-{"S_Kagerou_Armor", 1, 24403}
-, 
-{"S_Oboro_Armor", 1, 24404}
-, 
-{"S_DoramPhysical_Armor", 1, 24408}
-, 
-{"S_DoramMagical_Armor", 1, 24410}
-, 
-{"S_Star_Emperor_Armor", 1, 24412}
-, 
-{"S_Soul_Reaper_Armor", 1, 24414}
-}
-, NeedSource_String = "+7 클래스 아머 쉐도우"}
-, 
-["직업S변환상자_슈즈"] = {ItemID = 23238, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
-SourceItems = {
-{"나이트슈즈S", 1, 24256}
-, 
-{"크루세이더슈즈S", 1, 24257}
-, 
-{"블랙스미스슈즈S", 1, 24258}
-, 
-{"알케미스트슈즈S", 1, 24259}
-, 
-{"프리스트슈즈S", 1, 24260}
-, 
-{"몽크슈즈S", 1, 24261}
-, 
-{"어쌔신슈즈S", 1, 24262}
-, 
-{"로그슈즈S", 1, 24263}
-, 
-{"위저드슈즈S", 1, 24264}
-, 
-{"세이지슈즈S", 1, 24265}
-, 
-{"헌터슈즈S", 1, 24266}
-, 
-{"바드슈즈S", 1, 24267}
-, 
-{"댄서슈즈S", 1, 24268}
-, 
-{"S_Rebellion_Shoes", 1, 24405}
-, 
-{"S_Kagerou_Shoes", 1, 24406}
-, 
-{"S_Oboro_Shoes", 1, 24407}
-, 
-{"S_DoramPhysical_Shoes", 1, 24409}
-, 
-{"S_DoramMagical_Shoes", 1, 24411}
-, 
-{"S_Star_Emperor_Shoes", 1, 24413}
-, 
-{"S_Soul_Reaper_Shoes", 1, 24415}
-}
-, NeedSource_String = "+7 클래스 슈즈 쉐도우"}
-, 
-["직업S변환상자_쉴드"] = {ItemID = 23239, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
-SourceItems = {
-{"룬나이트쉴드S", 1, 24301}
-, 
-{"로얄가드쉴드S", 1, 24302}
-, 
-{"미케닉쉴드S", 1, 24303}
-, 
-{"제네릭쉴드S", 1, 24304}
-, 
-{"아크비숍쉴드S", 1, 24305}
-, 
-{"수라쉴드S", 1, 24306}
-, 
-{"길로틴크로스쉴드S", 1, 24307}
-, 
-{"쉐도우체이서쉴드S", 1, 24308}
-, 
-{"워록쉴드S", 1, 24309}
-, 
-{"소서러쉴드S", 1, 24310}
-, 
-{"레인져쉴드S", 1, 24311}
-, 
-{"민스트럴쉴드S", 1, 24312}
-, 
-{"원더러쉴드S", 1, 24313}
-, 
-{"닌자쉴드S", 1, 24314}
-, 
-{"태권쉴드S", 1, 24315}
-, 
-{"도람피지컬쉴드S", 1, 24316}
-, 
-{"도람매지컬쉴드S", 1, 24317}
-, 
-{"슈퍼노비스쉴드S", 1, 24318}
-, 
-{"건슬링거쉴드S", 1, 24319}
-}
-, NeedSource_String = "+7 클래스 쉴드 쉐도우"}
-, 
-["직업S변환상자_펜던트"] = {ItemID = 23240, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
-SourceItems = {
-{"소드맨펜던트S", 1, 24250}
-, 
-{"머천트펜던트S", 1, 24251}
-, 
-{"어콜라이트펜던트S", 1, 24252}
-, 
-{"씨프펜던트S", 1, 24253}
-, 
-{"매지션펜던트S", 1, 24254}
-, 
-{"아처펜던트S", 1, 24255}
-}
-, NeedSource_String = "+7 클래스 펜던트 쉐도우"}
-, 
-["직업S변환상자_이어링"] = {ItemID = 23241, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
-SourceItems = {
-{"소드맨이어링S", 1, 24246}
-, 
-{"머천트이어링S", 1, 24247}
-, 
-{"어콜라이트이어링S", 1, 24248}
-, 
-{"매지션이어링S", 1, 24249}
-, 
-{"씨프이어링S", 1, 28391}
-, 
-{"아처이어링S", 1, 28392}
-}
-, NeedSource_String = "+7 클래스 이어링 쉐도우"}
 , 
 ["쉐도우뚝딱상자"] = {ItemID = 22529, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
@@ -2343,186 +1853,6 @@ SourceItems = {
 , 
 {"사이그룬쉴드S", 1, 24327}
 , 
-{"포스액서듀얼웨폰S2", 1, 24328}
-, 
-{"스피릿매직듀얼웨폰S2", 1, 24329}
-, 
-{"캐스터아머S2", 1, 24330}
-, 
-{"리로드아머S2", 1, 24331}
-, 
-{"크리티컬쉴드S", 1, 24332}
-, 
-{"크리티컬슈즈S", 1, 24333}
-, 
-{"매직컴포즈아머S", 1, 24334}
-, 
-{"젬스톤웨폰S2", 1, 24335}
-, 
-{"젬스톤쉴드S2", 1, 24336}
-, 
-{"베어러즈아머S2", 1, 24337}
-, 
-{"베어러즈슈즈S2", 1, 24338}
-, 
-{"올마이티이어링S", 1, 24339}
-, 
-{"올마이티펜던트S", 1, 24340}
-, 
-{"템페스트쉴드S", 1, 24345}
-, 
-{"템페스트슈즈S", 1, 24346}
-, 
-{"매직액서홀리아머S", 1, 24347}
-, 
-{"매직엑소커럽트아머S", 1, 24348}
-, 
-{"매직드래곤바이브아머S", 1, 24349}
-, 
-{"매직시저스헌팅아머S", 1, 24350}
-, 
-{"매직피싱인섹트아머S", 1, 24351}
-, 
-{"플라스터러즈아머S2", 1, 24352}
-, 
-{"인솜니악슈즈S2", 1, 24353}
-, 
-{"피어리스아머S2", 1, 24354}
-, 
-{"애듀레이트슈즈S2", 1, 24355}
-, 
-{"언프리징웨폰S2", 1, 24356}
-, 
-{"바이탈리티이어링S2", 1, 24357}
-, 
-{"뉴트럴웨폰S2", 1, 24358}
-, 
-{"언커즈펜던트S2", 1, 24359}
-, 
-{"텐션웨폰S", 1, 24360}
-, 
-{"텐션이어링S", 1, 24361}
-, 
-{"텐션펜던트S", 1, 24362}
-, 
-{"엘레강트웨폰S", 1, 24363}
-, 
-{"엘레강트이어링S", 1, 24364}
-, 
-{"엘레강트펜던트S", 1, 24365}
-, 
-{"힐링쉴드S", 1, 24366}
-, 
-{"힐링슈즈S", 1, 24367}
-, 
-{"리스토어이어링S", 1, 24368}
-, 
-{"리스토어펜던트S", 1, 24369}
-, 
-{"모탈블로우웨폰S", 1, 24370}
-, 
-{"모탈블로우이어링S", 1, 24371}
-, 
-{"모탈블로우펜던트S", 1, 24372}
-, 
-{"페니트레이션슈즈S", 1, 24373}
-, 
-{"페니트레이션쉴드S", 1, 24374}
-, 
-{"액서홀리아머S", 1, 24375}
-, 
-{"엑소커럽트아머S", 1, 24376}
-, 
-{"드래곤바이브아머S", 1, 24377}
-, 
-{"시저스헌팅아머S", 1, 24378}
-, 
-{"피싱인섹트아머S", 1, 24379}
-, 
-{"Sentimental_Weapone_S", 1, 24380}
-, 
-{"Sentimental_Earring_S", 1, 24381}
-, 
-{"Sentimental_Pendant_S", 1, 24382}
-, 
-{"Enchanting_Weapone_S", 1, 24383}
-, 
-{"Enchanting_Earring_S", 1, 24384}
-, 
-{"Enchanting_Pendant_S", 1, 24385}
-, 
-{"S_Infinity_Weapon", 1, 24386}
-, 
-{"S_Physical_Shoes", 1, 24393}
-, 
-{"S_Physical_Shield", 1, 24394}
-, 
-{"S_Physical_Armor", 1, 24395}
-, 
-{"S_Magical_Shoes", 1, 24396}
-, 
-{"S_Magical_Shield", 1, 24397}
-, 
-{"S_Magical_Armor", 1, 24398}
-, 
-{"S_ImmunedAthena_Shield", 1, 24399}
-, 
-{"S_HardChamption_Shoes", 1, 24400}
-, 
-{"S_KingbirdAncient_Armor", 1, 24401}
-, 
-{"S_CriticalHit_Armor", 1, 15280}
-, 
-{"S_Rebellion_Armor", 1, 24402}
-, 
-{"S_Kagerou_Armor", 1, 24403}
-, 
-{"S_Oboro_Armor", 1, 24404}
-, 
-{"S_Rebellion_Shoes", 1, 24405}
-, 
-{"S_Kagerou_Shoes", 1, 24406}
-, 
-{"S_Oboro_Shoes", 1, 24407}
-, 
-{"S_DoramPhysical_Armor", 1, 24408}
-, 
-{"S_DoramPhysical_Shoes", 1, 24409}
-, 
-{"S_DoramMagical_Armor", 1, 24410}
-, 
-{"S_DoramMagical_Shoes", 1, 24411}
-, 
-{"S_Star_Emperor_Armor", 1, 24412}
-, 
-{"S_Star_Emperor_Shoes", 1, 24413}
-, 
-{"S_Soul_Reaper_Armor", 1, 24414}
-, 
-{"S_Soul_Reaper_Shoes", 1, 24415}
-, 
-{"S_Tempest_Weapon", 1, 24423}
-, 
-{"S_Tempest_Armor", 1, 24424}
-, 
-{"S_PerfectSize_Weapon", 1, 24425}
-, 
-{"S_PerfectSize_Armor", 1, 24426}
-, 
-{"S_M_Exo_Co_Weapon", 1, 24427}
-, 
-{"S_M_Viv_Dr_Weapon", 1, 24428}
-, 
-{"S_M_Sci_Hu_Weapon", 1, 24429}
-, 
-{"S_M_Fis_In_Weapon", 1, 24430}
-, 
-{"S_M_Exe_Ho_Weapon", 1, 24431}
-, 
-{"S_Penetration_Weapon", 1, 24432}
-, 
-{"S_Penetration_Armor", 1, 24433}
-, 
 {"S_Exe_Ho_Weapon", 1, 24434}
 , 
 {"S_Fis_In_Weapon", 1, 24435}
@@ -2679,78 +2009,6 @@ SourceItems = {
 , 
 {"S_Reverberation_Earing", 1, 24511}
 , 
-{"S_Triangle_Armor", 1, 24524}
-, 
-{"S_Triangle_Shield", 1, 24525}
-, 
-{"S_Triangle_Shoes", 1, 24526}
-, 
-{"S_Shadowspell_Weapon", 1, 24527}
-, 
-{"S_Shadowspell_Pendant", 1, 24528}
-, 
-{"S_Shadowspell_Earing", 1, 24529}
-, 
-{"S_Menace_Armor", 1, 24530}
-, 
-{"S_Menace_Shield", 1, 24531}
-, 
-{"S_Menace_Shoes", 1, 24532}
-, 
-{"S_Paint_Weapon", 1, 24533}
-, 
-{"S_Paint_Pendant", 1, 24534}
-, 
-{"S_Paint_Earing", 1, 24535}
-, 
-{"S_Rolling_Armor", 1, 24536}
-, 
-{"S_Rolling_Shield", 1, 24537}
-, 
-{"S_Rolling_Shoes", 1, 24538}
-, 
-{"S_Katar_Weapon", 1, 24539}
-, 
-{"S_Katar_Pendant", 1, 24540}
-, 
-{"S_Katar_Earing", 1, 24541}
-, 
-{"S_Slash_Armor", 1, 24542}
-, 
-{"S_Slash_Shield", 1, 24543}
-, 
-{"S_Slash_Shoes", 1, 24544}
-, 
-{"S_Ripper_Weapon", 1, 24545}
-, 
-{"S_Ripper_Pendant", 1, 24546}
-, 
-{"S_Ripper_Earing", 1, 24547}
-, 
-{"S_Dust_Armor", 1, 24548}
-, 
-{"S_Dust_Shield", 1, 24549}
-, 
-{"S_Dust_Shoes", 1, 24550}
-, 
-{"S_Grave_Weapon", 1, 24551}
-, 
-{"S_Grave_Pendant", 1, 24552}
-, 
-{"S_Grave_Earing", 1, 24553}
-, 
-{"S_Psychic_Armor", 1, 24554}
-, 
-{"S_Psychic_Shield", 1, 24555}
-, 
-{"S_Psychic_Shoes", 1, 24556}
-, 
-{"S_Varetyr_Weapon", 1, 24557}
-, 
-{"S_Varetyr_Pendant", 1, 24558}
-, 
-{"S_Varetyr_Earing", 1, 24559}
-, 
 {"S_Jack_Armor", 1, 24512}
 , 
 {"S_Jack_Shield", 1, 24513}
@@ -2825,11 +2083,337 @@ SourceItems = {
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
-["선풍기개조키트"] = {ItemID = 23170, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+["직업쉐도우조합상자"] = {ItemID = 23208, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
 SourceItems = {
-{"해달선풍기", 1, 28439}
+{"소드맨이어링S", 1, 24246}
+, 
+{"머천트이어링S", 1, 24247}
+, 
+{"어콜라이트이어링S", 1, 24248}
+, 
+{"매지션이어링S", 1, 24249}
+, 
+{"소드맨펜던트S", 1, 24250}
+, 
+{"머천트펜던트S", 1, 24251}
+, 
+{"어콜라이트펜던트S", 1, 24252}
+, 
+{"씨프펜던트S", 1, 24253}
+, 
+{"매지션펜던트S", 1, 24254}
+, 
+{"아처펜던트S", 1, 24255}
+, 
+{"나이트슈즈S", 1, 24256}
+, 
+{"크루세이더슈즈S", 1, 24257}
+, 
+{"블랙스미스슈즈S", 1, 24258}
+, 
+{"알케미스트슈즈S", 1, 24259}
+, 
+{"프리스트슈즈S", 1, 24260}
+, 
+{"몽크슈즈S", 1, 24261}
+, 
+{"어쌔신슈즈S", 1, 24262}
+, 
+{"로그슈즈S", 1, 24263}
+, 
+{"위저드슈즈S", 1, 24264}
+, 
+{"세이지슈즈S", 1, 24265}
+, 
+{"헌터슈즈S", 1, 24266}
+, 
+{"바드슈즈S", 1, 24267}
+, 
+{"댄서슈즈S", 1, 24268}
+, 
+{"나이트아머S", 1, 24269}
+, 
+{"크루세이더아머S", 1, 24270}
+, 
+{"블랙스미스아머S", 1, 24271}
+, 
+{"알케미스트아머S", 1, 24272}
+, 
+{"프리스트아머S", 1, 24273}
+, 
+{"몽크아머S", 1, 24274}
+, 
+{"어쌔신아머S", 1, 24275}
+, 
+{"로그아머S", 1, 24276}
+, 
+{"위저드아머S", 1, 24277}
+, 
+{"세이지아머S", 1, 24278}
+, 
+{"헌터아머S", 1, 24279}
+, 
+{"바드아머S", 1, 24280}
+, 
+{"댄서아머S", 1, 24281}
+, 
+{"슈퍼노비스웨폰S", 1, 24282}
+, 
+{"건슬링거웨폰S", 1, 24283}
+, 
+{"태권웨폰S", 1, 24284}
+, 
+{"닌자웨폰S", 1, 24285}
+, 
+{"도람매지컬웨폰S", 1, 24286}
+, 
+{"도람피지컬웨폰S", 1, 24287}
+, 
+{"룬나이트웨폰S", 1, 24288}
+, 
+{"로얄가드웨폰S", 1, 24289}
+, 
+{"미케닉웨폰S", 1, 24290}
+, 
+{"제네릭웨폰S", 1, 24291}
+, 
+{"아크비숍웨폰S", 1, 24292}
+, 
+{"수라웨폰S", 1, 24293}
+, 
+{"길로틴크로스웨폰S", 1, 24294}
+, 
+{"쉐도우체이서웨폰S", 1, 24295}
+, 
+{"워록웨폰S", 1, 24296}
+, 
+{"소서러웨폰S", 1, 24297}
+, 
+{"레인져웨폰S", 1, 24298}
+, 
+{"민스트럴웨폰S", 1, 24299}
+, 
+{"원더러웨폰S", 1, 24300}
+, 
+{"룬나이트쉴드S", 1, 24301}
+, 
+{"로얄가드쉴드S", 1, 24302}
+, 
+{"미케닉쉴드S", 1, 24303}
+, 
+{"제네릭쉴드S", 1, 24304}
+, 
+{"아크비숍쉴드S", 1, 24305}
+, 
+{"수라쉴드S", 1, 24306}
+, 
+{"길로틴크로스쉴드S", 1, 24307}
+, 
+{"쉐도우체이서쉴드S", 1, 24308}
+, 
+{"워록쉴드S", 1, 24309}
+, 
+{"소서러쉴드S", 1, 24310}
+, 
+{"레인져쉴드S", 1, 24311}
+, 
+{"민스트럴쉴드S", 1, 24312}
+, 
+{"원더러쉴드S", 1, 24313}
+, 
+{"닌자쉴드S", 1, 24314}
+, 
+{"태권쉴드S", 1, 24315}
+, 
+{"도람피지컬쉴드S", 1, 24316}
+, 
+{"도람매지컬쉴드S", 1, 24317}
+, 
+{"슈퍼노비스쉴드S", 1, 24318}
+, 
+{"건슬링거쉴드S", 1, 24319}
+, 
+{"씨프이어링S", 1, 28391}
+, 
+{"아처이어링S", 1, 28392}
 }
-, NeedSource_String = "해달 미니 선풍기"}
+, NeedSource_String = "+7 직업군 쉐도우"}
+, 
+["직업S변환상자_웨폰"] = {ItemID = 23236, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"슈퍼노비스웨폰S", 1, 24282}
+, 
+{"건슬링거웨폰S", 1, 24283}
+, 
+{"태권웨폰S", 1, 24284}
+, 
+{"닌자웨폰S", 1, 24285}
+, 
+{"도람매지컬웨폰S", 1, 24286}
+, 
+{"도람피지컬웨폰S", 1, 24287}
+, 
+{"룬나이트웨폰S", 1, 24288}
+, 
+{"로얄가드웨폰S", 1, 24289}
+, 
+{"미케닉웨폰S", 1, 24290}
+, 
+{"제네릭웨폰S", 1, 24291}
+, 
+{"아크비숍웨폰S", 1, 24292}
+, 
+{"수라웨폰S", 1, 24293}
+, 
+{"길로틴크로스웨폰S", 1, 24294}
+, 
+{"쉐도우체이서웨폰S", 1, 24295}
+, 
+{"워록웨폰S", 1, 24296}
+, 
+{"소서러웨폰S", 1, 24297}
+, 
+{"레인져웨폰S", 1, 24298}
+, 
+{"민스트럴웨폰S", 1, 24299}
+, 
+{"원더러웨폰S", 1, 24300}
+}
+, NeedSource_String = "+7 직업 웨폰 쉐도우"}
+, 
+["직업S변환상자_아머"] = {ItemID = 23237, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"나이트아머S", 1, 24269}
+, 
+{"크루세이더아머S", 1, 24270}
+, 
+{"블랙스미스아머S", 1, 24271}
+, 
+{"알케미스트아머S", 1, 24272}
+, 
+{"프리스트아머S", 1, 24273}
+, 
+{"몽크아머S", 1, 24274}
+, 
+{"어쌔신아머S", 1, 24275}
+, 
+{"로그아머S", 1, 24276}
+, 
+{"위저드아머S", 1, 24277}
+, 
+{"세이지아머S", 1, 24278}
+, 
+{"헌터아머S", 1, 24279}
+, 
+{"바드아머S", 1, 24280}
+, 
+{"댄서아머S", 1, 24281}
+}
+, NeedSource_String = "+7 직업 아머 쉐도우"}
+, 
+["직업S변환상자_슈즈"] = {ItemID = 23238, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"나이트슈즈S", 1, 24256}
+, 
+{"크루세이더슈즈S", 1, 24257}
+, 
+{"블랙스미스슈즈S", 1, 24258}
+, 
+{"알케미스트슈즈S", 1, 24259}
+, 
+{"프리스트슈즈S", 1, 24260}
+, 
+{"몽크슈즈S", 1, 24261}
+, 
+{"어쌔신슈즈S", 1, 24262}
+, 
+{"로그슈즈S", 1, 24263}
+, 
+{"위저드슈즈S", 1, 24264}
+, 
+{"세이지슈즈S", 1, 24265}
+, 
+{"헌터슈즈S", 1, 24266}
+, 
+{"바드슈즈S", 1, 24267}
+, 
+{"댄서슈즈S", 1, 24268}
+}
+, NeedSource_String = "+7 직업 슈즈 쉐도우"}
+, 
+["직업S변환상자_쉴드"] = {ItemID = 23239, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"룬나이트쉴드S", 1, 24301}
+, 
+{"로얄가드쉴드S", 1, 24302}
+, 
+{"미케닉쉴드S", 1, 24303}
+, 
+{"제네릭쉴드S", 1, 24304}
+, 
+{"아크비숍쉴드S", 1, 24305}
+, 
+{"수라쉴드S", 1, 24306}
+, 
+{"길로틴크로스쉴드S", 1, 24307}
+, 
+{"쉐도우체이서쉴드S", 1, 24308}
+, 
+{"워록쉴드S", 1, 24309}
+, 
+{"소서러쉴드S", 1, 24310}
+, 
+{"레인져쉴드S", 1, 24311}
+, 
+{"민스트럴쉴드S", 1, 24312}
+, 
+{"원더러쉴드S", 1, 24313}
+, 
+{"닌자쉴드S", 1, 24314}
+, 
+{"태권쉴드S", 1, 24315}
+, 
+{"도람피지컬쉴드S", 1, 24316}
+, 
+{"도람매지컬쉴드S", 1, 24317}
+, 
+{"슈퍼노비스쉴드S", 1, 24318}
+, 
+{"건슬링거쉴드S", 1, 24319}
+}
+, NeedSource_String = "+7 직업 쉴드 쉐도우"}
+, 
+["직업S변환상자_펜던트"] = {ItemID = 23240, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"소드맨펜던트S", 1, 24250}
+, 
+{"머천트펜던트S", 1, 24251}
+, 
+{"어콜라이트펜던트S", 1, 24252}
+, 
+{"씨프펜던트S", 1, 24253}
+, 
+{"매지션펜던트S", 1, 24254}
+, 
+{"아처펜던트S", 1, 24255}
+}
+, NeedSource_String = "+7 직업 펜던트 쉐도우"}
+, 
+["직업S변환상자_이어링"] = {ItemID = 23241, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"소드맨이어링S", 1, 24246}
+, 
+{"머천트이어링S", 1, 24247}
+, 
+{"어콜라이트이어링S", 1, 24248}
+, 
+{"매지션이어링S", 1, 24249}
+, 
+{"씨프이어링S", 1, 28391}
+, 
+{"아처이어링S", 1, 28392}
+}
+, NeedSource_String = "+7 직업 이어링 쉐도우"}
 , 
 ["의상스톤뚝딱상자"] = {ItemID = 23151, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
@@ -3007,216 +2591,6 @@ SourceItems = {
 , 
 {"강화_HP흡수스톤_걸칠것", 1, 25209}
 , 
-{"워터필드이펙트_하단", 1, 25226}
-, 
-{"진홍의파동이펙트_중단", 1, 25225}
-, 
-{"화이트바디이펙트_중단", 1, 25224}
-, 
-{"스틸스톤_하단", 1, 25229}
-, 
-{"텔레포트스톤_하단", 1, 25228}
-, 
-{"힐스톤_하단", 1, 25227}
-, 
-{"SuraStone_Top", 1, 25409}
-, 
-{"SuraStone_Middle", 1, 25410}
-, 
-{"SuraStone_Bottom", 1, 25411}
-, 
-{"SuraStone_Robe", 1, 25412}
-, 
-{"RangerStone_Top", 1, 25413}
-, 
-{"RangerStone_Middle", 1, 25414}
-, 
-{"RangerStone_Bottom", 1, 25415}
-, 
-{"RangerStone_Robe", 1, 25416}
-, 
-{"SorcererStone_Top", 1, 25417}
-, 
-{"SorcererStone_Middle", 1, 25418}
-, 
-{"SorcererStone_Bottom", 1, 25419}
-, 
-{"SorcererStone_Robe", 1, 25420}
-, 
-{"RuneknightStone_Top", 1, 25445}
-, 
-{"RuneknightStone_Middle", 1, 25446}
-, 
-{"RuneknightStone_Bottom", 1, 25447}
-, 
-{"RuneknightStone_Robe", 1, 25448}
-, 
-{"GeneticStone_Robe", 1, 25449}
-, 
-{"GeneticStone_Top", 1, 25450}
-, 
-{"GeneticStone_Middle", 1, 25451}
-, 
-{"GeneticStone_Bottom", 1, 25452}
-, 
-{"WarlockStone_Top", 1, 25453}
-, 
-{"WarlockStone_Middle", 1, 25454}
-, 
-{"WarlockStone_Bottom", 1, 25455}
-, 
-{"WarlockStone_Robe", 1, 25456}
-, 
-{"ShadowchaserStone_Top", 1, 25490}
-, 
-{"ShadowchaseStone_Middle", 1, 25491}
-, 
-{"ShadowchaseStone_Bottom", 1, 25492}
-, 
-{"ShadowchaserStone_Robe", 1, 25493}
-, 
-{"MechanicStone_Top", 1, 25494}
-, 
-{"MechanicStone_Middle", 1, 25495}
-, 
-{"MechanicStone_Bottom", 1, 25496}
-, 
-{"MechanicStone_Robe", 1, 25497}
-, 
-{"WanderMinstrelStone_Top", 1, 25498}
-, 
-{"WanderMinstStone_Middle", 1, 25499}
-, 
-{"WanderMinstStone_Bottom", 1, 25500}
-, 
-{"WanderMinstreStone_Robe", 1, 25501}
-, 
-{"HP스톤_하단", 1, 6951}
-, 
-{"더블어택스톤_걸칠것", 1, 25302}
-, 
-{"크리티컬스톤_걸칠것", 1, 25303}
-, 
-{"크리티컬스톤_상단", 1, 25304}
-, 
-{"크리티컬스톤_하단", 1, 25305}
-, 
-{"변동캐스팅스톤_걸칠것", 1, 25306}
-, 
-{"HighpriestStone_Top", 1, 25706}
-, 
-{"HighpriestStone_Middle", 1, 25707}
-, 
-{"HighpriestStone_Bottom", 1, 25708}
-, 
-{"ArchbishopStone_Robe", 1, 25709}
-, 
-{"PaladinStone_Top", 1, 25710}
-, 
-{"PaladinStone_Middle", 1, 25711}
-, 
-{"PaladinStone_Bottom", 1, 25712}
-, 
-{"RoyalguardStone_Robe", 1, 25713}
-, 
-{"AssacrossStone_Top", 1, 25714}
-, 
-{"AssacrossStone_Middle", 1, 25715}
-, 
-{"AssacrossStone_Bottom", 1, 25716}
-, 
-{"GuillcrossStone_Robe", 1, 25717}
-, 
-{"SuraStone_Robe2", 1, 25797}
-, 
-{"SuraStone_Bottom2", 1, 25798}
-, 
-{"SuraStone_Middle2", 1, 25799}
-, 
-{"SuraStone_Top2", 1, 25800}
-, 
-{"SorcererStone_Robe2", 1, 25801}
-, 
-{"SorcererStone_Bottom2", 1, 25802}
-, 
-{"SorcererStone_Middle2", 1, 25803}
-, 
-{"SorcererStone_Top2", 1, 25804}
-, 
-{"ShadowchaserStone_Robe2", 1, 25805}
-, 
-{"ShadowchasStone_Bottom2", 1, 25806}
-, 
-{"ShadowchasStone_Middle2", 1, 25807}
-, 
-{"ShadowchaserStone_Top2", 1, 25808}
-, 
-{"SoulreaperStone_Robe", 1, 25842}
-, 
-{"SoullinkerStone_Top", 1, 25843}
-, 
-{"SoullinkerStone_Middle", 1, 25844}
-, 
-{"SoullinkerStone_Bottom", 1, 25845}
-, 
-{"GladiatorStone_Top", 1, 25846}
-, 
-{"GladiatorStone_Middle", 1, 25847}
-, 
-{"GladiatorStone_Bottom", 1, 25848}
-, 
-{"StaremperorStone_Robe", 1, 25849}
-, 
-{"NinjaStone_Top", 1, 25850}
-, 
-{"NinjaStone_Middle", 1, 25851}
-, 
-{"NinjaStone_Bottom", 1, 25852}
-, 
-{"KagerouStone_Robe", 1, 25853}
-, 
-{"OboroStone_Robe", 1, 25854}
-, 
-{"GunslingerStone_Top", 1, 25855}
-, 
-{"GunslingerStone_Middle", 1, 25856}
-, 
-{"GunslingerStone_Bottom", 1, 25857}
-, 
-{"RebellionStone_Robe", 1, 25858}
-, 
-{"DoramStone_Top", 1, 25859}
-, 
-{"DoramStone_Middle", 1, 25860}
-, 
-{"DoramStone_Bottom", 1, 25861}
-, 
-{"DoramStone_Robe", 1, 25862}
-, 
-{"RangerStone_Top2", 1, 1000008}
-, 
-{"RangerStone_Middle2", 1, 1000009}
-, 
-{"RangerStone_Bottom2", 1, 1000010}
-, 
-{"RangerStone_Robe2", 1, 1000011}
-, 
-{"MechanicStone_Top2", 1, 1000012}
-, 
-{"MechanicStone_Middle2", 1, 1000013}
-, 
-{"MechanicStone_Bottom2", 1, 1000014}
-, 
-{"MechanicStone_Robe2", 1, 1000015}
-, 
-{"HighpriestStone_Top2", 1, 1000016}
-, 
-{"HighpriestStone_Middle2", 1, 1000017}
-, 
-{"HighpriestStone_Bottom2", 1, 1000018}
-, 
-{"ArchbishopStone_Robe2", 1, 1000019}
-, 
 {"WarlockStone_Robe2", 1, 1000213}
 , 
 {"WarlockStone_Top2", 1, 1000214}
@@ -3240,30 +2614,6 @@ SourceItems = {
 {"AssacrossStone_Middle2", 1, 1000223}
 , 
 {"AssacrossStone_Bottom2", 1, 1000224}
-, 
-{"RuneknightStone_Robe2", 1, 1000296}
-, 
-{"RuneknightStone_Top2", 1, 1000297}
-, 
-{"RuneknightStone_Middle2", 1, 1000298}
-, 
-{"RuneknightStone_Bottom2", 1, 1000299}
-, 
-{"GeneticStone_Robe2", 1, 1000300}
-, 
-{"GeneticStone_Top2", 1, 1000301}
-, 
-{"GeneticStone_Middle2", 1, 1000302}
-, 
-{"GeneticStone_Bottom2", 1, 1000303}
-, 
-{"WanderMinsStone_Robe2", 1, 1000304}
-, 
-{"WanderMinsStone_Top2", 1, 1000305}
-, 
-{"WanderMinsStone_Middle2", 1, 1000306}
-, 
-{"WanderMinsStone_Bottom2", 1, 1000307}
 }
 , NeedSource_String = "의상인챈트스톤"}
 , 
@@ -4043,18 +3393,6 @@ SourceItems = {
 , 
 {"C발키리서클릿", 1, 5909}
 , 
-{"C에레메스스카프검정", 1, 31057}
-, 
-{"C엘레노아가발", 1, 31062}
-, 
-{"C퀸안즈리벤지", 1, 31125}
-, 
-{"C암살자해골가면", 1, 31118}
-, 
-{"C뱀파이어의사역마", 1, 31120}
-, 
-{"C고스트링톨햇", 1, 31123}
-, 
 {"C매지컬페더", 1, 31040}
 , 
 {"C스팀펑크햇", 1, 20381}
@@ -4062,54 +3400,6 @@ SourceItems = {
 {"C포링버블파이프", 1, 31055}
 , 
 {"C검의날개", 1, 20510}
-, 
-{"C당고머리_청", 1, 31063}
-, 
-{"C당고머리_적", 1, 31064}
-, 
-{"C당고머리_황", 1, 31065}
-, 
-{"C당고머리_녹", 1, 31066}
-, 
-{"C당고머리_흑", 1, 31067}
-, 
-{"C당고머리_백", 1, 31068}
-, 
-{"C당고머리_갈", 1, 31069}
-, 
-{"C당고머리_자", 1, 31070}
-, 
-{"C롤트윈_청", 1, 31071}
-, 
-{"C롤트윈_적", 1, 31072}
-, 
-{"C롤트윈_황", 1, 31073}
-, 
-{"C롤트윈_녹", 1, 31074}
-, 
-{"C롤트윈_흑", 1, 31075}
-, 
-{"C롤트윈_백", 1, 31076}
-, 
-{"C롤트윈_갈", 1, 31077}
-, 
-{"C롤트윈_자", 1, 31078}
-, 
-{"C롱포니_청", 1, 31079}
-, 
-{"C롱포니_적", 1, 31080}
-, 
-{"C롱포니_황", 1, 31081}
-, 
-{"C롱포니_녹", 1, 31082}
-, 
-{"C롱포니_흑", 1, 31083}
-, 
-{"C롱포니_백", 1, 31084}
-, 
-{"C롱포니_갈", 1, 31085}
-, 
-{"C롱포니_자", 1, 31086}
 , 
 {"C목말", 1, 31165}
 , 
@@ -4119,176 +3409,6 @@ SourceItems = {
 , 
 {"C파란나비날개", 1, 20511}
 , 
-{"C검은고양이", 1, 31186}
-, 
-{"C흑과백의유혹", 1, 20449}
-, 
-{"C할퀴는고양이", 1, 20195}
-, 
-{"C_Thanatos_Sword", 1, 20514}
-, 
-{"C따뜻한고양이머플러", 1, 31300}
-, 
-{"C크로크카스캐트", 1, 31136}
-, 
-{"C수다쟁이앵무새", 1, 31134}
-, 
-{"C심두멸각머플러", 1, 31178}
-, 
-{"C테디베어후드", 1, 31166}
-, 
-{"C무통라이프_파랑", 1, 31168}
-, 
-{"C브라운스톨", 1, 31164}
-, 
-{"C_Pope_Sitting_Head", 1, 31397}
-, 
-{"C타레교황사복모", 1, 31031}
-, 
-{"C프레이야신도의모자", 1, 31033}
-, 
-{"C교황의리본", 1, 20488}
-, 
-{"C_Alice_Wig", 1, 31329}
-, 
-{"C_Khalitzburg_Helm_BL", 1, 31332}
-, 
-{"C_Wanderer_Sakkat", 1, 31415}
-, 
-{"C_Wings_of_Michael", 1, 20516}
-, 
-{"C수라왕의두건", 1, 31180}
-, 
-{"C고양이귀사이버헤드폰R", 1, 19294}
-, 
-{"C달의안대", 1, 19289}
-, 
-{"C시바견", 1, 19291}
-, 
-{"C_Magic_Circle", 1, 20515}
-, 
-{"C냉기입김", 1, 19992}
-, 
-{"C늘어진아르지오프", 1, 19959}
-, 
-{"C체인퍼펫", 1, 19960}
-, 
-{"C_Sorcerer_Hood", 1, 31396}
-, 
-{"C_Baby_Penguin", 1, 31437}
-, 
-{"C_Fluffy_Heart_Earmuffs", 1, 31439}
-, 
-{"C대천사의날개", 1, 20765}
-, 
-{"C_GiantCatBag_TW", 1, 20517}
-, 
-{"C_Luwmin_Ice", 1, 31432}
-, 
-{"C요마의휴일", 1, 31314}
-, 
-{"C_Blessing_Sky_Lantern", 1, 31460}
-, 
-{"C_Blinking_Thin_Eyes", 1, 31398}
-, 
-{"C_Bouquet_Hat", 1, 31489}
-, 
-{"C_Poring_Muffler", 1, 31490}
-, 
-{"C_Happy_Rabbit_Ribbon", 1, 31529}
-, 
-{"C_PinkButterfly_Wing_T", 1, 20533}
-, 
-{"C세피아캡", 1, 20171}
-, 
-{"C낙원의새장", 1, 20482}
-, 
-{"C법사관", 1, 20033}
-, 
-{"C_Digital_Space", 1, 20535}
-, 
-{"C흰토끼의귀", 1, 31139}
-, 
-{"C_Autumn_Headband", 1, 31606}
-, 
-{"C토끼뿅모자", 1, 31249}
-, 
-{"C_Halloween_Poring_Bag", 1, 20543}
-, 
-{"C주황색할로윈모자", 1, 20174}
-, 
-{"C뱀파이어헤어밴드", 1, 20098}
-, 
-{"C검은마녀의모자", 1, 20395}
-, 
-{"C디아볼릭헤드폰", 1, 20175}
-, 
-{"C_Princess_Ribbon_Crown", 1, 31565}
-, 
-{"C_Poporing_Muffler", 1, 31586}
-, 
-{"C_Protect_Cloth", 1, 31625}
-, 
-{"C_Backside_Ribbon_Bell", 1, 20546}
-, 
-{"C타락천사의날개", 1, 20764}
-, 
-{"C눈토끼니트모자", 1, 19990}
-, 
-{"C_Snow_Bear_Food", 1, 31440}
-, 
-{"C_LunaticMuffler", 1, 31693}
-, 
-{"C_Sleep_Sheep_TW", 1, 31616}
-, 
-{"C_HeartChocoBag", 1, 20570}
-, 
-{"C_Cat_Ears_Punkish", 1, 31382}
-, 
-{"C_CatCoffeeCup_TW", 1, 31481}
-, 
-{"C_HeartOfCat_TW", 1, 31624}
-, 
-{"C트윈마가레트", 1, 20486}
-, 
-{"C블랙래빗보넷", 1, 20257}
-, 
-{"C_Smiling_Eyes", 1, 31699}
-, 
-{"C_WingOfHeart", 1, 20572}
-, 
-{"C_Kishu_Inu", 1, 31600}
-, 
-{"C_Panda_Rabbit", 1, 31512}
-, 
-{"C_Full_BloomCherry_Tree", 1, 20519}
-, 
-{"C_Fox", 1, 31614}
-, 
-{"C_OpenAir_Headset", 1, 31569}
-, 
-{"C_Mobile_Pursuit_System", 1, 31572}
-, 
-{"C_Mecha_Cat_Ears", 1, 31573}
-, 
-{"C_Cyber_Income", 1, 31574}
-, 
-{"C_Cat_Fork", 1, 20576}
-, 
-{"C_CatEarRibbon_TW", 1, 31483}
-, 
-{"C_Garnet_Tiara", 1, 31765}
-, 
-{"C_Peony_Hair_Ornament", 1, 31766}
-, 
-{"C사랑의조각", 1, 20022}
-, 
-{"C프리티베어", 1, 31027}
-, 
-{"C_Pigtail_Red_Hood", 1, 31698}
-, 
-{"C_SharkHead", 1, 440000}
-, 
 {"C_Baby_Panda", 1, 31798}
 , 
 {"C_SavageB_On_Shoulder", 1, 31787}
@@ -4297,58 +3417,754 @@ SourceItems = {
 , 
 {"C_Big_Foxtail", 1, 20584}
 , 
-{"C_T_Bear_Bag", 1, 20582}
+{"C_Mike_Stand", 1, 31930}
 , 
-{"C_Poring_On_Shoulder", 1, 31688}
+{"C_Baby_Polar_Bear", 1, 31923}
 , 
-{"C_FortunetellinSealed", 1, 31735}
+{"C_Runaway_Accelerator", 1, 31849}
 , 
-{"C_Pretty_Bear_WH", 1, 31799}
+{"C_Half_Rim_Glasses", 1, 31931}
 , 
-{"C_Bicolor_Cat_Witch_Hat", 1, 31832}
+{"C_P_Ulysses_Feather", 1, 20603}
 , 
-{"C_Nifl_Bloom", 1, 20588}
+{"C_DancingButterfly_TW", 1, 31618}
 , 
-{"C_Floating_Ball_TW", 1, 31568}
+{"C_Blue_Pencil_In_Mouth", 1, 31927}
 , 
-{"C_Dark_Snake_Lord_Stall", 1, 31611}
-, 
-{"C_Twin_Canon", 1, 31671}
-, 
-{"C_Picnic_Basket", 1, 31673}
-, 
-{"C_Magic_Helm", 1, 31884}
-, 
-{"C_ManyStars_TW", 1, 31479}
-, 
-{"C_Santa_Backpack", 1, 20592}
-, 
-{"C_Fawn_Ear", 1, 31509}
-, 
-{"C_Royalguard_Necklace", 1, 31559}
-, 
-{"C_Happy_Cat_TW", 1, 440002}
-, 
-{"C모노크롬캡", 1, 20153}
-, 
-{"C추억의밤하늘", 1, 20451}
-, 
-{"C_Ice_Wing", 1, 20593}
-, 
-{"C_Under_Rim_Glasses_Bu", 1, 31601}
-, 
-{"C_Gimmick_One_Feather", 1, 20589}
-, 
-{"C회중시계머리장식", 1, 20379}
-, 
-{"C_Poring_Traffic_Light", 1, 31404}
-, 
-{"C_PGstone_Knit_Hat_PK", 1, 31906}
+{"C_Nut_Donut_In_Mouth", 1, 31936}
 }
 , NeedSource_String = "냥다래 의상"}
+, 
+S_MixBox_ATT_BearS2 = {ItemID = 23461, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"베어러즈아머S2", 1, 24337}
+, 
+{"베어러즈슈즈S2", 1, 24338}
 }
-, get_lapine_box = function(in_box_id)
+, NeedSource_String = "베어러즈_쉐도우_II아머_슈즈"}
+, 
+S_MixBox_ATT_ALLM_S = {ItemID = 23462, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"올마이티펜던트S", 1, 24340}
+, 
+{"올마이티이어링S", 1, 24339}
+}
+, NeedSource_String = "올마이티_쉐도우_장신구"}
+, 
+S_MixBox_ATT_Gem_S = {ItemID = 23522, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"젬스톤웨폰S2", 1, 24335}
+, 
+{"젬스톤쉴드S2", 1, 24336}
+}
+, NeedSource_String = "젬스톤S2웨폰,쉴드"}
+, 
+S_MixBox_ATT_MComp_S = {ItemID = 23523, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"매직컴포즈아머S", 1, 24334}
+}
+, NeedSource_String = "매직컴포즈S 아머"}
+, 
+S_Race_ElementMix = {ItemID = 23535, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"올레이스슈즈S", 1, 24341}
+, 
+{"올레이스쉴드S", 1, 24342}
+}
+, NeedSource_String = "올레이스 쉐도우"}
+, 
+RTC_Tolerance_Box = {ItemID = 23757, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"2018_RTC_Cape4_TW", 1, 20926}
+}
+, NeedSource_String = "2018_RTC_Cape4_TW"}
+, 
+RTC_ATK_Box = {ItemID = 23758, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"2018_RTC_Cape4_TW", 1, 20926}
+}
+, NeedSource_String = "2018_RTC_Cape4_TW"}
+, 
+RTC_DEF_Box = {ItemID = 23759, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"2018_RTC_Cape4_TW", 1, 20926}
+}
+, NeedSource_String = "2018_RTC_Cape4_TW"}
+, 
+RTC_Element_Box = {ItemID = 23760, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"2018_RTC_Cape4_TW", 1, 20926}
+}
+, NeedSource_String = "2018_RTC_Cape4_TW"}
+, 
+RTC_Event_Box = {ItemID = 23782, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"2018_RTC_Cape_ROS", 1, 20930}
+}
+, NeedSource_String = "2018_RTC_Cape_ROS"}
+, 
+Bs_Item_M_S_2 = {ItemID = 23818, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Token_of_OrcGeneral", 150, 25508}
+}
+, NeedSource_String = "오크 장군의 증표, 제르늄"}
+, 
+Bs_Item_M_S_8 = {ItemID = 23819, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"발할라의꽃", 150, 7510}
+}
+, NeedSource_String = "발할라의 꽃, 제르늄"}
+, 
+Bs_Item_M_S_10 = {ItemID = 23820, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"부서진왕관", 150, 7754}
+}
+, NeedSource_String = "부서진 왕관, 제르늄"}
+, 
+Bs_Item_M_S_11 = {ItemID = 23821, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"어머니의악몽", 150, 7020}
+}
+, NeedSource_String = "어머니의 악몽, 제르늄"}
+, 
+Bs_Item_M_S_34 = {ItemID = 23822, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"해골갑옷조각", 150, 7450}
+}
+, NeedSource_String = "해골 갑옷 조각, 제르늄"}
+, 
+Bs_Item_M_S_41 = {ItemID = 23823, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"어머니의악몽", 150, 7020}
+}
+, NeedSource_String = "어머니의 악몽, 제르늄"}
+, 
+Bs_Item_M_S_42 = {ItemID = 23824, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"빛나는창날", 50, 7109}
+}
+, NeedSource_String = "빛나는 창날, 제르늄"}
+, 
+Bs_Item_M_S_43 = {ItemID = 23825, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"오시리스인형", 30, 751}
+}
+, NeedSource_String = "오시리스 인형, 제르늄"}
+, 
+Bs_Item_M_S_44 = {ItemID = 23826, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"가름의이빨", 120, 7036}
+}
+, NeedSource_String = "하티의 이빨, 제르늄"}
+, 
+Bs_Sha_M_S_1 = {ItemID = 23827, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 10, 25729}
+, 
+{"회중시계", 50, 7513}
+}
+, NeedSource_String = "회중시계, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_17 = {ItemID = 23828, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 10, 25729}
+, 
+{"오시리스인형", 10, 751}
+}
+, NeedSource_String = "오시리스 인형, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_18 = {ItemID = 23879, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 10, 25729}
+, 
+{"바포메트인형", 10, 750}
+}
+, NeedSource_String = "바포메트 인형, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_19 = {ItemID = 23830, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 10, 25729}
+, 
+{"빛나는창날", 50, 7109}
+}
+, NeedSource_String = "빛나는 창날, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_20 = {ItemID = 23831, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 10, 25729}
+, 
+{"로키의속삭임", 50, 7019}
+}
+, NeedSource_String = "로키의 속삭임, 쉐도우데오콘"}
+, 
+Bs_Item_M_S_4 = {ItemID = 23832, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"바포메트인형", 30, 750}
+}
+, NeedSource_String = "바포메트인형, 제르늄"}
+, 
+Bs_Item_M_S_6 = {ItemID = 23833, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"호랑이의발바닥", 150, 1030}
+}
+, NeedSource_String = "호랑이 발바닥, 제르늄"}
+, 
+Bs_Item_M_S_7 = {ItemID = 23834, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"White_Snake_Tear", 150, 25622}
+}
+, NeedSource_String = "하얀 뱀의 눈물, 제르늄"}
+, 
+Bs_Item_M_S_12 = {ItemID = 23835, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"원석", 150, 7300}
+}
+, NeedSource_String = "보석의 원석, 제르늄"}
+, 
+Bs_Item_M_S_13 = {ItemID = 23836, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"어린나뭇가지", 150, 7018}
+}
+, NeedSource_String = "어린 나뭇가지, 제르늄"}
+, 
+Bs_Item_M_S_15 = {ItemID = 23837, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"태극패", 150, 7169}
+}
+, NeedSource_String = "태극패, 제르늄"}
+, 
+Bs_Item_M_S_28 = {ItemID = 23838, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"얼음비늘", 150, 7562}
+}
+, NeedSource_String = "얼음 비늘, 제르늄"}
+, 
+Bs_Item_M_S_29 = {ItemID = 23839, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"원석", 150, 7300}
+}
+, NeedSource_String = "보석의 원석, 제르늄"}
+, 
+Bs_Item_M_S_31 = {ItemID = 23840, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"검붉은비늘조각", 150, 6091}
+}
+, NeedSource_String = "검붉은 비늘 조각, 제르늄"}
+, 
+Bs_Item_M_S_32 = {ItemID = 23841, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"어머니의악몽", 150, 7020}
+}
+, NeedSource_String = "어머니의 악몽, 제르늄"}
+, 
+Bs_Item_M_S_33 = {ItemID = 23842, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"부서진왕관", 150, 7754}
+}
+, NeedSource_String = "부서진 왕관, 제르늄"}
+, 
+Bs_Item_M_S_36 = {ItemID = 23843, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"호랑이의발바닥", 150, 1030}
+}
+, NeedSource_String = "호랑이 발바닥, 제르늄"}
+, 
+Bs_Item_M_S_37 = {ItemID = 23844, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"로키의속삭임", 150, 7019}
+}
+, NeedSource_String = "로키의 속삭임, 제르늄"}
+, 
+Bs_Item_M_S_38 = {ItemID = 23845, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"회중시계", 150, 7513}
+}
+, NeedSource_String = "회중시계, 제르늄"}
+, 
+Bs_Item_M_S_39 = {ItemID = 23846, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"투탄카멘마스크", 150, 7114}
+}
+, NeedSource_String = "투탄카멘 마스크, 제르늄"}
+, 
+Bs_Item_M_S_40 = {ItemID = 23847, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"깨진파라오상징", 150, 7113}
+}
+, NeedSource_String = "깨진 파라오의 상징, 제르늄"}
+, 
+Bs_Item_M_S_45 = {ItemID = 23848, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"검붉은비늘조각", 150, 6091}
+}
+, NeedSource_String = "검붉은 비늘 조각, 제르늄"}
+, 
+Bs_Item_M_S_46 = {ItemID = 23849, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"화룡의비늘조각", 150, 7451}
+}
+, NeedSource_String = "화룡의 비늘 조각, 제르늄"}
+, 
+Bs_Item_M_S_47 = {ItemID = 23850, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"Konts_Letter", 150, 25629}
+}
+, NeedSource_String = "매듭 편지, 제르늄"}
+, 
+Bs_Item_M_S_48 = {ItemID = 23851, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"오시리스인형", 30, 751}
+}
+, NeedSource_String = "오시리스 인형, 제르늄"}
+, 
+Bs_Item_M_S_49 = {ItemID = 23852, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"Token_of_OrcGeneral", 150, 25508}
+}
+, NeedSource_String = "오크 장군의 증표, 제르늄"}
+, 
+Bs_Item_M_S_50 = {ItemID = 23853, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"어린나뭇가지", 150, 7018}
+}
+, NeedSource_String = "어린 나뭇가지, 제르늄"}
+, 
+Bs_Item_M_S_51 = {ItemID = 23894, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 20, 25731}
+, 
+{"여왕의날개조각", 150, 6326}
+}
+, NeedSource_String = "여왕의 날개 조각, 제르늄"}
+, 
+Bs_Sha_M_S_2 = {ItemID = 23854, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"화룡의비늘조각", 50, 7451}
+}
+, NeedSource_String = "화룡의 비늘 조각, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_5 = {ItemID = 23855, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"여왕의날개조각", 50, 6326}
+}
+, NeedSource_String = "여왕의 날개 조각, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_6 = {ItemID = 23856, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"호랑이의발바닥", 50, 1030}
+}
+, NeedSource_String = "호랑이 발바닥, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_7 = {ItemID = 23857, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"깨진방패조각", 50, 7108}
+}
+, NeedSource_String = "깨진 방패 조각, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_8 = {ItemID = 23858, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"암흑의의지_", 50, 7566}
+}
+, NeedSource_String = "붉은 암흑의 의지, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_13 = {ItemID = 23859, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"오크용자의증표", 50, 968}
+}
+, NeedSource_String = "오크 용자의 증표, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_15 = {ItemID = 23860, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"Token_of_OrcGeneral", 50, 25508}
+}
+, NeedSource_String = "오크 장군의 증표, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_16 = {ItemID = 23861, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"어머니의악몽", 50, 7020}
+}
+, NeedSource_String = "어머니의 악몽, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_23 = {ItemID = 23862, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 20, 25729}
+, 
+{"부러진뿔", 50, 6649}
+}
+, NeedSource_String = "부러진 뿔, 쉐도우데오콘"}
+, 
+Bs_Item_M_S_5 = {ItemID = 23863, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"오시리스인형", 30, 751}
+}
+, NeedSource_String = "오시리스 인형, 제르늄"}
+, 
+Bs_Item_M_S_9 = {ItemID = 23864, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"발할라의꽃", 150, 7510}
+}
+, NeedSource_String = "발할라의 꽃, 제르늄"}
+, 
+Bs_Item_M_S_14 = {ItemID = 23865, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"검붉은비늘조각", 150, 6091}
+}
+, NeedSource_String = "검붉은 비늘 조각, 제르늄"}
+, 
+Bs_Item_M_S_16 = {ItemID = 23866, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"암흑의의지_", 150, 7566}
+}
+, NeedSource_String = "붉은 암흑의 의지, 제르늄"}
+, 
+Bs_Item_M_S_17 = {ItemID = 23867, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"어머니의악몽", 150, 7020}
+}
+, NeedSource_String = "어머니의 악몽, 제르늄"}
+, 
+Bs_Item_M_S_19 = {ItemID = 23868, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"얼음비늘", 150, 7562}
+}
+, NeedSource_String = "얼음비늘, 제르늄"}
+, 
+Bs_Item_M_S_27 = {ItemID = 23869, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"부서진왕관", 150, 7754}
+}
+, NeedSource_String = "부서진 왕관, 제르늄"}
+, 
+Bs_Item_M_S_35 = {ItemID = 23870, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"암흑의의지_", 150, 7566}
+}
+, NeedSource_String = "붉은 암흑의 의지, 제르늄"}
+, 
+Bs_Sha_M_S_9 = {ItemID = 23871, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 25, 25729}
+, 
+{"어린나뭇가지", 50, 7018}
+}
+, NeedSource_String = "어린 나뭇가지, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_10 = {ItemID = 23872, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 25, 25729}
+, 
+{"호랑이의발바닥", 50, 1030}
+}
+, NeedSource_String = "호랑이 발바닥, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_11 = {ItemID = 23873, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 25, 25729}
+, 
+{"암흑의의지_", 50, 7566}
+}
+, NeedSource_String = "붉은 암흑의 의지, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_21 = {ItemID = 23874, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 25, 25729}
+, 
+{"빛나는창날", 10, 7109}
+}
+, NeedSource_String = "빛나는 창날, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_22 = {ItemID = 23875, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 25, 25729}
+, 
+{"가름의이빨", 50, 7036}
+}
+, NeedSource_String = "하티의 이빨, 쉐도우데오콘"}
+, 
+Bs_Item_M_S_1 = {ItemID = 23876, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"발할라의꽃", 300, 7510}
+}
+, NeedSource_String = "발할라의 꽃, 제르늄"}
+, 
+Bs_Item_M_S_3 = {ItemID = 23877, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"부서진왕관", 150, 7754}
+}
+, NeedSource_String = "부서진 왕관, 제르늄"}
+, 
+Bs_Item_M_S_18 = {ItemID = 23879, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"로제타스톤", 150, 7211}
+}
+, NeedSource_String = "로제타스톤 조각, 제르늄"}
+, 
+Bs_Item_M_S_20 = {ItemID = 23880, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"로키의속삭임", 200, 7019}
+}
+, NeedSource_String = "로키의 속삭임, 제르늄"}
+, 
+Bs_Item_M_S_21 = {ItemID = 23881, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"부러진뿔", 150, 6649}
+}
+, NeedSource_String = "부러진 뿔, 제르늄"}
+, 
+Bs_Item_M_S_22 = {ItemID = 23882, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"태극패", 150, 7169}
+}
+, NeedSource_String = "태극패, 제르늄"}
+, 
+Bs_Item_M_S_23 = {ItemID = 23883, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"가름의이빨", 150, 7036}
+}
+, NeedSource_String = "하티의 이빨, 제르늄"}
+, 
+Bs_Item_M_S_24 = {ItemID = 23884, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"원석", 150, 7300}
+}
+, NeedSource_String = "보석의 원석, 제르늄"}
+, 
+Bs_Item_M_S_25 = {ItemID = 23885, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"어린나뭇가지", 150, 7018}
+}
+, NeedSource_String = "어린 나뭇가지, 제르늄"}
+, 
+Bs_Item_M_S_26 = {ItemID = 23886, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"깨진방패조각", 150, 7108}
+}
+, NeedSource_String = "깨진 방패 조각, 제르늄"}
+, 
+Bs_Item_M_S_30 = {ItemID = 23887, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"빛나는창날", 50, 7109}
+}
+, NeedSource_String = "빛나는 창날, 제르늄"}
+, 
+Bs_Sha_M_S_3 = {ItemID = 23888, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 30, 25729}
+, 
+{"해골갑옷조각", 50, 7450}
+}
+, NeedSource_String = "해골 갑옷 조각, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_4 = {ItemID = 23889, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 30, 25729}
+, 
+{"Konts_Letter", 50, 25629}
+}
+, NeedSource_String = "매듭 편지, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_12 = {ItemID = 23890, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 30, 25729}
+, 
+{"태극패", 50, 7169}
+}
+, NeedSource_String = "태극패, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_14 = {ItemID = 23891, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 30, 25729}
+, 
+{"로키의속삭임", 50, 7019}
+}
+, NeedSource_String = "로키의 속삭임, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_24 = {ItemID = 23892, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 25, 25729}
+, 
+{"회중시계", 150, 7513}
+}
+, NeedSource_String = "회중시계, 쉐도우데오콘"}
+, 
+Bs_Sha_M_S_25 = {ItemID = 23893, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 25, 25729}
+, 
+{"원석", 150, 7300}
+}
+, NeedSource_String = "보석의 원석, 쉐도우데오콘"}
+, 
+WeaponShadowBox_CN = {ItemID = 23932, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"젬스톤웨폰S", 1, 24087}
+, 
+{"베어러즈웨폰S", 1, 24183}
+, 
+{"포스웨폰S", 1, 24224}
+, 
+{"스피릿웨폰S", 1, 24228}
+}
+, NeedSource_String = "7제련 이상의 재료 웨폰 쉐도우"}
+, 
+ImmunedAthena_Ddbox_TW = {ItemID = 23950, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"S_ImmunedAthena_Shield", 1, 24399}
+}
+, NeedSource_String = "이뮨드 아테나 쉴드 쉐도우"}
+, 
+K_birdAncient_DdBox_TW = {ItemID = 23951, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"S_KingbirdAncient_Armor", 1, 24401}
+}
+, NeedSource_String = "킹버드 에이션트 아머 쉐도우"}
+, 
+Egirnion_Box = {ItemID = 100468, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"에기르헬름K", 1, 19026}
+, 
+{"에기르아머K", 1, 15138}
+, 
+{"에기르망토K", 1, 20756}
+, 
+{"에기르슈즈K", 1, 22059}
+}
+, NeedSource_String = "바다신 에기르의 아이템"}
+}
+, serverMain = function()
   -- function num : 0_0
+  for ScrollItemID,info in pairs(tblLapineDdukddakBox.sources) do
+    result = registerLapineDdukddakBoxSourceInfo(info.SourceItems, info.NeedRefineMax, info.NeedRefineMin, info.NeedCount, ScrollItemID)
+    if not result then
+      return false, msg
+    end
+  end
+  for ScrollItemID,info in pairs(tblLapineDdukddakBox.results) do
+    result = registerLapineDdukddakBoxResultInfo(info.ResultItems, info.RefineProbability, info.RandomOptionCode, ScrollItemID)
+    if not result then
+      return false, msg
+    end
+  end
+  return true, "success"
+end
+, get_lapine_box = function(in_box_id)
+  -- function num : 0_1
   for box_name,box_info in pairs(tblLapineDdukddakBox.sources) do
     if box_info.ItemID == in_box_id then
       return box_info
@@ -4357,7 +4173,7 @@ SourceItems = {
   return nil
 end
 , get_need_item_count = function(in_box_id)
-  -- function num : 0_1
+  -- function num : 0_2
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     return box.NeedCount
@@ -4365,7 +4181,7 @@ end
   return 0
 end
 , get_min_need_refine = function(in_box_id)
-  -- function num : 0_2
+  -- function num : 0_3
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     return box.NeedRefineMin
@@ -4373,7 +4189,7 @@ end
   return 0
 end
 , get_max_need_refine = function(in_box_id)
-  -- function num : 0_3
+  -- function num : 0_4
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil and box.NeedRefineMax ~= nil then
     return box.NeedRefineMax
@@ -4381,7 +4197,7 @@ end
   return 20
 end
 , get_need_source_string = function(in_box_id)
-  -- function num : 0_4
+  -- function num : 0_5
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     return box.NeedSource_String
@@ -4389,7 +4205,7 @@ end
   return 0
 end
 , set_resource_item_list = function(in_box_id)
-  -- function num : 0_5
+  -- function num : 0_6
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     for k,v in pairs(box.SourceItems) do
