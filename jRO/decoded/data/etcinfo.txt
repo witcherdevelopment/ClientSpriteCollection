@@ -1,6 +1,3 @@
 loadingscreen#
-7#
-
-weather#amatsu.rsw#sakura#
-weather#pay_arche.rsw#sakura#
+6#
 //file end

@@ -500,6 +500,38 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Sakura_Princess] = {Default = 100, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_NUT_DONUT_MOUTH] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_DancingButterfly] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Loose_Knitting_Low_Twin] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Pierced_Apple] = {Default = 195, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cor_Core_Headset] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Elegant_Wave] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Frantic_Looking] = {Default = 100, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Sinister_Horn_Gear] = {Default = 200, 
+Direction = {[0] = 410, [1] = 410, [2] = 410, [6] = 410, [7] = 410}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

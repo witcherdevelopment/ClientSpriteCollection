@@ -4216,20 +4216,6 @@ pab_base016.rsw#カデス地方[基地04]#
 ama_st1_a.rsw#夜桜に霞むアマツ#
 ama_st1_b.rsw#夜桜に霞むアマツ（深夜）#
 ama_in_jp.rsw#あさねのおふぃす#
-jp_ev_map09.rsw#火産霊乃宮#
-jp_ev_map10.rsw#火産霊乃宮#
-gate_1.rsw#わからない所#
-jp_ev_map42.rsw#わからない所#
-jp_ev_map43.rsw#わからない所#
-jp_ev_map44.rsw#わからない所#
-gate_2.rsw#わからない所#
-jp_ev_map45.rsw#わからない所#
-jp_ev_map46.rsw#わからない所#
-jp_ev_map48.rsw#わからない所#
-jp_ev_map52.rsw#わからない所#
-gate_3.rsw#わからない所#
-jp_ev_map18.rsw#わからない所#
-gate_4.rsw#わからない所#
 //------------------------------------------------
 jp_ev_map57.rsw#キャラバンキャンプ#
 //------------------------------------------------
@@ -4255,8 +4241,6 @@ guild_mt4.rsw#冒険者ギルド 管理室2(夜明け前)#
 jp_ev_map54.rsw#水底の図書館#
 jp_ev_map55.rsw#水底の図書館(深夜)#
 jp_ev_map56.rsw#澱の書庫#
-jp_ev_map64.rsw#船上#
-jp_ev_map65.rsw#嵐の海域#
 1@maq1.rsw#絶筆のグリモワール 第一章 第1節#
 2@maq1.rsw#絶筆のグリモワール 第一章 第2節#
 3@maq1.rsw#絶筆のグリモワール 第一章 第3節#
@@ -4294,7 +4278,6 @@ prt_mz01_i.rsw#歪んだ裂け目#
 prt_mz01_q.rsw#歪んだ裂け目(クエスト)#
 //------------------------------------------------
 jp_niflheim.rsw#ニブルハロウィンランド#
-jp_ev_map21.rsw#エキセントリックパレード#
 jp_ev_map22.rsw#パレード準備会場#
 1@sweet.rsw#ハロウィンメイズ#
 //------------------------------------------------
@@ -4314,31 +4297,10 @@ ad_island2.rsw#ミスティーアイランド(砂嵐02)#
 //------------------------------------------------
 jp_ev_map58.rsw#ドリームスター会場#
 jp_ev_map59.rsw#ドリームスター会場(早朝)#
-jp_ev_map11.rsw#奈落[1]#
-jp_ev_map12.rsw#奈落[2]#
-jp_ev_map13.rsw#奈落[3]#
-jp_ev_map14.rsw#奈落[4]#
-jp_ev_map15.rsw#奈落[5]#
-jp_ev_map16.rsw#奈落[6]#
-jp_ev_map17.rsw#奈落[7]#
-jp_ev_map23.rsw#ドリーム地下洞窟01#
-jp_ev_map24.rsw#ドリーム地下洞窟02#
-jp_ev_map25.rsw#ドリーム地下洞窟03#
-jp_ev_map26.rsw#ドリーム平原01#
-jp_ev_map27.rsw#ドリーム平原02#
 jp_ev_map28.rsw#ドリーム平原03#
-jp_ev_map29.rsw#ドリーム砂漠01#
 jp_ev_map30.rsw#ドリーム砂漠02#
-jp_ev_map31.rsw#ドリーム砂漠03#
-jp_ev_map32.rsw#ドリーム工場01#
-jp_ev_map33.rsw#ドリーム工場02#
 jp_ev_map34.rsw#ドリーム工場03#
-jp_ev_map35.rsw#ドリーム墓地01#
-jp_ev_map36.rsw#ドリーム墓地02#
-jp_ev_map37.rsw#ドリーム墓地03#
-jp_ev_map38.rsw#ドリーム神殿01#
 jp_ev_map40.rsw#ドリーム神殿02#
-jp_ev_map41.rsw#ドリーム神殿03#
 sbat_map_b.rsw#序 喧嘩の花道[1]#
 sbat_map_d.rsw#序 喧嘩の花道[2]#
 sbat_map_e.rsw#序 喧嘩の花道[3]#
@@ -4361,11 +4323,7 @@ jp_ev_cas15.rsw#急 本丸舞台[5]#
 jp_ev_cas16.rsw#急 本丸舞台[6]#
 jp_ev_cas22.rsw#急 本丸舞台[7]#
 //------------------------------------------------
-jp_ev_map08.rsw#クリスマス会場#
-//------------------------------------------------
 gate_in.rsw#餅つき会場#
-jp_ev_map19.rsw#雲の通い路#
-jp_ev_map20.rsw#餅つき会場　おかわり#
 //------------------------------------------------
 gl_cas01_.rsw#グラストヘイムアビス(1)#
 gl_cas01_a.rsw#グラストヘイムアビス(2)#
@@ -4374,9 +4332,6 @@ mag_dun03a.rsw#ノーグロード 3層(2)#
 mag_dun03b.rsw#ノーグロード 3層(3)#
 //------------------------------------------------
 jp_ev_map60.rsw#ちょこるちパーク(クーベルチュール)#
-jp_ev_map61.rsw#ちょこるちパーク(シロップ)#
-jp_ev_map62.rsw#ちょこるちパーク(ヌテラ)#
-jp_ev_map63.rsw#ちょこるちパーク(ジャンドゥーヤ)#
 //------------------------------------------------
 pab_alter.rsw#プロンテラ深淵(洞窟深部)#
 pab_arena.rsw#プロンテラ深淵(栄光の道)#
@@ -4396,5 +4351,63 @@ pab_arena.rsw#プロンテラ深淵(栄光の道)#
 int_map01.rsw#インタビュー会場#
 int_map02.rsw#インタビュー会場#
 int_map03.rsw#インタビュー会場#
+//------------------------------------------------
+1@gl_prq.rsw#グラストヘイムの没落 01#
+2@gl_prq.rsw#グラストヘイムの没落 02#
+//------------------------------------------------
+jp_ev_map62.rsw#繚乱のプロンテラフィールド 08#
+jp_ev_map63.rsw#繚乱のプロンテラフィールド 08(夕暮れ)#
+jp_ev_map08.rsw#ハワードの工房#
+jp_ev_map09.rsw#ハワードの工房#
+jp_ev_map10.rsw#ハワードの工房#
+jp_ev_map61.rsw#ハワードの工房#
+jp_ev_map64.rsw#ハワードの工房#
+jp_ev_map65.rsw#ハワードの工房#
+gate_1.rsw#わからない所#
+jp_ev_map35.rsw#わからない所#
+jp_ev_map36.rsw#わからない所#
+jp_ev_map37.rsw#わからない所#
+jp_ev_map38.rsw#わからない所#
+jp_ev_map41.rsw#わからない所#
+jp_ev_map42.rsw#わからない所#
+jp_ev_map43.rsw#わからない所#
+jp_ev_map44.rsw#わからない所#
+gate_2.rsw#わからない所#
+jp_ev_map45.rsw#わからない所#
+jp_ev_map46.rsw#わからない所#
+jp_ev_map48.rsw#わからない所#
+jp_ev_map52.rsw#わからない所#
+jp_ev_map11.rsw#わからない所#
+jp_ev_map12.rsw#わからない所#
+jp_ev_map13.rsw#わからない所#
+jp_ev_map14.rsw#わからない所#
+gate_3.rsw#わからない所#
+jp_ev_map15.rsw#わからない所#
+jp_ev_map16.rsw#わからない所#
+jp_ev_map17.rsw#わからない所#
+jp_ev_map18.rsw#わからない所#
+jp_ev_map19.rsw#わからない所#
+jp_ev_map20.rsw#わからない所#
+jp_ev_map21.rsw#わからない所#
+jp_ev_map23.rsw#わからない所#
+gate_4.rsw#わからない所#
+jp_ev_map24.rsw#わからない所#
+jp_ev_map25.rsw#わからない所#
+jp_ev_map26.rsw#わからない所#
+jp_ev_map27.rsw#わからない所#
+jp_ev_map29.rsw#わからない所#
+jp_ev_map31.rsw#わからない所#
+jp_ev_map32.rsw#わからない所#
+jp_ev_map33.rsw#わからない所#
+//------------------------------------------------
+ev_f_fes01.rsw#ファッションステージ#
+ev_f_fes02.rsw#ファッションステージ（夕暮れ）#
+ev_f_fes03.rsw#バトルステージ#
+ev_photo01.rsw#撮影会場(秘密の場所)#
+ev_photo02.rsw#撮影会場(サンゴ礁)#
+ev_photo03.rsw#撮影会場(異世界の森)#
+ev_photo04.rsw#撮影会場(常夏の島)#
+ev_photo05.rsw#撮影会場(覇王の間)#
+ev_photo06.rsw#撮影会場(死者の街)#
 //------------------------------------------------
 //[file end]
