@@ -2946,7 +2946,7 @@ EFFECT.EF_LEVEL99_ORB2 = 977
 EFFECT.EF_LEVEL150 = 978
 -- DECOMPILER ERROR at PC3670: Confused about usage of register: R0 in 'UnsetPending'
 
-EFFECT.EF_BOTTOM_DE = 979
+EFFECT.EF_LEVEL150_SUB = 979
 -- DECOMPILER ERROR at PC3674: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_THROWITEM4_1 = 980
@@ -4039,6 +4039,8 @@ tbl = {
 [3636] = {MonsterSize = 0.7, MonsterEff = EFFECT.EF_BOTTOM_BARRIER}
 , 
 [3657] = {MonsterSize = 2, MonsterEff = EFFECT.EF_NONE}
+, 
+[2209] = {MonsterSize = 1.5, MonsterEff = EFFECT.EF_PURPLEBODY}
 , 
 [3751] = {MonsterSize = 1.2, MonsterEff = EFFECT.EF_NONE}
 , 

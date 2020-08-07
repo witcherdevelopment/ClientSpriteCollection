@@ -4808,48 +4808,12 @@ MonsterEff = {EFFECT.EF_NONE}
 MonsterEff = {EFFECT.EF_PURPLEBODY}
 }
 , 
-[1608] = {MonsterSize = 0.5, 
-MonsterEff = {EFFECT.EF_NONE}
-}
-, 
-[3787] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_NONE}
-}
-, 
-[3788] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_NONE}
-}
-, 
-[3741] = {MonsterSize = 1.6, 
-MonsterEff = {EFFECT.EF_NONE}
-}
-, 
-[3747] = {MonsterSize = 1.3, 
-MonsterEff = {EFFECT.EF_NONE}
-}
-, 
-[3748] = {MonsterSize = 1.3, 
-MonsterEff = {EFFECT.EF_NONE}
-}
-, 
-[3749] = {MonsterSize = 1.3, 
-MonsterEff = {EFFECT.EF_NONE}
-}
-, 
 [3751] = {MonsterSize = 1.2, 
 MonsterEff = {EFFECT.EF_NONE}
 }
 , 
 [3809] = {MonsterSize = 0.5, 
 MonsterEff = {EFFECT.EF_NONE}
-}
-, 
-[1136] = {MonsterSize = 1.5, 
-MonsterEff = {EFFECT.EF_WL_TELEKINESIS_INTENSE, EFFECT.EF_DOUBLEGUMGANG}
-}
-, 
-[1137] = {MonsterSize = 1.5, 
-MonsterEff = {EFFECT.EF_YELLOWFLY3, EFFECT.EF_STRANGELIGHTS}
 }
 , 
 [3811] = {MonsterSize = 2.5, 
@@ -4882,6 +4846,14 @@ MonsterEff = {EFFECT.EF_NONE}
 , 
 [3804] = {MonsterSize = 2, 
 MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[1136] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_WL_TELEKINESIS_INTENSE, EFFECT.EF_DOUBLEGUMGANG}
+}
+, 
+[1137] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_YELLOWFLY3, EFFECT.EF_STRANGELIGHTS}
 }
 , 
 [3818] = {MonsterSize = 1.5, 
@@ -4968,110 +4940,6 @@ MonsterEff = {EFFECT.EF_REDLIGHTBODY, EFFECT.EF_DOUBLEGUMGANG}
 MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_GUMGANG}
 }
 , 
-[1638] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1639] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1640] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1641] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1642] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1643] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1644] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1645] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1646] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1647] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1648] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1649] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1650] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1651] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1652] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1653] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1654] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1655] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1656] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1657] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1658] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1659] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1660] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1661] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1662] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
-[1663] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_LEVEL99_ORB1}
-}
-, 
 [20271] = {MonsterSize = 0.7, 
 MonsterEff = {EFFECT.EF_NONE}
 }
@@ -5104,12 +4972,12 @@ MonsterEff = {EFFECT.EF_NONE}
 MonsterEff = {EFFECT.EF_NONE}
 }
 , 
-[20381] = {MonsterSize = 1, 
-MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
-}
-, 
 [20341] = {MonsterSize = 1.4, 
 MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_REFLECTBODY}
+}
+, 
+[20381] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 }
 , 
 [1511] = {MonsterSize = 1, 

@@ -2996,6 +2996,16 @@ resource = {
 reward = {item = 6959}
 , score = 50}
 , 
+[200035] = {UI_Type = 0, group = "GOAL_LEVEL", major = 1, minor = 0, title = "200레벨 달성!", 
+content = {summary = "Base Lv200 달성!", details = "베이스 200레벨을 달성한다."}
+, 
+resource = {
+[1] = {text = "베이스 레벨 200"}
+}
+, 
+reward = {buff = 10, item = 400124}
+, score = 100}
+, 
 [230100] = {UI_Type = 0, group = "GOAL_LEVEL", major = 3, minor = 1, title = "포링은 사랑입니다", 
 content = {summary = "목표 과제를 모두 완료한다", details = "자다가도 포링 생각에 깨어나는 당신은 진정한 포링 매니아!"}
 , 
