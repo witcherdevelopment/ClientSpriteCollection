@@ -659,8 +659,8 @@
 4699#락스텝카드#
 
 4659#에그링카드#
-4660#돌격바질리스크카드#
-4661#정찰바질리스크카드#
+4661#돌격바질리스크카드#
+4660#정찰바질리스크카드#
 4662#대형에그링카드#
 4663#리프루나틱카드#
 4664#그래스파브르카드#
@@ -799,3 +799,41 @@
 
 27264#Evil_Shadow_Card#
 27265#Evil_Fanatics_Card#
+4608#백색의기사단카드#
+4609#칼리츠기사단카드#
+
+//브라질리스
+27120#이아라카드#
+27121#피라니아카드#
+27122#쿠루피라카드#
+27123#투칸카드#
+27124#재규어카드#
+27125#머리없는말카드#
+27126#보이타타카드#
+
+//2017년 9월 모스코비아
+27157#Wood_Goblin_Card#
+27158#Les_Card#
+27159#Uzhas_Card#
+27160#Vavayaga_Card#
+27161#Mavka_Card#
+27162#Gopinich_Card#
+
+//2018년 에피소드 17.1 카드
+27304#E_Ea2s_Card#
+27305#El_a17t_Card#
+27306#Bellare_Card#
+27307#High_Bellare_Card#
+27308#Sanare_Card#
+27309#High_Sanare_Card#
+27310#Plaga_Card#
+27311#Mutant_Plaga_Card#
+27312#Dolor_Card#
+27313#Mt_Dolor_Card#
+27314#Venenum_Card#
+27315#Mt_Venenum_Card#
+27316#Twin_Caput_Card#
+27317#Mt_Caput_Card#
+27318#Miguel_Card#
+27319#R48_85_Bestia_Card#
+27320#E_Ea1l_Card#

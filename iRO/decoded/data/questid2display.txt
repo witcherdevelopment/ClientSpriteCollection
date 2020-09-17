@@ -4458,6 +4458,7 @@ You have taken the plunge down the empty lava tube and it led you down to the Th
 #
 
 //----------Nameless Island Entrance-----------
+/*
 17000#Meet with Father Bamph#SG_FEEL#QUE_NOIMAGE#
 An agent on the International Airship tells you that Father Bamph is expecting your arrival at Prontera Church. You should probably go and meet him there.#
 Father Bamph#
@@ -4529,6 +4530,7 @@ Larjes#
 17017#Reporting the King's Death#SG_FEEL#QUE_NOIMAGE#
 The shocking news of Tristam III's death should not be taken lightly. You should report this and bring the Research Note to High Priestess Niren.#
 High Priestess Niren#
+*/
 
 //-----------Spy Quest-------------
 18001#Delivery for Rooney#SG_FEEL#QUE_NOIMAGE#
@@ -23975,6 +23977,54 @@ Talk to Derpy Cupid in Prontera.#
 Time for some under the table Vigilante Justice. Once 35 Mobsters get beat up, I should inform Lt. Don Tyler of the event and he'll let me know about an anonymous reward someone left.#
 #
 
+63704#Unity Project: Hunt#SG_FEEL#QUE_NOIMAGE#
+Campitor(Prontera) has asked you to hunt 10 Hornets to help with the Unity Project.#
+Hunt 10 Hornet and return to Campitor#
+
+63705#Unity Project: Cooldown#SG_FEEL#QUE_NOIMAGE#
+Come back to Campitor(Prontera) in 20 hours to see if there is more volunteer work.#
+#
+
+63706#Unity Project: Hunt#SG_FEEL#QUE_NOIMAGE#
+Astra(Morroc) has asked you to hunt 10 Drops to help with the Unity Project.#
+Hunt 10 Drops and return to Astra#
+
+63707#Unity Project: Cooldown#SG_FEEL#QUE_NOIMAGE#
+Come back to Astra(Morroc) in 20 hours to see if there is more volunteer work.#
+#
+
+63708#Unity Project: Hunt#SG_FEEL#QUE_NOIMAGE#
+Magus(Geffen) has asked you to hunt 10 Chonchons to help with the Unity Project.#
+Hunt 10 Chonchons and return to Magus#
+
+63709#Unity Project: Cooldown#SG_FEEL#QUE_NOIMAGE#
+Come back to Magus(Geffen) in 20 hours to see if there is more volunteer work.#
+#
+
+63710#Unity Project: Hunt#SG_FEEL#QUE_NOIMAGE#
+Poring Man(Al De Baran) has asked you to hunt 10 Marins to help with the Unity Project.#
+Hunt 10 Marins and return to Poring Man#
+
+63711#Unity Project: Cooldown#SG_FEEL#QUE_NOIMAGE#
+Come back to Poring Man(Al De Baran) in 20 hours to see if there is more volunteer work.#
+#
+
+63712#Unity Project: Hunt#SG_FEEL#QUE_NOIMAGE#
+Xealot(Alberta) has asked you to hunt 10 Willows to help with the Unity Project.#
+Hunt 10 Willows and return to Xealot#
+
+63713#Unity Project: Cooldown#SG_FEEL#QUE_NOIMAGE#
+Come back to Xealot(Alberta) in 20 hours to see if there is more volunteer work.#
+#
+
+63714#Unity Project: Hunt#SG_FEEL#QUE_NOIMAGE#
+Jelloshaker(Payon) has asked you to hunt 10 Spores to help with the Unity Project.#
+Hunt 10 Spores and return to Jelloshaker#
+
+63715#Unity Project: Cooldown#SG_FEEL#QUE_NOIMAGE#
+Come back to Jelloshaker(Payon) in 20 hours to see if there is more volunteer work.#
+#
+
 
 
 //²Þ°ú ±×¸²ÀÚ MD
@@ -24132,7 +24182,7 @@ To hire a street stall staffer, you must have an employment certificate given by
 
 8401#Into the King¡¯s Heel#SG_FEEL#QUE_NOIMAGE#
 #
-#Enter Dungeon
+Enter Dungeon#
 
 8538#Tomorrow at the King¡¯s Heel#SG_FEEL#QUE_NOIMAGE#
 I never want to see another card again... But maybe I¡¯ll feel differently tomorrow! Let¡¯s go talk to Dr. Magnatum again tomorrow.#
@@ -24150,4 +24200,502 @@ Resets at 4 am#
 #
 #
 
+
+//Advanced Glast Heim
+12334#Traces of time shifting#SG_FEEL#QUE_NOIMAGE#
+Time-shifting to old glast heim for 70 hours is prohibited.#
+Distorted.#
+
+12335#Space distortion#SG_FEEL#QUE_NOIMAGE#
+The space inside old glast heim was distorted by Hugin. Something strange may happen in the castle. #
+Space distortion#
+
+
+12336#Defeating corrupted root#SG_FEEL#QUE_NOIMAGE#
+Defeat corrupted root from the 1st floor of old glast heim.#
+corrupted root#
+
+12337#Defeating Amdarais#SG_FEEL#QUE_NOIMAGE#
+Defeat Amdarais(Advanced) from the 2nd floor of old glast heim.#
+Amdarais#
+
+12338#Time traveler#SG_FEEL#QUE_NOIMAGE#
+Partial time travel to old glast heim was finished.#
+Time travel to old glast heim#
+
+12339#Time Conqueror#SG_FEEL#QUE_NOIMAGE#
+All of the time travel to old glast heim was finished.#
+Time travel to old glast heim#
+
+//Poring Village
+12416#Contract with Emily#SG_FEEL#QUE_NOIMAGE#
+Talked to Emily about proper reward.#
+Contract with Emily#
+
+12417#Overcoming fatigue#SG_FEEL#QUE_NOIMAGE#
+It seems you need to wait until next 4 am to visit Poring Village.#
+04:00 Reset#
+
+12418#First Visit to Poring Village#SG_FEEL#QUE_NOIMAGE#
+Let's develop a sincere relationship with neighbor!#
+Wipe out.#
+
+//----- Orc's Memory MD
+12419#Orc's Memory 1F adventure#SG_FEEL#QUE_NOIMAGE#
+Look what happened on Orc's Memory Dungeon 1F#
+Orc's Memory 1F#
+
+12420#Recovery#SG_FEEL#QUE_NOIMAGE#
+It seems hard to see Orc's memory again unless you get relieved.#
+4am reset#
+
+//Episode 17.2 Morning's Story
+5856#My Name Is Morning#SG_FEEL#QUE_NOIMAGE#
+Hello to whoever's reading this! I have to go somewhere in a hurry, and I had to leave behind this kid you're seeing, a test subject abandoned here in Rudus. You can call him <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>. I'm not completely abandoning him. I'll come to see him whenever I can. In the meantime, would you mind feeding him regularly? Please just give him what he wants since I can't take him with me for now. Thank you for your help! - Olg#
+#
+
+5857#Befriending Morning#SG_FEEL#QUE_NOIMAGE#
+Hello to whoever's reading this! Thank you for feeding Morning. Maybe it's because I told him about Porings the other day, but now he's obsessed with them. He wouldn't be so lonely if he had a pet Poring. Could you get him a <ITEM>[Poring Egg]<INFO>9001</INFO></ITEM>? Thank you, my friend! - Olg#
+Poring Egg#
+
+5858#Befriending Morning#SG_FEEL#QUE_NOIMAGE#
+Hello, my friend! It seems Morning now recognizes you as the hand that feeds him. Ah, I'm just joking. A while ago, I told him about the singing grasshopper, Rocker. Now, he wants to see it. Could you get him a <ITEM>[Rocker Egg]<INFO>9011</INFO></ITEM> this time? Thank you, my friend! - Olg#
+Rocker Egg#
+
+5859#Befriending Morning#SG_FEEL#QUE_NOIMAGE#
+Hello, my friend! Maybe it's because I told him this story, Adventures of the Chick, but now he's curious about Pickys. Could you get him a <ITEM>[Picky Egg]<INFO>9005</INFO></ITEM> this time? Since I can't be there for him all the time, I at least want him to have as many friends around him as I can get. Thank you, my friend! - Olg#
+Picky Egg#
+
+5860#Befriending Morning#SG_FEEL#QUE_NOIMAGE#
+Hello, my friend! I'm sorry I keep asking you for favors. I told him about the rabbit that lives on the moon, and now he's curious about Lunatics. Could you get him a <ITEM>[Lunatic Egg]<INFO>9004</INFO></ITEM>? Thank you, my friend! - Olg#
+Lunatic Egg#
+
+5861#[Pending] Taking Care of Morning#SG_FEEL#QUE_NOIMAGE#
+I fed <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>. If I can, I should feed him tomorrow as well.#
+Reset at 4:00 a.m.#
+
+5862#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat jellopies today. I should bring 10 <ITEM>[Jellopies]<INFO>909</INFO></ITEM>.#
+Jellopy 10#
+
+5863#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat tree roots today. I should bring 10 <ITEM>[Tree Roots]<INFO>902</INFO></ITEM>.#
+Tree Root 10#
+
+5864#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat grasshopper legs today. I should bring 10 <ITEM>[Grasshopper's Legs]<INFO>940</INFO></ITEM>.#
+Grasshopper's Leg 10#
+
+5865#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat clover today. I should bring 10 <ITEM>[Clovers]<INFO>705</INFO></ITEM>.#
+Clover 10#
+
+5866#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat bird feathers today. I should bring 10 <ITEM>[Feathers Of Birds]<INFO>916</INFO></ITEM>.#
+Feather Of Birds 10#
+
+5867#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat rat tails today. I should bring 10 <ITEM>[Rat Tails]<INFO>1016</INFO></ITEM>.#
+Rat Tail 10#
+
+5868#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat poisonous fangs today. I should bring 10 <ITEM>[Venom Canines]<INFO>937</INFO></ITEM>.#
+Venom Canine 10#
+
+5869#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat monkey tails today. I should bring 10 <ITEM>[Yoyo Tails]<INFO>942</INFO></ITEM>.#
+Yoyo Tail 10#
+
+5870#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat bat teeth today. I should bring 10 <ITEM>[Teeth of Bat]<INFO>913</INFO></ITEM>.#
+Tooth of Bat 10#
+
+5871#Morning's Menu Selection#SG_FEEL#QUE_NOIMAGE#
+It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat bear paws today. I should bring 10 <ITEM>[Bear's Footskins]<INFO>948</INFO></ITEM>.#
+Bear's Footskin 10#
+
+//Episode 17.1 A New Area of Operations
+
+7850#Cat on a Bullet#SG_FEEL#QUE_NOIMAGE#
+The member of the Rebellion I met in Einbech said that his group is using an Einbroch store as a base to cover its area of operations that's gotten bigger as of late. I should find the <NAVI>[Cat on a Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> in Einbroch.#
+Talk to Tes at the Cat#
+
+7851#New Area of Operations#SG_FEEL#QUE_NOIMAGE#
+Tes told me about the new area of operations, <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>. I should go there and join the members of the Rebellion there.#
+Talk to Elena Volkova#
+7852#Behind the Wall#SG_FEEL#QUE_NOIMAGE#
+Elena Volkova in the new area of operations, <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>, asked me to talk to Rookie who's investigating the wall, and then find out what's behind the wall.#
+Talk to Rookie#
+
+7853#Investigating around the Wall#SG_FEEL#QUE_NOIMAGE#
+Rookie inside <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> asked me to investigate around the wall. I should collect everything that looks suspicious and let him know.#
+Investigate around the wall#
+
+7854#Wall on the Railroad#SG_FEEL#QUE_NOIMAGE#
+There's a wall standing on the railroad. It must have been built after the mine was closed.#
+#
+
+7855#Watchtower#SG_FEEL#QUE_NOIMAGE#
+This watchtower is tall enough to look beyond the wall. I don't think the ore-refining process would need watchtowers like this.#
+#
+
+7856#Small Hole#SG_FEEL#QUE_NOIMAGE#
+Where the edge of the wall meets the rock, there's a hole barely big enough to let a small child to crawl through.#
+#
+
+7857#Report to Rookie#SG_FEEL#QUE_NOIMAGE#
+I've looked around the wall. I should give the information I've collected to Rookie.#
+Talk to Rookie#
+
+7858#Investigate Ominous Noise#SG_FEEL#QUE_NOIMAGE#
+Some of the Rebellion members are already on the move to identify the noise coming from the other side of the wall. Rookie asked me to take care of its source if it's monsters.#
+Monster hunt#
+
+7859#Report to Tes#SG_FEEL#QUE_NOIMAGE#
+Elena Volkova asked me to go back to the Cat on a Bullet and let <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> know the situation beyond the wall is not normal. From what she says, it's a dump.#
+Report to Tes#
+
+7860#Unexpected Guest#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Tes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> at the Cat on a Bullet took me to a secret room in the back to discuss some urgent matter.#
+Talk to Tes in the Secret Room#
+
+7861#The Corporation in Crisis#SG_FEEL#QUE_NOIMAGE#
+I've decided to join forces with Est and others to reclaim the Regenschirm Laboratory from those traitors. I should go to Lighthalzen and meet the <NAVI>[Republic Guard]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI> waiting for me there.#
+Talk to Republic Guard#
+
+7862#Regenschirm Reclamation#SG_FEEL#QUE_NOIMAGE#
+We've decided to infiltrate the Lab and clear what's inside. I can enter the Lab through <NAVI>[Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>.#
+Reclaim the Lab#
+
+7863#Data Obtained from the Lab#SG_FEEL#QUE_NOIMAGE#
+Data related to the Lab's Security Team 1.#
+Report to Tes#
+
+7864#A Change of Air#SG_FEEL#QUE_NOIMAGE#
+While Tes analyzes the data, I've decided to help Rage. I should look for him in the pub.#
+Talk to Rage#
+
+7865#Second Operation#SG_FEEL#QUE_NOIMAGE#
+A new operation will take place in the closed mine in the northwestern Einbroch field. I should meet with the <NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> waiting there and join the operation.#
+Talk to Rebellion Member#
+
+7866#To the Cat on a Bullet#SG_FEEL#QUE_NOIMAGE#
+I should go back to the Cat on a Bullet and report to <NAVI>[Tes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> about what happened at the Lab.#
+Talk to Tes#
+
+7867#Merc vs. Merc#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor, asked me to take care of Heart Hunters Bellare and Sanare in Os.#
+Defeat Heart Hunters#
+
+7868#Merc vs. Merc - Pending#SG_FEEL#QUE_NOIMAGE#
+A Daily quest. It can be repeated after its cooldown through <NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor.#
+Reset at 04:00 a.m.#
+
+
+
+//Episode 17.1 Old Memories
+11596#Old Memories#SG_FEEL#QUE_NOIMAGE#
+I've found an enemy base near Einbroch that's disguised as a closed mine. I'd better check the perimeter for more enemies.#
+Search around#
+
+11597#Old Memories#SG_FEEL#QUE_NOIMAGE#
+Nothing looks out of place. I'd better check elsewhere.#
+Search around#
+
+11598#Old Memories#SG_FEEL#QUE_NOIMAGE#
+Nothing looks out of place. I'd better check elsewhere.#
+Search around#
+
+11599#Old Memories#SG_FEEL#QUE_NOIMAGE#
+Nothing looks out of place. I should go back to that Rebellion Member.#
+Talk to Rebellion Member#
+
+11600#Old Memories#SG_FEEL#QUE_NOIMAGE#
+I should check the inside of the closed mine that's blocked.#
+Enter#
+
+
+11601#Old Memories#SG_FEEL#QUE_NOIMAGE#
+A path to the next area has been opened. I should report back to the Cat on a Bullet, and pick up the thing that Dien wants from his room.#
+To the Cat on a Bullet#
+
+11602#Old Memories#SG_FEEL#QUE_NOIMAGE#
+Pick up what Dien wants from his room.#
+Dien's Charm#
+
+11603#Old Memories#SG_FEEL#QUE_NOIMAGE#
+I've found Dien's Charm. I should go back to Dien.#
+Back to Dien#
+
+
+//------- 17.1 Os Occupation ----------
+
+12452#Os Occupation#SG_FEEL#QUE_NOIMAGE#
+A train transport route has been secured. Now, I'd better clear Os of the enemy remnants.#
+Os Occupation#
+
+
+12453#Operation Pending#SG_FEEL#QUE_NOIMAGE#
+The gateway to Os is temporarily blocked. I should wait until it's released.#
+Operation pending#
+
+
+12454#Additional Search Mission#SG_FEEL#QUE_NOIMAGE#
+I should also check the northeastern side of Os and eliminate any possible threats.#
+Additional Search Mission#
+
+
+12455#Operation Pending#SG_FEEL#QUE_NOIMAGE#
+The gateway to Os is temporarily blocked. I should wait until it's released.#
+Operation pending#
+
+//----- EP17.1 Innocent Menace
+16352#Elena Volkova's Call#SG_FEEL#QUE_NOIMAGE#
+Talk to Elena Volkova.#
+#
+
+16353#Golden Troublemaker#SG_FEEL#QUE_NOIMAGE#
+An explosion has occurred near an important facility. Follow Elena and check the <NAVI>[situation]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>.#
+Talk to Elena#
+
+16354#Eliumina Acquisition Operation#SG_FEEL#QUE_NOIMAGE#
+Get to know the <NAVI>[area]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI> and carry out a special operation to secure Eliumina. Report to Elena after the operation.#
+Secure Eliumina#
+
+16355#Suspicious Box#SG_FEEL#QUE_NOIMAGE#
+The box has been turned on. Step on the Bio Batteries to get rid of them and the monsters, and then talk to the Rebellion.#
+Remove Batteries and monsters#
+
+16356#Suspicious Box#SG_FEEL#QUE_NOIMAGE#
+The box has been turned on. Hunt monsters without touching the Chemical Poison, and then talk to the Rebellion.#
+Hunt monsters without touching Chemical Poison#
+
+16357#Secure Eliumina#SG_FEEL#QUE_NOIMAGE#
+I've successfully secured the scientist of Illusion. I should take a break, and then go back to <NAVI>[Elena]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>.#
+Talk to Elena#
+
+16358#Innocent Villain#SG_FEEL#QUE_NOIMAGE#
+The captured scientist of Illusion will be interrogated. I should go to the <NAVI>[Tent]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> and observe his interrogation.#
+Talk to Goni#
+
+16359#Innocent Menace#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Rookie]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI> will lead the interrogation. I should stand next to him and just glare as best I can.#
+Talk to Rookie#
+
+16360#Innocent Truth#SG_FEEL#QUE_NOIMAGE#
+Eliumina told us how to enter the Barmund Mansion. I'd better go check the <NAVI>[entrance]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>.#
+Talk to Rookie#
+
+16361#Innocent Cleanup#SG_FEEL#QUE_NOIMAGE#
+Ask Elena's <NAVI>[Subordinate]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> why they haven't collected all Eliumina's monsters and traps after capturing him.#
+Talk to the Rebellion#
+
+16362#Innocent Cleanup - Pending#SG_FEEL#QUE_NOIMAGE#
+A Daily quest. It can be repeated after its cooldown through <NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> in Cor.#
+Reset at 04:00 a.m.#
+
+16363#Take Care of EL1_A17T#SG_FEEL#QUE_NOIMAGE#
+I've successfully taken care of EL1_A17T.#
+#
+
+16364#Help the Farm#SG_FEEL#QUE_NOIMAGE#
+Because of this incident, the <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> is in need of help. I should tend to the young vegetables in the patch.#
+Help the Farm#
+
+16365#Help the Farm - Pending#SG_FEEL#QUE_NOIMAGE#
+A Daily quest. It can be repeated after its cooldown through <NAVI>[Farmhand]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> in Cor.#
+Reset at 04:00 a.m.#
+
+16366#Help the Farm#SG_FEEL#QUE_NOIMAGE#
+Because of this incident, the <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> is in need of help. I should tend to the young vegetables in the patch.#
+#
+
+16367#Unripe Grapes#SG_FEEL#QUE_NOIMAGE#
+Small, unripe <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> are hanging from the vines. Catch aphids.#
+#
+
+16368#Unripe Grapes#SG_FEEL#QUE_NOIMAGE#
+Small, unripe <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> are hanging from the vines. Spread fertilizer.#
+#
+
+16369#Unripe Grapes#SG_FEEL#QUE_NOIMAGE#
+Small, unripe <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> are hanging from the vines. Pull weeds.#
+#
+
+16370#Fuzzy Green Beans#SG_FEEL#QUE_NOIMAGE#
+These fuzzy <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> aren't even as big as a pinky nail. Catch aphids.#
+#
+
+16371#Fuzzy Green Beans#SG_FEEL#QUE_NOIMAGE#
+These fuzzy <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> aren't even as big as a pinky nail. Spread fertilizer.#
+#
+
+16372#Fuzzy Green Beans#SG_FEEL#QUE_NOIMAGE#
+These fuzzy <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> aren't even as big as a pinky nail. Pull weeds.#
+#
+
+16373#Tiny Pumpkins#SG_FEEL#QUE_NOIMAGE#
+Small green <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> are hanging on the vines. Catch aphids.#
+#
+
+16374#Tiny Pumpkins#SG_FEEL#QUE_NOIMAGE#
+Small green <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> are hanging on the vines. Spread fertilizer.#
+#
+
+16375#Tiny Pumpkins#SG_FEEL#QUE_NOIMAGE#
+Small green <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> are hanging on the vines. Pull weeds.#
+#
+
+16376#Subdue EL1_A17T#SG_FEEL#QUE_NOIMAGE#
+I've successfully subdued EL1_A17T.#
+#
+
+
+// Ep. 17.1 Patsy's Career Map 1
+17000#Refusal to Talk#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Rage]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> refuses to talk to Vice President Kaya Tos any longer. Find out why.#
+Talk to Rage#
+
+17001#I'll Go with You#SG_FEEL#QUE_NOIMAGE#
+Rage and Vice President Kaya Tos don't believe each other. I should offer to go with <NAVI>[Kaya Tos]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI>.#
+Talk to Kaya Tos#
+
+17002#Time to Think#SG_FEEL#QUE_NOIMAGE#
+Kaya Tos needs time to think. I should go back to <NAVI>[Rage]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> and talk to him about him.#
+Talk to Rage#
+
+17003#Going with Him#SG_FEEL#QUE_NOIMAGE#
+Adventurer, hurry. We've got a long way to go. Let's go to the Einbroch <NAVI>[Airport]<INFO>einbroch,42,208,0,101,0</INFO></NAVI>.#
+To the Einbroch Airport#
+
+17004#Beginning of His Career Map#SG_FEEL#QUE_NOIMAGE#
+From now on, we'll follow Patsy from the beginning of his career to the current point of time. I'll see you in <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>.#
+To Lighthalzen#
+
+17005#Lighthalzen Slum#SG_FEEL#QUE_NOIMAGE#
+Our journey begins at the Slum, where <NAVI>[Patsy's House]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI> is.#
+To Patsy's House#
+
+17006#Investigate in Ernest#SG_FEEL#QUE_NOIMAGE#
+How did you like your tour around the Slum? Now, we'll move on to the Rekenber <NAVI>[Headquarters]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI>. Let's go!#
+To Rekenber#
+
+17007#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
+Where do newcomers go when they come here for the first time? Let's go to the <NAVI>[Lobby]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI>.#
+Enter the Headquarters#
+
+17008#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
+Everyone, let's move to the <NAVI>[Meeting Room]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI> on the second floor, where Patsy begun his life at Rekenber.#
+To Floor 2#
+
+17009#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
+Why did the Lab only take physically healthy people? I'm curious. There must be a reason! Come on, let's go to the <NAVI>[Annex Lab]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI>.#
+Annex Lab#
+
+17010#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
+Patrick Kaufman? Who's that? I'm sorry, but I really don't know. Maybe <NAVI>[someone else]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> in the back over there knows.#
+To the back#
+
+17011#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
+Hm... Patsy was transferred to the Lab... Someone in his department has to know the details. Let's go to the <NAVI>[Office]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI> for now.#
+Back to the Headquarters building#
+
+17012#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
+If you want to do this discreetly, then you shouldn't go through the Human Resources Department. Instead, you should go to the <NAVI>[Document Archive]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI> and look for the corresponding documents yourself.#
+To the Document Archive#
+
+17013#New Lab Location#SG_FEEL#QUE_NOIMAGE#
+Patrick was sent to the <NAVI>[new lab]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI> in... 95-146 Sector 1 in the Einbroch Mountains.#
+To the outskirts of Einbroch#
+
+17014#There Was No Lab#SG_FEEL#QUE_NOIMAGE#
+Adventurer, what else can you think of that we can do here? I just can't come up with anything. I'm hungry, and my legs are killing me. Let's just go back to the <NAVI>[Cat]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>, shall we?#
+Return to the Cat on a Bullet#
+
+// Ep. 17.1 Well Sky
+17015#Vice President's Persuasion#SG_FEEL#QUE_NOIMAGE#
+They worked at the Lab. Let <NAVI>[me]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> talk to these people.#
+Kaya Tos's persuasion#
+
+17016#I Can't Talk to Them#SG_FEEL#QUE_NOIMAGE#
+They wouldn't listen to me, no matter what. We'll never reach an agreement. Come talk with <NAVI>[me]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI>. We need a plan.#
+Discuss with Tes#
+
+17017#Prepare for Attack#SG_FEEL#QUE_NOIMAGE#
+Let's move the wounded to a <NAVI>[safe place]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>. Hurry!#
+Move to a safe place#
+
+17018#Patients' Conditions#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> said she had something urgent to report to Kaya Tos.#
+To Aas#
+
+17019#Urgent Situation#SG_FEEL#QUE_NOIMAGE#
+We need help searching for the researcher who ran away. Please join the search party on the <NAVI>[left side]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>.#
+Join the search#
+
+// Ep. 17.1 Patsy's Career Map 2
+17020#Relaunch Investigation#SG_FEEL#QUE_NOIMAGE#
+Please keep investigating Patrick Kaufman's whereabouts. The <NAVI>[people who used to work]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> here might be able to tell you something.#
+To workers#
+
+17021#Searching for Patsy#SG_FEEL#QUE_NOIMAGE#
+If you're looking for someone, you should talk to the researchers. Most of them ran away, but a few of their <NAVI>[assistants]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI> are still here. Go to them.#
+To researchers#
+
+17022#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+If you're looking for someone, talk to the laundry <NAVI>[person]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>. He's been here for a long time and knows a lot of people.#
+To the laundry manager#
+
+17023#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+If you're looking for something, you should check the <NAVI>[Incineration Plant]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>. Any documents that were scattered are usually gathered up and sorted there.#
+To the Incineration Plant#
+
+17024#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+There's a separate <NAVI>[dump]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> for things that are too contaminated to be burned or can't be burned. The people here have another name for it, though.#
+To Rudus#
+
+17025#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+Voices can be heard from <NAVI>[somewhere]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI>. Follow them.#
+Follow the voices#
+
+17026#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+Maybe you should check garbage for his identification bracelet. It might be dropped on the ground somewhere, too.#
+Test Subject Identification Bracelet#
+
+17027#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+I rummaged through the garbage and found a few identification bracelets, but none of them was Kaufrman's. I should look elsewhere.#
+Look elsewhere#
+
+17028#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+I rummaged through the garbage and found a few identification bracelets, but none of them are helpful. I should look elsewhere.#
+Search Garbage Mounds#
+
+17029#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+I rummaged through all the garbage mounds, but there was nothing but garbage. I should look elsewhere.#
+Look elsewhere#
+
+17030#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+I searched and searched, but there was nothing that looked useful to me. I should look elsewhere.#
+Check another Garbage Mound#
+
+17031#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+There's nothing here. Can I really find clues to Kaufman's whereabouts? I should look elsewhere.#
+Check another Garbage Mound#
+
+17032#Searching for Kaufman#SG_FEEL#QUE_NOIMAGE#
+I dug up a bracelet from the mound of garbage. I should take it to <NAVI>[Kaya]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>.#
+To Kaya Tos#
+
+// Ep. 17.1 Bracelet Collection
+17033#Everything Hereafter#SG_FEEL#QUE_NOIMAGE#
+From now on, Miss. <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> here will take care of you. You can also give her that bracelet you've collected.#
+To Aas#
+
+17034#To Rudus#SG_FEEL#QUE_NOIMAGE#
+Now, please put 20 of those test subjects called Dolors to rest and collect 10 Test Subject Identification Bracelets. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>#
+Test Subject Identification Bracelet 10#
+
+17035#Pending: To Rudus#SG_FEEL#QUE_NOIMAGE#
+I'll see you again after dawn. You did a great job. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>#
+Quest resets at 4:00 a.m.#
 

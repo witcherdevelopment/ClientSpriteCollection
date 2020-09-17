@@ -705,3 +705,43 @@
 31024#Volcanic#
 31025#Deadly#
 31026#Auto Magic#
+4608#Knight's#
+4609#Knight's#
+
+//2017년 3월 Brasilis
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal Wave#
+27123#Insect collective#
+27124#Hunting#
+27125#Aqua Benedict#
+27126#Python#
+
+
+
+//2017년 9월 Moscovia Card
+27157#of Aqua Wood#
+27158#of Windness#
+27159#Demon Hunter#
+27160#Dodge#
+27161#Land Blast#
+27162#Soul Steel#
+
+
+27304#Hell's#
+27305#Hell Inferno#
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sacred#
+27309#Of Holy Power#
+27310#Of Immortal#
+27311#Heavy Knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27318#Of Tigerpower#
+27319#Poison Break#
+27320#Inhance Fire#

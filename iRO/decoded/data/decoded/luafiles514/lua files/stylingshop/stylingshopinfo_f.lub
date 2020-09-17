@@ -9,10 +9,10 @@ StylingShop = {}
 StylingShop.HeadPalette = {}
 -- DECOMPILER ERROR at PC7: Confused about usage of register: R0 in 'UnsetPending'
 
-StylingShop.HeadStyle = {}
+StylingShop.DoramHeadStyle = {}
 -- DECOMPILER ERROR at PC10: Confused about usage of register: R0 in 'UnsetPending'
 
-StylingShop.DoramHeadStyle = {}
+StylingShop.HeadStyle = {}
 -- DECOMPILER ERROR at PC13: Confused about usage of register: R0 in 'UnsetPending'
 
 StylingShop.BodyPalette = {}
@@ -30,6 +30,12 @@ StylingShop.MidAccessory = {}
 StylingShop.BottomAccessory = {}
 -- DECOMPILER ERROR at PC28: Confused about usage of register: R0 in 'UnsetPending'
 
+StylingShop.BodyStyle = {}
+-- DECOMPILER ERROR at PC31: Confused about usage of register: R0 in 'UnsetPending'
+
+StylingShop.DoramBodyStyle = {}
+-- DECOMPILER ERROR at PC34: Confused about usage of register: R0 in 'UnsetPending'
+
 StylingShop.AddHeadPalette = function(in_palette, in_payment, in_isDoram)
   -- function num : 0_0
   local tbl = {goods = in_palette, payment = in_payment, isDoram = in_isDoram}
@@ -39,7 +45,7 @@ StylingShop.AddHeadPalette = function(in_palette, in_payment, in_isDoram)
   (StylingShop.HeadPalette)[#StylingShop.HeadPalette + 1] = tbl
 end
 
--- DECOMPILER ERROR at PC31: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC37: Confused about usage of register: R0 in 'UnsetPending'
 
 StylingShop.AddHeadStyle = function(in_style, in_payment)
   -- function num : 0_1
@@ -50,7 +56,7 @@ StylingShop.AddHeadStyle = function(in_style, in_payment)
   (StylingShop.HeadStyle)[#StylingShop.HeadStyle + 1] = tbl
 end
 
--- DECOMPILER ERROR at PC34: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC40: Confused about usage of register: R0 in 'UnsetPending'
 
 StylingShop.AddDoramHeadStyle = function(in_style, in_payment, in_isColoring)
   -- function num : 0_2
@@ -61,18 +67,18 @@ StylingShop.AddDoramHeadStyle = function(in_style, in_payment, in_isColoring)
   (StylingShop.DoramHeadStyle)[#StylingShop.DoramHeadStyle + 1] = tbl
 end
 
--- DECOMPILER ERROR at PC37: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC43: Confused about usage of register: R0 in 'UnsetPending'
 
 StylingShop.AddBodyPalette = function(in_palette, in_payment)
   -- function num : 0_3
-  local tbl = {goods = in_palette, payment = in_payment, isDoram = in_isDoram}
-  -- DECOMPILER ERROR at PC11: Confused about usage of register: R3 in 'UnsetPending'
+  local tbl = {goods = in_palette, payment = in_payment}
+  -- DECOMPILER ERROR at PC9: Confused about usage of register: R3 in 'UnsetPending'
 
   ;
   (StylingShop.BodyPalette)[#StylingShop.BodyPalette + 1] = tbl
 end
 
--- DECOMPILER ERROR at PC40: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC46: Confused about usage of register: R0 in 'UnsetPending'
 
 StylingShop.AddDoramBodyPalette = function(in_palette, in_payment)
   -- function num : 0_4
@@ -83,7 +89,7 @@ StylingShop.AddDoramBodyPalette = function(in_palette, in_payment)
   (StylingShop.DoramBodyPalette)[#StylingShop.DoramBodyPalette + 1] = tbl
 end
 
--- DECOMPILER ERROR at PC43: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC49: Confused about usage of register: R0 in 'UnsetPending'
 
 StylingShop.AddTopAccessory = function(in_goods, in_payment, in_isDoram)
   -- function num : 0_5
@@ -94,7 +100,7 @@ StylingShop.AddTopAccessory = function(in_goods, in_payment, in_isDoram)
   (StylingShop.TopAccessory)[#StylingShop.TopAccessory + 1] = tbl
 end
 
--- DECOMPILER ERROR at PC46: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC52: Confused about usage of register: R0 in 'UnsetPending'
 
 StylingShop.AddMidAccessory = function(in_goods, in_payment, in_isDoram)
   -- function num : 0_6
@@ -105,7 +111,7 @@ StylingShop.AddMidAccessory = function(in_goods, in_payment, in_isDoram)
   (StylingShop.MidAccessory)[#StylingShop.MidAccessory + 1] = tbl
 end
 
--- DECOMPILER ERROR at PC49: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC55: Confused about usage of register: R0 in 'UnsetPending'
 
 StylingShop.AddBottomAccessory = function(in_goods, in_payment, in_isDoram)
   -- function num : 0_7
@@ -116,8 +122,30 @@ StylingShop.AddBottomAccessory = function(in_goods, in_payment, in_isDoram)
   (StylingShop.BottomAccessory)[#StylingShop.BottomAccessory + 1] = tbl
 end
 
-StylingShop_GetPayment = function(showcasename, seqnumber)
+-- DECOMPILER ERROR at PC58: Confused about usage of register: R0 in 'UnsetPending'
+
+StylingShop.AddSecondCostume = function(in_style, in_payment, in_isDoram)
   -- function num : 0_8
+  local tbl = {goods = in_style, payment = in_payment, isDoram = in_isDoram}
+  -- DECOMPILER ERROR at PC10: Confused about usage of register: R4 in 'UnsetPending'
+
+  ;
+  (StylingShop.BodyStyle)[#StylingShop.BodyStyle + 1] = tbl
+end
+
+-- DECOMPILER ERROR at PC61: Confused about usage of register: R0 in 'UnsetPending'
+
+StylingShop.AddDoramSecondCostume = function(in_style, in_payment)
+  -- function num : 0_9
+  local tbl = {goods = in_style, payment = in_payment}
+  -- DECOMPILER ERROR at PC9: Confused about usage of register: R3 in 'UnsetPending'
+
+  ;
+  (StylingShop.DoramBodyStyle)[#StylingShop.DoramBodyStyle + 1] = tbl
+end
+
+StylingShop_GetPayment = function(showcasename, seqnumber)
+  -- function num : 0_10
   if StylingShop[showcasename] == nil then
     return nil
   end
@@ -129,7 +157,7 @@ StylingShop_GetPayment = function(showcasename, seqnumber)
 end
 
 StylingShop_GetGoods = function(showcasename, seqnumber)
-  -- function num : 0_9
+  -- function num : 0_11
   if StylingShop[showcasename] == nil then
     return nil
   end
@@ -140,7 +168,7 @@ StylingShop_GetGoods = function(showcasename, seqnumber)
 end
 
 StylingShop_GetIsDoram = function(showcasename, seqnumber)
-  -- function num : 0_10
+  -- function num : 0_12
   if StylingShop[showcasename] == nil then
     return nil
   end
@@ -151,18 +179,21 @@ StylingShop_GetIsDoram = function(showcasename, seqnumber)
 end
 
 StylingShop_GetIsColoring = function(seqnumber)
-  -- function num : 0_11
+  -- function num : 0_13
   if StylingShop.HeadStyle == nil then
     return nil
   end
-  if (StylingShop.DoramHeadStyle)[seqnumber] == nil then
+  if (StylingShop.HeadStyle)[seqnumber] == nil then
     return nil
   end
-  return ((StylingShop.DoramHeadStyle)[seqnumber]).isColoring
+  if ((StylingShop.HeadStyle)[seqnumber]).isDoram == false then
+    return nil
+  end
+  return ((StylingShop.HeadStyle)[seqnumber]).isColoring
 end
 
 StylingShop_GetSizeInTable = function(showcasename)
-  -- function num : 0_12
+  -- function num : 0_14
   if StylingShop[showcasename] == nil then
     return nil
   end
@@ -170,7 +201,7 @@ StylingShop_GetSizeInTable = function(showcasename)
 end
 
 StylingShop_GetDoramStartSeq = function(showcasename, seq)
-  -- function num : 0_13
+  -- function num : 0_15
   if StylingShop[showcasename] == nil then
     return nil
   end
@@ -186,7 +217,7 @@ StylingShop_GetDoramStartSeq = function(showcasename, seq)
 end
 
 StylingShop_GetDoramSizeInTable = function(showcasename)
-  -- function num : 0_14
+  -- function num : 0_16
   if StylingShop[showcasename] == nil then
     return nil
   end
@@ -198,6 +229,64 @@ StylingShop_GetDoramSizeInTable = function(showcasename)
     seq = seq + 1
   end
   return seq
+end
+
+StylingShop_GetPayment_by_goods = function(showcasename, goods)
+  -- function num : 0_17
+  if StylingShop[showcasename] == nil then
+    return nil
+  end
+  local size = StylingShop_GetSizeInTable(showcasename)
+  for seq = 1, size do
+    if goods == ((StylingShop[showcasename])[seq]).goods then
+      local payment = ((StylingShop[showcasename])[seq]).payment
+      return payment.zeny, payment.itid, payment.boxitid
+    end
+  end
+end
+
+StylingShop_GetSeqnumber_by_goods = function(showcasename, goods)
+  -- function num : 0_18
+  if StylingShop[showcasename] == nil then
+    return nil
+  end
+  local size = StylingShop_GetSizeInTable(showcasename)
+  for seq = 1, size do
+    if goods == ((StylingShop[showcasename])[seq]).goods then
+      return seq
+    end
+  end
+  return nil
+end
+
+StylingShop_GetIsColoring_by_goods = function(goods)
+  -- function num : 0_19
+  if StylingShop.DoramHeadStyle == nil then
+    return nil
+  end
+  local size = #StylingShop.DoramHeadStyle
+  for seq = 1, size do
+    if goods == ((StylingShop.DoramHeadStyle)[seq]).goods then
+      if ((StylingShop.DoramHeadStyle)[seq]).isDoram == false then
+        return nil
+      end
+      return ((StylingShop.DoramHeadStyle)[seq]).isColoring
+    end
+  end
+end
+
+StylingShop_GetIsDoram_by_goods = function(showcasename, goods)
+  -- function num : 0_20
+  if StylingShop[showcasename] == nil then
+    return nil
+  end
+  local size = StylingShop_GetSizeInTable(showcasename)
+  for seq = 1, size do
+    if goods == ((StylingShop[showcasename])[seq]).goods then
+      return ((StylingShop[showcasename])[seq]).isDoram
+    end
+  end
+  return nil
 end
 
 

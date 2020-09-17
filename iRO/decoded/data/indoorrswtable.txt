@@ -148,3 +148,57 @@ prt_cas.rsw#
 prt_cas_q.rsw#
 1@sthc.rsw#
 prt_pri00.rsw#
+
+//201805 17.1 추가맵
+pub_cat.rsw#
+rgsr_in.rsw#
+
+//왕실 사냥대회
+prt_evt_in.rsw#
+
+
+//IA 콜라보레이션
+d_mond01.rsw#
+
+//2016 rockridge 
+har_in01.rsw#
+
+
+//201606 추석이벤트
+nakhyang.rsw#
+
+//201502 16.2
+rebel_in.rsw#
+
+
+//도람족관련 복사맵 요청 2015.05.26(말랑도 내부복사)
+
+conch_in.rsw#
+lasa_in01.rsw#
+
+
+//Ep.16.1 prt_cas
+
+prt_cas.rsw#
+prt_cas_q.rsw#
+1@sthc.rsw#
+prt_pri00.rsw#
+
+//EP.15.2베루스  2013.12.11
+
+un_bunker.rsw#
+un_bk_q.rsw#
+un_myst.rsw#
+
+//파라마켓 전용 맵
+
+paramk.rsw#
+
+//북미요청 복사맵 
+
+prt_cas_evt.rsw#
+prt_in_evt.rsw#
+prt_ch_evt.rsw#
+lhz_cu_evt.rsw#
+air_evt.rsw#
+new_1-2_evt.rsw#

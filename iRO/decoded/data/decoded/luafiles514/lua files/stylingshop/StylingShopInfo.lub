@@ -3,142 +3,113 @@
 
 -- params : ...
 -- function num : 0
-StyleType = {HEAD_PALETTE = 0, HEAD_STYLE = 1, BODY_PALETTE = 2, TOP_ACCESSORY = 3, MID_ACCESSORY = 4, BOTTOM_ACCESSORY = 5, DORAM_HEAD_STYLE = 6, SECOND_COSTUME = 7, DORAM_BODY_PALETTE = 8}
-Material = {ZENY = 0, ITEM = 1}
-tbl = {
-{StyleType.HEAD_PALETTE, 1, 1, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_PALETTE, 2, 2, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_PALETTE, 3, 3, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_PALETTE, 4, 4, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_PALETTE, 5, 5, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_PALETTE, 6, 6, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_PALETTE, 7, 7, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_PALETTE, 8, 8, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 1, 1, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 2, 2, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 3, 3, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 4, 4, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 5, 5, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 6, 6, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 7, 7, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 8, 8, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 9, 9, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 10, 10, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 11, 11, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 12, 12, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 13, 13, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 14, 14, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 15, 15, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 16, 16, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 17, 17, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 18, 18, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 19, 19, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 20, 20, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 21, 21, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 22, 22, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 23, 23, Material.ZENY, 100000}
-, 
-{StyleType.HEAD_STYLE, 24, 24, Material.ITEM, 7622}
-, 
-{StyleType.HEAD_STYLE, 25, 25, Material.ITEM, 7622}
-, 
-{StyleType.HEAD_STYLE, 26, 26, Material.ITEM, 7622}
-, 
-{StyleType.HEAD_STYLE, 27, 27, Material.ITEM, 7622}
-, 
-{StyleType.HEAD_STYLE, 28, 28, Material.ITEM, 6707}
-, 
-{StyleType.HEAD_STYLE, 29, 29, Material.ITEM, 6707}
-, 
-{StyleType.HEAD_STYLE, 30, 30, Material.ITEM, 25736}
-, 
-{StyleType.HEAD_STYLE, 31, 31, Material.ITEM, 25736}
-, 
-{StyleType.BODY_PALETTE, 1, 0, Material.ITEM, 6047}
-, 
-{StyleType.BODY_PALETTE, 2, 2, Material.ITEM, 6046}
-, 
-{StyleType.BODY_PALETTE, 3, 3, Material.ITEM, 6046}
-, 
-{StyleType.TOP_ACCESSORY, 1, 2220, Material.ZENY, 1000}
-, 
-{StyleType.TOP_ACCESSORY, 2, 2208, Material.ZENY, 800}
-, 
-{StyleType.TOP_ACCESSORY, 3, 2211, Material.ZENY, 400}
-, 
-{StyleType.MID_ACCESSORY, 1, 2239, Material.ZENY, 10000}
-, 
-{StyleType.MID_ACCESSORY, 2, 2201, Material.ZENY, 5000}
-, 
-{StyleType.MID_ACCESSORY, 3, 2242, Material.ZENY, 24000}
-, 
-{StyleType.MID_ACCESSORY, 4, 2243, Material.ZENY, 20000}
-, 
-{StyleType.MID_ACCESSORY, 5, 2205, Material.ZENY, 3500}
-, 
-{StyleType.MID_ACCESSORY, 6, 2203, Material.ZENY, 4000}
-, 
-{StyleType.MID_ACCESSORY, 7, 2212, Material.ZENY, 1000}
-, 
-{StyleType.BOTTOM_ACCESSORY, 1, 2241, Material.ZENY, 5000}
-, 
-{StyleType.DORAM_HEAD_STYLE, 1, 1, Material.ZENY, 100000}
-, 
-{StyleType.DORAM_HEAD_STYLE, 2, 2, Material.ZENY, 100000}
-, 
-{StyleType.DORAM_HEAD_STYLE, 3, 3, Material.ZENY, 100000}
-, 
-{StyleType.DORAM_HEAD_STYLE, 4, 4, Material.ZENY, 100000}
-, 
-{StyleType.DORAM_HEAD_STYLE, 5, 5, Material.ZENY, 100000}
-, 
-{StyleType.DORAM_HEAD_STYLE, 6, 6, Material.ZENY, 100000}
-, 
-{StyleType.DORAM_BODY_PALETTE, 1, 0, Material.ITEM, 6047}
-, 
-{StyleType.DORAM_BODY_PALETTE, 2, 2, Material.ITEM, 6046}
-, 
-{StyleType.DORAM_BODY_PALETTE, 3, 3, Material.ITEM, 6046}
-}
-main = function()
-  -- function num : 0_0
-  for i,msg in pairs(tbl) do
-    result = InsertStylingShopLGU(msg[1], msg[2], msg[3], msg[4], msg[5])
-    if not result then
-      return false, msg
-    end
-  end
-  return true, "success"
-end
-
+(StylingShop.AddHeadPalette)(1, {zeny = 100000}, true)
+;
+(StylingShop.AddHeadPalette)(2, {zeny = 100000}, true)
+;
+(StylingShop.AddHeadPalette)(3, {zeny = 100000}, true)
+;
+(StylingShop.AddHeadPalette)(4, {zeny = 100000}, true)
+;
+(StylingShop.AddHeadPalette)(5, {zeny = 100000}, true)
+;
+(StylingShop.AddHeadPalette)(6, {zeny = 100000}, true)
+;
+(StylingShop.AddHeadPalette)(7, {zeny = 100000}, true)
+;
+(StylingShop.AddHeadPalette)(8, {zeny = 100000}, true)
+;
+(StylingShop.AddHeadStyle)(1, {zeny = 100000}, true, true)
+;
+(StylingShop.AddHeadStyle)(2, {zeny = 100000}, true, false)
+;
+(StylingShop.AddHeadStyle)(3, {zeny = 100000}, true, true)
+;
+(StylingShop.AddHeadStyle)(4, {zeny = 100000}, true, true)
+;
+(StylingShop.AddHeadStyle)(5, {zeny = 100000}, true, false)
+;
+(StylingShop.AddHeadStyle)(6, {zeny = 100000}, true, false)
+;
+(StylingShop.AddHeadStyle)(7, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(8, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(9, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(10, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(11, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(12, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(13, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(14, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(15, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(16, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(17, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(18, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(19, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(20, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(21, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(22, {zeny = 100000})
+;
+(StylingShop.AddHeadStyle)(23, {zeny = 100000})
+;
+(StylingShop.AddBodyPalette)(0, {itid = 6287, boxitid = 14289})
+;
+(StylingShop.AddBodyPalette)(2, {itid = 6287, boxitid = 14289})
+;
+(StylingShop.AddBodyPalette)(3, {itid = 6287, boxitid = 14289})
+;
+(StylingShop.AddTopAccessory)(2220, {zeny = 1000})
+;
+(StylingShop.AddTopAccessory)(2208, {zeny = 800})
+;
+(StylingShop.AddTopAccessory)(2211, {zeny = 400})
+;
+(StylingShop.AddTopAccessory)(19996, {itid = 25477, boxitid = 25477})
+;
+(StylingShop.AddTopAccessory)(31371, {itid = 25722, boxitid = 25722})
+;
+(StylingShop.AddMidAccessory)(2239, {zeny = 10000})
+;
+(StylingShop.AddMidAccessory)(2201, {zeny = 5000})
+;
+(StylingShop.AddMidAccessory)(2242, {zeny = 24000})
+;
+(StylingShop.AddMidAccessory)(2243, {zeny = 20000})
+;
+(StylingShop.AddMidAccessory)(2205, {zeny = 3500})
+;
+(StylingShop.AddMidAccessory)(2203, {zeny = 4000})
+;
+(StylingShop.AddMidAccessory)(2212, {zeny = 1000})
+;
+(StylingShop.AddBottomAccessory)(2241, {zeny = 5000})
+;
+(StylingShop.AddDoramHeadStyle)(1, {zeny = 100000}, true)
+;
+(StylingShop.AddDoramHeadStyle)(2, {zeny = 100000}, false)
+;
+(StylingShop.AddDoramHeadStyle)(3, {zeny = 100000}, true)
+;
+(StylingShop.AddDoramHeadStyle)(4, {zeny = 100000}, true)
+;
+(StylingShop.AddDoramHeadStyle)(5, {zeny = 100000}, false)
+;
+(StylingShop.AddDoramHeadStyle)(6, {zeny = 100000}, false)
+;
+(StylingShop.AddSecondCostume)(0, {itid = 6959, boxitid = 6959})
+;
+(StylingShop.AddSecondCostume)(1, {itid = 6959, boxitid = 6959})
 

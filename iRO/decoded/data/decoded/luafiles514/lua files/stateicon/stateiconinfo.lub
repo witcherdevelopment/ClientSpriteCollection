@@ -4880,7 +4880,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"Increase Drop Rate of Item(for a month)"}
+{"Increase Drop Rate of Item"}
 }
 }
 -- DECOMPILER ERROR at PC10061: Confused about usage of register: R0 in 'UnsetPending'
@@ -4891,7 +4891,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"Increase EXP Up from monster.(for a month)"}
+{"Increase EXP Up from monster."}
 }
 }
 -- DECOMPILER ERROR at PC10085: Confused about usage of register: R0 in 'UnsetPending'
@@ -4903,6 +4903,275 @@ descript = {
 {"%s", COLOR_TIME}
 , 
 {"Increase Job EXP from monster.(for a month)"}
+}
+}
+-- DECOMPILER ERROR at PC10115: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BASILICA_BUFF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Basilica", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase in Magical damage for Holy Property"}
+, 
+{"Increase in Physical damage"}
+, 
+{"when attacking Shadow and Undead monster"}
+}
+}
+-- DECOMPILER ERROR at PC10142: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ASSUMPTIO_BUFF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Assumptio", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase in Physical DEF"}
+, 
+{"Increase the effect of recovery skill"}
+}
+}
+-- DECOMPILER ERROR at PC10169: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RICHMANKIM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Mental Sensing", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"When hunting monsters"}
+, 
+{"Exp, JOB exp Increase"}
+}
+}
+-- DECOMPILER ERROR at PC10196: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RINGNIBELUNGEN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Harmonic Lick", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Give favorable effects"}
+, 
+{"to party members."}
+}
+}
+-- DECOMPILER ERROR at PC10220: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DRUMBATTLEFIELD] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Battle Theme", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase party members\' ATK and DEF."}
+}
+}
+-- DECOMPILER ERROR at PC10250: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SIEGFRIED] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Acoustic Rhythm", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Tolerance to Water/Wind/Earth/Fire"}
+, 
+{"for party members."}
+, 
+{"Tolerance to some status effect."}
+}
+}
+-- DECOMPILER ERROR at PC10277: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ADAPTATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Amp", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Decrease SP consumption"}
+, 
+{"for perfoming, dancing and duet skill."}
+}
+}
+-- DECOMPILER ERROR at PC10304: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_INTOABYSS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Power Cord", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"파티원의 젬스톤 소모 제거."}
+, 
+{"(일부 스킬 예외)."}
+}
+}
+-- DECOMPILER ERROR at PC10331: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SERVICEFORYOU] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Gypsy\'s Kiss", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"파티원의 최대 SP 증가."}
+, 
+{"소비 SP 감소."}
+}
+}
+-- DECOMPILER ERROR at PC10358: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FORTUNEKISS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Lady Luck", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"파티원의 CRI 증가."}
+, 
+{"크리티컬 데미지 증가."}
+}
+}
+-- DECOMPILER ERROR at PC10382: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HUMMING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Focus Ballet", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"파티원의 HIT 증가."}
+}
+}
+-- DECOMPILER ERROR at PC10409: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_POEMBRAGI] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Magic Strings", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"파티원의 변동 캐스팅 감소."}
+, 
+{"스킬 후 딜레이 감소."}
+}
+}
+-- DECOMPILER ERROR at PC10436: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ASSASSINCROSS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Impressive Riff", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"파티원의 공격 속도 증가."}
+, 
+{"(공격 후 딜레이 감소.)"}
+}
+}
+-- DECOMPILER ERROR at PC10463: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_WHISTLE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Perfect Tablature", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"파티원의 FLEE 증가."}
+, 
+{"완전회피 증가."}
+}
+}
+-- DECOMPILER ERROR at PC10490: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_APPLEIDUN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Song of Lutie", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"파티원의 최대 HP 증가."}
+, 
+{"받는 회복량 증가."}
+}
+}
+-- DECOMPILER ERROR at PC10520: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Fatigue after duet", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"합주로 인한 피로 상태."}
+, 
+{"스킬 사용 불가."}
+, 
+{"이동, 공격속도 30% 감소."}
+}
+}
+-- DECOMPILER ERROR at PC10544: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ETERNALCHAOS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Down Tempo", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"방어력 0으로 고정."}
+}
+}
+-- DECOMPILER ERROR at PC10571: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ROKISWEIL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Classical Pluck", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"스킬 사용 불가."}
+, 
+{"일정 확률로 혼란 상태."}
+}
+}
+-- DECOMPILER ERROR at PC10598: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DONTFORGETME] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Slow Grace", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"이동, 공격 속도 감소."}
+, 
+{"이동, 공격 속도 증가 효과 제거."}
+}
+}
+-- DECOMPILER ERROR at PC10621: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_STATE] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"All abilities"}
+, 
+{"have risen dramatically."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC10645: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DEFSCROLL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Shiny Physical DEF Scroll", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase DEF"}
 }
 }
 
