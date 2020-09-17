@@ -326,6 +326,18 @@ TargetItems = {
 {"T_Lance_Of_Kingdom", 26016}
 }
 , NeedSource_String = "猛気のエッセンス"}
+, 
+Helm_C_unit_1_JP = {ItemID = 100532, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Cor_Core_Headset", 410014}
+}
+, NeedSource_String = "兜改造装置I"}
+, 
+Helm_C_unit_2_JP = {ItemID = 100533, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Cor_Core_Headset_", 410015}
+}
+, NeedSource_String = "兜改造装置II"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

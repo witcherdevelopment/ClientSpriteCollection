@@ -7369,4 +7369,378 @@
 	</so_full>
 </teddy_bear>
 
+<sweets_drops>
+	<hungry>
+		<feeding>ガリガリゴクンッ！……慌てて食べちゃったでスゥ～</feeding>
+		<feeding>食べてるそばから、お腹が鳴るでスゥ～</feeding>
+		<feeding>お腹が減った時は、甘くて美味しいキャンディ一択でスゥ～</feeding>
+		<hunting>応援するから、お菓子ちょうだいでスゥ～</hunting>
+		<hunting>……甘いものが無いと、機嫌が悪くなるでスゥ～</hunting>
+		<hunting>腹ペコで目が回るでスゥ～</hunting>
+		<hunting>なんだか美味しそうな敵でスゥ～……じゅるり……</hunting>
+		<hunting>ちょっと糖分が足りないでスゥ～</hunting>
+		<danger>ちょっと、お菓子でも食べるでスゥ～？</danger>
+		<danger>回復よりも、ボクのお菓子が先でスゥ～</danger>
+		<danger>ボクの空腹事情のほうが危険信号でスゥ～</danger>
+		<dead>倒れる前に、お菓子が欲しかったでスゥ……</dead>
+		<dead>ツンツン……あっ……ガチのやつでスゥ？</dead>
+		<dead>もうお菓子食べられないでスゥ……</dead>
+		<stand>あの雲が綿菓子に見えてきたでスゥ～</stand>
+		<stand>お腹と背中がくっつきそうでスゥ～</stand>
+		<stand>こんなに空腹アピールしてるのに、ひどいでスゥ～</stand>
+		<stand>は～……ボク、愛されてないでスゥ？</stand>
+		<stand>ひもじいでスゥ～</stand>
+		<connect>きたー！　早くキャンディちょうだいでスゥ～</connect>
+		<connect>もう！　家出しようかと思ってたでスゥ～</connect>
+		<levelup>グギュルルッグギュ～！　おめでとうでスゥ～</levelup>
+		<levelup>お祝いにケーキ食べたいでスゥ～</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>もぐもぐ……最高のご飯でスゥ～！</feeding>
+		<feeding>美味しすぎて、食べるのとまらないでスゥ～！</feeding>
+		<feeding>元気もりもり！　高カロリーは正義でスゥ！</feeding>
+		<hunting>ちょっと手ごわそうでスゥ～？</hunting>
+		<hunting>今日はこの辺りで、お菓子タイムでスゥ～</hunting>
+		<danger>深追いは禁物でスゥ～</danger>
+		<danger>あ～危ないでスゥ～！　前っ！前！</danger>
+		<danger>スウィ～っと、華麗に避けるでスゥ～！</danger>
+		<danger>諦めちゃだめでスゥ～！　糖分を信じるでスゥ～</danger>
+		<dead>ご主人が寝るなら、ボクも眠るでスゥ……</dead>
+		<dead>キャンディあげるから立ち上がるでスゥ……！</dead>
+		<dead>そんな……今日のお菓子が食べられないでスゥ……</dead>
+		<stand>まずはお菓子を食べるでスゥ～。冒険はその後！</stand>
+		<stand>ご主人……お菓子の時間を忘れてるんじゃないでスゥ？</stand>
+		<stand>このまんまるボディを維持するのが、ボクのお仕事でスゥ～！</stand>
+		<connect>待ってたでスゥ！　さっそくお菓子タイムでスゥ～！</connect>
+		<connect>会いたかったでスゥ～　早くキャンディをくださいでスゥ～</connect>
+		<levelup>ボクもお菓子を食べて、もっとパワーアップしたいでスゥ！</levelup>
+		<levelup>ご主人が成長するためなら、お菓子も我慢できるでスゥ～！</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>ご主人にも、キャンディ半分あげるでスゥ～</feeding>
+		<feeding>ご主人と一緒に食べるお菓子は美味しいでスゥ～</feeding>
+		<feeding>愛情たっぷりのお菓子は最高でスゥ～</feeding>
+		<feeding>デザートは……別腹なんでスゥ～♪</feeding>
+		<hunting>強敵に立ち向かうご主人の姿、しびれるでスゥ～</hunting>
+		<hunting>ご主人とボクのあわせ技を味わうでスゥ～！</hunting>
+		<hunting>ご主人が輝いてるでスゥ～！</hunting>
+		<hunting>向かうところ敵なしでスゥ～！</hunting>
+		<hunting>さすがご主人！　後でキャンディあげるでスゥ～</hunting>
+		<hunting>ファイト～！　ご主人～！</hunting>
+		<danger>コラ～！　ご主人をイジメるなでスゥ～！</danger>
+		<danger>ご主人とお菓子に、触るんじゃないでスゥ～！</danger>
+		<danger>今ならまだ、逃げることもできるでスゥ～！</danger>
+		<dead>ありゃ～……溶けたアイスみたいでスゥ……。</dead>
+		<dead>ご主人！　糖分を摂取して復活するでスゥ～！</dead>
+		<dead>よくもご主人とお菓子を……食べ物の恨みは恐ろしいでスゥ～</dead>
+		<stand>えへへ…一緒だと楽しいでスゥ。</stand>
+		<stand>最近、お菓子を食べるのが楽しくて仕方ないでスゥ～♪</stand>
+		<connect>今日はどこでお菓子を食べるでスゥ～？</connect>
+		<connect>待ってたでスゥ～、ご主人！　さあ、お菓子の時間でスゥ～</connect>
+		<levelup>レベルアップでスゥ～！　今日はお菓子パーティーでスゥ～</levelup>
+		<levelup>わーい！　ご主人がもりもり強くなったでスゥ～！</levelup>
+	</noting>
+	<full>
+		<feeding>ご、ご主人も、半分食べて欲しいでスゥ……</feeding>
+		<feeding>暴飲暴食は健康を害するのでスゥ……</feeding>
+		<feeding>もぐもぐ…ごくん…もぐ…うぷっ…</feeding>
+		<feeding>ムグムグ……</feeding>
+		<hunting>ボクのヒップアタックもくらえ～！！</hunting>
+		<hunting>ボクだって本当は戦えるでスゥ～！</hunting>
+		<hunting>ご主人カッコイイ～でスゥ～！</hunting>
+		<hunting>うっとりするような動きでスゥ～</hunting>
+		<hunting>ご主人！　そんなヤツは食べちゃうでスゥ～！</hunting>
+		<danger>敵の攻撃なんて、ボクのボディで弾き返してやるでスゥ！</danger>
+		<danger>ここは勇気ある撤退でスゥ～！</danger>
+		<danger>お菓子をばら撒いて、その隙に逃げるでスゥ～！</danger>
+		<dead>うえぇ～ん！　目を開けて欲しいでスゥ～！</dead>
+		<dead>倒れちゃったら、お菓子食べられないでスゥ～</dead>
+		<dead>カロリーが……カロリーが足りなかっただけでスゥ～</dead>
+		<stand>ご主人はいっぱいお菓子をくれるから、サイコーでスゥ～♪</stand>
+		<stand>ただのドロップスとは一味違うでスゥ……具体的には、甘い（キリッ）</stand>
+		<connect>おかえり！　ご主人！　お菓子一緒に食べるでスゥ～</connect>
+		<connect>ご主人とお菓子の時間を楽しむでスゥ～♪</connect>
+		<levelup>ご主人！　なんだか一回り大きくなったようでスゥ～！</levelup>
+		<levelup>レベルアップでスゥ～！　でっかいケーキ食べるでスゥ～。</levelup>
+	</full>
+	<so_full>
+		<feeding>むぐぐ…そんなに詰め込まないでほしいでスゥ～</feeding>
+		<feeding>別腹にも限界があるでスゥ……</feeding>
+		<feeding>これ以上食べたら……丸くなっちゃうでスゥ～！</feeding>
+		<hunting>満腹で動けないでスゥ～</hunting>
+		<hunting>今なら最大威力のヒップアタックがお見舞いできそうでスゥ～</hunting>
+		<danger>体が重くて動けないボクを囮にして、早く逃げるでスゥ～</danger>
+		<danger>もっと……もっと戦うためのカロリーが欲しいでスゥ～！</danger>
+		<danger>急いでお菓子を食べて、パワーアップするでスゥ～！</danger>
+		<dead>うぅ……ボクのとっておきのお菓子をあげるから……立ち上がるでスゥ～</dead>
+		<dead>ご主人と一緒でないと、お菓子も美味しくないでスゥ～</dead>
+		<dead>サテさえ切らしてなかったら……こんなことには……！</dead>
+		<stand>ご主人のこと、キャンディの次に好きでスゥ～！　……なんちゃって！</stand>
+		<stand>ボクのチャ～ムポイントは、まんまるボディとおしゃれな帽子でスゥ～♪</stand>
+		<stand>ダイエットとは無縁でスゥ～。時代はまんまるボディを求めているでスゥ～♪</stand>
+		<connect>ご主人が来てくれるまで、お菓子食べるの我慢してたでスゥ～</connect>
+		<connect>来るのが遅いでスゥ～。早く行列のできるお菓子屋に行くでスゥ～！</connect>
+		<levelup>もっとお菓子を食べて、もりもりレベルアップするでスゥ～♪</levelup>
+		<levelup>レベルアップとお菓子タイムは、何回あっても良いんでスゥ～</levelup>
+	</so_full>
+</sweets_drops>
+
+<metaller>
+	<hungry>
+		<feeding>ん～～……Delicious♪</feeding>
+		<dead>寝てないで私の歌を……Listen Please♪</dead>
+		<dead>ミーのSongはLullabyじゃないよ？</dead>
+		<stand>Hungry……歌う気力も無いでぇぇす……</stand>
+		<levelup>Great!!　Rockstarに近づきましたよ～♪</levelup>
+		<levelup>ユーこそ、Pop Starで～～す♪</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>ん～～……Delicious♪</feeding>
+		<feeding>Tension Upで～す♪</feeding>
+		<dead>寝てないで私の歌を……Listen Please♪</dead>
+		<dead>ミーのSongはLullabyじゃないよ？</dead>
+		<stand>Hungry……歌う気力も無いでぇぇす……</stand>
+		<levelup>Great!!　Rockstarに近づきましたよ～♪</levelup>
+		<levelup>ユーこそ、Pop Starで～～す♪</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>ん～～……Delicious♪</feeding>
+		<feeding>Tension Upで～す♪</feeding>
+		<feeding>Shoutしたくなってきましたぁぁ！</feeding>
+		<dead>寝てないで私の歌を……Listen Please♪</dead>
+		<dead>ミーのSongはLullabyじゃないよ？</dead>
+		<stand>一緒にTogether!!　歌いましょーー♪</stand>
+		<stand>Are You Ready?　歌う準備はできてるよ～♪</stand>
+		<stand>ユーと一緒に歌うのが、ミーのDream!!</stand>
+		<connect>ミーのLiveに来てくれて……Thank You!!</connect>
+		<connect>Whoooo!!　今日もアゲていきましょーー♪</connect>
+		<levelup>Great!!　Rockstarに近づきましたよ～♪</levelup>
+		<levelup>ユーこそ、Pop Starで～～す♪</levelup>
+		<levelup>Yeaaaah!! アゲアゲ～～♪</levelup>
+	</noting>
+	<full>
+		<feeding>RockなSingerは、Hungryでなければ……</feeding>
+		<dead>寝てないで私の歌を……Listen Please♪</dead>
+		<dead>ミーのSongはLullabyじゃないよ？</dead>
+		<dead>O M G!! Requiemのリクエストは受け付けてないよ！</dead>
+		<stand>一緒にTogether!!　歌いましょーー♪</stand>
+		<stand>Are You Ready?　歌う準備はできてるよ～♪</stand>
+		<stand>ユーと一緒に歌うのが、ミーのDream!!</stand>
+		<connect>ミーのLiveに来てくれて……Thank You!!</connect>
+		<connect>Whoooo!!　今日もアゲていきましょーー♪</connect>
+		<levelup>Great!!　Rockstarに近づきましたよ～♪</levelup>
+		<levelup>ユーこそ、Pop Starで～～す♪</levelup>
+		<levelup>Yeaaaah!! アゲアゲ～～♪</levelup>
+	</full>
+	<so_full>
+		<feeding>Stop!!　お腹……ダメ……いっぱい!!</feeding>
+		<feeding>ユーのLoveは、Heavyでーーす!!</feeding>
+		<dead>寝てないで私の歌を……Listen Please♪</dead>
+		<dead>ミーのSongはLullabyじゃないよ？</dead>
+		<dead>O M G!! Requiemのリクエストは受け付けてないよ！</dead>
+		<stand>一緒にTogether!!　歌いましょーー♪</stand>
+		<stand>Are You Ready?　歌う準備はできてるよ～♪</stand>
+		<stand>ユーと一緒に歌うのが、ミーのDream!!</stand>
+		<connect>ミーのLiveに来てくれて……Thank You!!</connect>
+		<connect>Whoooo!!　今日もアゲていきましょーー♪</connect>
+		<levelup>Great!!　Rockstarに近づきましたよ～♪</levelup>
+		<levelup>ユーこそ、Pop Starで～～す♪</levelup>
+		<levelup>Yeaaaah!! アゲアゲ～～♪</levelup>
+	</so_full>
+</metaller>
+
+<high_orc>
+	<hungry>
+		<feeding>遠慮なくいただくであります！</feeding>
+		<feeding>ちょうどお腹が減ってたであります！</feeding>
+		<feeding>美味いでありますな!!</feeding>
+		<hunting>お供するであります!!</hunting>
+		<hunting>ハングリー精神で頑張るであります！</hunting>
+		<danger>撤退を進言するであります！</danger>
+		<danger>無理は禁物でありますぞ！</danger>
+		<danger>ここが踏ん張りどころでありますぞ！</danger>
+		<danger>主殿を守らねば！</danger>
+		<dead>主殿!?　こ、こんなはずでは……</dead>
+		<dead>不意をつくとは……卑怯者め！</dead>
+		<stand>主殿と一緒に闘えるのは、私の誇りであります！</stand>
+		<stand>いつでも戦う準備はできてるであります！</stand>
+		<stand>待機中であります！</stand>
+		<connect>ご命令を！　主殿の命に従うのが、我が本分であります！</connect>
+		<connect>お待ちしてたであります！　今日はどこに遠征する予定でありますか？</connect>
+		<connect>参られましたか！　まずは食事を摂りましょう！</connect>
+		<levelup>主殿に、オーキッシュソードのご加護があらんことを！</levelup>
+		<levelup>流石は主殿！　向かうところ敵なしであります！</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>遠慮なくいただくであります！</feeding>
+		<feeding>ちょうどお腹が減ってたであります！</feeding>
+		<feeding>美味いでありますな!!</feeding>
+		<feeding>主殿は、本当にお優しい方でありますな！</feeding>
+		<hunting>お供するであります!!</hunting>
+		<hunting>今日も勇ましいでありますな！</hunting>
+		<danger>撤退を進言するであります！</danger>
+		<danger>無理は禁物でありますぞ！</danger>
+		<danger>ここが踏ん張りどころでありますぞ！</danger>
+		<danger>ぬぅ……手ごわい相手でありますな……</danger>
+		<dead>主殿!?　こ、こんなはずでは……</dead>
+		<dead>不意をつくとは……卑怯者め！</dead>
+		<dead>主殿の優しさが裏目にでたか……</dead>
+		<dead>後一歩のところで……悔しいであります！</dead>
+		<stand>主殿と一緒に闘えるのは、私の誇りであります！</stand>
+		<stand>いつでも戦う準備はできてるであります！</stand>
+		<stand>待機中であります！</stand>
+		<connect>ご命令を！　主殿の命に従うのが、我が本分であります！</connect>
+		<connect>お待ちしてたであります！　今日はどこに遠征する予定でありますか？</connect>
+		<connect>参られましたか！　まずは食事を摂りましょう！</connect>
+		<levelup>主殿に、オーキッシュソードのご加護があらんことを！</levelup>
+		<levelup>流石は主殿！　向かうところ敵なしであります！</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>遠慮なくいただくであります！</feeding>
+		<feeding>主殿も一緒に食べるであります！</feeding>
+		<feeding>主殿のお心遣いには、感服するであります！</feeding>
+		<hunting>お供するであります!!</hunting>
+		<hunting>今日も勇ましいでありますな！</hunting>
+		<danger>撤退を進言するであります！</danger>
+		<danger>無理は禁物でありますぞ！</danger>
+		<danger>ここが踏ん張りどころでありますぞ！</danger>
+		<danger>ぬぅ……手ごわい相手でありますな……</danger>
+		<danger>死中に活を見出すであります！</danger>
+		<dead>主殿!?　こ、こんなはずでは……</dead>
+		<dead>不意をつくとは……卑怯者め！</dead>
+		<dead>主殿の優しさが裏目にでたか……</dead>
+		<dead>後一歩のところで……悔しいであります！</dead>
+		<dead>主殿は、こんなところで終わる方ではないぞ！</dead>
+		<stand>主殿と一緒に闘えるのは、私の誇りであります！</stand>
+		<stand>いつでも戦う準備はできてるであります！</stand>
+		<stand>待機中であります！</stand>
+		<stand>哨戒中であります！　……可憐なオークレディーを発見っ!!</stand>
+		<connect>ご命令を！　主殿の命に従うのが、我が本分であります！</connect>
+		<connect>お待ちしてたであります！　今日はどこに遠征する予定でありますか？</connect>
+		<connect>参られましたか！　今日も一緒に頑張るであります！</connect>
+		<levelup>主殿に、オーキッシュソードのご加護があらんことを！</levelup>
+		<levelup>流石は主殿！　向かうところ敵なしであります！</levelup>
+	</noting>
+	<full>
+		<feeding>遠慮なくいただくであります！</feeding>
+		<feeding>主殿も一緒に食べるであります！</feeding>
+		<feeding>食べることには自信があるであります！</feeding>
+		<hunting>お供するであります!!</hunting>
+		<hunting>今日も勇ましいでありますな！</hunting>
+		<hunting>いざ参らん、戦場へ！</hunting>
+		<hunting>今日は一段と技が冴えておられますな！</hunting>
+		<hunting>主殿のお出ましである！　下がれ～下がれ～！</hunting>
+		<danger>撤退を進言するであります！</danger>
+		<danger>無理は禁物でありますぞ！</danger>
+		<danger>ここが踏ん張りどころでありますぞ！</danger>
+		<danger>ぬぅ……手ごわい相手でありますな……</danger>
+		<danger>死中に活を見出すであります！</danger>
+		<dead>主殿!?　こ、こんなはずでは……</dead>
+		<dead>不意をつくとは……卑怯者め！</dead>
+		<dead>主殿の優しさが裏目にでたか……</dead>
+		<dead>後一歩のところで……悔しいであります！</dead>
+		<dead>主殿は、こんなところで終わる方ではないぞ！</dead>
+		<stand>主殿と一緒に闘えるのは、私の誇りであります！</stand>
+		<stand>いつでも戦う準備はできてるであります！</stand>
+		<stand>待機中であります！</stand>
+		<stand>哨戒中であります！　……可憐なオークレディーを発見っ!!</stand>
+		<connect>ご命令を！　主殿の命に従うのが、我が本分であります！</connect>
+		<connect>お待ちしてたであります！　今日はどこに遠征する予定でありますか？</connect>
+		<connect>参られましたか！　今日も一緒に頑張るであります！</connect>
+		<connect>主殿と狩りに行くのを心待ちにしてたであります！</connect>
+		<levelup>主殿に、オーキッシュソードのご加護があらんことを！</levelup>
+		<levelup>流石は主殿！　向かうところ敵なしであります！</levelup>
+		<levelup>主殿の姿は、竜が天に昇るが如しであります！</levelup>
+		<levelup>恐ろしい……主殿は、どこまでお強くなられるおつもりか！</levelup>
+	</full>
+	<so_full>
+		<feeding>も、もう、結構であります!!</feeding>
+		<feeding>いただいたからには食べるであります……うぷっ……</feeding>
+		<feeding>腹が……爆発しそうであります……</feeding>
+		<hunting>お供するであります!!</hunting>
+		<hunting>主殿と一緒に闘えるのは、私の誇りであります！</hunting>
+		<hunting>今日も勇ましいでありますな！</hunting>
+		<hunting>いざ参らん、戦場へ！</hunting>
+		<hunting>今日は一段と技が冴えておられますな！</hunting>
+		<hunting>主殿のお出ましである！　下がれ～下がれ～！</hunting>
+		<danger>撤退を進言するであります！</danger>
+		<danger>無理は禁物でありますぞ！</danger>
+		<danger>ここが踏ん張りどころでありますぞ！</danger>
+		<danger>ぬぅ……手ごわい相手でありますな……</danger>
+		<danger>死中に活を見出すであります！</danger>
+		<dead>主殿!?　こ、こんなはずでは……</dead>
+		<dead>不意をつくとは……卑怯者め！</dead>
+		<dead>主殿の優しさが裏目にでたか……</dead>
+		<dead>後一歩のところで……悔しいであります！</dead>
+		<dead>主殿は、こんなところで終わる方ではないぞ！</dead>
+		<stand>主殿と一緒に闘えるのは、私の誇りであります！</stand>
+		<stand>いつでも戦う準備はできてるであります！</stand>
+		<stand>待機中であります！</stand>
+		<stand>哨戒中であります！　……可憐なオークレディーを発見っ!!</stand>
+		<connect>ご命令を！　主殿の命に従うのが、我が本分であります！</connect>
+		<connect>お待ちしてたであります！　今日はどこに遠征する予定でありますか？</connect>
+		<connect>参られましたか！　今日も一緒に頑張るであります！</connect>
+		<connect>主殿と狩りに行くのを心待ちにしてたであります！</connect>
+		<levelup>主殿に、オーキッシュソードのご加護があらんことを！</levelup>
+		<levelup>流石は主殿！　向かうところ敵なしであります！</levelup>
+		<levelup>主殿の姿は、竜が天に昇るが如しであります！</levelup>
+		<levelup>恐ろしい……主殿は、どこまでお強くなられるおつもりか！</levelup>
+	</so_full>
+</high_orc>
+
+<ORK_HERO2>
+	<hungry>
+		<feeding>いただこう！　腹が減っては戦ができんからな！</feeding>
+		<dead>えぇい！　情けないにも程がある！</dead>
+		<stand>我の姿を見よっ！　これぞ威風堂々！</stand>
+		<levelup>よくやった！　英雄に一歩近づいたぞ！</levelup>
+		<perfor_1>我を見よ！　我こそが英雄！　オークヒーローであぁぁる！</perfor_1>
+		<perfor_2>ふんっ！　どうだっ、器用だろう!!</perfor_2>
+	</hungry>
+	<bit_hungry>
+		<feeding>いただこう！　腹が減っては戦ができんからな！</feeding>
+		<dead>えぇい！　情けないにも程がある！</dead>
+		<stand>我の姿を見よっ！　これぞ威風堂々！</stand>
+		<levelup>よくやった！　英雄に一歩近づいたぞ！</levelup>
+		<perfor_1>我を見よ！　我こそが英雄！　オークヒーローであぁぁる！</perfor_1>
+		<perfor_2>ふんっ！　どうだっ、器用だろう!!</perfor_2>
+	</bit_hungry>
+	<noting>
+		<feeding>うははは！　なかなか美味ではないか！</feeding>
+		<dead>えぇい！　情けないにも程がある！</dead>
+		<stand>我の姿を見よっ！　これぞ威風堂々！</stand>
+		<levelup>よくやった！　英雄に一歩近づいたぞ！</levelup>
+		<perfor_1>我を見よ！　我こそが英雄！　オークヒーローであぁぁる！</perfor_1>
+		<perfor_2>ふんっ！　どうだっ、器用だろう!!</perfor_2>
+	</noting>
+	<full>
+		<feeding>うむ、美味い！　が、この味にも飽きてきたぞ……</feeding>
+		<dead>えぇい！　情けないにも程がある！</dead>
+		<dead>訓練が足りんぞぉ！　帰ったら特訓だっ！</dead>
+		<stand>我の姿を見よっ！　これぞ威風堂々！</stand>
+		<stand>立っているだけでも様になる。　これぞ英雄っ！</stand>
+		<levelup>よくやった！　英雄に一歩近づいたぞ！</levelup>
+		<levelup>がははは！　日ごろの特訓の成果だなっ！</levelup>
+		<levelup>その調子だ！　これからも鍛錬を怠るなよ！</levelup>
+		<perfor_1>我を見よ！　我こそが英雄！　オークヒーローであぁぁる！</perfor_1>
+		<perfor_1>デデェェン!!　オークヒーローのお出ましであぁぁる！</perfor_1>
+		<perfor_2>ふんっ！　どうだっ、器用だろう!!</perfor_2>
+		<perfor_2>うむっ！　絶好調である！</perfor_2>
+	</full>
+	<so_full>
+		<feeding>まだ喰わせるつもりか!?　貴様は加減を覚えろ！</feeding>
+		<dead>えぇい！　情けないにも程がある！</dead>
+		<dead>訓練が足りんぞぉ！　帰ったら特訓だっ！</dead>
+		<stand>我の姿を見よっ！　これぞ威風堂々！</stand>
+		<stand>立っているだけでも様になる。　これぞ英雄っ！</stand>
+		<levelup>よくやった！　英雄に一歩近づいたぞ！</levelup>
+		<levelup>がははは！　日ごろの特訓の成果だなっ！</levelup>
+		<levelup>その調子だ！　これからも鍛錬を怠るなよ！</levelup>
+		<perfor_1>我を見よ！　我こそが英雄！　オークヒーローであぁぁる！</perfor_1>
+		<perfor_1>デデェェン!!　オークヒーローのお出ましであぁぁる！</perfor_1>
+		<perfor_2>ふんっ！　どうだっ、器用だろう!!</perfor_2>
+		<perfor_2>うむっ！　絶好調である！</perfor_2>
+	</so_full>
+</ORK_HERO2>
+
 </monster_talk_table>

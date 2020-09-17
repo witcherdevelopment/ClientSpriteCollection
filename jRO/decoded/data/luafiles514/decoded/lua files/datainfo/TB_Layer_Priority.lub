@@ -532,6 +532,18 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_Sinister_Horn_Gear] = {Default = 200, 
 Direction = {[0] = 410, [1] = 410, [2] = 410, [6] = 410, [7] = 410}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Frog_Hood] = {Default = 195, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Nut_Cracker] = {Default = 195, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Happy_Cat_TW] = {Default = 480, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
