@@ -4,9 +4,81 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["sp_rudus4.rsw"] = {displayName = "폐기실험체 유기장 루두스 4층", notifyEnter = true, 
+signName = {subTitle = "폐기실험체 유기장", mainTitle = "루두스 4층"}
+, backgroundBmp = "dungeon"}
+, 
+["amicitia1.rsw"] = {displayName = "버려진 연구소 아미키티아", notifyEnter = true, 
+signName = {subTitle = "버려진 연구소 아미키티아", mainTitle = "1층 종합연구실"}
+, backgroundBmp = "dungeon"}
+, 
+["amicitia2.rsw"] = {displayName = "버려진 연구소 아미키티아", notifyEnter = true, 
+signName = {subTitle = "버려진 연구소 아미키티아", mainTitle = "2층 집중배양실"}
+, backgroundBmp = "dungeon"}
+, 
+["nif_dun01.rsw"] = {displayName = "니플헤임 던전 망자의 연회장", notifyEnter = true, 
+signName = {subTitle = "니플헤임 던전 1층", mainTitle = "망자의 연회장"}
+, backgroundBmp = "dungeon"}
+, 
+["nif_dun02.rsw"] = {displayName = "니플헤임 던전 무너진 오페라 하우스", notifyEnter = true, 
+signName = {subTitle = "니플헤임 던전 2층", mainTitle = "무너진 오페라 하우스"}
+, backgroundBmp = "dungeon"}
+, 
+["grademk.rsw"] = {displayName = "등급강화소", notifyEnter = true, 
+signName = {subTitle = "등급강화소"}
+, backgroundBmp = "village_s1"}
+, 
+["1@4sac.rsw"] = {displayName = "그림자 저택", notifyEnter = true, 
+signName = {mainTitle = "그림자 저택"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4drk.rsw"] = {displayName = "드래곤의 시험", notifyEnter = true, 
+signName = {mainTitle = "드래곤의 시험"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4win.rsw"] = {displayName = "루루카 깊은 숲", notifyEnter = true, 
+signName = {mainTitle = "루루카 깊은 숲"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4tro.rsw"] = {displayName = "크바시르의 함", notifyEnter = true, 
+signName = {mainTitle = "크바시르의 함"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_tro.rsw"] = {displayName = "텅 빈 크바시르의 함", notifyEnter = true, 
+signName = {mainTitle = "텅 빈 크바시르의 함"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4inq.rsw"] = {displayName = "수도원 지하", notifyEnter = true, 
+signName = {mainTitle = "수도원 지하"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_bio.rsw"] = {displayName = "비밀의 화원", notifyEnter = true, 
+signName = {mainTitle = "비밀의 화원"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4mst.rsw"] = {displayName = "유페로스 중심부 VT", notifyEnter = true, 
+signName = {mainTitle = "유페로스 중심부 VT"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4cdn.rsw"] = {displayName = "마지막 시련 환영의 동굴", notifyEnter = true, 
+signName = {mainTitle = "마지막 시련 환영의 동굴"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4igd.rsw"] = {displayName = "정의의 대련장", notifyEnter = true, 
+signName = {mainTitle = "정의의 대련장"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4mag.rsw"] = {displayName = "마력의 샘", notifyEnter = true, 
+signName = {mainTitle = "마력의 샘"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_mag.rsw"] = {displayName = "마력의 샘", notifyEnter = true, 
+signName = {mainTitle = "마력의 샘"}
+, backgroundBmp = "field2_s2"}
+, 
 ["tra_fild.rsw"] = {displayName = "프론테라 외곽 훈련장", notifyEnter = true, 
 signName = {mainTitle = "프론테라 외곽 훈련장"}
-, backgroundBmp = "field"}
+, backgroundBmp = "field_s2"}
 , 
 ["iz_d04_i.rsw"] = {displayName = "심연의 해저동굴 상층", notifyEnter = true, 
 signName = {mainTitle = "심연의 해저동굴 상층"}

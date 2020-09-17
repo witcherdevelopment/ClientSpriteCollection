@@ -10,7 +10,11 @@ IT_SIGNBOARD = 3
 SignBoardList = {
 {"Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "입력안하셨습니다", "#0x009EBDFF"}
 , 
-{"malangdo", 124, 152, 0, IT_SIGNBOARD, "item\\suffragium.bmp", "  기간한정 스톤교환", "#0x00FFFFFF"}
+{"prontera", 166, 300, 6, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", "  부스터 프로모션", "#0x00FFFFFF"}
+, 
+{"sp_cor", 98, 136, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터일루시온인챈트", "#0x00FFFFFF"}
+, 
+{"malangdo", 152, 136, 0, IT_SIGNBOARD, "item\\C검은고양이후드.bmp", "  부스터 의상 인챈트", "#0x00FFFFFF"}
 , 
 {"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
 , 
@@ -382,8 +386,6 @@ SignBoardList = {
 , 
 {"morocc_in", 141, 67, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp"}
 , 
-{"morocc_in", 64, 41, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
-, 
 {"morocc_in", 73, 38, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
 , 
 {"moc_ruins", 114, 63, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
@@ -450,8 +452,6 @@ SignBoardList = {
 , 
 {"payon_in01", 15, 119, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp"}
 , 
-{"payon_in01", 18, 132, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
-, 
 {"payon_in01", 5, 129, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp"}
 , 
 {"payon_in01", 5, 49, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
@@ -497,8 +497,6 @@ SignBoardList = {
 {"prt_in", 61, 141, 0, IT_BMP, "유저인터페이스\\information\\over_inn.bmp"}
 , 
 {"prt_in", 63, 60, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
-, 
-{"prt_in", 90, 72, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
 , 
 {"ra_in01", 175, 364, 0, IT_BMP, "유저인터페이스\\information\\over_armorshops.bmp"}
 , 
@@ -1009,5 +1007,7 @@ SignBoardList = {
 {"lhz_airport", 148, 43, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  슈발츠발드 국내선", "#0x00FFFFFF"}
 , 
 {"lhz_airport", 138, 43, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  슈발츠발드 국내선", "#0x00FFFFFF"}
+, 
+{"prontera", 50, 293, 10, IT_SIGNBOARD, "information\\ebl_manus.bmp", "  등급강화소", "#0x00FFFFFF"}
 }
 

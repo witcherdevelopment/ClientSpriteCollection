@@ -399,7 +399,7 @@ Page = {"<TIPBOX>낙원단<INFO>73</INFO></TIPBOX> 2층의 \'냥타임\'에게서 캐시 소비
 [76] = {Title = "전승#전직,2차,3차,하이노비스", Search = 1, Image = "유저인터페이스\\tipbox\\tip00076", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"99레벨에 도달한 2차 직업 캐릭터는 전승을 통해 상위 클래스로 다시 태어날 수 있습니다.\n\t전승시 캐릭터는 1레벨의 하이노비스로 바뀌며, 스테이터스 포인트를 100개 받게됩니다.\n\t▷전승 조건 :\n\t\t캐릭터 레벨 99\n\t\t직업 레벨 50\n\t\t2차 직업 캐릭터 (확장직업X)\n\t\t기부금 1,285,000zeny 후 소지금 0zeny\n\t\t소지량 0\n\t\t스킬 포인트 모두 소모상태 일 것\n\t\t페코페코, 카트, 팔콘 등은 모두 해제 상태 일 것\n\t▷전직장소 : 유노 11시 방향의 세이지 캐슬 내부 <NAVI>[메테우스 실프]<INFO>yuno_in02,88,164,0,101,0</INFO></NAVI>\n\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"99레벨에 도달한 2차 직업 캐릭터는 전승을 통해 상위 클래스로 다시 태어날 수 있습니다.\n\t전승시 캐릭터는 1레벨의 하이노비스로 바뀌며, 스테이터스 포인트를 100개 받게됩니다.\n\t▷전승 조건 :\n\t\t캐릭터 레벨 99\n\t\t직업 레벨 50\n\t\t2차 직업 캐릭터 (확장직업X)\n\t\t소지량 500이하\n\t\t스킬 포인트 모두 소모상태 일 것\n\t\t페코페코, 카트, 팔콘 등은 모두 해제 상태 일 것\n\t▷전직장소 : 유노 11시 방향의 세이지 캐슬 내부 <NAVI>[메테우스 실프]<INFO>yuno_in02,88,164,0,101,0</INFO></NAVI>\n\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [77] = {Title = "제련#장비,무기,방어구,오리데오콘,에르늄,고농축,카르늄,브라디움,대장장이,홀그렌,아라감,바스타", Search = 1, Image = "유저인터페이스\\tipbox\\tip00077", 
@@ -544,6 +544,120 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"어서오세요! 패션스톤입니다!!\n\t우리 <NAVI>[패션스톤]<INFO>malangdo,116,151,0,101,0</INFO></NAVI>에서는 각종 의상 아이템을 취급하고 있습니다.\n\t의상 투구 아이템을 더욱 멋지게 스타일링 하고 싶다면 점장인 저 ^e5004f\'아베르 드 도쉬\'^000000에게 걸칠 것 아이템을 스타일링 하고 싶다면 ^e5004f\'레이스 라 자드\'^000000, 의상 아이템을 교환하거나 의상 스톤 상자를 교환하고 싶다면 ^e5004f\'헤이담 펠로우\'^000000, 의상 아이템에 이펙트를 추가하고 싶다면 ^e5004f\'구르지오 구르마니\'^000000, 평범한 아이템을 의상 아이템으로 교환하려면 ^e5004f\'이브 패더\'^000000, 일부 스톤의 옵션 변경으로 인한 상담은 ^e5004f\'리브리\'^000000, 돋보기 구입은 ^e5004f\'볼록렌즈\'^000000에게 맡겨주세요!\n\t^e5004f※ 일부 제한 된 아이템은 패션스톤의 서비스를 받을 수 없습니다.^000000\n\t\n\t\\n<TIPBOX>▶의상 아이템<INFO>94</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
+[96] = {Title = "특성 스테이터스#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"특성 스테이터스는 200레벨 이후 상위직업으로 전직하면 추가되는 능력치 입니다.\n\t레벨이 오를 때마다 추가되는 특성 스테이터스 포인트를 능력에 투자하여 캐릭터를 더 강하게 만들 수 있습니다.\n\t(5레벨 단위마다 더 많은 특성 스테이터스 포인트를 획득할 수 있습니다.)\n\t스테이터스 창에서 특성 스테이터스를 누르면 능력치를 확인할 수 있습니다.\n\n\t채팅창에 아래 명령어를 입력하여 간편하게 포인트를 투자할 수 있습니다.\n\t/pow+ 수치\n\t/sta+ 수치\n\t/wis+ 수치\n\t/spl+ 수치\n\t/con+ 수치\n\t/crt+ 수치\n\n\t<TIPBOX>▶특성 스테이터스: POW(파워)<INFO>97</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: STA(스테미나)<INFO>98</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: WIS(위즈덤)<INFO>99</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: SPL(스펠)<INFO>100</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: CON(컨센트레이션)<INFO>101</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: CRT(크리에이티브)<INFO>102</INFO></TIPBOX>\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 스테이터스<INFO>89</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[97] = {Title = "특성 스테이터스: POW(파워)#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"스테이터스 물리 공격력 및 특성 물리 공격력(P.ATK)를 증가시켜주는 능력치\n\t\n\t1포인트당 스테이터스 물리 공격력이 5씩 증가됩니다.\n\t3포인트당 P.ATK가 1씩 증가됩니다.\n\t\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[98] = {Title = "특성 스테이터스: STA(스테미나)#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"물리 저항력(RES)를 증가시켜주는 능력치\n\t\n\t1포인트당 RES 가 1씩 증가됩니다.\n\t3포인트당 RES가 5씩 증가됩니다.\n\t\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[99] = {Title = "특성 스테이터스: WIS(위즈덤)#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"마법 저항력(MRES)를 증가시켜주는 능력치\n\t\n\t1포인트당 MRES 가 1씩 증가됩니다.\n\t3포인트당 MRES가 5씩 추가 증가됩니다.\n\t\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[100] = {Title = "특성 스테이터스: SPL(스펠)#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"스테이터스 마법 공격력 및 특성 마법 공격력(S.MATK)를 증가시켜주는 능력치\n\t\n\t1포인트당 스테이터스 마법 공격력이 5씩 증가됩니다.\n\t3포인트당 S.MATK가 1씩 증가됩니다.\n\t\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[101] = {Title = "특성 스테이터스: CON(컨센트레이션)#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"명중률(HIT)과 회피율(FLEE)을 증가시켜주고, 특성 물리 공격력(P.ATK)과 특성 마법 공격력(S.MATK)을 증가시켜주는 능력치\n\t\n\t1포인트당 HIT가 2, FLEE가 2씩 증가됩니다.\n\t5포인트당 P.ATK가 1씩 증가됩니다.\n\t5포인트당 S.MATK가 1씩 증가됩니다.\n\t\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[102] = {Title = "특성 스테이터스: CRT(크리에이티브)#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"특성 힐 회복량(H.PLUS)과 크리티컬 데미지 비율(C.RATE)을 증가시켜주는 능력치\n\t\n\t1포인트당 H.PLUS 값이 1씩 증가됩니다.\n\t3포인트당 C.RATE 값이 1씩 증가됩니다.\n\t\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[103] = {Title = "특성 능력치#스테이터스,스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"특성 능력치는 특성 스테이터스를 투자하거나 스킬 및 아이템 효능을 통해 획득 가능한 능력치 입니다.\n\t\n\t<TIPBOX>▶특성 능력치: Power ATK(P.ATK)<INFO>104</INFO></TIPBOX>\n\t<TIPBOX>▶특성 능력치: Spell MATK(S.MATK)<INFO>105</INFO></TIPBOX>\n\t<TIPBOX>▶특성 능력치: Resist(RES)<INFO>106</INFO></TIPBOX>\n\t<TIPBOX>▶특성 능력치: Magic Resist(MRES)<INFO>107</INFO></TIPBOX>\n\t<TIPBOX>▶특성 능력치: Heal Plus(H.PLUS)<INFO>108</INFO></TIPBOX>\n\t<TIPBOX>▶특성 능력치: Critical Rate(C.RATE)<INFO>109</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 스테이터스<INFO>89</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[104] = {Title = "특성 능력치: Power ATK(P.ATK)#물리", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"특성 물리 공격력\n\t\n\t최종 스테이터스 물리 공격력 및 최종 장비 공격력을 % 증가시킵니다.\n\t\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[105] = {Title = "특성 능력치: Spell MATK(S.MATK)#마법", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"특성 마법 공격력\n\t\n\t최종 스테이터스 마법 공격력 및 최종 마법 공격력을 % 증가시킵니다.\n\t\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[106] = {Title = "특성 능력치: Resist(RES)#물리저항력", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"물리 저항력\n\t\n\t물리 방어력을 계산하기 전, 받는 일반적인 물리 데미지를 % 감소시킵니다.\n\t^FF0000※ 물리 저항력 무시 옵션은 최대 50%까지만 적용됩니다.^000000\n\t\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[107] = {Title = "특성 능력치: Magic Resist(MRES)#마법저항력", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"마법 저항력\n\t\n\t마법 방어력을 계산하기 전, 받는 일반적인 마법 데미지를 % 감소시킵니다.\n\t^FF0000※ 마법 저항력 무시 옵션은 최대 50%까지만 적용됩니다.^000000\n\t\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[108] = {Title = "특성 능력치: Heal Plus(H.PLUS)#힐량", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"특성 힐 회복량\n\t\n\t최종 힐 회복량을 % 증가시켜줍니다.\n\t^FF0000※ 일반적인 힐 회복량 증가 옵션 이후에 % 증가됩니다.^000000\n\t\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[109] = {Title = "특성 능력치: Critical Rate(C.RATE)#크리티컬", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"크리티컬 데미지 비율\n\t\n\t크리티컬 데미지의 기본 능력치인 데미지 140% 증가 옵션을 증가시켜줍니다.\n\t^FF0000※ C.Rate 가 10인 경우, 크리티컬 데미지의 기본 데미지 증가가 140%에서 150%가 됩니다.^000000\n\t\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[110] = {Title = "Activity Point 시스템(AP 시스템)#액티비티", Search = 1, Image = "유저인터페이스\\tipbox\\tip00110", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Activity Point(AP)는 200레벨 이후 상위직업으로 전직하면 추가되는 포인트 입니다.\n\t\n\tAP는 강력한 위력을 가진 스킬을 사용할 때 소모되는 포인트로서, 직업 구분없이 Max값이 200으로 한정되어 있습니다.\n\tAP는 오로지 AP를 회복해주는 효과를 지닌 스킬로만 회복이 가능하며, 일부 직업군에 한해 스킬로 타인의 AP를 회복시켜주거나, 소모시켜버릴 수도 있습니다.\n\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[111] = {Title = "등급 강화#등급강화,무기,방어구,에텔스톤,에텔 스톤,에텔더스트,에텔 더스트", Search = 1, Image = "유저인터페이스\\tipbox\\tip00111", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"11제련 이상인 일부 5레벨 무기 또는 2레벨 방어구는 등급 강화를 시도할 수 있습니다.\n\t아래 등급 강화사에게 등급 강화 및 재료를 교환할 수 있습니다.\n\t▷ <NAVI>[스라토스]<INFO>grademk,34,184,0,100,0,0</INFO></NAVI> : 프론테라 등급강화소\n\t▷ <NAVI>[슈리벨]<INFO>paramk,34,184,0,100,0,0</INFO></NAVI> : 파라마켓 등급강화소\n\t\n\t등급 강화 효과 :\n\t등급 강화가 된 무기는 각 등급에 따라 ATK / MATK의 제련 보너스를 추가로 획득합니다.\n\t장비에 따라 등급 별로 옵션이 다르게 부여되는 장비도 있습니다.\n\t\n\t<TIPBOX>▶등급 강화 재료<INFO>112</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[112] = {Title = "등급 강화 재료#등급강화,무기,방어구,에텔스톤,에텔 스톤,에텔더스트,에텔 더스트,조합", Search = 1, Image = "유저인터페이스\\tipbox\\tip00112", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"보석상인에게서 살 수 있는 보석을 에텔 스톤과 조합하여 등급 강화 재료를 제작할 수 있습니다.\n\t\n\t1등급 : <ITEM>[아쿠아마린]<INFO>720</INFO></ITEM> + <ITEM>[에텔 스톤]<INFO>1000323</INFO></ITEM>\n\t2등급 : <ITEM>[토파즈]<INFO>728</INFO></ITEM> + <ITEM>[에텔 스톤]<INFO>1000323</INFO></ITEM>\n\t3등급 : <ITEM>[아메디스트]<INFO>719</INFO></ITEM> + <ITEM>[에텔 스톤]<INFO>1000323</INFO></ITEM>\n\t4등급 : <ITEM>[호박]<INFO>1000321</INFO></ITEM> + <ITEM>[에텔 스톤]<INFO>1000323</INFO></ITEM>\n\t\n\t<TIPBOX>▶에텔 광물<INFO>114</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[113] = {Title = "무기/방어구 레벨#무기레벨,방어구레벨", Search = 1, Image = "유저인터페이스\\tipbox\\tip00113", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"각 지역 대장간에 있는 NPC로부터 제련 광석을 교환할 수 있습니다.\n\t▷<NAVI>[제노폰]<INFO>alberta_in,21,63,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[디트리히]<INFO>prt_in,63,69,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[압둘라]<INFO>morocc_in,72,32,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[하킴]<INFO>payon,137,178,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[딜레잇]<INFO>yuno_in01,164,27,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[마티슈타인]<INFO>ein_in01,18,82,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[프루일]<INFO>lhz_in02,281,24,0,100,0,0</INFO></NAVI>\n\t\n\t<ITEM>[에테르데오콘]<INFO>1000332</INFO></ITEM>\n\t\t: 오리데오콘 1개 + 에텔 더스트 1개\n\t<ITEM>[에테르늄]<INFO>1000331</INFO></ITEM>\n\t\t: 에르늄 1개 + 에텔 더스트 1개\n\t<ITEM>[농축 에테르데오콘]<INFO>1000334</INFO></ITEM>\n\t\t: 농축 오리데오콘 1개 + 에텔 더스트 2개\n\t<ITEM>[농축 에테르늄]<INFO>1000333</INFO></ITEM>\n\t\t: 농축 에르늄 1개 + 에텔 더스트 2개\n\t<ITEM>[고농축 에테르데오콘]<INFO>1000336</INFO></ITEM>\n\t\t: 고농축 오리데오콘(한정 포함) 1개 + 에텔 더스트 3개\n\t<ITEM>[고농축 에테르늄]<INFO>1000335</INFO></ITEM>\n\t\t: 고농축 에르늄(한정 포함) 1개 + 에텔 더스트 3개\n\t<ITEM>[에텔 브라디움]<INFO>1000368</INFO></ITEM>\n\t\t: 브라디움 1개 + 에텔 더스트 3개\n\t<ITEM>[에텔 카르늄]<INFO>1000370</INFO></ITEM>\n\t\t: 카르늄 1개 + 에텔 더스트 3개\n\t<ITEM>[고밀도 에텔 브라디움]<INFO>1000369</INFO></ITEM>\n\t\t: 고밀도 브라디움(한정 포함) 1개 + 에텔 더스트 3개\n\t<ITEM>[고밀도 에텔 카르늄]<INFO>1000371</INFO></ITEM>\n\t\t: 고밀도 카르늄(한정 포함) 1개 + 에텔 더스트 3개\n\t\n\t<TIPBOX>▶에텔 광물<INFO>114</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[114] = {Title = "에텔 광물#에텔 더스트,에텔더스트,에텔 스톤,에텔스톤,등급,제련", Search = 1, Image = "유저인터페이스\\tipbox\\tip00114", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"에텔은 직접적으로 사용할 수는 없지만 각종 보석이나 광석을 조합하여 사용하는 광석 입니다.\n\t<ITEM>[에텔 더스트]<INFO>1000322</INFO></ITEM>\n\t<ITEM>[에텔 스톤]<INFO>1000323</INFO></ITEM>\n\t\n\t주 재료인 에텔 더스트와 에텔 스톤은 망자의 연회장, 무너진 오페라 하우스, 폐기실험체 유기장 루두스 4층, 버려진 연구소 아미키티아 1층 종합연구실, 2층 호문쿨루스 집중배양실 등에서 획득 할 수 있습니다.\n\t\n\t<TIPBOX>▶무기/방어구 레벨<INFO>113</INFO></TIPBOX>\n\t<TIPBOX>▶등급 강화 시스템<INFO>111</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
 [900] = {Title = "월드맵#map", Search = 1, Image = "유저인터페이스\\tipbox\\tip00900", 
 Imgcoord = {Position = 5, Size = 100}
 , 
@@ -571,7 +685,7 @@ Page = {"팁 목록을 볼 수 있습니다.\\n목록에 등록되어 있지 않은 팁은 검색으로도 �
 [1001] = {Title = "캐릭터", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>▶캐릭터: 레벨업<INFO>5</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 체력과 정신력<INFO>3</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 스테이터스<INFO>89</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>▶캐릭터: 레벨업<INFO>5</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 체력과 정신력<INFO>3</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 스테이터스<INFO>89</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 특성 스테이터스<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [1002] = {Title = "게임 플레이", Search = 1, Image = "", 
@@ -4277,7 +4391,7 @@ Page = {"알데바란의 체인지웨건은 새로운 카트 디자인을 선보이고 싶은 모양이다.\n\
 [9031] = {Title = "캐릭터: 직업", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"라그나로크의 세계에는 다양한 직업이 존재합니다.\n\t\t<TIPBOX>◈1차 직업 전직 안내<INFO>9032</INFO></TIPBOX>\n\t\t<TIPBOX>◈2차 직업 전직 안내<INFO>9000</INFO></TIPBOX>\n\t\t<TIPBOX>◈3차 직업 전직 안내<INFO>9052</INFO></TIPBOX>\n\t\t<TIPBOX>◈확장 직업 전직 안내<INFO>9039</INFO></TIPBOX>\n\t\t<TIPBOX>◈도람족 안내<INFO>9044</INFO></TIPBOX>\n\n\t\t<TIPBOX>◈전승직업군에 대해<INFO>9051</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶제조 직업군<INFO>9068</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터 페이지로<INFO>1001</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"라그나로크의 세계에는 다양한 직업이 존재합니다.\n\t\t<TIPBOX>◈1차 직업 전직 안내<INFO>9032</INFO></TIPBOX>\n\t\t<TIPBOX>◈2차 직업 전직 안내<INFO>9000</INFO></TIPBOX>\n\t\t<TIPBOX>◈전승직업군에 대해<INFO>9051</INFO></TIPBOX>\n\t\t<TIPBOX>◈3차 직업 전직 안내<INFO>9052</INFO></TIPBOX>\n\t\t<TIPBOX>◈4차 직업 전직 안내<INFO>9136</INFO></TIPBOX>\n\n\t\t<TIPBOX>◈확장 직업 전직 안내<INFO>9039</INFO></TIPBOX>\n\t\t<TIPBOX>◈도람족 안내<INFO>9044</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶제조 직업군<INFO>9068</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터 페이지로<INFO>1001</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9032] = {Title = "1차 직업 전직 안내", Search = 1, Image = "", 
@@ -4397,97 +4511,97 @@ Page = {"모든 총기를 능숙하게 다룰 수 있는 건슬링거의 상위 직업인 리벨리온은 모�
 [9051] = {Title = "전승직업군에 대해", Search = 1, Image = "유저인터페이스\\tipbox\\tip00076", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"자신의 한계치까지 성장한 자들은 현자의 도시 유노에 비치되어 있는 이미르의 서를 통해 영광의 신전으로 갈 수 있습니다.\n\t\t영광의 신전 발할라에서 영예로운 전사들은 현재의 영광을 기억하며 새로운 미래를 위해 다시 태어납니다.\n\t\t기존 직업군보다 한단계 더 성장한 형태의 전승 직업군이 여러분을 기다리고 있습니다.\n\n\t\t<NAVI>[이미르의 서]<INFO>yuno_in02,93,205,0,101,0</INFO></NAVI>\n\n\t\t^663399◈조건: 레벨 99^000000\n\t\t^663399◈대상: 기본 직업군의 2차 직업^000000\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"자신의 한계치까지 성장한 자들은 현자의 도시 유노에 비치되어 있는 이미르의 서를 통해 영광의 신전으로 갈 수 있습니다.\n\t\t영광의 신전 발할라에서 영예로운 전사들은 현재의 영광을 기억하며 새로운 미래를 위해 다시 태어납니다.\n\t\t기존 직업군보다 한단계 더 성장한 형태의 전승 직업군이 여러분을 기다리고 있습니다.\n\n\t\t<NAVI>[이미르의 서]<INFO>yuno_in02,93,205,0,101,0</INFO></NAVI>\n\n\t\t^663399◈조건: 레벨 99^000000\n\t\t^663399◈대상: 기본 직업군의 전승 2차 직업^000000\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9052] = {Title = "3차 직업", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"2차 전직, 혹은 전승 2차 전직을 완료한 모험가의 경험이 쌓이면 3차 직업으로 전직할 수 있게 됩니다.\n\t\t확장 직업군의 확장 2차 직업과 상위 확장 직업에 관해서는 <TIPBOX>[확장 직업 전직 안내]<INFO>9039</INFO></TIPBOX>의 각 계열 항목을 참조해 주시기 바랍니다.\n\n\t\t<TIPBOX>▶3차 직업 전직 퀘스트<INFO>9053</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"전승 2차 전직을 완료한 모험가의 경험이 쌓이면 3차 직업으로 전직할 수 있게 됩니다.\n\t\t확장 직업군의 확장 2차 직업과 상위 확장 직업에 관해서는\n\t\t<TIPBOX>[확장 직업 전직 안내]<INFO>9039</INFO></TIPBOX>의 각 계열 항목을 참조해 주시기 바랍니다.\n\n\t\t<TIPBOX>▶3차 직업 전직 퀘스트<INFO>9053</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶직업 페이지로<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9053] = {Title = "3차 직업 전직 퀘스트#3차전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"베이스 레벨 99, 직업레벨(Job Level) 50 이상인 2차 직업군 및 전승 2차 직업군은 3차 직업으로 전직할 수 있습니다.\n        <TIPBOX>▷JQ 룬나이트 전직<INFO>9054</INFO></TIPBOX>\n        <TIPBOX>▷JQ 길로틴크로스 전직<INFO>9055</INFO></TIPBOX>\n        <TIPBOX>▷JQ 아크비숍 전직<INFO>9056</INFO></TIPBOX>\n        <TIPBOX>▷JQ 레인져 전직<INFO>9057</INFO></TIPBOX>\n        <TIPBOX>▷JQ 워록 전직<INFO>9058</INFO></TIPBOX>\n        <TIPBOX>▷JQ 미케닉 전직<INFO>9059</INFO></TIPBOX>\n        <TIPBOX>▷JQ 로얄가드 전직<INFO>9060</INFO></TIPBOX>\n        <TIPBOX>▷JQ 쉐도우체이서 전직<INFO>9061</INFO></TIPBOX>\n        <TIPBOX>▷JQ 수라 전직<INFO>9062</INFO></TIPBOX>\n        <TIPBOX>▷JQ 민스트럴 전직<INFO>9063</INFO></TIPBOX>\n        <TIPBOX>▷JQ 원더러 전직<INFO>9064</INFO></TIPBOX>\n        <TIPBOX>▷JQ 소서러 전직<INFO>9065</INFO></TIPBOX>\n        <TIPBOX>▷JQ 제네릭 전직<INFO>9066</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9052</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"베이스 레벨 99, 직업레벨(Job Level) 50 이상인 전승 2차 직업군은 3차 직업으로 전직할 수 있습니다.\n        <TIPBOX>▷JQ 룬나이트 전직<INFO>9054</INFO></TIPBOX>\n        <TIPBOX>▷JQ 길로틴크로스 전직<INFO>9055</INFO></TIPBOX>\n        <TIPBOX>▷JQ 아크비숍 전직<INFO>9056</INFO></TIPBOX>\n        <TIPBOX>▷JQ 레인저 전직<INFO>9057</INFO></TIPBOX>\n        <TIPBOX>▷JQ 워록 전직<INFO>9058</INFO></TIPBOX>\n        <TIPBOX>▷JQ 미케닉 전직<INFO>9059</INFO></TIPBOX>\n        <TIPBOX>▷JQ 로얄가드 전직<INFO>9060</INFO></TIPBOX>\n        <TIPBOX>▷JQ 쉐도우체이서 전직<INFO>9061</INFO></TIPBOX>\n        <TIPBOX>▷JQ 수라 전직<INFO>9062</INFO></TIPBOX>\n        <TIPBOX>▷JQ 민스트럴 전직<INFO>9063</INFO></TIPBOX>\n        <TIPBOX>▷JQ 원더러 전직<INFO>9064</INFO></TIPBOX>\n        <TIPBOX>▷JQ 소서러 전직<INFO>9065</INFO></TIPBOX>\n        <TIPBOX>▷JQ 제네릭 전직<INFO>9066</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9052</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9054] = {Title = "JQ 룬나이트 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"나이트, 로드나이트에서 전직하는 3차 직업군 룬나이트는 마법과 검을 동시에 사용할 수 있는 마법 검사로서 강력한 대인전 스킬들을 주로 사용합니다.\n\t\t룬 스톤을 이용한 마법으로 본인의 능력을 강화하며 적진에 뛰어들어 강력한 공격으로 휘저을 수 있는 캐릭터입니다. 기존의 페코페코 대신에 드래곤에 탑승하며 드래곤 탑승시에만 사용가능한 스킬들을 보유하고 있습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 나이트 / 로드나이트^000000\n\n\t\t<NAVI>[화려한 차림의 기사]<INFO>prt_in,162,24,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로드나이트에서 전직하는 3차 직업군 룬나이트는 마법과 검을 동시에 사용할 수 있는 마법 검사로서 강력한 대인전 스킬들을 주로 사용합니다.\n\t\t룬 스톤을 이용한 마법으로 본인의 능력을 강화하며 적진에 뛰어들어 강력한 공격으로 휘저을 수 있는 캐릭터입니다. 기존의 페코페코 대신에 드래곤에 탑승하며 드래곤 탑승시에만 사용가능한 스킬들을 보유하고 있습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 로드나이트^000000\n\n\t\t<NAVI>[화려한 차림의 기사]<INFO>prt_in,162,24,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9055] = {Title = "JQ 길로틴크로스 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"어쌔신, 어쌔신크로스에서 전직하는 3차 직업군 길로틴크로스는 어쌔신 계열답게, 회피 계열과 고속 이동 계열의 스킬이 강화되며 화려한 공격이 돋보이는 캐릭터입니다.\n\t\t길로틴크로스의 최대 특징은 독을 사용하는 스킬과, 상태 이상을 유발하는 다양한 스킬입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 어쌔신 / 어쌔신크로스^000000\n\n\t\t<NAVI>[길드관계자]<INFO>que_job01,75,96,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"어쌔신크로스에서 전직하는 3차 직업군 길로틴크로스는 어쌔신 계열답게, 회피 계열과 고속 이동 계열의 스킬이 강화되며 화려한 공격이 돋보이는 캐릭터입니다.\n\t\t길로틴크로스의 최대 특징은 독을 사용하는 스킬과, 상태 이상을 유발하는 다양한 스킬입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 어쌔신크로스^000000\n\n\t\t<NAVI>[길드관계자]<INFO>que_job01,75,96,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9056] = {Title = "JQ 아크비숍 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"프리스트, 하이프리스트에서 전직하는 3차 직업군 아크비숍은 기존의 프리스트 계열에 비해 공격면에 있어 크게 강화된 특징을 가집니다.\n\t\t아크비숍은 기존의 구마계 공격 마법 뿐만 아니라 성속성 공격 마법을 사용하며, 또한 광범위 보조 마법 및 파워업 된 회복마법을 사용합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 프리스트 / 하이프리스트^000000\n\n\t\t<NAVI>[기도하는 성직자]<INFO>prt_church,130,88,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"하이프리스트에서 전직하는 3차 직업군 아크비숍은 기존의 프리스트 계열에 비해 공격면에 있어 크게 강화된 특징을 가집니다.\n\t\t아크비숍은 기존의 구마계 공격 마법 뿐만 아니라 성속성 공격 마법을 사용하며, 또한 광범위 보조 마법 및 파워업 된 회복마법을 사용합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 하이프리스트^000000\n\n\t\t<NAVI>[기도하는 성직자]<INFO>prt_church,130,88,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[9057] = {Title = "JQ 레인져 전직", Search = 1, Image = "", 
+[9057] = {Title = "JQ 레인저 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"헌터, 스나이퍼에서 전직하는 3차 직업군 레인져는 트랩 계열 스킬이 강화되어 더욱 훌륭한 추적자, 사냥꾼으로서 성장했습니다.\n\t\t워그라는 늑대를 타고 이동을 할 수 있게 되었으며, 워그 탑승시와 워그 소환시에 사용 가능한 전용 스킬들이 존재합니다.\n\t\t워그와 팔콘은 동시에 소환할 수 없기 때문에 상황에 따라 적합한 소환수를 선택하여야 합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 헌터 / 스나이퍼^000000\n\t\t거북섬 입장 퀘스트 선행 필수\n\n\t\t<NAVI>[서바이벌 교관 레스큐]<INFO>tur_dun01,156,36,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"스나이퍼에서 전직하는 3차 직업군 레인저는 트랩 계열 스킬이 강화되어 더욱 훌륭한 추적자, 사냥꾼으로서 성장했습니다.\n\t\t워그라는 늑대를 타고 이동을 할 수 있게 되었으며, 워그 탑승시와 워그 소환시에 사용 가능한 전용 스킬들이 존재합니다.\n\t\t워그와 팔콘은 동시에 소환할 수 없기 때문에 상황에 따라 적합한 소환수를 선택하여야 합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 스나이퍼^000000\n\t\t거북섬 입장 퀘스트 선행 필수\n\n\t\t<NAVI>[서바이벌 교관 레스큐]<INFO>tur_dun01,156,36,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9058] = {Title = "JQ 워록 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"위자드, 하이위자드에서 전직하는 3차 직업군 워록의 가장 큰 특징은 전투 마법사로서 2가지 이상의 마법을 함께 사용하여 더 큰 효과를 발휘하는 조합마법이 주를 이루고 있다는 점입니다.\n\t\t또한 마법사라고 해서 체력적으로 약한 직업군이 아니라, 적극적으로 정면에 나서서 강력한 마법 공격을 퍼붓는 전투 마법사입니다. 또한 두 명 이상의 워록이 함께 사용하는 대 마법 등도 있습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 위자드 / 하이위자드^000000\n\n\t\t<NAVI>[시공의 뒤틀린 틈새]<INFO>morocc,95,132,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"하이위자드에서 전직하는 3차 직업군 워록의 가장 큰 특징은 전투 마법사로서 2가지 이상의 마법을 함께 사용하여 더 큰 효과를 발휘하는 조합마법이 주를 이루고 있다는 점입니다.\n\t\t또한 마법사라고 해서 체력적으로 약한 직업군이 아니라, 적극적으로 정면에 나서서 강력한 마법 공격을 퍼붓는 전투 마법사입니다. 또한 두 명 이상의 워록이 함께 사용하는 대 마법 등도 있습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 하이위자드^000000\n\n\t\t<NAVI>[시공의 뒤틀린 틈새]<INFO>morocc,95,132,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9059] = {Title = "JQ 미케닉 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"블랙스미스, 화이트스미스에서 전직하는 3차 직업군 미케닉은 마도기어에 탑승할 수 있습니다.\n\t\t마도기어 탑승시에는 마도기어 전용 스킬들을 사용할 수 있게 되며 근거리 공격은 물론 원거리 공격도 가능합니다. 또한 지면에 고정 포대를 설치하여 공격할 수 있는 보조 기술들도 보유하고 있습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 블랙스미스 / 화이트스미스^000000\n\n\t\t<NAVI>[체인하트]<INFO>yuno,129,156,0,101,0,</INFO></NAVI>\n\n\t\t마도기어에 필요한 부품 및 소지품은 각 지역 무기상점의 마도기어 전문상인이 판매하고 있습니다.\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"화이트스미스에서 전직하는 3차 직업군 미케닉은 마도기어에 탑승할 수 있습니다.\n\t\t마도기어 탑승시에는 마도기어 전용 스킬들을 사용할 수 있게 되며 근거리 공격은 물론 원거리 공격도 가능합니다. 또한 지면에 고정 포대를 설치하여 공격할 수 있는 보조 기술들도 보유하고 있습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 화이트스미스^000000\n\n\t\t<NAVI>[체인하트]<INFO>yuno,129,156,0,101,0,</INFO></NAVI>\n\n\t\t마도기어에 필요한 부품 및 소지품은 각 지역 무기상점의 마도기어 전문상인이 판매하고 있습니다.\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9060] = {Title = "JQ 로얄가드 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"크루세이더, 팔라딘에서 전직하는 3차 직업군 로얄가드는 보다 더 강인한 방어력를 위주로, 적의 공격을 맞음으로서 데미지를 축적했다가 방출하는 기술 및 창과 방패를 이용한 스킬을 많이 편성했습니다.\n\t\t또한 많은 수의 로얄가드가 파티를 맺으면 로얄가드의 숫자에 따라서 공격력과 방어력에 보너스를 받는 등, 주변의 다른 플레이어와의 연계에 있어서도 보다 효율적인 위치를 가지고 전투에서 방어탑의 역할을 합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 크루세이더 / 팔라딘^000000\n\n\t\t<NAVI>[중년신사]<INFO>prt_cas,172,275,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"팔라딘에서 전직하는 3차 직업군 로얄가드는 보다 더 강인한 방어력를 위주로, 적의 공격을 맞음으로서 데미지를 축적했다가 방출하는 기술 및 창과 방패를 이용한 스킬을 많이 편성했습니다.\n\t\t또한 많은 수의 로얄가드가 파티를 맺으면 로얄가드의 숫자에 따라서 공격력과 방어력에 보너스를 받는 등, 주변의 다른 플레이어와의 연계에 있어서도 보다 효율적인 위치를 가지고 전투에서 방어탑의 역할을 합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 팔라딘^000000\n\n\t\t<NAVI>[중년신사]<INFO>prt_cas,172,275,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9061] = {Title = "JQ 쉐도우체이서 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로그, 스토커에서 전직하는 3차 직업군 쉐도우체이서는 그래피티 능력의 강화와 향상된 도작 스킬(리프로듀스), 그리고 다양한 마스커레이드 스킬로 상대방을 혼란스럽게 만듭니다.\n\t\t그들의 모습은 신출귀몰하며, 직접적인 데미지로서의 괴로움 보다는 자신의 능력을 발휘할 수 없도록 다양한 디버프를 발동하여 상대방을 무력화시키는 것을 중점으로 합니다.\n\t\t스킬도 사용할 수 없고, 무기도 빼앗긴 채로 전장의 한 가운데에 있는 것은 누구에게나 힘든 일일 것입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 로그 / 스토커^000000\n\n\t\t<NAVI>[남성길드원]<INFO>in_rogue,376,100,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"스토커에서 전직하는 3차 직업군 쉐도우체이서는 그래피티 능력의 강화와 향상된 도작 스킬(리프로듀스), 그리고 다양한 마스커레이드 스킬로 상대방을 혼란스럽게 만듭니다.\n\t\t그들의 모습은 신출귀몰하며, 직접적인 데미지로서의 괴로움 보다는 자신의 능력을 발휘할 수 없도록 다양한 디버프를 발동하여 상대방을 무력화시키는 것을 중점으로 합니다.\n\t\t스킬도 사용할 수 없고, 무기도 빼앗긴 채로 전장의 한 가운데에 있는 것은 누구에게나 힘든 일일 것입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 스토커^000000\n\n\t\t<NAVI>[남성길드원]<INFO>in_rogue,376,100,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9062] = {Title = "JQ 수라 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"몽크, 챔피언에서 전직하는 3차 직업군 수라는 최대 5개까지 모을 수 있었던 기 구체를 잠룡승천이라는 스킬을 통해 최대 15개까지 늘릴 수 있게 되었습니다.\n\t\t그에 따라 아수라패황권 및 기 구체를 소모하는 스킬을 좀더 적극적으로 사용할 수 있습니다.\n\t\t천라지망, 폭기산탄, 주박진 등의 범위 데미지 스킬이나 범위 대상 스킬들은 수라로서 하여금 일대 다수의 전투에서도 강력함을 자랑할 수 있게 합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 몽크 / 챔피언^000000\n\n\t\t<NAVI>[킹크랩]<INFO>ve_in,237,125,0,101,0,</INFO></NAVI>\n\t\t<NAVI>[슬러지웜]<INFO>ve_in,241,128,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"챔피언에서 전직하는 3차 직업군 수라는 최대 5개까지 모을 수 있었던 기 구체를 잠룡승천이라는 스킬을 통해 최대 15개까지 늘릴 수 있게 되었습니다.\n\t\t그에 따라 아수라패황권 및 기 구체를 소모하는 스킬을 좀더 적극적으로 사용할 수 있습니다.\n\t\t천라지망, 폭기산탄, 주박진 등의 범위 데미지 스킬이나 범위 대상 스킬들은 수라로서 하여금 일대 다수의 전투에서도 강력함을 자랑할 수 있게 합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 챔피언^000000\n\n\t\t<NAVI>[킹크랩]<INFO>ve_in,237,125,0,101,0,</INFO></NAVI>\n\t\t<NAVI>[슬러지웜]<INFO>ve_in,241,128,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9063] = {Title = "JQ 민스트럴 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"3차 직업군 민스트럴은 바드, 클로운에서 전직합니다. 민스트럴이 부르는 노래는 이미 단순한 노래의 차원을 넘어, 목소리 자체에 실린 마력으로 하여금 그들이 부르는 노래가 마법과도 같은 효과를 발휘하게 합니다.\n\t\t민스트럴은 노래나 합창으로서 즉시 그 효과를 발동시키는 능력을 가지고 있어, 바드나 클로운처럼 한 자리에 멈춰서서 다른 플레이어를 기다리지 않아도 됩니다.\n\t\t수많은 노래와 합창의 다양한 효과는 사냥뿐만 아니라 공성전 및 대인전에서 더욱 더 큰 효과를 발휘할 것입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 바드 / 클로운^000000\n\n\t\t<NAVI>[바드]<INFO>alberta,196,133,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"3차 직업군 민스트럴은 클로운에서 전직합니다. 민스트럴이 부르는 노래는 이미 단순한 노래의 차원을 넘어, 목소리 자체에 실린 마력으로 하여금 그들이 부르는 노래가 마법과도 같은 효과를 발휘하게 합니다.\n\t\t민스트럴은 노래나 합창으로서 즉시 그 효과를 발동시키는 능력을 가지고 있어, 바드나 클로운처럼 한 자리에 멈춰서서 다른 플레이어를 기다리지 않아도 됩니다.\n\t\t수많은 노래와 합창의 다양한 효과는 사냥뿐만 아니라 공성전 및 대인전에서 더욱 더 큰 효과를 발휘할 것입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 클로운^000000\n\n\t\t<NAVI>[바드]<INFO>alberta,196,133,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9064] = {Title = "JQ 원더러 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"3차 직업군 원더러는 댄서, 집시에서 전직합니다. 원더러가 부르는 노래는 이미 단순한 노래의 차원을 넘어, 목소리 자체에 실린 마력으로 하여금 그들이 부르는 노래가 마법과도 같은 효과를 발휘하게 합니다.\n\t\t원더러는 노래나 합창으로서 즉시 그 효과를 발동시키는 능력을 가지고 있어, 댄서나 집시처럼 한 자리에 멈춰서서 다른 플레이어를 기다리지 않아도 됩니다.\n\t\t수많은 노래와 합창의 다양한 효과는 사냥뿐만 아니라 공성전 및 대인전에서 더욱 더 큰 효과를 발휘할 것입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 댄서 / 집시^000000\n\n\t\t<NAVI>[원더러 지망생 소이]<INFO>xmas,162,209,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"3차 직업군 원더러는 집시에서 전직합니다. 원더러가 부르는 노래는 이미 단순한 노래의 차원을 넘어, 목소리 자체에 실린 마력으로 하여금 그들이 부르는 노래가 마법과도 같은 효과를 발휘하게 합니다.\n\t\t원더러는 노래나 합창으로서 즉시 그 효과를 발동시키는 능력을 가지고 있어, 댄서나 집시처럼 한 자리에 멈춰서서 다른 플레이어를 기다리지 않아도 됩니다.\n\t\t수많은 노래와 합창의 다양한 효과는 사냥뿐만 아니라 공성전 및 대인전에서 더욱 더 큰 효과를 발휘할 것입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 집시^000000\n\n\t\t<NAVI>[원더러 지망생 소이]<INFO>xmas,162,209,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9065] = {Title = "JQ 소서러 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"세이지, 프로페서에서 전직하는 3차 직업군 소서러는 마법사이면서도 정령을 부리는 능력을 가지고 있어, 정령을 콘트롤하여 자신으로부터 떨어진 대상을 공격하게 하거나, 소서러의 주위에서 공격을 막아주거나, 혹은 대기 상태에서 소환자에게 다양한 버프를 걸게 합니다.\n\t\t이것으로 근접전에서 취약했던 마술사 계열의 근접전 능력을 보완하였으며, 때로는 물리적 공격으로, 때로는 마법적인 공격 양면을 전부 사용할 수 있게 되었습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 세이지 / 프로페서^000000\n\n\t\t<NAVI>[메리토]<INFO>gef_tower,102,34,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"프로페서에서 전직하는 3차 직업군 소서러는 마법사이면서도 정령을 부리는 능력을 가지고 있어, 정령을 콘트롤하여 자신으로부터 떨어진 대상을 공격하게 하거나, 소서러의 주위에서 공격을 막아주거나, 혹은 대기 상태에서 소환자에게 다양한 버프를 걸게 합니다.\n\t\t이것으로 근접전에서 취약했던 마술사 계열의 근접전 능력을 보완하였으며, 때로는 물리적 공격으로, 때로는 마법적인 공격 양면을 전부 사용할 수 있게 되었습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 프로페서^000000\n\n\t\t<NAVI>[메리토]<INFO>gef_tower,102,34,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9066] = {Title = "JQ 제네릭 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"알케미스트, 크리에이터에서 전직하는 3차 직업군 제네릭은 크게 체인지 매터리얼이라 불리우는 물질 변환 능력과, 새로운 음식을 만들어내는 믹스 쿠킹, 그리고 물약을 제조할 수 있는 능력을 가지고 있습니다.\n\t\t새로운 호문클루스는 기존의 호문클루스로부터 진화하여 제네릭과 동등하거나 그 이상의 힘을 가진 훌륭한 파트너가 될 것이며, 기존의 호문클루스와는 다른 곤충형, 요정형, 동물형, 광석형등으로 진화 가능하게 됩니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 나이트 / 로드나이트^000000\n\n\t\t<NAVI>[알케미스트 조합원]<INFO>alde_alche,35,186,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"크리에이터에서 전직하는 3차 직업군 제네릭은 크게 체인지 매터리얼이라 불리우는 물질 변환 능력과, 새로운 음식을 만들어내는 믹스 쿠킹, 그리고 물약을 제조할 수 있는 능력을 가지고 있습니다.\n\t\t새로운 호문클루스는 기존의 호문클루스로부터 진화하여 제네릭과 동등하거나 그 이상의 힘을 가진 훌륭한 파트너가 될 것이며, 기존의 호문클루스와는 다른 곤충형, 요정형, 동물형, 광석형등으로 진화 가능하게 됩니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 크리에이터^000000\n\n\t\t<NAVI>[알케미스트 조합원]<INFO>alde_alche,35,186,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9067] = {Title = "JQ 블랙스미스-탐욕", Search = 1, Image = "", 
@@ -4896,6 +5010,96 @@ Page = {"테리안에게는 다른 조사단원들과는 달리 자신의 학설을 연구하고자 하는 목�
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"제리몬의 제자인 리스타는 일단 제리몬의 눈에 차는 훌륭한 사람이 되고 싶어합니다.\n\t\t심연의 해저동굴 하층의 몬스터 100마리를 처치하는 것이 이번 임무입니다.\n  \n\t\t<NAVI>[리스타]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈레벨 180 이상^000000\n\n  <TIPBOX>▶이전 페이지로<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9135] = {Title = "4차 직업#4차직업", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"전승 3차 전직을 완료한 모험가의 경험이 쌓이면 4차 직업으로 전직할 수 있게 됩니다.\n\t\t더욱 많은 스킬과 거대한 모험이 당신을 기다리고 있습니다.\n\n\t\t<TIPBOX>▶4차 직업 전직 퀘스트<INFO>9136</INFO></TIPBOX>\n\t\t\n\t\t※주의 사항\n\t\t비전승 상태로 3차 직업으로 전직한 모험가의 경우, 베이스 레벨 200을 달성했다면 <NAVI>[밝히리]<INFO>prt_in,285,161,0,101,0,</INFO></NAVI>가 전승을 지원해 줍니다.\n\n\t\t<TIPBOX>▶직업 페이지로<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9136] = {Title = "4차 직업 전직 퀘스트#4차전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"베이스 레벨 200, 직업레벨(Job Level) 70 이상인 전승 3차 직업군은 4차 직업으로 전직할 수 있습니다.\n        <TIPBOX>▷JQ 드래곤나이트 전직<INFO>9137</INFO></TIPBOX>\n        <TIPBOX>▷JQ 임페리얼 가드 전직<INFO>9138</INFO></TIPBOX>\n        <TIPBOX>▷JQ 아크 메이지 전직<INFO>9139</INFO></TIPBOX>\n        <TIPBOX>▷JQ 엘레멘탈 마스터 전직<INFO>9140</INFO></TIPBOX>\n        <TIPBOX>▷JQ 마이스터 전직<INFO>9141</INFO></TIPBOX>\n        <TIPBOX>▷JQ 바이올로 전직<INFO>9142</INFO></TIPBOX>\n        <TIPBOX>▷JQ 카디날 전직<INFO>9143</INFO></TIPBOX>\n        <TIPBOX>▷JQ 인퀴지터 전직<INFO>9144</INFO></TIPBOX>\n        <TIPBOX>▷JQ 쉐도우 크로스 전직<INFO>9145</INFO></TIPBOX>\n        <TIPBOX>▷JQ 어비스 체이서 전직<INFO>9146</INFO></TIPBOX>\n        <TIPBOX>▷JQ 윈드 호크 전직<INFO>9147</INFO></TIPBOX>\n        <TIPBOX>▷JQ 트루바두르 전직<INFO>9148</INFO></TIPBOX>\n        <TIPBOX>▷JQ 트루베르 전직<INFO>9149</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9135</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9137] = {Title = "JQ 드래곤나이트 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"룬나이트에서 전직하는 4차 직업 드래곤나이트는 양손 무기를 자유롭게 사용하며, 자신의 의지를 무기 형태로 구현한 서번트 웨폰을 다룹니다.\n\t\t기본 공격시 서번트 웨폰으로 추가 공격을 가하는 것은 물론 강력한 범위 공격도 가능합니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 룬나이트^000000\n\n\t\t<NAVI>[오스카]<INFO>gef_fild08,54,101,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9138] = {Title = "JQ 임페리얼 가드 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"로얄가드에서 전직하는 4차 직업 임페리얼 가드는 검과 방패를 사용하며, 진정한 강함에 대한 신념을 찾은 자들입니다.\n\t\t기본적으로 신성력을 다룰 수 있기 때문에 더욱 강력한 신성 공격을 가할 수 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 로얄가드^000000\n\n\t\t<NAVI>[왕의 기사]<INFO>prt_cas,179,28,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9139] = {Title = "JQ 아크 메이지 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"워록에서 전직하는 4차 직업 아크 메이지는 자신의 강력한 마법에 아름다움을 첨가하여 환상적인 마법을 선사합니다.\n\t\t화염의 꽃밭을 만들기도 하고, 얼음 마법으로 주변에 비를 내릴 수 있습니다. 또한 클라이막스가 시작되면 기존 마법들이 더욱 강력하게 변화하는 환상의 마법사입니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 워록^000000\n\n\t\t<NAVI>[바르문트 저택 정원]<INFO>ba_maison,200,256,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9140] = {Title = "JQ 엘레멘탈 마스터 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"소서러에서 전직하는 4차 직업 엘레멘탈 마스터는 자연의 원소를 다루는 데 특화된 직업입니다. 기존 정령을 보다 강화시켜 새로운 정령을 소환하거나 자연의 원소 마법을 사용하게 됩니다.\n\t\t또한 아군의 마법력을 증가시키는 등 다양한 보조마법도 사용합니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 소서러^000000\n\n\t\t<NAVI>[게펜 타워]<INFO>gef_tower,119,29,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9141] = {Title = "JQ 마이스터 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"미케닉에서 전직하는 4차 직업 마이스터는 기계공학의 대가로, 자율 전투 로봇을 마음대로 부립니다.\n\t\t또한 각종 장치를 제작하여 아군을 보호하거나 강화시킬 수 있으며, 전투 지원가로서도 발군의 능력을 발휘합니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 미케닉^000000\n\n\t\t<NAVI>[로디]<INFO>yuno,111,208,0,101,0,</INFO></NAVI>\n\t\t<NAVI>[미스트]<INFO>yuno,114,208,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9142] = {Title = "JQ 바이올로 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"제네릭에서 전직하는 4차 직업 바이올로는 생명공학의 전문가로, 식물계열 생체 에너지를 추가하여 자신의 전투에 활용합니다.\n\t\t또한 각종 용액을 제작하여 전투에 활용하며, 전투 지원가로서도 발군의 능력을 발휘합니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 제네릭^000000\n\n\t\t<NAVI>[알디나]<INFO>verus04,157,165,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9143] = {Title = "JQ 카디날 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아크비숍에서 전직하는 4차 직업 카디날은 신의 대리자로서 신성한 힘을 자유자재로 구사합니다.\n\t\t보다 신성한 힘으로 아군을 치유하거나 강화시키는 전문적 보조 직업이지만, 신성 마법으로 마물을 퇴마하거나 무구에 부여할 수 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 아크비숍^000000\n\n\t\t<NAVI>[사제 예르거스]<INFO>prt_church,184,101,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9144] = {Title = "JQ 인퀴지터 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"수라에서 전직하는 4차 직업 인퀴지터는 신의 심판을 대행하는 대행자입니다.\n\t\t인퀴지터는 교단에 소속되어 있어, 믿음으로서 자신을 단계적으로 강화시켜 보다 다양한 공격을 퍼붓게 됩니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 수라^000000\n\n\t\t<NAVI>[프론테라 여관]<INFO>prt_in,250,129,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9145] = {Title = "JQ 쉐도우크로스 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"길로틴크로스에서 전직하는 4차 직업 쉐도우크로스는 자신의 몸을 숨긴 상태에서 적을 급습하는 능력의 소유자입니다.\n\t\t또한, 단검을 주무기로 사용하는 경우 주변에 칼날을 회전시켜 접근하는 대상에게 상흔을 입힐 수 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 길로틴크로스^000000\n\n\t\t<NAVI>[루민]<INFO>job3_guil01,74,92,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9146] = {Title = "JQ 어비스체이서 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"쉐도우체이서에서 전직하는 4차 직업 어비스체이서는 심연의 힘을 이용해 다양한 공격을 합니다.\n\t\t어비스를 마법처럼 활용하거나 자신의 단검 끝에 집중시켜 피해를 극대화하기도 합니다. 또한, 화살촉 끝에 힘을 실어 연쇄 공격을 가할 수도 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 쉐도우체이서^000000\n\n\t\t<NAVI>[비센테]<INFO>s_atelier,122,59,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9147] = {Title = "JQ 윈드호크 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"레인저에서 전직하는 4차 직업 윈드호크는 강력한 바람의 힘을 활용하는 명사수입니다.\n\t\t바람의 힘을 실어 화살을 쏘는 스킬들로 무장한 윈드 호크는 동물들과의 교감능력 또한 갖게 되어 워그와 팔콘을 함께 사용할 수 있습니다.\n\t\t각종 상태이상을 유발하는 트랩들도 활용할 수 있는 전천후 직업이기도 합니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 레인저^000000\n\n\t\t<NAVI>[페이욘]<INFO>payon,100,177,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9148] = {Title = "JQ 트루바두르 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"민스트럴에서 전직하는 4차 직업 트루바두르는 아군의 사기를 증진시키는 아름다운 선율의 노래를 부릅니다.\n\t\t음악의 힘으로 전투를 펼치기도 하고, 아군의 힘을 강화하거나 적군의 힘을 저하시키기도 합니다.\n\t\t노래를 통해 전장의 주도권을 뒤엎는 직업입니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 민스트럴^000000\n\n\t\t<NAVI>[전단지 아르바이트]<INFO>lighthalzen,186,124,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9149] = {Title = "JQ 트루베르 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"원더러에서 전직하는 4차 직업 트루베르는 아군의 사기를 증진시키는 아름다운 선율의 노래를 부릅니다.\n\t\t음악의 힘으로 전투를 펼치기도 하고, 아군의 힘을 강화하거나 적군의 힘을 저하시키기도 합니다.\n\t\t노래를 통해 전장의 주도권을 뒤엎는 직업입니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 원더러^000000\n\n\t\t<NAVI>[황금사과 수석]<INFO>comodo,142,165,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10001] = {Title = "Episode 15.1 판타스마고리카로!!#퀘스트에피소드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10001", 

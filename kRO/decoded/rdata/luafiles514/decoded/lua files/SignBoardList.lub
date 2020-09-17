@@ -380,8 +380,6 @@ SignBoardList = {
 , 
 {"morocc_in", 141, 67, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp"}
 , 
-{"morocc_in", 64, 41, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
-, 
 {"morocc_in", 73, 38, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
 , 
 {"moc_ruins", 114, 63, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
@@ -448,8 +446,6 @@ SignBoardList = {
 , 
 {"payon_in01", 15, 119, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp"}
 , 
-{"payon_in01", 18, 132, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
-, 
 {"payon_in01", 5, 129, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp"}
 , 
 {"payon_in01", 5, 49, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
@@ -495,8 +491,6 @@ SignBoardList = {
 {"prt_in", 61, 141, 0, IT_BMP, "유저인터페이스\\information\\over_inn.bmp"}
 , 
 {"prt_in", 63, 60, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
-, 
-{"prt_in", 90, 72, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
 , 
 {"ra_in01", 175, 364, 0, IT_BMP, "유저인터페이스\\information\\over_armorshops.bmp"}
 , 
@@ -1007,5 +1001,7 @@ SignBoardList = {
 {"lhz_airport", 148, 43, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  슈발츠발드 국내선", "#0x00FFFFFF"}
 , 
 {"lhz_airport", 138, 43, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  슈발츠발드 국내선", "#0x00FFFFFF"}
+, 
+{"prontera", 50, 293, 10, IT_SIGNBOARD, "information\\ebl_manus.bmp", "  등급강화소", "#0x00FFFFFF"}
 }
 

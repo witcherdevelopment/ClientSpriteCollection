@@ -5,6 +5,30 @@
 -- function num : 0
 TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, 
 Items_List = {
+[ACCESSORY_IDs.ACCESSORY_DancingButterfly] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Low_Twin] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Elegant_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Blanc_Neige_Prince] = {Default = 143, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_VIP_Hair_Female] = {Default = 143, 
 Direction = {}
 }

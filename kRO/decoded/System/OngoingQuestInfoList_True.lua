@@ -3853,6 +3853,74 @@ Description = {"^4d4dff심해의 세도라^000000와 ^4d4dff심해의 스트라우프^000000를 
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[케나]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[3421] = {Title = "환영의 서를 찾아서", IconName = "ico_jq.bmp", 
+Description = {"사제 예르거스는 신앙심을 시험하기 위해 <NAVI>[페이욘 동굴 1층]<INFO>pay_arche,39,131,0,101,0</INFO></NAVI>으로 가서 환영의 서를 찾아보라고 한다."}
+, Summary = "환영의 서 제 1권을 찾아라"}
+, 
+[3422] = {Title = "환영의 서 제 2권", IconName = "ico_jq.bmp", 
+Description = {"환영의 서 제 1권의 내용에는 <NAVI>[오크던전 1층]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI> 어딘가에 환영의 서 제 2권이 있다고 안내하고 있다. "}
+, Summary = "환영의 서 제 2권을 찾아라"}
+, 
+[3423] = {Title = "환영의 서 제 3권", IconName = "ico_jq.bmp", 
+Description = {"환영의 서 제 2권의 내용에는 <NAVI>[글레스트 헤임 수도원]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI> 어딘가에 환영의 서 제 3권이 있다고 안내하고 있다. "}
+, Summary = "환영의 서 제 3권을 찾아라"}
+, 
+[3424] = {Title = "수도원의 마물 처치", IconName = "ico_jq.bmp", 
+Description = {"환영의 서 제 3권의 다음 내용을 보기 위해서는 수도원 내의 마물을 종류와 상관없이 30마리 처치해야 한다."}
+, Summary = "수도원 내의 마물 30마리 처치"}
+, 
+[3425] = {Title = "마지막 시련", IconName = "ico_jq.bmp", 
+Description = {"시련의 동굴로 입장하여 어둠의 환영을 처치하자."}
+, Summary = "어둠의 환영 처치"}
+, 
+[3429] = {Title = "어둠의 환영 처치", IconName = "ico_jq.bmp", 
+Description = {"어둠의 환영을 무찔러라."}
+, Summary = "어둠의 환영 처치"}
+, 
+[3430] = {Title = "헌신의 기사와 대화", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[프론테라 북서쪽]<INFO>prontera,58,364,</INFO></NAVI>으로 가면 만날 수 있다. 그와 대화를 시도하자."}
+, Summary = "헌신의 기사와 대화"}
+, 
+[3431] = {Title = "무장의 기사와 대화", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[프론테라 북동쪽]<INFO>prontera,276,355,</INFO></NAVI>으로 가면 만날 수 있다. 그와 대화를 시도하자."}
+, Summary = "무장의 기사와 대화"}
+, 
+[3432] = {Title = "강력한 장비와 뛰어난 검술 - 헌신의 기사", IconName = "ico_jq.bmp", 
+Description = {"당신은 헌신의 기사와의 대화에서 강력한 장비와 뛰어난 검술이 본인의 정의라고 말하였다."}
+, Summary = ""}
+, 
+[3433] = {Title = "신앙심과 충성심 - 헌신의 기사", IconName = "ico_jq.bmp", 
+Description = {"당신은 헌신의 기사와의 대화에서 신앙심과 충성심이 본인의 정의라고 말하였다."}
+, Summary = ""}
+, 
+[3434] = {Title = "강력한 장비와 뛰어난 검술 - 무장의 기사", IconName = "ico_jq.bmp", 
+Description = {"당신은 무장의 기사와의 대화에서 강력한 장비와 뛰어난 검술이 본인의 정의라고 말하였다."}
+, Summary = ""}
+, 
+[3435] = {Title = "신앙심과 충성심 - 무장의 기사", IconName = "ico_jq.bmp", 
+Description = {"당신은 무장의 기사와의 대화에서 신앙심과 충성심이 본인의 정의라고 말하였다."}
+, Summary = ""}
+, 
+[3436] = {Title = "1회전 - 무장의 기사", IconName = "ico_jq.bmp", 
+Description = {"시험의 대련 1회전에서 무장의 기사를 쓰러뜨려라."}
+, Summary = "무장의 기사 제압"}
+, 
+[3437] = {Title = "2회전 - 헌신의 기사", IconName = "ico_jq.bmp", 
+Description = {"시험의 대련 2회전에서 헌신의 기사를 쓰러뜨려라."}
+, Summary = "헌신의 기사 제압"}
+, 
+[3438] = {Title = "1회전 - 헌신의 기사", IconName = "ico_jq.bmp", 
+Description = {"시험의 대련 1회전에서 헌신의 기사를 쓰러뜨려라."}
+, Summary = "헌신의 기사 제압"}
+, 
+[3439] = {Title = "2회전 - 무장의 기사", IconName = "ico_jq.bmp", 
+Description = {"시험의 대련 2회전에서 무장의 기사를 쓰러뜨려라."}
+, Summary = "무장의 기사 제압"}
+, 
+[3440] = {Title = "시험의 대련장으로", IconName = "ico_jq.bmp", 
+Description = {"왕의 기사에게 말을 걸어 시험의 대련 참가를 신청하자."}
+, Summary = "시험의 대련 참가 신청"}
+, 
 [3446] = {Title = "환영 조사단 지로커", 
 Description = {"환영 조사단 지로커와 대화하자."}
 , Summary = "지로커와 대화"}
@@ -7908,6 +7976,34 @@ Description = {"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>는 �
 [5900] = {Title = "[대기]제1 마력발전소 청소", IconName = "ico_dq.bmp", 
 Description = {"일정 시간이 지난 후", "<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>에게 제1 마력발전소 퀘스트를 다시 받을 수 있습니다."}
 , Summary = "초기화 04시", CoolTimeQuest = 1, NpcSpr = "EP17_2_OMEGA_CLEANER"}
+, 
+[5901] = {Title = "술 취한 노인", IconName = "ico_jq.bmp", 
+Description = {"술에 취해 위험한 장소에 있는 노인에게 위험하다고 말해주자."}
+, Summary = "술 취한 노인과 대화"}
+, 
+[5902] = {Title = "끌림의 이유", IconName = "ico_jq.bmp", 
+Description = {"나를 그저 봤을 뿐인 노인에게 알 수 없는 끌림을 느꼈다. 이유를 알기 위해 계속 말을 걸어보자."}
+, Summary = "술 취한 노인과 대화"}
+, 
+[5903] = {Title = "비밀수련 장소를 찾아서..", IconName = "ico_jq.bmp", 
+Description = {"폐이욘에서 만난 술 취한 어르신은 젊을 때", "루루카 숲에서 수련했다고 한다.", "<NAVI>[루루카 숲]<INFO>um_fild01,356,282,0,101,0</INFO></NAVI>에서 개구리 모양의 돌을 찾아 그 장소로 가보자."}
+, Summary = "루루카 숲에서 개구리 모양의 돌 찾기", NpcSpr = "4_FROG"}
+, 
+[5904] = {Title = "루루카 깊은 숲으로..", IconName = "ico_jq.bmp", 
+Description = {"폐이욘에서 만난 술 취한 어르신의 비밀 수련장", "루루카 깊은 숲에 들어가 강해질 수 있는 방법을 찾자.", " ", "단! 루루카 깊은 숲으로 들어가는 길은 1시간에 한번만 열리는 것 같다."}
+, Summary = "", NpcSpr = "4_FROG", NpcNavi = "um_fild01", NpcPosX = 47, NpcPosY = 345}
+, 
+[5905] = {Title = "생존에 필요한 것", IconName = "ico_jq.bmp", 
+Description = {"루루카 깊은 숲에서 혼자", "살아가는데 필요한 것이 무엇일지 생각해보았다.", " ", "1) 식량은 충분할까?", "2) 마실 물은 어디서구하지?", "3) 밤에 추우면 어쩌지?", "4) 위험한 야생동물이 있지는 않겠지?"}
+, Summary = ""}
+, 
+[5906] = {Title = "숲 밖으로..", IconName = "ico_jq.bmp", 
+Description = {"루루카 깊은 숲 밖으로 나가 오두막의 주인을 만나자."}
+, Summary = "루루카 깊은 숲 밖으로.."}
+, 
+[5907] = {Title = "자세 봐주기.", IconName = "ico_jq.bmp", 
+Description = {"오두막의 주인이 윈드 호크가 되어보지 않겠냐고 제안해왔다. 오두막 주인과 대화를 나눠보자.", " ", "^FF0000전직을 위해^000000", "^FF0000남은 스킬 포인트를 모두 사용해주세요.^000000", "^FF0000팔콘, 워그를 해제해주세요.^000000", "^FF0000탈것에서 내려주세요.^000000"}
+, Summary = "오두막 주인과 대화"}
 , 
 [5916] = {Title = "토벌-아인브로크 필드-1", IconName = "ico_dq.bmp", 
 Description = {"유노 몬스터 학회 토벌 의뢰\n\t\t<NAVI>[아인브로크 필드]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI>의 몬스터 80마리를 토벌해 달라는 의뢰를 받았다. 토벌을 마친 후에는 <NAVI>[조사관 인피유]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI>에게 보고하도록 하자.\n\t\t\n\t\t토벌 대상\n\t\t<NAVI>[홀덴]<INFO>MOLE,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[메탈링]<INFO>METALING,0,0,3,-222,1</INFO></NAVI>"}
@@ -13101,6 +13197,194 @@ Description = {"자동인형 <NAVI>[코튼]<INFO>ba_maison,306,205,0,101,0</INFO></NAV
 Description = {"<NAVI>[코튼]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>은 언제나 당신을 기다립니다. 내일 다시 노동을 하고 대가를 요구합시다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[8604] = {Title = "베루스 환경미화과의 의뢰", IconName = "ico_jq.bmp", 
+Description = {"미화과 직원 알디나의 의뢰로 <NAVI>[쓰레기장]<INFO>verus04,28,115,0,101,0</INFO></NAVI>에 무단투기된 악취의 근원을 찾아 어떻게든 해야 한다."}
+, Summary = "냄새의 진원지 확인"}
+, 
+[8605] = {Title = "악취의 근원", IconName = "ico_jq.bmp", 
+Description = {"베루스 <NAVI>[쓰레기장]<INFO>verus04,28,115,0,101,0</INFO></NAVI>의 문제를 처리하려면 <ITEM>[검은 천조각]<INFO>7205</INFO></ITEM> 20개, <ITEM>[바늘쌈지]<INFO>7213</INFO></ITEM> 1개, <ITEM>[검정 숯]<INFO>6251</INFO></ITEM> 10개가 필요하다.", "검정 숯은 <NAVI>[알케미스트 전직소]<INFO>alde_alche,38,184,0,101,0</INFO></NAVI>에서 파는 걸 본 적이 있다."}
+, Summary = "재료를 모아 베루스로"}
+, 
+[8606] = {Title = "쓰레기장 뒤지기", IconName = "ico_jq.bmp", 
+Description = {"이러한 고도의 기술을 가진 모험가가, <NAVI>[쓰레기장]<INFO>verus04,28,115,0,101,0</INFO></NAVI>을 뒤지는 것이 일반 시민을 위한 진정한 봉사활동인 것이다."}
+, Summary = "베루스 쓰레기장 조사"}
+, 
+[8607] = {Title = "알디나에게 보고하기", IconName = "ico_jq.bmp", 
+Description = {"갈고 닦은 기술로 베루스의 고통거리를 처리했다. 의뢰한 <NAVI>[알디나]<INFO>verus04,157,165,0,101,0</INFO></NAVI>에게 보고해야 한다."}
+, Summary = "알디나와 대화"}
+, 
+[8608] = {Title = "알디나의 새 의뢰 (1)", IconName = "ico_jq.bmp", 
+Description = {"알디나는 상자를 보고 얼굴을 찌푸렸다. 공무원으로서의 의무를 다하겠다며 잠시 서류를 작성하기 시작했다."}
+, Summary = "알디나와 대화"}
+, 
+[8609] = {Title = "알디나의 새 의뢰 (2)", IconName = "ico_jq.bmp", 
+Description = {"알디나는 벌금 고지서를 주머니에 쑤셔넣으며 이것을 무단투기했을 범인인 바이올로의 <NAVI>[연구실]<INFO>verus04,53,263,0,101,0</INFO></NAVI>을 찾아가 벌금을 대신 징수해 오라고 부탁했다."}
+, Summary = "그레고어와 대화"}
+, 
+[8610] = {Title = "무단투기 용의자", IconName = "ico_jq.bmp", 
+Description = {"문패가 없는 집의 폐허나 다름없는 방에, 얼굴이 보이지 않는 바이올로가 홀로 서 있다."}
+, Summary = "그레고어와 대화"}
+, 
+[8611] = {Title = "그레고어의 질문", IconName = "ico_jq.bmp", 
+Description = {"뛰어난 제네릭의 승급 시험 문제."}
+, Summary = "답은 정해져 있으니 대답만 해"}
+, 
+[8612] = {Title = "만드라고라 배양기 (1)", IconName = "ico_jq.bmp", 
+Description = {"결국 저 냄새나는 것을 살려야 할 모양이다."}
+, Summary = "그레고어와 대화"}
+, 
+[8613] = {Title = "식물 설계", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[그레고어]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>는 <ITEM>[고목나무 가지]<INFO>604</INFO></ITEM> 1개, <ITEM>[얽힌 사슬]<INFO>7221</INFO></ITEM> 10개, <ITEM>[산호초]<INFO>7013</INFO></ITEM> 10개, <ITEM>[예쁜 꽃]<INFO>6511</INFO></ITEM> 10개를 준비하고, 연구실 안의 책을 참조해 필요한 것을 만들라고 했다."}
+, Summary = "재료를 지참하고 과제 진행"}
+, 
+[8614] = {Title = "식물 설계", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[그레고어]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>는 <ITEM>[엘더의 가지]<INFO>7939</INFO></ITEM> 10개, <ITEM>[얽힌 사슬]<INFO>7221</INFO></ITEM> 10개, <ITEM>[산호초]<INFO>7013</INFO></ITEM> 10개, <ITEM>[신비한 꽃]<INFO>6509</INFO></ITEM> 1개를 준비하고, 연구실 안의 책을 참조해 필요한 것을 만들라고 했다."}
+, Summary = "재료를 지참하고 과제 진행"}
+, 
+[8615] = {Title = "식물 설계", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[그레고어]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>는 <ITEM>[새싹]<INFO>711</INFO></ITEM> 10개, <ITEM>[얽힌 사슬]<INFO>7221</INFO></ITEM> 10개, <ITEM>[산호초]<INFO>7013</INFO></ITEM> 10개, <ITEM>[청초한 꽃]<INFO>6510</INFO></ITEM> 10개를 준비하고, 연구실 안의 책을 참조해 필요한 것을 만들라고 했다."}
+, Summary = "재료를 지참하고 과제 진행"}
+, 
+[8616] = {Title = "1권의 정답", 
+Description = {"먼지투성이 책을 한 권 독파했다."}
+, Summary = ""}
+, 
+[8617] = {Title = "2권의 정답", 
+Description = {"먼지투성이 책을 한 권 독파했다."}
+, Summary = ""}
+, 
+[8618] = {Title = "3권의 정답", 
+Description = {"먼지투성이 책을 한 권 독파했다."}
+, Summary = ""}
+, 
+[8619] = {Title = "4권의 정답", 
+Description = {"먼지투성이 책을 한 권 독파했다."}
+, Summary = ""}
+, 
+[8620] = {Title = "5권의 정답", 
+Description = {"먼지투성이 책을 한 권 독파했다."}
+, Summary = ""}
+, 
+[8621] = {Title = "경계선", IconName = "ico_jq.bmp", 
+Description = {"형식상의 경계선으로 겉과 속이 동일한 플라스크를 만든다. 이것은 물리적인 경계선이 아니며, 의식을 확장하기 위한 초보적 도구에 불과하다. 이것이 가능하다는 것은 지금까지의 경험으로 직관적으로 알 수 있다."}
+, Summary = "책상에서 도면 작업"}
+, 
+[8622] = {Title = "만드라고라 배양기 (2)", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[그레고어]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>에게 성과를 보고하자."}
+, Summary = "그레고어와 대화"}
+, 
+[8623] = {Title = "알디나와의 해후", 
+Description = {"알디나는 제네릭이 된 것을 축복…? 해 주었다."}
+, Summary = ""}
+, 
+[8624] = {Title = "마이스터로의 길 (1)", IconName = "ico_jq.bmp", 
+Description = {"선배 미케닉들에게 뜻밖의 조언을 들었다. 베루스 어딘가에 이름난 <NAVI>[마이스터]<INFO>verus04,214,251,0,101,0</INFO></NAVI>가 자리를 잡았다는 소문이다."}
+, Summary = ""}
+, 
+[8625] = {Title = "마이스터는 뭘 하나요?", IconName = "ico_jq.bmp", 
+Description = {"미스트의 소개로 만나게 된 마우라는 생각보다 딱딱한 사람이다."}
+, Summary = "마우라와 대화"}
+, 
+[8626] = {Title = "마이스터로의 길 (2)", IconName = "ico_jq.bmp", 
+Description = {"마도기관이 미케닉에게, 마이스터에게 어떤 존재인지는 프랭클슨을 생각하면 빠른 해답이 나올 것이다. 어디까지나 그것은 도구여야지, 목적이 되어서는 안 된다."}
+, Summary = "마우라와 대화"}
+, 
+[8627] = {Title = "다시 유페로스로", IconName = "ico_jq.bmp", 
+Description = {"마우라 또한 프랭클슨을 만나고 온 사람이었다. 마우라는 자신의 미케닉 시절의 라이벌이었던 노이슈 리앙을 만나러 유페로스에 다녀오라고 한다. 그런데, 왜 직접 가는 것이 아니라…"}
+, Summary = "마도기어로 터미널 접속"}
+, 
+[8628] = {Title = "마이스터로의 길 (3)", IconName = "ico_jq.bmp", 
+Description = {"마도기어로 유페로스 중심부로 연결되는 가상 단말을 설정했다. 과제를 완수하려면 지시를 따르자."}
+, Summary = "유페로스 중심부 VT 공략"}
+, 
+[8629] = {Title = "마이스터로의 길 (4)", IconName = "ico_jq.bmp", 
+Description = {"과제는 완수했다. <NAVI>[마우라]<INFO>verus04,214,251,0,101,0</INFO></NAVI>에게 보고해야 한다."}
+, Summary = "마우라와 대화"}
+, 
+[8639] = {Title = "저승 깊은 곳 대연회장", 
+Description = {"은퇴한 학자 가림은 니플헤임 깊은 곳에서 망자들이 연회를 하고 있다는 이야기가 진짜인지 궁금하다고 한다. 지금껏 들은 적 없는 이야기이긴 하므로, <NAVI>[니플헤임]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에 직접 가서 알 만한 주민을 찾아 보자."}
+, Summary = "니플헤임에서 소문 듣기"}
+, 
+[8640] = {Title = "망자도 산자도 고주망태", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[가림]<INFO>moc_para01,14,19,0,101,0</INFO></NAVI>에게 니플헤임에서 보고 들은 것을 보고하자. 그것과는 별개로, 밀라가 부탁한 의뢰들은 매일 보고할 수 있을 것이다."}
+, Summary = "가림에게 보고하기"}
+, 
+[8641] = {Title = "생긴 건 귀여운데", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 잠을 방해하는 고스트 큐브 15마리와 루드갈 15마리를 두들겨패서 집에 보내 버리라고 한다."}
+, Summary = "지정된 몬스터를 처치"}
+, 
+[8642] = {Title = "생긴 건 귀여운데 - 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8643] = {Title = "생긴 것만 귀여운 듯", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 잠을 방해하는 고스트 큐브 15마리와 루드갈 15마리를 두들겨패서 집에 보내 버리라고 한다."}
+, Summary = "지정된 몬스터를 처치"}
+, 
+[8644] = {Title = "그건 악기가 아니야", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 잠을 방해하는 브루탈 머더러 10마리와 간칸 10마리를 두들겨패서 집에 보내 버리라고 한다."}
+, Summary = "지정된 몬스터를 처치"}
+, 
+[8645] = {Title = "그건 악기가 아니야 - 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8646] = {Title = "그건 악기가 아니라니까", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 잠을 방해하는 브루탈 머더러 10마리와 간칸 10마리를 두들겨패서 집에 보내 버리라고 한다."}
+, Summary = "지정된 몬스터를 처치"}
+, 
+[8647] = {Title = "피아노 연주", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 망자의 연회장에 있는 큰 피아노를 아무렇게나 두들기라고 한다. 그건 안 시끄러워?"}
+, Summary = "망자의 연회장의 피아노를 연주"}
+, 
+[8648] = {Title = "피아노 연주 - 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8649] = {Title = "훌륭한 연주였어요", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>의 부탁을 들어주어 피아노를 두드렸다. 밀라도 들었을 테니 가서 전해주도록 하자."}
+, Summary = "밀라에게 보고"}
+, 
+[8650] = {Title = "머리 부시시한 애들", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 잠을 방해하는 디스가이저 15마리와 블루 문 로리루리 15마리를 두들겨패서 집에 보내 버리라고 한다."}
+, Summary = "지정된 몬스터를 처치"}
+, 
+[8651] = {Title = "머리 부시시한 애들 - 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8652] = {Title = "머리털 부시시한 애들", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 잠을 방해하는 디스가이저 15마리와 블루 문 로리루리 15마리를 두들겨패서 집에 보내 버리라고 한다."}
+, Summary = "지정된 몬스터를 처치"}
+, 
+[8653] = {Title = "인형 달고 있는 애들", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 잠을 방해하는 그로트 10마리와 삐에로조이스트 10마리를 두들겨패서 집에 보내 버리라고 한다."}
+, Summary = "지정된 몬스터를 처치"}
+, 
+[8654] = {Title = "인형 달고 있는 애들 - 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8655] = {Title = "인형 달고 있는 걔들", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 잠을 방해하는 그로트 10마리와 삐에로조이스트 10마리를 두들겨패서 집에 보내 버리라고 한다."}
+, Summary = "지정된 몬스터를 처치"}
+, 
+[8656] = {Title = "걔들 좀 깨워 줘", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 무너진 오페라하우스의 액자에 깃들어 잠꼬대하는 망자들 둘의 코를 비틀어쥐어 깨우라고 한다. 그게 되나? 액자의 위치는 각각 <NAVI>[저기]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI>와 <NAVI>[거기]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>다."}
+, Summary = "오페라하우스의 액자들과 대화"}
+, 
+[8657] = {Title = "걔들 좀 깨워 줘 - 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8658] = {Title = "졸아서 죄송해요 (1)", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>의 부탁을 들어주어 액자의 망자 하나를 깨웠다. 둘 다 깨웠다면 밀라에게 돌아가자."}
+, Summary = ""}
+, 
+[8659] = {Title = "졸아서 죄송해요 (2)", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>의 부탁을 들어주어 액자의 망자 하나를 깨웠다. 둘 다 깨웠다면 밀라에게 돌아가자."}
+, Summary = ""}
+, 
 [8660] = {Title = "토벌-아우둠라 초원-3", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[조사관 시아라]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>는 자기가 있는 아우둠라 초원 내의 몬스터를 조사하기 위해 파견되었다. 해당 필드의 몬스터를 도합 80마리 해치우는 것이 이번 목표다."}
 , Summary = ""}
@@ -17437,6 +17721,70 @@ RewardItemList = {
 Description = {"워넛을 체포하느라 너무 피곤하다. 내일 다시 방문하자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[11668] = {Title = "아크메이지 전직", IconName = "ico_jq.bmp", 
+Description = {"워록 전직때 만났던 마스터 에그노로리아가 깊은잠에 들어갈 준비를 하고 있다고 한다. 에그노로리아가 깊은잠에 들어가기 전에 해결해야할 문제가 있지 않을까? 에그노로리아를 만나기 위해 요정들을 따라가보자."}
+, Summary = "기묘한 풀 확인"}
+, 
+[11669] = {Title = "아크메이지 전직", IconName = "ico_jq.bmp", 
+Description = {"에그노로리아의 조수인 윱은 대화중 사라져버렸다. 윱에게 시련을 받는 중이라는 마기와 함께 ^ff0000토르 화산 던전 3층의 몬스터를 10마리 잡고 불타는 심장 1개^000000를 구해오자."}
+, Summary = "불타는 심장을 마기에게"}
+, 
+[11670] = {Title = "아크메이지 전직", IconName = "ico_jq.bmp", 
+Description = {"두번째 시련의 재료: ^ff0000바르문트 저택 목욕탕에 사는 몬스터를 10마리 잡고 인어의 심장 1개^000000를 구해오자."}
+, Summary = "인어의 심장을 마기에게"}
+, 
+[11671] = {Title = "아크메이지 전직", IconName = "ico_jq.bmp", 
+Description = {"세번째 시련의 재료: ^ff0000빛나는 풀을 1개 채집하고 이그드라실의 씨앗 1개^000000를 구해오자."}
+, Summary = "이그드라실의 씨앗을 마기에게"}
+, 
+[11672] = {Title = "아크메이지 전직", IconName = "ico_jq.bmp", 
+Description = {"재료를 확인한 윱이 자신을 따라오라고 한다. 마기와 대화해서 윱을 따라가자."}
+, Summary = "마기와 대화"}
+, 
+[11673] = {Title = "아크메이지 전직", IconName = "ico_jq.bmp", 
+Description = {"소란통에 마스터 에그노로리아가 잠에서 깨어버렸다. 마력의 샘에서 에그노로리아와 대화하자."}
+, Summary = "에그노로리아와 대화"}
+, 
+[11674] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"엘마는 상급 정령 소환에 대해 알고 싶어하는 듯 하다. 키란과 대화하자."}
+, Summary = "키란과 대화"}
+, 
+[11675] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"키란은 알려줄 수 있는 것이 없다고 한다."}
+, Summary = "엘마와 대화"}
+, 
+[11676] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"엘마는 키란이 ^ff0000바르문트 저택^000000을 방문하는 것을 봤다고 한다. 먼저 바르문트 저택의 ^ff0000마력발전소^000000에서 단서를 찾자."}
+, Summary = "마력발전소 조사"}
+, 
+[11677] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"몬스터들 때문에 조사에 집중할 수 없다고 한다. ^ff0000마력중독 돌로르와 풀려난 마력을 10마리씩 퇴치^000000하자."}
+, Summary = "방해 몬스터 퇴치"}
+, 
+[11678] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"마력발전소에서는 정령 소환에 대한 단서를 얻을 수 없었다. ^ff0000바르문트의 도서관을 조사^000000하자."}
+, Summary = "바르문트 도서관 조사"}
+, 
+[11679] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"책이 계속 도망쳐서 읽을 수가 없다. ^ff0000배회하는 마법서를 10개^000000 잡고 엘마가 조사하던 책장으로 돌아가자."}
+, Summary = "배회하는 마법서 회수"}
+, 
+[11680] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"회수한 마법서에서는 필요한 정보를 찾을 수 없었다. 마법서를 다시 확인해보자."}
+, Summary = "다시 책장 확인"}
+, 
+[11681] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"마법서를 확인하자 작은 요정이 소환됐다. 이동된 곳에서 요정과 대화하자."}
+, Summary = "윱과 대화"}
+, 
+[11682] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"윱은 자신을 소환한 것 처럼 셰즈와 이베인을 소환해 달라고 한다. 윱이 안내하는 곳으로 들어가 지시에 따라 셰즈와 이베인을 소환하자."}
+, Summary = "셰즈와 이베인 소환"}
+, 
+[11683] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
+Description = {"윱의 부탁대로 소환을 완료했지만 소란스러웠던 탓에 에그노로리아님에게 들켜버렸다."}
+, Summary = "마스터와 대화"}
+, 
 [12000] = {Title = "친구:불협화음", 
 Description = {"마쿠의 또다른 친구를 찾아 그와 이야기를 나누어야 합니다."}
 , Summary = "마쿠의 또다른 친구 만나기"}
@@ -19344,6 +19692,14 @@ Description = {"만약 균열의 봉인에 실패하게 된다면 충분히 휴식을 취한 뒤 다시 도
 [12507] = {Title = "균열의 봉인자", IconName = "ico_ev.bmp", 
 Description = {"불완전하게 자라난 균열을 완벽하게 봉인했습니다. 어쩌면 이 세계에 닥쳐올지 모르는 거대한 위협으로부터 당신의 동료와 친구를 구해낸 것입니다.", "이 기록이 어쩌면 당신에게 약간의 행운을 가져다 줄 수 있을지 모르겠군요."}
 , Summary = "세계를 구한 흔적"}
+, 
+[12508] = {Title = "드래곤의 시험에 임하기", IconName = "ico_jq.bmp", 
+Description = {"^FF0000\'당신이 정말 드래곤의 시험응시자?\'^FF0000", "눈앞의 시공룡은 못미더워하는 눈치지만 사실 당신보다 ^ff0000드래곤 나이트^000000에 적합한 조건을 지닌 사람은 드물죠. 이제 시험에 참가하여 그 사실을 증명합시다"}
+, Summary = "드래곤의 동반자 되기"}
+, 
+[12509] = {Title = "머리식히기", IconName = "ico_jq.bmp", 
+Description = {"너무 집중한 듯하니 잠시 쉬고 다시 도전하도록 하자"}
+, Summary = "30분간 휴식"}
 , 
 [13000] = {Title = "RWC2011카드 구하기", 
 Description = {"파란카드를 모아서 RWC2011를 완성하자"}
@@ -24551,6 +24907,134 @@ Description = {"<NAVI>[타티오]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI>가 도착
 Description = {"<NAVI>[안내]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>에 따라 이동하여, 에이치가 낯선 사람과 이야기하던 장소에 찾아가 탐색해 보자."}
 , Summary = "안내에 따라 이동"}
 , 
+[16454] = {Title = "인퀴지터의 길", IconName = "ico_jq.bmp", 
+Description = {"프론테라 여관에 묵기로 했다. 여관 2층의 <NAVI>[두 번째 방]<INFO>prt_in,246,104,0,101,0</INFO></NAVI>을 이용하자."}
+, Summary = "여관 투숙"}
+, 
+[16455] = {Title = "간절함의 시험", IconName = "ico_jq.bmp", 
+Description = {"세량이라는 이름의 소녀를 만났다. 소녀의 권유대로 성 카피톨리나 수도원으로 가는 길목에서 <NAVI>[에인하르]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>를 만나자."}
+, Summary = "에인하르 만나기"}
+, 
+[16456] = {Title = "실천의 시험", IconName = "ico_jq.bmp", 
+Description = {"간절함의 시험을 통과했다. 실천의 시험을 치르기 위해 성 카피톨리나 수도원 <NAVI>[안쪽]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>으로 들어가자."}
+, Summary = "수도원 입장"}
+, 
+[16457] = {Title = "인퀴지터의 길", IconName = "ico_jq.bmp", 
+Description = {"인퀴지터가 되기 위한 시험을 치르기로 했다. 홀로 수도원 지하결계에 들어가 흉악한 괴물을 무찌르고 <NAVI>[에인하르]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>에게 돌아오자.", "니드 - 에흐", " |\t결계\t|", "우윈 - 시겔"}
+, Summary = ""}
+, 
+[16458] = {Title = "인퀴지터의 길", IconName = "ico_jq.bmp", 
+Description = {"인퀴지터가 되기 위한 시험을 치르기로 했다. 홀로 수도원 지하결계에 다시 들어가 흉악한 괴물을 무찌르고 <NAVI>[에인하르]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>에게 돌아오자.", "니드 - 에흐", " |\t결계\t|", "우윈 - 시겔"}
+, Summary = ""}
+, 
+[16459] = {Title = "인퀴지터의 길", IconName = "ico_jq.bmp", 
+Description = {"인퀴지터가 되기 위한 시험을 치르기로 했다. 홀로 수도원 지하결계에 한 번 더 들어가 흉악한 괴물을 무찌르고 <NAVI>[에인하르]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>에게 돌아오자.", "니드 - 에흐", " |\t결계\t|", "우윈 - 시겔"}
+, Summary = ""}
+, 
+[16460] = {Title = "인퀴지터로 전직", IconName = "ico_jq.bmp", 
+Description = {"드디어 인퀴지터로 전직한다. 몸과 마음을 정결하게 하고 <NAVI>[에인하르]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>에게 가 그의 말을 듣자."}
+, Summary = "인퀴지터로 전직"}
+, 
+[16521] = {Title = "폐기실험체 유기장 루두스 4층", IconName = "ico_dq.bmp", 
+Description = {"율마는 폐기실험장 루두스 4층에 대한 정보를 알려주었다. <NAVI>[파이언]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI>에게 찾아가 직접 루두스 4층에 방문해 보자."}
+, Summary = "파이언과 대화"}
+, 
+[16522] = {Title = "폐기실험체 유기장 루두스 4층", IconName = "ico_dq.bmp", 
+Description = {"파이언과 대화해 루두스 4층을 탐사해 보았다. <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>에게로 돌아가자."}
+, Summary = "율마와 대화"}
+, 
+[16523] = {Title = "심연의 고독-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크의 <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16524] = {Title = "심연의 고독", IconName = "ico_dq.bmp", 
+Description = {"돌로리안과 플라가리온, 데드레를 각각 10마리씩 사냥하고 <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>에게 돌아와 보고하자."}
+, Summary = ""}
+, 
+[16525] = {Title = "변형과 발전-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크의 <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16526] = {Title = "변형과 발전", IconName = "ico_dq.bmp", 
+Description = {"자이언트 카푸트와 베네디를 각각 15마리씩 사냥하고 <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>에게 돌아와 보고하자."}
+, Summary = ""}
+, 
+[16527] = {Title = "데이터 백업-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크의 <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16528] = {Title = "데이터 백업", IconName = "ico_dq.bmp", 
+Description = {"매일 칩의 유지보수가 필요하다. 비밀의 날개 <NAVI>[연구원]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI>에게 찾아가 보자."}
+, Summary = "연구원과 대화"}
+, 
+[16529] = {Title = "버려진 연구소 아미키티아", IconName = "ico_dq.bmp", 
+Description = {"총알 탄 고양이에 있던 리벨리온들에게 버려진 연구소 아미키티아에 대한 정보를 얻었다."}
+, Summary = ""}
+, 
+[16530] = {Title = "땅과 불-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크의 <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16531] = {Title = "땅과 불", IconName = "ico_dq.bmp", 
+Description = {"변이 키메라 아미티아와 변이 키메라 필리아를 각각 15마리씩 사냥하고 리벨리온 <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>에게 보고하자."}
+, Summary = ""}
+, 
+[16532] = {Title = "물과 바람-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크의 <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16533] = {Title = "물과 바람", IconName = "ico_dq.bmp", 
+Description = {"변이 키메라 리투스와 변이 키메라 바닐아쿠스를 각각 15마리씩 사냥하고 리벨리온 <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>에게 보고하자."}
+, Summary = ""}
+, 
+[16534] = {Title = "베르너의 흔적-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크의 <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16535] = {Title = "베르너의 흔적", IconName = "ico_dq.bmp", 
+Description = {"버려진 연구소 아미키티아 1층에서 베르너의 흔적을 찾아 리벨리온 <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>에게 가져오자."}
+, Summary = "안수리야와 대화"}
+, 
+[16536] = {Title = "모방과 진짜-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크의 <NAVI>[거베나]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16537] = {Title = "모방과 진짜", IconName = "ico_dq.bmp", 
+Description = {"변이 키메라 나페오와 변이 키메라 갈렌시스를 각각 15마리씩 사냥하고 리벨리온 <NAVI>[거베나]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>에게 보고하자."}
+, Summary = ""}
+, 
+[16538] = {Title = "자연스러운 변화-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크의 <NAVI>[거베나]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16539] = {Title = "자연스러운 변화", IconName = "ico_dq.bmp", 
+Description = {"변이 키메라 라바이터와 변이 키메라 풀고르를 각각 15마리씩 사냥하고 리벨리온 <NAVI>[거베나]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>에게 보고하자."}
+, Summary = ""}
+, 
+[16540] = {Title = "데이터 백업", IconName = "ico_dq.bmp", 
+Description = {"칩의 유지보수를 완료했다. <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>에게 돌아가 보자."}
+, Summary = "율마와 대화"}
+, 
+[16541] = {Title = "베르너의 흔적", IconName = "ico_dq.bmp", 
+Description = {"베르너의 흔적을 찾았다. <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>에게 돌아가 보자."}
+, Summary = "안수리야와 대화"}
+, 
+[16542] = {Title = "베르너의 흔적", IconName = "ico_dq.bmp", 
+Description = {"베르너의 흔적을 찾았다. <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>에게 돌아가 보자."}
+, Summary = "안수리야와 대화"}
+, 
+[16543] = {Title = "베르너의 흔적", IconName = "ico_dq.bmp", 
+Description = {"베르너의 흔적을 찾았다. <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>에게 돌아가 보자."}
+, Summary = "안수리야와 대화"}
+, 
+[16544] = {Title = "베르너의 흔적", IconName = "ico_dq.bmp", 
+Description = {"베르너의 흔적을 찾았다. <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>에게 돌아가 보자."}
+, Summary = "안수리야와 대화"}
+, 
+[16545] = {Title = "베르너의 흔적", IconName = "ico_dq.bmp", 
+Description = {"베르너의 흔적을 찾았다. <NAVI>[안수리야]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>에게 돌아가 보자."}
+, Summary = "안수리야와 대화"}
+, 
 [16546] = {Title = "농장의 일손", IconName = "ico_dq.bmp", 
 Description = {"일손을 전부 도왔다. <NAVI>[농장 일꾼]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>에게 돌아가자."}
 , Summary = ""}
@@ -25273,6 +25757,114 @@ Description = {"저희는 자료를 정리해야 하니까요, 새벽이 지난 후에 다시 찾아와 주
 Description = {"저희는 자료를 정리해야 하니까요, 새벽이 지난 후에 다시 찾아와 주세요. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[17450] = {Title = "4차전직: 새로운 공연장", IconName = "ico_jq.bmp", 
+Description = {"새로 짓는 공연장이 있다는 <NAVI>[오딘 신전 북쪽]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>으로 가 보자."}
+, Summary = "오딘 신전으로"}
+, 
+[17451] = {Title = "4차전직: 영감의 조각 1", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[아우둠라 초원]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI> 근처로 가보세요. 대지를 어루 만지는 바람은 옛 사람들에게 영감을 주었겠지요."}
+, Summary = "영감의 조각 1"}
+, 
+[17452] = {Title = "4차전직: 영감의 조각 1", IconName = "ico_jq.bmp", 
+Description = {"105레벨 이상의 바람의 몬스터를 잡아 <NAVI>[조각]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI>에 바람의 기운을 채워 넣어야겠다."}
+, Summary = "영감의 조각 1"}
+, 
+[17453] = {Title = "4차전직: 영감의 조각 2", IconName = "ico_jq.bmp", 
+Description = {"결정을 손에 쥐자 <NAVI>[대지]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>를 울리는 소리가 몸을 감싸는 느낌이 든다."}
+, Summary = "영감의 조각 2"}
+, 
+[17454] = {Title = "4차전직: 영감의 조각 2", IconName = "ico_jq.bmp", 
+Description = {"130레벨 이상의 땅의 몬스터를 잡아 <NAVI>[조각]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>에 대지의 기운을 채워 넣어야겠다."}
+, Summary = "영감의 조각 2"}
+, 
+[17455] = {Title = "4차전직: 영감의 조각 3", IconName = "ico_jq.bmp", 
+Description = {"결정을 손에 쥐자 <NAVI>[천상]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI>의 목소리가 몸을 감싸는 느낌이 든다."}
+, Summary = "영감의 조각 3"}
+, 
+[17456] = {Title = "4차전직: 영감의 조각 3", IconName = "ico_jq.bmp", 
+Description = {"180레벨 이상의 천사 몬스터를 잡아 <NAVI>[조각]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI>에 천사의 기운을 채워 넣어야겠다."}
+, Summary = "영감의 조각 3"}
+, 
+[17457] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"감동의 조각이 향한 곳은 <NAVI>[루티에]<INFO>xmas,82,146,0,101,0</INFO></NAVI> 쪽일 겁니다. 추운 곳의 사람들은 특히나 예술가 기질이 잘 발달해 있으니까요."}
+, Summary = "감동의 조각 1"}
+, 
+[17458] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"좀 전부터 계속해서 뜨거운 마음이 솟아 오르거든요? 그 다른 조각이 아무래도 <NAVI>[모로크]<INFO>morocc,100,31,0,101,0</INFO></NAVI> 쪽에 있는 것 같아요."}
+, Summary = "감동의 조각 2"}
+, 
+[17459] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"아까부터 굴 속에서 울리는 것 같은 소리가 나는데요. 이거, 그거죠? <NAVI>[아인베흐 광산]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>에 다른 조각이 있는 것 아닐까요?"}
+, Summary = "감동의 조각 3"}
+, 
+[17460] = {Title = "4차전직: 조각 모음 완료", IconName = "ico_jq.bmp", 
+Description = {"모든 조각을 다 모았으니 <NAVI>[역사학자]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>에게로 돌아가 보고하자."}
+, Summary = "역사학자에게"}
+, 
+[17461] = {Title = "4차전직: 새로운 공연장", IconName = "ico_jq.bmp", 
+Description = {"새로 짓는 공연장이 있다는 <NAVI>[오딘 신전 북쪽]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>으로 가 보자."}
+, Summary = "오딘 신전으로"}
+, 
+[17462] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[죽은자들의 나라]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>에 가 보세요. 죽은 자들에 대한 공포와 연민은 사람들에게 다양한 영감을 주니까요."}
+, Summary = "영감의 조각 1"}
+, 
+[17463] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"105레벨 이상의 어둠의 몬스터를 잡아 <NAVI>[조각]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>에 암의 기운을 채워 넣어야겠다."}
+, Summary = "영감의 조각 1"}
+, 
+[17464] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"결정을 손에 쥐자 무언가 <NAVI>[불타는]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> 소리가 몸을 감싸는 느낌이 든다."}
+, Summary = "영감의 조각 2"}
+, 
+[17465] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"130레벨 이상의 불의 몬스터를 잡아 <NAVI>[조각]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI>에 불의 기운을 채워 넣어야겠다."}
+, Summary = "영감의 조각 2"}
+, 
+[17466] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"결정을 손에 쥐자 <NAVI>[신비한]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> 소리가 몸을 감싸는 느낌이 든다."}
+, Summary = "영감의 조각 3"}
+, 
+[17467] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"180레벨 이상의 용족 몬스터를 잡아 <NAVI>[조각]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI>에 용의 기운을 채워 넣어야겠다."}
+, Summary = "영감의 조각 3"}
+, 
+[17468] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"가장 커다란 <NAVI>[교회]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>로 가보십시오. 큰 소리로 신을 찬미하는 사람의 노래를 듣고 깃들었을 수도 있으니까요."}
+, Summary = "감동의 조각 1"}
+, 
+[17469] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"파도 소리... 문득 떠오르네요. <NAVI>[코코모 해변]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>으로 가보세요. 잘은 모르겠지만 그곳이 모험가님을 이끄는 것 같아요."}
+, Summary = "감동의 조각 2"}
+, 
+[17470] = {Title = "4차전직: 조각 모음", IconName = "ico_jq.bmp", 
+Description = {"당신이 처음으로 직업을 가진 곳. <NAVI>[그곳]<INFO>payon,62,157,0,101,0</INFO></NAVI>에서 답을 얻을 수 있을 것 같아요."}
+, Summary = "감동의 조각 3"}
+, 
+[17471] = {Title = "4차전직: 조각 모음 완료", IconName = "ico_jq.bmp", 
+Description = {"모든 조각을 다 모았으니 <NAVI>[역사학자]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>에게로 돌아가 보고하자."}
+, Summary = "역사학자에게"}
+, 
+[17472] = {Title = "4차전직: 공연장은?", IconName = "ico_jq.bmp", 
+Description = {"신축 공연장을 찾아오셨어요? 저런... 일단은 <NAVI>[지하]<INFO>job4_tro,51,47,0,101,0</INFO></NAVI>로 내려 가요. 자세한 얘기는 그곳에서 나누죠."}
+, Summary = "지하로"}
+, 
+[17473] = {Title = "4차전직: 자세한 설명", IconName = "ico_jq.bmp", 
+Description = {"나는 전문적인 내용에 대해서는 잘은 모르니 <NAVI>[헤렌]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI>과 이야기를 나누어 보게."}
+, Summary = "역사학자와 대화"}
+, 
+[17474] = {Title = "4차전직: 의식의 절차", IconName = "ico_jq.bmp", 
+Description = {"수호수의 태엽이 활성화 되면 손을 얹으세요. 활성화가 되지 않았다면 <NAVI>[저]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI>에게 말씀하시고요."}
+, Summary = "수호수의 태엽"}
+, 
+[17475] = {Title = "4차전직: 크바시르의 함", IconName = "ico_jq.bmp", 
+Description = {"공허를 모두 몰아내고 12개의 제단에 영감의 조각과 감동의 조각을 채워 넣으세요. - <NAVI>[헤렌]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI>"}
+, Summary = "회복 의식"}
+, 
+[17499] = {Title = "4차 전직 안내 메일 발송", IconName = "ico_jq.bmp", 
+Description = {"4차 전직이 가능한 분들께 전직 안내 메일을 발송하였습니다."}
+, Summary = "발송 완료"}
+, 
 [18000] = {Title = "진입 준비", IconName = "ico_ep.bmp", 
 Description = {"드디어 하수관의 잠금장치 해제에 성공한 리벨리온. 루키는 하수관으로 진입할 준비가 다 되면 다시 말을 걸어 달라고 했다."}
 , Summary = "루키와 대화"}
@@ -25508,6 +26100,74 @@ Description = {"아인베흐에 위치한 <NAVI>[아인베흐 광산 3층]<INFO>ein_dun03,268,2
 [18058] = {Title = "아인베흐 광산 공략-대기", IconName = "ico_dq.bmp", 
 Description = {"해당 퀘스트는 대기시간이 지난 뒤 부스터 콜을 사용해 소환한 \'라임 이베노르\'에게서 다시 받을 수 있습니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[18059] = {Title = "그림자의 호출", IconName = "ico_jq.bmp", 
+Description = {"어쌔신길드 베인스 지부에서 만난 루민은 길드에서 선별한 실력자가 필요한 일이 있다며 베인스 동쪽의 안가에서 베르카셀을 만나라고 한다. 최소한의 실력 검증을 위해 \'베인스 동쪽 어귀의 안가\'까지는 알아서 찾아갈 것."}
+, Summary = "베르카셀과 대화"}
+, 
+[18060] = {Title = "쉐도우크로스를 위해-1", IconName = "ico_jq.bmp", 
+Description = {"베르카셀은 베인스 남부 해안가의 <NAVI>[나루터 근처]<INFO>ve_fild07,99,141,0,101,0</INFO></NAVI>에서 그림자 현상을 조사하라고 했다. 쉐도우크로스가 되기 위한 실마리가 될 것이다."}
+, Summary = "그림자 조사"}
+, 
+[18061] = {Title = "쉐도우크로스를 위해-2", IconName = "ico_jq.bmp", 
+Description = {"베인스에서 \'토리\'를 찾아 그림자 현상에 대한 정보를 얻자. 토리가 보이지 않으면 <NAVI>[근처]<INFO>veins,87,158,0,101,0</INFO></NAVI>에서 토리의 이름을 크게 불러보라는데…"}
+, Summary = "토리와 대화"}
+, 
+[18062] = {Title = "쉐도우크로스를 위해-3", IconName = "ico_jq.bmp", 
+Description = {"다시 해안가 <NAVI>[나루터 근처]<INFO>ve_fild07,99,141,0,101,0</INFO></NAVI>의 상자를 살펴보자. 이번엔 \'까망이\'라는 존재가 응답을 해 줄 지도 모른다."}
+, Summary = "까망이와 대화"}
+, 
+[18063] = {Title = "쉐도우크로스를 위해-4", IconName = "ico_jq.bmp", 
+Description = {"정보를 확인했다. 안가로 돌아가 <NAVI>[베르카셀]<INFO>ve_in,212,384,0,101,0</INFO></NAVI>에게 보고하자."}
+, Summary = "베르카셀과 대화"}
+, 
+[18064] = {Title = "쉐도우크로스를 위해-5", IconName = "ico_jq.bmp", 
+Description = {"어둠의 정령을 다시 불러내기 위해 필요한 아이템 <ITEM>어둠의 결정체<INFO>7799</INFO></ITEM> 5개, <ITEM>어둠의 조각<INFO>6089</INFO></ITEM> 20개를 모은 뒤, 베르카셀이 <NAVI>[지정한 위치]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>로 가서 보고하자. 어둠의 결정체는 모로크의 현신, 어둠의 조각은 루두스지역에서 구할 수 있다."}
+, Summary = "베르카셀과 대화"}
+, 
+[18065] = {Title = "쉐도우크로스를 위해-6", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[베르카셀]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>과 함께 \'그림자에 잠긴 저택\'으로 이동해서 모아온 어둠의 결정체와 어둠의 조각을 이용해 어둠의 정령을 불러내자."}
+, Summary = "어둠의 정령 소환"}
+, 
+[18066] = {Title = "쉐도우크로스를 위해-7", IconName = "ico_jq.bmp", 
+Description = {"어둠의 정령이 제시한 시험을 통과하자. 실패했다면 베인스 필드의 <NAVI>[베르카셀]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>을 통해 \'그림자에 잠긴 저택\'으로 다시 진입할 수 있다."}
+, Summary = ""}
+, 
+[18067] = {Title = "쉐도우크로스를 위해-8", IconName = "ico_jq.bmp", 
+Description = {"쉐도우크로스가 될 준비를 하고 어둠의 정령에게 다시 말을 걸자."}
+, Summary = "어둠의 정령과 대화"}
+, 
+[18070] = {Title = "어비스체이서를 위해-1", IconName = "ico_jq.bmp", 
+Description = {"라헬 남서쪽 시장 골목에서 놀고 있을<NAVI>[줄리]<INFO>rachel,54,48,0,101,0</INFO></NAVI>에게 어둠의 정령 정보를 물어보자."}
+, Summary = "줄리와 대화"}
+, 
+[18071] = {Title = "어비스체이서를 위해-2", IconName = "ico_jq.bmp", 
+Description = {"줄리는 라헬 남쪽 <NAVI>[버려진 초소]<INFO>ve_fild02,53,189,0,101,0</INFO></NAVI>로 가버린 오빠들에게 경고를 해달라고 한다."}
+, Summary = "뮬리와 대화"}
+, 
+[18072] = {Title = "어비스체이서를 위해-3", IconName = "ico_jq.bmp", 
+Description = {"뮬리와 피터를 보낸 후, 꼬마들이 몰래 나눴던 대화속에 등장한 어둠의 정령을 찾아보기로 했다."}
+, Summary = "옅은 그림자 조사"}
+, 
+[18073] = {Title = "어비스체이서를 위해-4", IconName = "ico_jq.bmp", 
+Description = {"라헬의 <NAVI>[그림자 공방]<INFO>rachel,180,117,0,101,0</INFO></NAVI>으로 돌아가 비센테에게 보고하자."}
+, Summary = "비센테와 대화"}
+, 
+[18074] = {Title = "어비스체이서를 위해-5", IconName = "ico_jq.bmp", 
+Description = {"어둠의 정령을 다시 불러내기 위해 필요한 아이템 <ITEM>어둠의 결정체<INFO>7799</INFO></ITEM> 5개, <ITEM>어둠의 조각<INFO>6089</INFO></ITEM> 20개를 모은 뒤, 라헬의 <NAVI>[그림자 공방]<INFO>rachel,180,117,0,101,0</INFO></NAVI>으로 돌아가 비센테에게 보고하자. 어둠의 결정체는 모로크의 현신, 어둠의 조각은 루두스지역에서 구할 수 있다."}
+, Summary = "아이템 수집 후 비센테와 대화"}
+, 
+[18075] = {Title = "어비스체이서를 위해-6", IconName = "ico_jq.bmp", 
+Description = {"비센테가 알려준 지정위치로 가서 <NAVI>[둠크]<INFO>ve_fild05,313,110,0,101,0</INFO></NAVI>와 만나자. 정령을 소환하기 위해 필요한 \'어둠의 결정체\'와 \'어둠의 조각\'을 반드시 챙겨가야 한다."}
+, Summary = "둠크와 대화"}
+, 
+[18076] = {Title = "어비스체이서를 위해-7", IconName = "ico_jq.bmp", 
+Description = {"어둠의 정령이 제시한 시험을 통과하자. 실패했다면 베인스 필드의 <NAVI>[둠크]<INFO>ve_fild05,313,110,0,101,0</INFO></NAVI>를 통해 \'심연에 잠긴 저택\'으로 다시 진입할 수 있다."}
+, Summary = ""}
+, 
+[18077] = {Title = "어비스체이서를 위해-8", IconName = "ico_jq.bmp", 
+Description = {"어비스체이서가 될 준비를 하고 어둠의 정령에게 다시 말을 걸자."}
+, Summary = "어둠의 정령과 대화"}
 , 
 [18078] = {Title = "라티의 선물", IconName = "ico_ev.bmp", 
 Description = {" 세상 곳곳에서 발견되는 ^4d4dff1급수^000000를 처리해달라는 의뢰를 받았다. 완료 후 보고는 프론테라 남쪽 필드의 <NAVI>[라티]<INFO>prt_fild08,163,368,0,101,0</INFO></NAVI>에게 하자."}

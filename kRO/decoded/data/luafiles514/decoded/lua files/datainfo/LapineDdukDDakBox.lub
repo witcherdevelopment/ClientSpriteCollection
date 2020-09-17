@@ -3602,6 +3602,16 @@ SourceItems = {
 {"WanderMinsStone_Middle2", 1, 1000306}
 , 
 {"WanderMinsStone_Bottom2", 1, 1000307}
+, 
+{"Range_Stone_Top", 1, 1000375}
+, 
+{"Range_Stone_Bottom", 1, 1000376}
+, 
+{"Melee_Stone_Top", 1, 1000377}
+, 
+{"Melee_Stone_Middle", 1, 1000378}
+, 
+{"Melee_Stone_Bottom", 1, 1000379}
 }
 , NeedSource_String = "의상인챈트스톤"}
 , 
@@ -4726,6 +4736,30 @@ SourceItems = {
 {"C_Stall_Of_Dominions", 1, 31566}
 , 
 {"C_Flowery_Vision_TH", 1, 31497}
+, 
+{"C_Frill_Collar", 1, 31916}
+, 
+{"C_Rose_Gothic_Bonnet", 1, 31848}
+, 
+{"C_LittleGarden", 1, 31911}
+, 
+{"C_Blinking_Eyes_RD", 1, 31716}
+, 
+{"C_P_Ulysses_Feather", 1, 20603}
+, 
+{"C_DancingButterfly_TW", 1, 31618}
+, 
+{"C_Blue_Pencil_In_Mouth", 1, 31927}
+, 
+{"C_Nut_Donut_In_Mouth", 1, 31936}
+, 
+{"C_Leaf_Umbrella", 1, 20605}
+, 
+{"C크라통왕관_태국", 1, 31143}
+, 
+{"C_Unicorn_Ornament", 1, 31937}
+, 
+{"C_Frog_Hood", 1, 31943}
 }
 , NeedSource_String = "냥다래 의상"}
 }
