@@ -14,6 +14,36 @@ resource = {
 reward = {item = 668}
 , score = 10}
 , 
+[200033] = {UI_Type = 0, group = "GOAL_LEVEL", major = 1, minor = 0, title = "With new attitudes!(1)", 
+content = {summary = "Base Lv170 as 3-1st Job!", details = "Reach Base Lv170 as 3-1st Job."}
+, 
+resource = {
+[1] = {text = "Base Level 170"}
+}
+, 
+reward = {item = 6959}
+, score = 50}
+, 
+[200034] = {UI_Type = 0, group = "GOAL_LEVEL", major = 1, minor = 0, title = "With new attitudes!(2)", 
+content = {summary = "Base Lv170 as 3-2nd Job!", details = "Reach Base Lv170 as 3-2nd Job."}
+, 
+resource = {
+[1] = {text = "Base Level 170"}
+}
+, 
+reward = {item = 6959}
+, score = 50}
+, 
+[999968] = {UI_Type = 1, group = "BATTLE", major = 3, minor = 1, title = "Glast Heim Ghoul Hunt", 
+content = {summary = "Hunt all targets", details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."}
+, 
+resource = {
+[1] = {text = "Hunt Ghoul 20,000 times", count = 20000}
+}
+, 
+reward = {item = 4110}
+, score = 10}
+, 
 [120002] = {UI_Type = 0, group = "ADVENTURE", major = 2, minor = 0, title = "Prontera Northern Field Exploration (2)", 
 content = {summary = "Discover Hidden Treasure", details = "Discover treasure in the fields north of Prontera"}
 , 
@@ -3478,6 +3508,16 @@ resource = {
 }
 , 
 reward = {title = 9983}
+, score = 5}
+, 
+[999967] = {UI_Type = 0, group = "ADVENTURE", major = 4, minor = 1, title = "RO\'s Most Talented 2019", 
+content = {summary = "RO\'s Most Talented  2019", details = "Winner of the Ragnarok\'s Got Talent Contest."}
+, 
+resource = {
+[1] = {text = "Winner of the Ragnarok\'s Got Talent Contest."}
+}
+, 
+reward = {title = 9982}
 , score = 5}
 }
 main = function()

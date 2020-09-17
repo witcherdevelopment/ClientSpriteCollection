@@ -3221,6 +3221,16 @@ resource = {
 , 
 reward = {title = 1024, buff = 12, item = 644}
 , score = 10}
+, 
+[129021] = {UI_Type = 1, group = "BATTLE", major = 5, minor = 0, title = "克雷斯特漢姆挑戰模式", 
+content = {summary = "克雷斯特漢姆挑戰模式攻略完畢", details = "記憶迷宮進行到底"}
+, 
+resource = {
+[1] = {text = "挑戰成功次數", count = 100}
+}
+, 
+reward = {title = 1045}
+, score = 10}
 }
 main = function()
   -- function num : 0_0

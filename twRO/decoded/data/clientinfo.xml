@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<desc>Taiwan SelfService Server</desc>
+	<servicetype>taiwan</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+	
+	<connection>
+		<display>Taiwan Main</display>
+		<desc>None</desc>
+		<address>219.84.200.54</address>
+		<port>6900</port>
+		<version>1</version>
+		<langtype>4</langtype>
+		<registrationweb>https://member.gnjoy.com.tw/signin.aspx</registrationweb>
+		<aid>
+			<admin>23769057</admin><admin>23769058</admin><admin>23769059</admin><admin>23769060</admin><admin>23769061</admin><admin>24414416</admin><admin>24414417</admin><admin>24414418</admin>
+		</aid>
+	</connection>
+</clientinfo>
+

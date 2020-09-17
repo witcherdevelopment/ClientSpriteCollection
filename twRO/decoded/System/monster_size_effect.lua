@@ -4042,6 +4042,20 @@ tbl = {
 , 
 [2209] = {MonsterSize = 1.5, MonsterEff = EFFECT.EF_PURPLEBODY}
 , 
+[1608] = {MonsterSize = 0.5, MonsterEff = EFFECT.EF_NONE}
+, 
+[3787] = {MonsterSize = 1.2, MonsterEff = EFFECT.EF_NONE}
+, 
+[3788] = {MonsterSize = 1.2, MonsterEff = EFFECT.EF_NONE}
+, 
+[3741] = {MonsterSize = 1.6, MonsterEff = EFFECT.EF_NONE}
+, 
+[3747] = {MonsterSize = 1.3, MonsterEff = EFFECT.EF_NONE}
+, 
+[3748] = {MonsterSize = 1.3, MonsterEff = EFFECT.EF_NONE}
+, 
+[3749] = {MonsterSize = 1.3, MonsterEff = EFFECT.EF_NONE}
+, 
 [3751] = {MonsterSize = 1.2, MonsterEff = EFFECT.EF_NONE}
 , 
 [3809] = {MonsterSize = 0.5, MonsterEff = EFFECT.EF_NONE}
@@ -4050,29 +4064,21 @@ tbl = {
 , 
 [3812] = {MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE}
 , 
-[3799] = {MonsterSize = 0.67, MonsterEff = EFFECT.EF_NONE}
+[3905] = {MonsterSize = 1.8, MonsterEff = EFFECT.EF_NONE}
 , 
-[3800] = {MonsterSize = 0.67, MonsterEff = EFFECT.EF_NONE}
+[3906] = {MonsterSize = 1, MonsterEff = EFFECT.EF_BLUELIGHTBODY}
 , 
-[3801] = {MonsterSize = 0.67, MonsterEff = EFFECT.EF_NONE}
+[3907] = {MonsterSize = 1, MonsterEff = EFFECT.EF_BLUELIGHTBODY}
 , 
-[3802] = {MonsterSize = 0.67, MonsterEff = EFFECT.EF_NONE}
+[3908] = {MonsterSize = 1, MonsterEff = EFFECT.EF_BLUELIGHTBODY}
 , 
-[3803] = {MonsterSize = 0.67, MonsterEff = EFFECT.EF_NONE}
+[3909] = {MonsterSize = 1, MonsterEff = EFFECT.EF_BLUELIGHTBODY}
 , 
-[3804] = {MonsterSize = 2, MonsterEff = EFFECT.EF_NONE}
+[20919] = {MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE}
 , 
-[3818] = {MonsterSize = 1.5, MonsterEff = EFFECT.EF_NONE}
-, 
-[3445] = {MonsterSize = 1.2, MonsterEff = EFFECT.EF_BLUELIGHTBODY}
-, 
-[3446] = {MonsterSize = 1.2, MonsterEff = EFFECT.EF_BLUELIGHTBODY}
-, 
-[3447] = {MonsterSize = 1.2, MonsterEff = EFFECT.EF_BLUELIGHTBODY}
-, 
-[3448] = {MonsterSize = 1.5, MonsterEff = EFFECT.EF_REDLIGHTBODY}
-, 
-[3490] = {MonsterSize = 1.5, MonsterEff = EFFECT.EF_REDLIGHTBODY}
+[20573] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT}
+}
 }
 main = function()
   -- function num : 0_0

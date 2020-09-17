@@ -13,7 +13,7 @@ TargetItems = {
 , 
 {"Lava_Leather_Robe", 15380}
 }
-, NeedSource_String = "熔岩皮?裝甲套件"}
+, NeedSource_String = "熔岩獸皮裝甲套件"}
 , 
 RTC_Tolerance_Box = {ItemID = 23757, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -25,7 +25,7 @@ TargetItems = {
 , 
 {"2018_RTC_Cape4_TW", 20926}
 }
-, NeedSource_String = "?雄武器"}
+, NeedSource_String = "2018RTC紀念斗篷"}
 , 
 RTC_ATK_Box = {ItemID = 23758, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -37,7 +37,7 @@ TargetItems = {
 , 
 {"2018_RTC_Cape4_TW", 20926}
 }
-, NeedSource_String = "?雄武器"}
+, NeedSource_String = "2018RTC紀念斗篷"}
 , 
 RTC_DEF_Box = {ItemID = 23759, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -49,7 +49,7 @@ TargetItems = {
 , 
 {"2018_RTC_Cape4_TW", 20926}
 }
-, NeedSource_String = "?雄武器"}
+, NeedSource_String = "2018RTC紀念斗篷"}
 , 
 RTC_Element_Box = {ItemID = 23760, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -61,7 +61,7 @@ TargetItems = {
 , 
 {"2018_RTC_Cape4_TW", 20926}
 }
-, NeedSource_String = "?雄武器"}
+, NeedSource_String = "2018RTC紀念斗篷"}
 , 
 Ancient_Hero_Bravery = {ItemID = 100023, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -132,6 +132,8 @@ TargetItems = {
 {"Scalet_Dragon_L_Bow", 700003}
 , 
 {"Fatalist", 510006}
+, 
+{"Freezing_Rod", 550007}
 }
 , NeedSource_String = "英雄武器"}
 , 
@@ -204,6 +206,8 @@ TargetItems = {
 {"Scalet_Dragon_L_Bow", 700003}
 , 
 {"Fatalist", 510006}
+, 
+{"Freezing_Rod", 550007}
 }
 , NeedSource_String = "英雄武器"}
 , 
@@ -223,7 +227,7 @@ TargetItems = {
 , 
 {"Giant_Blade", 21011}
 }
-, NeedSource_String = "查理斯頓升?版零件(近距離)"}
+, NeedSource_String = "查理斯頓升級版零件(近距離)"}
 , 
 Charleston_Parts_R = {ItemID = 23707, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -241,19 +245,19 @@ TargetItems = {
 , 
 {"Giant_Blade", 21011}
 }
-, NeedSource_String = "查理斯頓升?版零件(遠距離)"}
+, NeedSource_String = "查理斯頓升級版零件(遠距離)"}
 , 
 Cursed_Blood = {ItemID = 23546, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bloody_Knight_Shield_", 28945}
 }
-, NeedSource_String = "??騎士盾牌"}
+, NeedSource_String = "血腥騎士盾牌"}
 , 
 Gold_Statue = {ItemID = 23547, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bloody_Knight_Shield__", 28946}
 }
-, NeedSource_String = "?聖騎士盾牌"}
+, NeedSource_String = "神聖騎士盾牌"}
 , 
 Shadow_Att_Ddbox_TW = {ItemID = 23801, NeedRefineMin = 6, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -291,7 +295,7 @@ TargetItems = {
 , 
 {"S_MagicCompose_Armor", 24334}
 }
-, NeedSource_String = "+6 ?定影子裝備"}
+, NeedSource_String = "+6 限定影子裝備"}
 , 
 Shadow_Att_Ddbox2_TW = {ItemID = 23802, NeedRefineMin = 7, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -451,13 +455,13 @@ TargetItems = {
 , 
 {"S_Champion_Shoes", 24025}
 }
-, NeedSource_String = "+7 ?定影子裝備"}
+, NeedSource_String = "+7 限定影子裝備"}
 , 
 Cri_Att_Ddbox_TW = {ItemID = 23917, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_CriticalHit_Armor", 15280}
 }
-, NeedSource_String = "影子潛??甲II"}
+, NeedSource_String = "影子潛能鎧甲II"}
 , 
 Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
@@ -1639,37 +1643,37 @@ H_Anto_RangeBox_TW = {ItemID = 9500, NeedRefineMin = 12, NeedOptionNumMin = 0, N
 TargetItems = {
 {"Bag_Of_Antonio_Range", 20843}
 }
-, NeedSource_String = "?果袋背?(遠距離)"}
+, NeedSource_String = "糖果袋背包(遠距離)"}
 , 
 Anto_RangeBox_TW = {ItemID = 9503, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Range", 20843}
 }
-, NeedSource_String = "?果袋背?(遠距離)"}
+, NeedSource_String = "糖果袋背包(遠距離)"}
 , 
 H_Anto_MeleeBox_TW = {ItemID = 9501, NeedRefineMin = 12, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Melee", 20842}
 }
-, NeedSource_String = "?果袋背?(物理)"}
+, NeedSource_String = "糖果袋背包(物理)"}
 , 
 Anto_MeleeBox_TW = {ItemID = 9504, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Melee", 20842}
 }
-, NeedSource_String = "?果袋背?(物理)"}
+, NeedSource_String = "糖果袋背包(物理)"}
 , 
 H_Anto_MagicBox_TW = {ItemID = 9502, NeedRefineMin = 12, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Magic", 20844}
 }
-, NeedSource_String = "?果袋背?(?法)"}
+, NeedSource_String = "糖果袋背包(魔法"}
 , 
 Anto_MagicBox_TW = {ItemID = 9505, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Magic", 20844}
 }
-, NeedSource_String = "?果袋背?(?法)"}
+, NeedSource_String = "糖果袋背包(魔法)"}
 , 
 BF_Att_Box_TW = {ItemID = 9538, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -1691,7 +1695,7 @@ TargetItems = {
 , 
 {"Overwhelm_Luk_Armor", 15346}
 }
-, NeedSource_String = "???甲6種"}
+, NeedSource_String = "時光鎧甲6種"}
 , 
 Time_Unseal_Key = {ItemID = 9551, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -1707,7 +1711,7 @@ TargetItems = {
 , 
 {"Temporal_M_Luk", 20968}
 }
-, NeedSource_String = "??斗篷6種"}
+, NeedSource_String = "時光斗篷6種"}
 , 
 ClassShadow_ATTR_N = {ItemID = 100228, NeedRefineMin = 5, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -1891,7 +1895,7 @@ TargetItems = {
 , 
 {"S_Oboro_Shoes", 24407}
 }
-, NeedSource_String = "精煉+5以上影子職?"}
+, NeedSource_String = "精煉+5以上影子職業"}
 , 
 ClassShadow_ATTR_S = {ItemID = 100229, NeedRefineMin = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -2075,7 +2079,7 @@ TargetItems = {
 , 
 {"S_Oboro_Shoes", 24407}
 }
-, NeedSource_String = "精煉+9以上影子職?"}
+, NeedSource_String = "精煉+9以上影子職業"}
 , 
 Gray_Charcoal_Range = {ItemID = 23678, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -2117,7 +2121,7 @@ TargetItems = {
 , 
 {"Thanos_Whip", 1988}
 }
-, NeedSource_String = "塔諾斯?法武器"}
+, NeedSource_String = "塔諾斯魔法武器"}
 , 
 Gray_Charcoal_Melee = {ItemID = 23676, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -2151,7 +2155,7 @@ TargetItems = {
 , 
 {"Ring_Of_Spell_Explosion", 2964}
 }
-, NeedSource_String = "吉芬?法大賽飾?"}
+, NeedSource_String = "吉芬魔法大賽飾品"}
 , 
 Geffen_Magic_Scroll = {ItemID = 23675, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
@@ -2159,7 +2163,7 @@ TargetItems = {
 , 
 {"Anti_Magic_Suit", 15073}
 }
-, NeedSource_String = "吉芬?法大賽?甲"}
+, NeedSource_String = "吉芬魔法大賽鎧甲"}
 , 
 Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
@@ -4136,17 +4140,103 @@ TargetItems = {
 {"ElectricFox_OS", 26164}
 }
 , NeedSource_String = "OS武器"}
+, 
+Shadow2_Op_Box_TW = {ItemID = 100549, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_CriticalHit_Armor", 15280}
+, 
+{"S_MagicCompose_Armor", 24334}
+, 
+{"S2_Gemstone_Weapon", 24335}
+, 
+{"S2_Gemstone_Shield", 24336}
+, 
+{"S2_Bearers_Armor", 24337}
+, 
+{"S2_Bearers_Shoes", 24338}
+, 
+{"S_AllMighty_Earring", 24339}
+, 
+{"S_AllMighty_Pendant", 24340}
+, 
+{"S_AllRace_Shoes", 24341}
+, 
+{"S_AllRace_Shield", 24342}
+, 
+{"S2_Plasterer\'s_Armor", 24352}
+, 
+{"S2_Insomniac_Shoes", 24353}
+, 
+{"S2_Peerless_Armor", 24354}
+, 
+{"S2_Adurate_Shoes", 24355}
+, 
+{"Unfreez_Weapon_S2", 24356}
+, 
+{"Vitality_Earing_S2", 24357}
+, 
+{"S2_Neutral_Weapon", 24358}
+, 
+{"S2_Curse_Lift_Pendent", 24359}
+, 
+{"S_Infinity_Weapon", 24386}
+, 
+{"S_Physical_Shoes", 24393}
+, 
+{"S_Physical_Shield", 24394}
+, 
+{"S_Physical_Armor", 24395}
+, 
+{"S_Magical_Shoes", 24396}
+, 
+{"S_Magical_Shield", 24397}
+, 
+{"S_Magical_Armor", 24398}
+, 
+{"S_ImmunedAthena_Shield", 24399}
+, 
+{"S_HardChamption_Shoes", 24400}
+, 
+{"S_KingbirdAncient_Armor", 24401}
+, 
+{"S_Hasty_Weapon", 24439}
+, 
+{"S_Exe_Ho_Weapon", 24434}
+, 
+{"S_Fis_In_Weapon", 24435}
+, 
+{"S_Sci_Hu_Weapon", 24436}
+, 
+{"S_Viv_Dr_Weapon", 24437}
+, 
+{"S_Exo_Co_Weapon", 24438}
+, 
+{"S_PerfectSize_Weapon", 24425}
+, 
+{"S_PerfectSize_Armor", 24426}
+, 
+{"S_M_Exo_Co_Weapon", 24427}
+, 
+{"S_M_Viv_Dr_Weapon", 24428}
+, 
+{"S_M_Sci_Hu_Weapon", 24429}
+, 
+{"S_M_Fis_In_Weapon", 24430}
+, 
+{"S_M_Exe_Ho_Weapon", 24431}
+}
+, NeedSource_String = "+6 以上 影子II"}
 }
 , serverMain = function()
   -- function num : 0_0
-  for ScrollItemID,info in pairs(tblLapineUpgradeBox, targets) do
-    result = registerLapineUpgradeBoxTargetInfo(info, TargetItems, info, NotSocketEnchantItem, info, NeedOptionNumMin, info, NeedRefineMin, ScrollItemID)
+  for ScrollItemID,info in pairs(tblLapineUpgradeBox.targets) do
+    result = registerLapineUpgradeBoxTargetInfo(info.TargetItems, info.NotSocketEnchantItem, info.NeedOptionNumMin, info.NeedRefineMin, ScrollItemID)
     if not result then
       return false, msg
     end
   end
-  for ScrollItemID,info in pairs(tblLapineUpgradeBox, results) do
-    result = registerLapineUpgradeBoxResultInfo(info, FailureItems, info, RefineProbability, info, RandomOptionCode, info, SuccessRate, ScrollItemID)
+  for ScrollItemID,info in pairs(tblLapineUpgradeBox.results) do
+    result = registerLapineUpgradeBoxResultInfo(info.FailureItems, info.RefineProbability, info.RandomOptionCode, info.SuccessRate, ScrollItemID)
     if not result then
       return false, msg
     end

@@ -427,6 +427,58 @@ Direction = {}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Mike_Stand] = {Default = 304, isIgnoreRiding = true}
 , 
+[ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_BU] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_BDK] = {Default = 152, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_SVK] = {Default = 152, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = {Default = 143, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Desert_Wolf_B] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, 

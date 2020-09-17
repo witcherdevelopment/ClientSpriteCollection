@@ -2610,7 +2610,7 @@ Description = {"該活動於冷卻時間結束後，可向普隆德拉的  <NAVI>[秀克拉]<INFO>pron
 , Summary = "凌晨4點重置"}
 , 
 [3335] = {Title = "有難度的櫻花帽製作", 
-Description = {"<NAVI>[阿爾勒]<INFO>prontera,167,291,0,101,0</INFO></NAVI>要求帶來製作服飾所需的材料，去收集典雅櫻花樹枝10個和黃色藥草5個給他吧!"}
+Description = {"<NAVI>[阿樂日]<INFO>prontera,167,291,0,101,0</INFO></NAVI>要求帶來製作服飾所需的材料，去收集典雅櫻花樹枝10個和黃色藥草5個給他吧!"}
 , Summary = "收集材料給阿樂日"}
 , 
 [4000] = {Title = "雪霖的面試", 
@@ -22061,13 +22061,13 @@ Description = {"急需火雞飼料，收集<ITEM>[蝗蟲後腿]<INFO>940</INFO></ITEM> 30個、
 Description = {"還需要火雞飼料，再收集<ITEM>[蝗蟲後腿]<INFO>940</INFO></ITEM> 30個、<ITEM>[綠色藥草]<INFO>511</INFO></ITEM> 20個、<ITEM>[豐年祭紀念餅乾]<INFO>11613</INFO></ITEM> 20個後交給魯伊斯吧!"}
 , Summary = "收集收集火雞飼料"}
 , 
-[3380] = {Title = "火雞的飼料 - 重複", 
-Description = {"還需要火雞飼料，再收集<ITEM>[蝗蟲後腿]<INFO>940</INFO></ITEM> 30個、<ITEM>[綠色藥草]<INFO>511</INFO></ITEM> 20個、<ITEM>[豐年祭紀念餅乾]<INFO>11613</INFO></ITEM> 20個後交給魯伊斯吧!"}
-, Summary = "收集火雞飼料"}
+[3380] = {Title = "火雞的飼料 - 等候", 
+Description = {"目前火雞的飼料已足夠，明天凌晨過後再來吧!"}
+, Summary = "凌晨四點重置"}
 , 
-[3381] = {Title = "火雞的飼料 - 重複", 
-Description = {"還需要火雞飼料，再收集<ITEM>[蝗蟲後腿]<INFO>940</INFO></ITEM> 30個、<ITEM>[綠色藥草]<INFO>511</INFO></ITEM> 20個、<ITEM>[豐年祭紀念餅乾]<INFO>11613</INFO></ITEM> 20個後交給魯伊斯吧!"}
-, Summary = "收集火雞飼料"}
+[3381] = {Title = "金師傅的意圖", 
+Description = {"<NAVI>[金師傅]<INFO>alberta,119,198,0,101,0</INFO></NAVI>似乎也需要幫忙，去問問他吧!"}
+, Summary = "與金師傅對話"}
 , 
 [3382] = {Title = "前往崑崙的理由", 
 Description = {"金師傅為了見自己的女兒凱真，希望幫忙收集<ITEM>[一票通船票]<INFO>25392</INFO></ITEM> 2張給他。"}
@@ -24150,5 +24150,77 @@ Description = {"收集20個鞭炮"}
 [294025] = {Title = "讓我們一起繼續守候", 
 Description = {"收集30個小蛋糕"}
 , Summary = ""}
+, 
+[3336] = {Title = "黃金蜜玉米", IconName = "ico_ev.bmp", 
+Description = {"為了讓黃金蜜玉米成熟，到野外和洞穴擊殺火熱炙燄魔和火熱爆炎蝙蝠各3隻後，再去找<NAVI>[爆米花博士]<INFO>comodo,159,196,0,101,0</INFO></NAVI>。"}
+, Summary = ""}
+, 
+[3337] = {Title = "黃金蜜玉米", IconName = "ico_ev.bmp", 
+Description = {"到野外和洞穴擊殺火熱炙燄魔和火熱爆炎蝙蝠各3隻後，再去找<NAVI>[爆米花博士]<INFO>comodo,159,196,0,101,0</INFO></NAVI>。"}
+, Summary = ""}
+, 
+[3338] = {Title = "黃金蜜玉米-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向克魔島的<NAVI>[爆米花博士]<INFO>comodo,159,196,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[3339] = {Title = "登錄爆米花嘉年華", IconName = "ico_ev.bmp", 
+Description = {"拿給<NAVI>[凱勒琳]<INFO>comodo,262,126,0,101,0</INFO></NAVI> ^4d4dff炙熱彈珠30個^000000後，就能登錄爆米花嘉年華。"}
+, Summary = "轉交炙熱彈珠30個"}
+, 
+[3340] = {Title = "火山島克魯德", IconName = "ico_ev.bmp", 
+Description = {"依克魯德小幫手<NAVI>[帕奇哈]<INFO>comodo,264,123,0,101,0</INFO></NAVI>的指示，去教訓一頓在克魯德不安分守己的火屬性怪吧!"}
+, Summary = "探索克魯德"}
+, 
+[3341] = {Title = "火山島克魯德", IconName = "ico_ev.bmp", 
+Description = {"依克魯德小幫手<NAVI>[帕奇哈]<INFO>comodo,264,123,0,101,0</INFO></NAVI>的指示，去教訓一頓在克魯德不安分守己的火屬性怪吧!"}
+, Summary = "探索克魯德"}
+, 
+[3342] = {Title = "火山島克魯德-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向克魔島的<NAVI>[帕奇哈]<INFO>comodo,264,123,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[3343] = {Title = "養身藥草", IconName = "ico_ev.bmp", 
+Description = {"接受了<NAVI>[葉爾巴]<INFO>comodo,225,187,0,101,0</INFO></NAVI>的委託，去野外和洞穴砍掉神奇藥草3個後回去找葉爾巴吧!"}
+, Summary = ""}
+, 
+[3344] = {Title = "養身藥草", IconName = "ico_ev.bmp", 
+Description = {"去野外和洞穴打掉神奇藥草3個後回去找<NAVI>[葉爾巴]<INFO>comodo,225,187,0,101,0</INFO></NAVI>吧!"}
+, Summary = ""}
+, 
+[3345] = {Title = "養身藥草-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向克魔島的<NAVI>[葉爾巴]<INFO>comodo,225,187,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[3346] = {Title = "美味爆米花", IconName = "ico_ev.bmp", 
+Description = {"爆米花達人的爆米花是米德加爾特中最棒的!"}
+, Summary = ""}
+, 
+[3347] = {Title = "旺盛的營火", IconName = "ico_ev.bmp", 
+Description = {"在<NAVI>[旺盛的營火]<INFO>comodo,289,176,0,101,0</INFO></NAVI>上燒藥草薰煙後，90分鐘內攻擊力變強了!90分鐘過後可再燒藥草5個來薰煙。"}
+, Summary = "90分鐘後重置"}
+, 
+[3348] = {Title = "智慧的營火", IconName = "ico_ev.bmp", 
+Description = {"在<NAVI>[智慧的營火]<INFO>comodo,294,176,0,101,0</INFO></NAVI>上燒藥草薰煙後，90分鐘內魔法攻擊力變強了!90分鐘過後可再燒藥草5個來薰煙。"}
+, Summary = "90分鐘後重置"}
+, 
+[3349] = {Title = "犀利的營火", IconName = "ico_ev.bmp", 
+Description = {"在<NAVI>[犀利的營火]<INFO>comodo,299,176,0,101,0</INFO></NAVI>90分鐘內攻擊速度提升了!90分鐘過後可再燒藥草5個來薰煙。"}
+, Summary = "90分鐘後重置"}
+, 
+[3350] = {Title = "卡滋爆米花假髮帽", IconName = "ico_ev.bmp", 
+Description = {"拿給<NAVI>[凱勒琳]<INFO>comodo,262,126,0,101,0</INFO></NAVI> ^4d4dff炙熱彈珠50個^000000後，換成^4d4dff(服飾)卡滋爆米花假髮帽^000000吧!"}
+, Summary = "轉交炙熱彈珠50個"}
+, 
+[12493] = {Title = "挑戰的後遺症", 
+Description = {"這個後遺症會帶來嚴重的無力感，進去後三天之內無法再挑戰克雷斯特漢姆的挑戰模式。"}
+, Summary = "三天後的凌晨四點重置"}
+, 
+[12494] = {Title = "說明完畢", 
+Description = {"向奧斯卡聽取了有關扭曲時空的說明。"}
+, Summary = "不能重聽"}
+, 
+[12495] = {Title = "危險的挑戰", 
+Description = {"你是唯一能阻止污染的次元去影響這個世界的人。"}
+, Summary = "淨化污染的次元"}
 }
 

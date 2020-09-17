@@ -3304,6 +3304,9 @@ EFFECT.EF_TUNAPARTY = 1097
 -- DECOMPILER ERROR at PC4146: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_CROW_AURA = 1184
+-- DECOMPILER ERROR at PC4150: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_AMDARAIS_EFFECT = 1419
 tbl = {
 [2603] = {MonsterSize = 1.2, 
 MonsterEff = {EFFECT.EF_BOTTOM_DE}
@@ -5741,6 +5744,14 @@ MonsterEff = {EFFECT.EF_REFLECTBODY}
 , 
 [20394] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_REFLECTBODY}
+}
+, 
+[20573] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT}
+}
+, 
+[20580] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
 }
 }
 main = function()
