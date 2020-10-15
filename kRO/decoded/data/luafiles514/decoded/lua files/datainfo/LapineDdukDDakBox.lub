@@ -5,6 +5,70 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+FullPeneShadow_Mix = {ItemID = 100572, NeedCount = 10, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"페니트레이션슈즈S", 1, 24373}
+, 
+{"페니트레이션쉴드S", 1, 24374}
+, 
+{"액서홀리아머S", 1, 24375}
+, 
+{"엑소커럽트아머S", 1, 24376}
+, 
+{"드래곤바이브아머S", 1, 24377}
+, 
+{"시저스헌팅아머S", 1, 24378}
+, 
+{"피싱인섹트아머S", 1, 24379}
+, 
+{"페니트레이션이어링S", 1, 24166}
+, 
+{"페니트레이션펜던트S", 1, 24167}
+, 
+{"액서큐서너웨폰S", 1, 24156}
+, 
+{"엑소시스트웨폰S", 1, 24157}
+, 
+{"헌팅웨폰S", 1, 24158}
+, 
+{"인섹트넷웨폰S", 1, 24159}
+, 
+{"피싱웨폰S", 1, 24160}
+, 
+{"드래곤킬러웨폰S", 1, 24161}
+, 
+{"커럽트웨폰S", 1, 24162}
+, 
+{"바이브레이션웨폰S", 1, 24163}
+, 
+{"홀리워터웨폰S", 1, 24164}
+, 
+{"시저스웨폰S", 1, 24165}
+, 
+{"포스액서듀얼웨폰S2", 1, 24328}
+, 
+{"S_Penetration_Weapon", 1, 24432}
+, 
+{"S_Penetration_Armor", 1, 24433}
+, 
+{"S_Exe_Ho_Weapon", 1, 24434}
+, 
+{"S_Fis_In_Weapon", 1, 24435}
+, 
+{"S_Sci_Hu_Weapon", 1, 24436}
+, 
+{"S_Viv_Dr_Weapon", 1, 24437}
+, 
+{"S_Exo_Co_Weapon", 1, 24438}
+}
+, NeedSource_String = "+7 페니쉐도우"}
+, 
+PendantStoneForWork = {ItemID = 100579, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Thanatos_Pendant", 1, 490099}
+}
+, NeedSource_String = "타나토스의 목걸이"}
+, 
 Egirnion_Box = {ItemID = 100468, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
 {"에기르헬름K", 1, 19026}
@@ -3148,6 +3212,14 @@ SourceItems = {
 {"S_Evilcurse_Pendant", 1, 24659}
 , 
 {"S_Evilcurse_Shoes", 1, 24660}
+, 
+{"S_FullPene_Shoes", 1, 24664}
+, 
+{"S_FullPene_Armor", 1, 24663}
+, 
+{"S_FullPene_Pendant", 1, 24662}
+, 
+{"S_FullPene_Earring", 1, 24661}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 

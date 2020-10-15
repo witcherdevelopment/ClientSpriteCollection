@@ -547,7 +547,7 @@ Page = {"어서오세요! 패션스톤입니다!!\n\t우리 <NAVI>[패션스톤]<INFO>malangdo,116
 [96] = {Title = "특성 스테이터스#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"특성 스테이터스는 200레벨 이후 상위직업으로 전직하면 추가되는 능력치 입니다.\n\t레벨이 오를 때마다 추가되는 특성 스테이터스 포인트를 능력에 투자하여 캐릭터를 더 강하게 만들 수 있습니다.\n\t(5레벨 단위마다 더 많은 특성 스테이터스 포인트를 획득할 수 있습니다.)\n\t스테이터스 창에서 특성 스테이터스를 누르면 능력치를 확인할 수 있습니다.\n\n\t채팅창에 아래 명령어를 입력하여 간편하게 포인트를 투자할 수 있습니다.\n\t/pow+ 수치\n\t/sta+ 수치\n\t/wis+ 수치\n\t/spl+ 수치\n\t/con+ 수치\n\t/crt+ 수치\n\n\t<TIPBOX>▶특성 스테이터스: POW(파워)<INFO>97</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: STA(스테미나)<INFO>98</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: WIS(위즈덤)<INFO>99</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: SPL(스펠)<INFO>100</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: CON(컨센트레이션)<INFO>101</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: CRT(크리에이티브)<INFO>102</INFO></TIPBOX>\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 스테이터스<INFO>89</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"특성 스테이터스는 200레벨 이후 상위직업으로 전직하면 추가되는 능력치 입니다.\n\t레벨이 오를 때마다 추가되는 특성 스테이터스 포인트를 능력에 투자하여 캐릭터를 더 강하게 만들 수 있습니다.\n\t상위 직업군으로 전직 시, 기본 7포인트가 지급되고 이후 BaseLevel이 오를 때 마다 3포인트가 지급됩니다.(5레벨 단위마다 보너스 포인트 추가 지급)\n\t스테이터스 창에서 특성 스테이터스를 누르면 능력치를 확인할 수 있습니다.\n\n\t채팅창에 아래 명령어를 입력하여 간편하게 포인트를 투자할 수 있습니다.\n\t/pow+ 수치\n\t/sta+ 수치\n\t/wis+ 수치\n\t/spl+ 수치\n\t/con+ 수치\n\t/crt+ 수치\n\n\t<TIPBOX>▶특성 스테이터스: POW(파워)<INFO>97</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: STA(스테미나)<INFO>98</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: WIS(위즈덤)<INFO>99</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: SPL(스펠)<INFO>100</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: CON(컨센트레이션)<INFO>101</INFO></TIPBOX>\n\t<TIPBOX>▶특성 스테이터스: CRT(크리에이티브)<INFO>102</INFO></TIPBOX>\n\t<TIPBOX>▶특성 능력치<INFO>103</INFO></TIPBOX>\n\t<TIPBOX>▶캐릭터: 스테이터스<INFO>89</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [97] = {Title = "특성 스테이터스: POW(파워)#스텟,스탯", Search = 1, Image = "유저인터페이스\\tipbox\\tip00096", 
@@ -1123,13 +1123,13 @@ Page = {"<TIPBOX>Q 거북섬 둘러보기 (90)<INFO>8175</INFO></TIPBOX>\n\t\t<TIPBOX>Q
 [4125] = {Title = "퀘스트 레벨 100~109", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>Q 잎사귀를 드리운 소녀 (100)<INFO>8178</INFO></TIPBOX>\n\t\t<TIPBOX>Q 짜릿한 아름다움 (100)<INFO>8179</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이계의 왕 (100)<INFO>8180</INFO></TIPBOX>\n\t\t<TIPBOX>Q 가련한 광대 (100)<INFO>8204</INFO></TIPBOX>\n\t\t<TIPBOX>Q 작은 벌레 한 마리 (100)<INFO>8205</INFO></TIPBOX>\n\t\t<TIPBOX>Q 살아 있다면 천국으로 (100)<INFO>8206</INFO></TIPBOX>\n\t\t<TIPBOX>Q 의심하지 말지어다. (100)<INFO>8207</INFO></TIPBOX>\n\t\t<TIPBOX>Q 맛있, 아니 불쌍한 영혼 (100)<INFO>8208</INFO></TIPBOX>\n\t\t<TIPBOX>Q 나이트메어 테러 포획 (100)<INFO>8225</INFO></TIPBOX>\n\t\t<TIPBOX>Q 딜리터 포획 (100)<INFO>8226</INFO></TIPBOX>\n\t\t<TIPBOX>Q 굳어버린 용암 수집 (100)<INFO>8227</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 코볼트 편 (100)<INFO>8248</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 힐윈드 편 (100)<INFO>8249</INFO></TIPBOX>\n\t\t<TIPBOX>Q 개털도 쓰려면 없다 (100)<INFO>8250</INFO></TIPBOX>\n\t\t<TIPBOX>Q 잡초 전쟁 (100)<INFO>8251</INFO></TIPBOX>\n\t\t<TIPBOX>Q 화산의 돌연변이 (100)<INFO>8252</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 데저트 울프 편 (100)<INFO>8253</INFO></TIPBOX>\n\t\t<TIPBOX>Q 차가운 심장, 시원한 요리 (100)<INFO>8254</INFO></TIPBOX>\n\t\t<TIPBOX>Q 말이 통하지 않는 설인 (100)<INFO>8255</INFO></TIPBOX>\n\t\t<TIPBOX>Q 얼음 결정은 얼마나 단단한가? (100)<INFO>8256</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 100레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 13.3 엘 디카스테스<INFO>6028</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 14.1 비프로스트<INFO>6041</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 16.1 영웅을 위한 연회<INFO>8118</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 16.2 테라 글로리아<INFO>8143</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 100레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 문라이트<INFO>9086</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 잎사귀를 드리운 소녀 (100)<INFO>8178</INFO></TIPBOX>\n\t\t<TIPBOX>Q 짜릿한 아름다움 (100)<INFO>8179</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이계의 왕 (100)<INFO>8180</INFO></TIPBOX>\n\t\t<TIPBOX>Q 가련한 광대 (100)<INFO>8204</INFO></TIPBOX>\n\t\t<TIPBOX>Q 작은 벌레 한 마리 (100)<INFO>8205</INFO></TIPBOX>\n\t\t<TIPBOX>Q 살아 있다면 천국으로 (100)<INFO>8206</INFO></TIPBOX>\n\t\t<TIPBOX>Q 의심하지 말지어다. (100)<INFO>8207</INFO></TIPBOX>\n\t\t<TIPBOX>Q 맛있, 아니 불쌍한 영혼 (100)<INFO>8208</INFO></TIPBOX>\n\t\t<TIPBOX>Q 나이트메어 테러 포획 (100)<INFO>8225</INFO></TIPBOX>\n\t\t<TIPBOX>Q 딜리터 포획 (100)<INFO>8226</INFO></TIPBOX>\n\t\t<TIPBOX>Q 굳어버린 용암 수집 (100)<INFO>8227</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 코볼트 편 (100)<INFO>8248</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 힐윈드 편 (100)<INFO>8249</INFO></TIPBOX>\n\t\t<TIPBOX>Q 개털도 쓰려면 없다 (100)<INFO>8250</INFO></TIPBOX>\n\t\t<TIPBOX>Q 잡초 전쟁 (100)<INFO>8251</INFO></TIPBOX>\n\t\t<TIPBOX>Q 화산의 돌연변이 (100)<INFO>8252</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 데저트 울프 편 (100)<INFO>8253</INFO></TIPBOX>\n\t\t<TIPBOX>Q 차가운 심장, 시원한 요리 (100)<INFO>8254</INFO></TIPBOX>\n\t\t<TIPBOX>Q 말이 통하지 않는 설인 (100)<INFO>8255</INFO></TIPBOX>\n\t\t<TIPBOX>Q 얼음 결정은 얼마나 단단한가? (100)<INFO>8256</INFO></TIPBOX>\n\t\t<TIPBOX>Q 불면의 밤, 바다 너머의 귀곡성 (100)<INFO>6099</INFO></TIPBOX>\n\t\t<TIPBOX>Q 성역 정화를 부탁해! (100)<INFO>6100</INFO></TIPBOX>\n\t\t<TIPBOX>Q 유령이 분명해요! (100)<INFO>6101</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수상한터널(100)<INFO>6102</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 100레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 13.3 엘 디카스테스<INFO>6028</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 14.1 비프로스트<INFO>6041</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 16.1 영웅을 위한 연회<INFO>8118</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 16.2 테라 글로리아<INFO>8143</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 100레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 문라이트<INFO>9086</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4126] = {Title = "퀘스트 레벨 110~119", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>Q 잎사귀를 드리운 숙녀 (110)<INFO>8181</INFO></TIPBOX>\n\t\t<TIPBOX>Q 말린 꽃 책갈피 (110)<INFO>8182</INFO></TIPBOX>\n\t\t<TIPBOX>Q 좋은… 근육이다! (110)<INFO>8183</INFO></TIPBOX>\n\t\t<TIPBOX>Q 동화에 나올 듯한 (110)<INFO>8184</INFO></TIPBOX>\n\t\t<TIPBOX>Q 자극적인 매력 (110)<INFO>8185</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마력이 담긴 뿔 (110)<INFO>8186</INFO></TIPBOX>\n\t\t<TIPBOX>Q 그저 텅 빈 갑옷 (110)<INFO>8209</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어쩌면 곧은 영혼 (110)<INFO>8210</INFO></TIPBOX>\n\t\t<TIPBOX>Q 기사의 천적 (110)<INFO>8211</INFO></TIPBOX>\n\t\t<TIPBOX>Q 대적할 만한 상대 (110)<INFO>8212</INFO></TIPBOX>\n\t\t<TIPBOX>Q 미믹의 상자 속 (110)<INFO>8238</INFO></TIPBOX>\n\t\t<TIPBOX>Q 떠도는 묵은 지혜 (110)<INFO>8239</INFO></TIPBOX>\n\t\t<TIPBOX>Q 고성의 남작 (110)<INFO>8240</INFO></TIPBOX>\n\t\t<TIPBOX>Q 낱장의 지식들(110)<INFO>8241</INFO></TIPBOX>\n\t\t<TIPBOX>Q 낡은 마법의 기록(110)<INFO>8242</INFO></TIPBOX>\n\t\t<TIPBOX>Q 재활용품 수집 (110)<INFO>8243</INFO></TIPBOX>\n\t\t<TIPBOX>Q 불안한 제자들 (110)<INFO>8258</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쇠로 된 개미떼-1 (110)<INFO>8259</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쇠로 된 개미떼-2 (110)<INFO>8260</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알록달록 디미크-1 (110)<INFO>8261</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알록달록 디미크-2 (110)<INFO>8262</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 110레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 17.1 등장, 일루시온<INFO>7055</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 잎사귀를 드리운 숙녀 (110)<INFO>8181</INFO></TIPBOX>\n\t\t<TIPBOX>Q 말린 꽃 책갈피 (110)<INFO>8182</INFO></TIPBOX>\n\t\t<TIPBOX>Q 좋은… 근육이다! (110)<INFO>8183</INFO></TIPBOX>\n\t\t<TIPBOX>Q 동화에 나올 듯한 (110)<INFO>8184</INFO></TIPBOX>\n\t\t<TIPBOX>Q 자극적인 매력 (110)<INFO>8185</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마력이 담긴 뿔 (110)<INFO>8186</INFO></TIPBOX>\n\t\t<TIPBOX>Q 그저 텅 빈 갑옷 (110)<INFO>8209</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어쩌면 곧은 영혼 (110)<INFO>8210</INFO></TIPBOX>\n\t\t<TIPBOX>Q 기사의 천적 (110)<INFO>8211</INFO></TIPBOX>\n\t\t<TIPBOX>Q 대적할 만한 상대 (110)<INFO>8212</INFO></TIPBOX>\n\t\t<TIPBOX>Q 미믹의 상자 속 (110)<INFO>8238</INFO></TIPBOX>\n\t\t<TIPBOX>Q 떠도는 묵은 지혜 (110)<INFO>8239</INFO></TIPBOX>\n\t\t<TIPBOX>Q 고성의 남작 (110)<INFO>8240</INFO></TIPBOX>\n\t\t<TIPBOX>Q 낱장의 지식들(110)<INFO>8241</INFO></TIPBOX>\n\t\t<TIPBOX>Q 낡은 마법의 기록(110)<INFO>8242</INFO></TIPBOX>\n\t\t<TIPBOX>Q 재활용품 수집 (110)<INFO>8243</INFO></TIPBOX>\n\t\t<TIPBOX>Q 불안한 제자들 (110)<INFO>8258</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쇠로 된 개미떼-1 (110)<INFO>8259</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쇠로 된 개미떼-2 (110)<INFO>8260</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알록달록 디미크-1 (110)<INFO>8261</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알록달록 디미크-2 (110)<INFO>8262</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수상한고양이: 앙숙 (110)<INFO>6097</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수상한고양이: 귀찮은 녀석 (110)<INFO>6098</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 110레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 17.1 등장, 일루시온<INFO>7055</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4127] = {Title = "퀘스트 레벨 120~129", Search = 1, Image = "", 
@@ -1165,19 +1165,19 @@ Page = {"이하의 에피소드에 160레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 14.3
 [4132] = {Title = "퀘스트 레벨 170~179", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"이하의 에피소드에 170레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 17.2 현자의 유산<INFO>7068</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 170레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 라비린스<INFO>9092</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 이상진화를 일으킨 딜리터 (175)<INFO>6116</INFO></TIPBOX>\n\t\t<TIPBOX>Q 실체가 된 악몽 퇴치 (175)<INFO>6117</INFO></TIPBOX>\n\t\t<TIPBOX>Q 밀도 확인 (175)<INFO>6118</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바스라지는 작은 것들 (175)<INFO>6119</INFO></TIPBOX>\n\t\t<TIPBOX>Q 내용물이 없는 것 (175)<INFO>6120</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어는점이 높은 것 (175)<INFO>6121</INFO></TIPBOX>\n\t\t<TIPBOX>Q 거울과도 같은 것 (175)<INFO>6122</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 170레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 17.2 현자의 유산<INFO>7068</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 170레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 라비린스<INFO>9092</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4133] = {Title = "퀘스트 레벨 180~189", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"이하의 에피소드에 180레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 17.2 현자의 유산<INFO>7068</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 180레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 언더워터<INFO>9093</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 새로운 독가스 연구 (180)<INFO>6104</INFO></TIPBOX>\n\t\t<TIPBOX>Q 특이 미네랄 연구1 (180)<INFO>6105</INFO></TIPBOX>\n\t\t<TIPBOX>Q 특이 미네랄 연구2 (180)<INFO>6106</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어비스맨 연구 (180)<INFO>6107</INFO></TIPBOX>\n\t\t<TIPBOX>Q 광산벌레 연구 (180)<INFO>6108</INFO></TIPBOX>\n\t\t<TIPBOX>Q X세기 XX골트 (180)<INFO>6110</INFO></TIPBOX>\n\t\t<TIPBOX>Q 발키리란 무엇인가 (180)<INFO>6111</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 180레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 17.2 현자의 유산<INFO>7068</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 180레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 언더워터<INFO>9093</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4134] = {Title = "퀘스트 레벨 190~199", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"아직 등록된 퀘스트가 없습니다.\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 특이한 색의 페러스 (190)<INFO>6112</INFO></TIPBOX>\n\t\t<TIPBOX>Q 신종 미믹 조사 (190)<INFO>6113</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어시더스 속성연구  (190)<INFO>6114</INFO></TIPBOX>\n\t\t<TIPBOX>Q 섭리를 거스르는 일 (190)<INFO>6115</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4135] = {Title = "퀘스트 레벨 200~209", Search = 1, Image = "", 
@@ -1237,7 +1237,7 @@ Page = {"프론테라와 프론테라 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다
 [4144] = {Title = "지역 퀘스트: 모로크", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"모로크와 모로크 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 미로 너머 친구들의 행방 (40)<INFO>8317</INFO></TIPBOX>\n\t\t<TIPBOX>Q 오래된 파란상자와 좋은꿈 (40)<INFO>8321</INFO></TIPBOX>\n\t\t<TIPBOX>Q 미아찾기 (50)<INFO>8313</INFO></TIPBOX>\n\t\t<TIPBOX>Q 앞길을 방해하는 녀석들 (50)<INFO>8314</INFO></TIPBOX>\n\t\t<TIPBOX>Q 허리통증을 받고 물건을 내주다 (50)<INFO>8315</INFO></TIPBOX>\n\t\t<TIPBOX>Q 잠을 잘 수가 없어 (50)<INFO>8316</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이시스가 가진 것 (60)<INFO>8318</INFO></TIPBOX>\n\t\t<TIPBOX>Q 스핑크스의 일꾼들 (60)<INFO>8319</INFO></TIPBOX>\n\t\t<TIPBOX>Q 스핑크스의 비밀 (60)<INFO>8320</INFO></TIPBOX>\n\t\t<TIPBOX>Q 천사의 형상 (130)<INFO>8228</INFO></TIPBOX>\n\t\t<TIPBOX>Q 안식의 축복 (130)<INFO>8229</INFO></TIPBOX>\n\t\t<TIPBOX>Q 예속의 기쁨 (130)<INFO>8230</INFO></TIPBOX>\n\t\t<TIPBOX>Q 순수의 구현 (130)<INFO>8231</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"모로크와 모로크 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 미로 너머 친구들의 행방 (40)<INFO>8317</INFO></TIPBOX>\n\t\t<TIPBOX>Q 오래된 파란상자와 좋은꿈 (40)<INFO>8321</INFO></TIPBOX>\n\t\t<TIPBOX>Q 미아찾기 (50)<INFO>8313</INFO></TIPBOX>\n\t\t<TIPBOX>Q 앞길을 방해하는 녀석들 (50)<INFO>8314</INFO></TIPBOX>\n\t\t<TIPBOX>Q 허리통증을 받고 물건을 내주다 (50)<INFO>8315</INFO></TIPBOX>\n\t\t<TIPBOX>Q 잠을 잘 수가 없어 (50)<INFO>8316</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이시스가 가진 것 (60)<INFO>8318</INFO></TIPBOX>\n\t\t<TIPBOX>Q 스핑크스의 일꾼들 (60)<INFO>8319</INFO></TIPBOX>\n\t\t<TIPBOX>Q 스핑크스의 비밀 (60)<INFO>8320</INFO></TIPBOX>\n\t\t<TIPBOX>Q 천사의 형상 (130)<INFO>8228</INFO></TIPBOX>\n\t\t<TIPBOX>Q 안식의 축복 (130)<INFO>8229</INFO></TIPBOX>\n\t\t<TIPBOX>Q 예속의 기쁨 (130)<INFO>8230</INFO></TIPBOX>\n\t\t<TIPBOX>Q 순수의 구현 (130)<INFO>8231</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수상한고양이: 앙숙 (110)<INFO>6097</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수상한고양이: 귀찮은 녀석 (110)<INFO>6098</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4145] = {Title = "지역 퀘스트: 페이욘", Search = 1, Image = "", 
@@ -1255,7 +1255,7 @@ Page = {"알베르타와 알베르타 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다
 [4147] = {Title = "지역 퀘스트: 게펜", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"게펜과 게펜 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 헌터플라이 사냥 (55)<INFO>8198</INFO></TIPBOX>\n\t\t<TIPBOX>Q 구울과 잭 사냥 (55)<INFO>8199</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마리오네트와 데비루치 사냥 (80)<INFO>8200</INFO></TIPBOX>\n\t\t<TIPBOX>Q 악몽을 달리는 말 (80)<INFO>8201</INFO></TIPBOX>\n\t\t<TIPBOX>Q 공중쁘띠 귀여워 (75)<INFO>8202</INFO></TIPBOX>\n\t\t<TIPBOX>Q 지상쁘띠 귀여워 (75)<INFO>8203</INFO></TIPBOX>\n\t\t<TIPBOX>Q 몽마 연구 (120)<INFO>8257</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-게펜 필드 (71)<INFO>4196</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"게펜과 게펜 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 헌터플라이 사냥 (55)<INFO>8198</INFO></TIPBOX>\n\t\t<TIPBOX>Q 구울과 잭 사냥 (55)<INFO>8199</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마리오네트와 데비루치 사냥 (80)<INFO>8200</INFO></TIPBOX>\n\t\t<TIPBOX>Q 악몽을 달리는 말 (80)<INFO>8201</INFO></TIPBOX>\n\t\t<TIPBOX>Q 공중쁘띠 귀여워 (75)<INFO>8202</INFO></TIPBOX>\n\t\t<TIPBOX>Q 지상쁘띠 귀여워 (75)<INFO>8203</INFO></TIPBOX>\n\t\t<TIPBOX>Q 몽마 연구 (120)<INFO>8257</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-게펜 필드 (71)<INFO>4196</INFO></TIPBOX>\n\t\t<TIPBOX>Q 내용물이 없는 것 (175)<INFO>6120</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어는점이 높은 것 (175)<INFO>6121</INFO></TIPBOX>\n\t\t<TIPBOX>Q 거울과도 같은 것 (175)<INFO>6122</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4148] = {Title = "지역 퀘스트: 코모도", Search = 1, Image = "", 
@@ -1285,7 +1285,7 @@ Page = {"루티에와 루티에 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\
 [4152] = {Title = "지역 퀘스트: 유노", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"유노와 유노 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 나이트메어 테러 포획 (100)<INFO>8225</INFO></TIPBOX>\n\t\t<TIPBOX>Q 딜리터 포획 (100)<INFO>8226</INFO></TIPBOX>\n\t\t<TIPBOX>Q 굳어버린 용암 수집 (100)<INFO>8227</INFO></TIPBOX>\n\t\t<TIPBOX>Q 불안한 제자들 (110)<INFO>8258</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쇠로 된 개미떼-1 (110)<INFO>8259</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쇠로 된 개미떼-2 (110)<INFO>8260</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알록달록 디미크-1 (110)<INFO>8261</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알록달록 디미크-2 (110)<INFO>8262</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"유노와 유노 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 나이트메어 테러 포획 (100)<INFO>8225</INFO></TIPBOX>\n\t\t<TIPBOX>Q 딜리터 포획 (100)<INFO>8226</INFO></TIPBOX>\n\t\t<TIPBOX>Q 굳어버린 용암 수집 (100)<INFO>8227</INFO></TIPBOX>\n\t\t<TIPBOX>Q 불안한 제자들 (110)<INFO>8258</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쇠로 된 개미떼-1 (110)<INFO>8259</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쇠로 된 개미떼-2 (110)<INFO>8260</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알록달록 디미크-1 (110)<INFO>8261</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알록달록 디미크-2 (110)<INFO>8262</INFO></TIPBOX>\n\t\t<TIPBOX>Q 유령이 분명해요! (100)<INFO>6101</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이상진화를 일으킨 딜리터 (175)<INFO>6116</INFO></TIPBOX>\n\t\t<TIPBOX>Q 실체가 된 악몽 퇴치 (175)<INFO>6117</INFO></TIPBOX>\n\t\t<TIPBOX>Q 밀도 확인 (175)<INFO>6118</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바스라지는 작은 것들 (175)<INFO>6119</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4153] = {Title = "지역 퀘스트: 글래스트헤임 고성", Search = 1, Image = "", 
@@ -1309,13 +1309,13 @@ Page = {"말랑도와 말랑도 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\
 [4156] = {Title = "지역 퀘스트: 아인브로크, 아인베흐", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"아인브로크, 아인베흐와 아인브로크, 아인베흐 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 형에게 (80)<INFO>8283</INFO></TIPBOX>\n\t\t<TIPBOX>Q 주변 정리 좀 부탁해요 (80)<INFO>8284</INFO></TIPBOX>\n\t\t<TIPBOX>Q 출퇴근용 프리패스 (80)<INFO>8285</INFO></TIPBOX>\n\t\t<TIPBOX>Q 그림자 광부 (85)<INFO>8286</INFO></TIPBOX>\n\t\t<TIPBOX>Q 왜 저런게 움직이냐고! (85)<INFO>8287</INFO></TIPBOX>\n\t\t<TIPBOX>Q 점핑 미네랄 (85)<INFO>8288</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아인브로크의 사정 (80)<INFO>8289</INFO></TIPBOX>\n\t\t<TIPBOX>Q 부유하는 유독가스(1) (80)<INFO>8290</INFO></TIPBOX>\n\t\t<TIPBOX>Q 부유하는 유독가스(2) (80)<INFO>8291</INFO></TIPBOX>\n\t\t<TIPBOX>Q 깜찍하고 끔찍한 (80)<INFO>8293</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아인브로크 필드-1 (70)<INFO>4194</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아인브로크 필드-2 (76)<INFO>4202</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"아인브로크, 아인베흐와 아인브로크, 아인베흐 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 형에게 (80)<INFO>8283</INFO></TIPBOX>\n\t\t<TIPBOX>Q 주변 정리 좀 부탁해요 (80)<INFO>8284</INFO></TIPBOX>\n\t\t<TIPBOX>Q 출퇴근용 프리패스 (80)<INFO>8285</INFO></TIPBOX>\n\t\t<TIPBOX>Q 그림자 광부 (85)<INFO>8286</INFO></TIPBOX>\n\t\t<TIPBOX>Q 왜 저런게 움직이냐고! (85)<INFO>8287</INFO></TIPBOX>\n\t\t<TIPBOX>Q 점핑 미네랄 (85)<INFO>8288</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아인브로크의 사정 (80)<INFO>8289</INFO></TIPBOX>\n\t\t<TIPBOX>Q 부유하는 유독가스(1) (80)<INFO>8290</INFO></TIPBOX>\n\t\t<TIPBOX>Q 부유하는 유독가스(2) (80)<INFO>8291</INFO></TIPBOX>\n\t\t<TIPBOX>Q 깜찍하고 끔찍한 (80)<INFO>8293</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아인브로크 필드-1 (70)<INFO>4194</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아인브로크 필드-2 (76)<INFO>4202</INFO></TIPBOX>\n\t\t<TIPBOX>Q 새로운 독가스 연구 (180)<INFO>6104</INFO></TIPBOX>\n\t\t<TIPBOX>Q 특이 미네랄 연구1 (180)<INFO>6105</INFO></TIPBOX>\n\t\t<TIPBOX>Q 특이 미네랄 연구2 (180)<INFO>6106</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어비스맨 연구 (180)<INFO>6107</INFO></TIPBOX>\n\t\t<TIPBOX>Q 광산벌레 연구 (180)<INFO>6108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>디나이트 상점<INFO>6109</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4157] = {Title = "지역 퀘스트: 리히타르젠", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"리히타르젠과 리히타르젠 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 저렇게 큰 수영장이 있는데 왜! (80)<INFO>8294</INFO></TIPBOX>\n\t\t<TIPBOX>Q 발목을 찰싹 찰싹 (80)<INFO>8295</INFO></TIPBOX>\n\t\t<TIPBOX>Q 사신의 계곡이라는 이름 (80)<INFO>8296</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이그니젬 세니아 (130)<INFO>8213</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아르마이어 딘제 (130)<INFO>8214</INFO></TIPBOX>\n\t\t<TIPBOX>Q 휘케바인 트리스 (130)<INFO>8215</INFO></TIPBOX>\n\t\t<TIPBOX>Q 카바크 이카루스 (130)<INFO>8216</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이렌드 에베시 (130)<INFO>8217</INFO></TIPBOX>\n\t\t<TIPBOX>Q 라우렐 뷘더 (130)<INFO>8218</INFO></TIPBOX>\n\t\t<TIPBOX>Q 셰실 디먼 (140)<INFO>8219</INFO></TIPBOX>\n\t\t<TIPBOX>Q 카트린느 케이론 (140)<INFO>8220</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마가레타 소린 (140)<INFO>8221</INFO></TIPBOX>\n\t\t<TIPBOX>Q 세이렌 윈저 (140)<INFO>8222</INFO></TIPBOX>\n\t\t<TIPBOX>Q 에레메스 가일 (140)<INFO>8223</INFO></TIPBOX>\n\t\t<TIPBOX>Q 하워드 알트아이젠 (140)<INFO>8224</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-리히타르젠 필드-1 (71)<INFO>4195</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-리히타르젠 필드-2 (77)<INFO>4203</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"리히타르젠과 리히타르젠 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 저렇게 큰 수영장이 있는데 왜! (80)<INFO>8294</INFO></TIPBOX>\n\t\t<TIPBOX>Q 발목을 찰싹 찰싹 (80)<INFO>8295</INFO></TIPBOX>\n\t\t<TIPBOX>Q 사신의 계곡이라는 이름 (80)<INFO>8296</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이그니젬 세니아 (130)<INFO>8213</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아르마이어 딘제 (130)<INFO>8214</INFO></TIPBOX>\n\t\t<TIPBOX>Q 휘케바인 트리스 (130)<INFO>8215</INFO></TIPBOX>\n\t\t<TIPBOX>Q 카바크 이카루스 (130)<INFO>8216</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이렌드 에베시 (130)<INFO>8217</INFO></TIPBOX>\n\t\t<TIPBOX>Q 라우렐 뷘더 (130)<INFO>8218</INFO></TIPBOX>\n\t\t<TIPBOX>Q 셰실 디먼 (140)<INFO>8219</INFO></TIPBOX>\n\t\t<TIPBOX>Q 카트린느 케이론 (140)<INFO>8220</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마가레타 소린 (140)<INFO>8221</INFO></TIPBOX>\n\t\t<TIPBOX>Q 세이렌 윈저 (140)<INFO>8222</INFO></TIPBOX>\n\t\t<TIPBOX>Q 에레메스 가일 (140)<INFO>8223</INFO></TIPBOX>\n\t\t<TIPBOX>Q 하워드 알트아이젠 (140)<INFO>8224</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-리히타르젠 필드-1 (71)<INFO>4195</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-리히타르젠 필드-2 (77)<INFO>4203</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수상한터널(100)<INFO>6102</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4158] = {Title = "지역 퀘스트: 타나토스", Search = 1, Image = "", 
@@ -1327,13 +1327,13 @@ Page = {"타나토스 타워와 타나토스 타워 인근의 필드, 던전에서 수주 가능한 퀘스트 
 [4159] = {Title = "지역 퀘스트: 휘겔", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"휘겔과 휘겔 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 숭고한 전쟁 (40)<INFO>8300</INFO></TIPBOX>\n\t\t<TIPBOX>Q 조개 캐기 체험 (40)<INFO>8301</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수도관 고장의 원흉 (80)<INFO>8302</INFO></TIPBOX>\n\t\t<TIPBOX>Q 호수의 용 (120)<INFO>8166</INFO></TIPBOX>\n\t\t<TIPBOX>Q 호수의 비룡 (120)<INFO>8167</INFO></TIPBOX>\n\t\t<TIPBOX>Q 호수의 삼두룡 (120)<INFO>8168</INFO></TIPBOX>\n\t\t<TIPBOX>Q 무전치는 놈부터 (120)<INFO>8232</INFO></TIPBOX>\n\t\t<TIPBOX>Q 악마 정화(120)<INFO>8233</INFO></TIPBOX>\n\t\t<TIPBOX>Q 현혹되기 전에 (120)<INFO>8234</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"휘겔과 휘겔 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 숭고한 전쟁 (40)<INFO>8300</INFO></TIPBOX>\n\t\t<TIPBOX>Q 조개 캐기 체험 (40)<INFO>8301</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수도관 고장의 원흉 (80)<INFO>8302</INFO></TIPBOX>\n\t\t<TIPBOX>Q 호수의 용 (120)<INFO>8166</INFO></TIPBOX>\n\t\t<TIPBOX>Q 호수의 비룡 (120)<INFO>8167</INFO></TIPBOX>\n\t\t<TIPBOX>Q 호수의 삼두룡 (120)<INFO>8168</INFO></TIPBOX>\n\t\t<TIPBOX>Q 무전치는 놈부터 (120)<INFO>8232</INFO></TIPBOX>\n\t\t<TIPBOX>Q 악마 정화(120)<INFO>8233</INFO></TIPBOX>\n\t\t<TIPBOX>Q 현혹되기 전에 (120)<INFO>8234</INFO></TIPBOX>\n\t\t<TIPBOX>Q X세기 XX골트 (180)<INFO>6110</INFO></TIPBOX>\n\t\t<TIPBOX>Q 발키리란 무엇인가 (180)<INFO>6111</INFO></TIPBOX>\n\t\t<TIPBOX>Q 특이한 색의 페러스 (190)<INFO>6112</INFO></TIPBOX>\n\t\t<TIPBOX>Q 신종 미믹 조사 (190)<INFO>6113</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어시더스 속성연구 (190)<INFO>6114</INFO></TIPBOX>\n\t\t<TIPBOX>Q 섭리를 거스르는 일 (190)<INFO>6115</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4160] = {Title = "지역 퀘스트: 라헬", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"라헬과 라헬 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 평안한 순례 여행을 (90)<INFO>8235</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아름다움의 수호자 (90)<INFO>8236</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 코볼트 편 (100)<INFO>8248</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 힐윈드 편 (100)<INFO>8249</INFO></TIPBOX>\n\t\t<TIPBOX>Q 개털도 쓰려면 없다 (100)<INFO>8250</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 데저트 울프 편 (100)<INFO>8253</INFO></TIPBOX>\n\t\t<TIPBOX>Q 차가운 심장, 시원한 요리 (100)<INFO>8254</INFO></TIPBOX>\n\t\t<TIPBOX>Q 말이 통하지 않는 설인 (100)<INFO>8255</INFO></TIPBOX>\n\t\t<TIPBOX>Q 얼음 결정은 얼마나 단단한가? (100)<INFO>8256</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-이다 평원-1 (80)<INFO>4204</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-이다 평원-2 (85)<INFO>4206</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-이다 평원-3 (86)<INFO>4209</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-얼음 동굴 1층 (85)<INFO>4208</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아우둠라 초원-1 (86)<INFO>4210</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아우둠라 초원-2 (87)<INFO>4211</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아우둠라 초원-3 (88)<INFO>4215</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-포르투 루나 (93)<INFO>4212</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"라헬과 라헬 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 평안한 순례 여행을 (90)<INFO>8235</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아름다움의 수호자 (90)<INFO>8236</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 코볼트 편 (100)<INFO>8248</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 힐윈드 편 (100)<INFO>8249</INFO></TIPBOX>\n\t\t<TIPBOX>Q 개털도 쓰려면 없다 (100)<INFO>8250</INFO></TIPBOX>\n\t\t<TIPBOX>Q 초원 난투 - 데저트 울프 편 (100)<INFO>8253</INFO></TIPBOX>\n\t\t<TIPBOX>Q 차가운 심장, 시원한 요리 (100)<INFO>8254</INFO></TIPBOX>\n\t\t<TIPBOX>Q 말이 통하지 않는 설인 (100)<INFO>8255</INFO></TIPBOX>\n\t\t<TIPBOX>Q 얼음 결정은 얼마나 단단한가? (100)<INFO>8256</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-이다 평원-1 (80)<INFO>4204</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-이다 평원-2 (85)<INFO>4206</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-이다 평원-3 (86)<INFO>4209</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-얼음 동굴 1층 (85)<INFO>4208</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아우둠라 초원-1 (86)<INFO>4210</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아우둠라 초원-2 (87)<INFO>4211</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-아우둠라 초원-3 (88)<INFO>4215</INFO></TIPBOX>\n\t\t<TIPBOX>Q 토벌-포르투 루나 (93)<INFO>4212</INFO></TIPBOX>\n\t\t<TIPBOX>Q 성역 정화를 부탁해! (100)<INFO>6100</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4161] = {Title = "지역 퀘스트: 베인스", Search = 1, Image = "", 
@@ -1345,7 +1345,7 @@ Page = {"베인스와 베인스 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\
 [4162] = {Title = "지역 퀘스트: 무명섬", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"무명섬과 무명섬 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 무명섬 정화 (120)<INFO>8263</INFO></TIPBOX>\n\t\t<TIPBOX>Q 울고 울고 또 울고 (120)<INFO>8264</INFO></TIPBOX>\n\t\t<TIPBOX>Q 죽은 마리오네트의 주인 (120)<INFO>8265</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"무명섬과 무명섬 인근의 필드, 던전에서 수주 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 무명섬 정화 (120)<INFO>8263</INFO></TIPBOX>\n\t\t<TIPBOX>Q 울고 울고 또 울고 (120)<INFO>8264</INFO></TIPBOX>\n\t\t<TIPBOX>Q 죽은 마리오네트의 주인 (120)<INFO>8265</INFO></TIPBOX>\n\t\t<TIPBOX>Q 불면의 밤, 바다 너머의 귀곡성 (100)<INFO>6099</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트 목록<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4163] = {Title = "지역 퀘스트: 요툰헤임#마누크스플랑디드엘디카스테스", Search = 1, Image = "", 
@@ -1369,55 +1369,55 @@ Page = {"로컬라이징 지역에서 진행 가능한 퀘스트입니다.\n\t\t<TIPBOX>▶로컬라이징
 [4166] = {Title = "로컬라이징 퀘스트: 용지성", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 용지성과 용지성 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 모래로 빚은 떡? (80)<INFO>4185</INFO></TIPBOX>\n\t\t<TIPBOX>Q 비밀이 잠든 무덤 (80)<INFO>4186</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 용지성과 용지성 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶용지성 메인 퀘스트\n\t\t<TIPBOX>Q 한약방 (40)<INFO>10063</INFO></TIPBOX>\n\t\t<TIPBOX>Q 독약왕 (40)<INFO>10064</INFO></TIPBOX>\n\n\t\t▶용지성 일반 퀘스트\n\t\t<TIPBOX>Q 8인의 개혁 운동가<INFO>10065</INFO></TIPBOX>\n\t\t<TIPBOX>Q 전망대<INFO>10066</INFO></TIPBOX>\n\t\t<TIPBOX>Q 모래로 빚은 떡? (80)<INFO>4185</INFO></TIPBOX>\n\t\t<TIPBOX>Q 비밀이 잠든 무덤 (80)<INFO>4186</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4167] = {Title = "로컬라이징 퀘스트: 아마쯔", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 아마쯔와 아마쯔 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 아름다운 인형 (80)<INFO>4187</INFO></TIPBOX>\n\t\t<TIPBOX>Q 패자와 승자, 그리고 남은자 (80)<INFO>4188</INFO></TIPBOX>\n\t\t<TIPBOX>Q 밤말도 내가 듣고, 낮말도 내가 듣는다. (90)<INFO>4189</INFO></TIPBOX>\t\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 아마쯔와 아마쯔 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶아마쯔 메인 퀘스트\n\t\t<TIPBOX>Q 아마쯔 던전출입<INFO>10067</INFO></TIPBOX>\n\n\t\t▶아마쯔 일반 퀘스트\n\t\t<TIPBOX>Q 속성 원석 교환<INFO>10069</INFO></TIPBOX>\n\t\t<TIPBOX>Q 스시! 와사비! 스시! 와사비! 스시!<INFO>10070</INFO></TIPBOX>\n\t\t<TIPBOX>Q 모모타로 (30)<INFO>10068</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아름다운 인형 (80)<INFO>4187</INFO></TIPBOX>\n\t\t<TIPBOX>Q 패자와 승자, 그리고 남은자 (80)<INFO>4188</INFO></TIPBOX>\n\t\t<TIPBOX>Q 밤말도 내가 듣고, 낮말도 내가 듣는다. (90)<INFO>4189</INFO></TIPBOX>\t\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4168] = {Title = "로컬라이징 퀘스트: 쿤룬", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 쿤룬과 쿤룬 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 천상의 여인 (90)<INFO>4190</INFO></TIPBOX>\n\t\t<TIPBOX>Q 손오공 후보 (90)<INFO>4191</INFO></TIPBOX>\n\t\t<TIPBOX>Q 구름 위의 노인 (90)<INFO>4192</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 쿤룬과 쿤룬 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶쿤룬 메인 퀘스트\n\t\t<TIPBOX>Q 브로큰 소드 (50)<INFO>10071</INFO></TIPBOX>\n\n\t\t▶쿤룬 일반 퀘스트\n\t\t<TIPBOX>Q 대련장<INFO>10072</INFO></TIPBOX>\n\t\t<TIPBOX>Q 떨어뜨린 걸 주워다 주는 착한 인간 (20)<INFO>10073</INFO></TIPBOX>\n\t\t<TIPBOX>Q 천상의 여인 (90)<INFO>4190</INFO></TIPBOX>\n\t\t<TIPBOX>Q 손오공 후보 (90)<INFO>4191</INFO></TIPBOX>\n\t\t<TIPBOX>Q 구름 위의 노인 (90)<INFO>4192</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4169] = {Title = "로컬라이징 퀘스트: 아요타야", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 아요타야와 아요타야 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 사원의 사자 (70)<INFO>4180</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 아요타야와 아요타야 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶아요타야 메인 퀘스트\n\t\t<TIPBOX>Q 스밍 타이거<INFO>10047</INFO></TIPBOX>\n\t\t<TIPBOX>Q 똠양꿍<INFO>10048</INFO></TIPBOX>\n\t\t<TIPBOX>Q 약혼반지 찾아주기<INFO>10049</INFO></TIPBOX>\n\n\t\t▶아요타야 일반 퀘스트\n\t\t<TIPBOX>Q 사원의 사자 (70)<INFO>4180</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4170] = {Title = "로컬라이징 퀘스트: 모스코비아", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 모스코비아와 모스코비아 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 모스코비아의 악몽 (80)<INFO>4183</INFO></TIPBOX>\n\t\t<TIPBOX>Q 빗자루와 무쇠 솥, 그리고 할머니 (80)<INFO>4184</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 모스코비아와 모스코비아 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶모스코비아 메인 퀘스트\n\t\t<TIPBOX>Q 고래섬을 찾아서<INFO>10050</INFO></TIPBOX>\n\t\t<TIPBOX>Q 러시아 불사신 코쉐이<INFO>10051</INFO></TIPBOX>\n\t\t<TIPBOX>Q WINTER, DON\'T COME AGAIN PLEASE!<INFO>10052</INFO></TIPBOX>\n\n\t\t▶모스코비아 일반 퀘스트\n\t\t<TIPBOX>Q 빨간 반지<INFO>10053</INFO></TIPBOX>\n\t\t<TIPBOX>Q 루살까의 머리카락<INFO>10054</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마로즈까<INFO>10055</INFO></TIPBOX>\n\t\t<TIPBOX>Q 겁쟁이 소년 미하일<INFO>10056</INFO></TIPBOX>\n\t\t<TIPBOX>Q 팬케이크 만들기<INFO>10057</INFO></TIPBOX>\n\t\t<TIPBOX>Q 귀마개 모자 제작<INFO>10058</INFO></TIPBOX>\n\t\t<TIPBOX>Q 보석을 뱉는 신기한 다람쥐<INFO>10059</INFO></TIPBOX>\n\t\t<TIPBOX>Q 모스코비아의 악몽 (80)<INFO>4183</INFO></TIPBOX>\n\t\t<TIPBOX>Q 빗자루와 무쇠 솥, 그리고 할머니 (80)<INFO>4184</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4171] = {Title = "로컬라이징 퀘스트: 브라질리스", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 브라질리스와 브라질리스 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\t\t<TIPBOX>Q 무지개를 가진 새 (70)<INFO>4181</INFO></TIPBOX>\n\t\t<TIPBOX>Q 머리가 없는 말 (80)<INFO>4182</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 브라질리스와 브라질리스 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶브라질리스 메인 퀘스트\n\t\t<TIPBOX>Q 과라나<INFO>10041</INFO></TIPBOX>\n\t\t<TIPBOX>Q 행운의 수련<INFO>10042</INFO></TIPBOX>\n\t\t<TIPBOX>Q 화장실의 유령 (40)<INFO>10043</INFO></TIPBOX>\n\n\t\t▶브라질리스 일반 퀘스트\n\t\t<TIPBOX>Q 이아라<INFO>10044</INFO></TIPBOX>\n\t\t<TIPBOX>Q 쥐 잡기 (40)<INFO>10045</INFO></TIPBOX>\n\t\t<TIPBOX>Q 동물 찾기 (40)<INFO>10046</INFO></TIPBOX>\n\t\t<TIPBOX>Q 무지개를 가진 새 (70)<INFO>4181</INFO></TIPBOX>\n\t\t<TIPBOX>Q 머리가 없는 말 (80)<INFO>4182</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4172] = {Title = "로컬라이징 퀘스트: 데와타", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 데와타와 데와타 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 데와타와 데와타 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶데와타 메인 퀘스트\n\t\t<TIPBOX>Q 전설 (60)<INFO>10060</INFO></TIPBOX>\n\n\t\t▶데와타 일반 퀘스트\n\t\t<TIPBOX>Q 노인을 도와라!! (60)<INFO>10061</INFO></TIPBOX>\n\t\t<TIPBOX>Q 전통무기!! (60)<INFO>10062</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4173] = {Title = "로컬라이징 퀘스트: 포트 말라야", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 포트 말라야와 포트 말라야 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 포트 말라야와 포트 말라야 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶포트 말라야 메인 퀘스트\n\t\t<TIPBOX>Q 경계하는 마을<INFO>10026</INFO></TIPBOX>\n\t\t<TIPBOX>Q 벙웅곳 입장 (100)<INFO>10027</INFO></TIPBOX>\n\t\t<TIPBOX>Q 숲 속의 비밀 (100)<INFO>10028</INFO></TIPBOX>\n\t\t<TIPBOX>Q 버코너워 호수 입장 (120)<INFO>10029</INFO></TIPBOX>\n\n\t\t▶포트 말라야 일반 퀘스트\n\t\t<TIPBOX>Q 핀타도스 페스티벌<INFO>10039</INFO></TIPBOX>\n\t\t<TIPBOX>Q 노인과 무쇠 솥 (100)<INFO>10030</INFO></TIPBOX>\n\t\t<TIPBOX>Q 제제링 퇴치 (100)<INFO>10031</INFO></TIPBOX>\n\t\t<TIPBOX>Q 제제링과 제젤로피 (100)<INFO>10032</INFO></TIPBOX>\n\t\t<TIPBOX>Q 반짝반짝 실버블레이드 (100)<INFO>10033</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마리스의 아이 (100)<INFO>10034</INFO></TIPBOX>\n\t\t<TIPBOX>Q 동의 부탁 - 뼈다귀를 모아줘 (100)<INFO>10035</INFO></TIPBOX>\n\t\t<TIPBOX>Q 전통 수호물 제작을 위해 (100)<INFO>10036</INFO></TIPBOX>\n\t\t<TIPBOX>Q 페리호의 영혼 (100)<INFO>10037</INFO></TIPBOX>\n\t\t<TIPBOX>Q 그 녀석과 눈 마주칠 수 없다 (100)<INFO>10038</INFO></TIPBOX>\n\t\t<TIPBOX>Q 부워여 처치 (130)<INFO>10040</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4174] = {Title = "로컬라이징 퀘스트: 락 릿지", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로컬라이징 락 릿지와 락 릿지 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로컬라이징 락 릿지와 락 릿지 인근의 필드, 던전에서 수행 가능한 퀘스트 목록입니다.\n\n\t\t▶락 릿지 메인 퀘스트\n\t\t<TIPBOX>Q 잡힌 놈, 안잡힌 놈, 바쁜 놈 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t▶락 릿지 일일 퀘스트\n\t\t<TIPBOX>Q 파이프 청소 (100)<INFO>10075</INFO></TIPBOX>\n\t\t<TIPBOX>Q 광석 조각 수집 (100)<INFO>10076</INFO></TIPBOX>\n\t\t<TIPBOX>Q 가족의 평화 (100)<INFO>10077</INFO></TIPBOX>\n\t\t<TIPBOX>Q 가스! 가스!! (100)<INFO>10078</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바둑이가 물고 간 반지 (100)<INFO>10079</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바둑아 그럼 못 써 (100)<INFO>10080</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바둑이를 위한 복수 (100)<INFO>10081</INFO></TIPBOX>\n\t\t<TIPBOX>Q 배관 정비 (100)<INFO>10082</INFO></TIPBOX>\n\t\t<TIPBOX>Q 개척지의 식료품 조달 (100)<INFO>10083</INFO></TIPBOX>\n\t\t<TIPBOX>Q 개척지의 사냥 - 일반 (100)<INFO>10084</INFO></TIPBOX>\n\t\t<TIPBOX>Q 개척지의 사냥 - 정예 (100)<INFO>10085</INFO></TIPBOX>\n\t\t<TIPBOX>Q 거상과의 계약 (100)<INFO>10086</INFO></TIPBOX>\n\t\t<TIPBOX>Q 불꽃 축제 준비 위원회 (130)<INFO>10087</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶로컬라이징 퀘스트 목록<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4175] = {Title = "가이드 퀘스트", Search = 1, Image = "", 
@@ -2204,6 +2204,162 @@ Page = {"북쪽에 모여있는 이상한 집단 좀 처리해 봐. 대체 어디서 알고 모여든 건지 
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"진정한 용사만이 가질 수 있다는 용사의 반지를 아는가? 난 그 반지의 주인을 기다리고 있다네.\n\t\t<NAVI>[인챈트전문가 번즈]<INFO>moro_cav,34,65,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t<ITEM>[용사의 반지]<INFO>2981</INFO></ITEM> 소지자\n\n\t\t<TIPBOX>▶결전 퀘스트 보기<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6097] = {Title = "Q 수상한고양이: 앙숙 (110)#피라미드#모로크#나이트메어#110#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"고양이랑 개는 원수지간이라는 것을 알고 있니? 내가 배만 아프지 않았어도 확 얼굴을 긁어주는 건데..\n\t\t^663399◈레벨 110 이상^000000\n\t\t\n\t\t<NAVI>[수상한 고양이]<INFO>moc_prydn1,94,98,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 모로크<INFO>4144</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 110~119<INFO>4126</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6098] = {Title = "Q 수상한고양이: 귀찮은 녀석 (110)#피라미드#모로크#나이트메어#110#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"조금만 정신을 흐트러뜨리면 어느새 에인션트 미이라가 와서 내 머리를 때리지 뭐야?! 이것은 나의 우수한 뇌세포를 감소시켜 보물을 찾지 못하게 하려는 미이라들의 계략임에 틀림없을 터!\n\t\t^663399◈레벨 110 이상^000000\n\t\t\n\t\t<NAVI>[수상한 고양이]<INFO>moc_prydn1,94,98,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 모로크<INFO>4144</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 110~119<INFO>4126</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6099] = {Title = "Q 불면의 밤, 바다 너머의 귀곡성 (100)#무명섬#낙원단#100#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"혹시 무명섬에 갈 요량이시라면 제가 배편을 마련해 드릴 테니, 부탁 하나만 들어주십시오! 기분 나쁜 울음소리때문에 잠을 못 자고 있습니다.\n\t\t^663399◈레벨 100 이상^000000\n\t\t\n\t\t<NAVI>[아케르]<INFO>ve_fild07,109,145,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 무명섬<INFO>4162</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 100~109<INFO>4125</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6100] = {Title = "Q 성역 정화를 부탁해! (100)#성역#라헬#낙원단#100#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이거 보십시오. 이 아래에서 이상한 소리가 들리지 않습니까? 이게 정말 마물이라면, 신성한 신전에 마물이 갇혀 있다는 소린데 큰일 아니겠습니까? 교황님을 위해서라도 나서야지요!\n\t\t^663399◈레벨 100 이상^000000\n\t\t\n\t\t<NAVI>[에리다누스]<INFO>ra_temple,168,169,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 라헬<INFO>4160</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 100~109<INFO>4125</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6101] = {Title = "Q 유령이 분명해요! (100)#킬#하이르#기계인형공장#유노#낙원단#100#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"모험가들은 어려움에 처한 이웃의 부탁을 들어주기도 해결해 주기도 한다면서요? 보잘것없는 학생 나부랭이인 제 고민도 좀 들어주실 수 있으세요?\n\t\t^663399◈레벨 100 이상^000000\n\t\t\n\t\t<NAVI>[리겔]<INFO>yuno_fild08,86,195,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 유노<INFO>4152</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 100~109<INFO>4125</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6102] = {Title = "Q 수상한터널(100)#생체던전#리히타르젠#낙원단#100#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"비가 오던 어느 날 밤이었어요. 이 하수관에서 쿠웅.. 쿠웅.. 하고 이상한 소리가 들렸어요. 기업의 사람들이 깔끔하게 처리를 해주긴 했지만 아무래도 이상해요.\n\t\t^663399◈레벨 100 이상^000000\n\t\t\n\t\t<NAVI>[마을주민 아일라]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 리히타르젠<INFO>4157</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 100~109<INFO>4125</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6103] = {Title = "Q 낙원단의 차원이동기 (100)#차원#고양이손#상단#균열#낙원단#100#", Search = 0, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"차원하면 또 고양이손 상단이지, 이 차원이동기는 차원의 틈새로 연결 되어 있어. 우리 고양이손 상단을 도와주고 등록한 사람이라면 얼마든지 이용하렴.\n\t\t^663399◈레벨 100 이상^000000\n\t\t\n\t\t<NAVI>[차원냥 뮤뮤]<INFO>moc_para01,35,78,0,101,0</INFO></NAVI>\n\t\t<NAVI>[차원이동기]<INFO>moc_para01,38,78,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 모로크<INFO>4144</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 100~109<INFO>4125</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6104] = {Title = "Q 새로운 독가스 연구 (180)#아인베흐#광산#180#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"광산에서 새로 발견된 몬스터 연구를 위해 데이터가 필요하답니다. 이곳 인력으로는 광산을 점령한 몬스터 처리가 힘드니까 겸사겸사 개체 수 조절도 하고요.\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[수습연구원 샐리]<INFO>einbech,145,244,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 아인브로크, 아인베흐<INFO>4156</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6105] = {Title = "Q 특이 미네랄 연구1 (180)#아인베흐#광산#180#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"광산에서 새로 발견된 몬스터 연구를 위해 데이터가 필요하답니다. 이곳 인력으로는 광산을 점령한 몬스터 처리가 힘드니까 겸사겸사 개체 수 조절도 하고요.\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[수습연구원 샐리]<INFO>einbech,145,244,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 아인브로크, 아인베흐<INFO>4156</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6106] = {Title = "Q 특이 미네랄 연구2 (180)#아인베흐#광산#180#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"광산에서 새로 발견된 몬스터 연구를 위해 데이터가 필요하답니다. 이곳 인력으로는 광산을 점령한 몬스터 처리가 힘드니까 겸사겸사 개체 수 조절도 하고요.\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[수습연구원 샐리]<INFO>einbech,145,244,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 아인브로크, 아인베흐<INFO>4156</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6107] = {Title = "Q 어비스맨 연구 (180)#아인베흐#광산#180#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"광산에서 새로 발견된 몬스터 연구를 위해 데이터가 필요하답니다. 이곳 인력으로는 광산을 점령한 몬스터 처리가 힘드니까 겸사겸사 개체 수 조절도 하고요.\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[수습연구원 샐리]<INFO>einbech,145,244,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 아인브로크, 아인베흐<INFO>4156</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6108] = {Title = "Q 광산벌레 연구 (180)#아인베흐#광산#180#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"광산에서 새로 발견된 몬스터 연구를 위해 데이터가 필요하답니다. 이곳 인력으로는 광산을 점령한 몬스터 처리가 힘드니까 겸사겸사 개체 수 조절도 하고요.\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[수습연구원 샐리]<INFO>einbech,145,244,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 아인브로크, 아인베흐<INFO>4156</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6109] = {Title = "디나이트 상점#정련#상점#교환#아인베흐#180#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"안녕하쇼. 모험가 친구. 디나이트로 채굴 장비를 구매하거나 광석을 디나이트로 정련하려 거든 날 찾아오쇼.\n\t\t\n\t\t<NAVI>[현장 관리자 엘멘]<INFO>einbech,149,257,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 디나이트 정련\n\t\t다섯 개의 광석을 1개씩 가져오면, <ITEM>[디나이트]<INFO>25814</INFO></ITEM>로 정련할 수 있습니다.\n\t\t<ITEM>[레디움]<INFO>25809</INFO></ITEM>\n\t\t<ITEM>[린디움]<INFO>25810</INFO></ITEM>\n\t\t<ITEM>[오디움]<INFO>25811</INFO></ITEM>\n\t\t<ITEM>[퍼디움]<INFO>25812</INFO></ITEM>\n\t\t<ITEM>[휘디움]<INFO>25813</INFO></ITEM>\n\t\t\n\t\t◈ 디나이트 상점\n\t\t<ITEM>[디나이트]<INFO>25814</INFO></ITEM>로 아래의 물건을 교환가능.\n\t\t\n\t\t<ITEM>[세이프티 팬던트R]<INFO>32248</INFO></ITEM>\n\t\t<ITEM>[세이프티 팬던트B]<INFO>32249</INFO></ITEM>\n\t\t<ITEM>[세이프티 에폴렛R]<INFO>32250</INFO></ITEM>\n\t\t<ITEM>[세이프티 에폴렛B]<INFO>32251</INFO></ITEM>\n\t\t<ITEM>[물리개조 허가증]<INFO>9514</INFO></ITEM>\n\t\t<ITEM>[마법개조 허가증]<INFO>9529</INFO></ITEM>\n\t\t\n\t\t◈ 디나이트 장비 교환\n\t\t<ITEM>[디나이트]<INFO>25814</INFO></ITEM> 50개로 아래의 물건을 획득가능\n\t\t\n\t\t<ITEM>[금속 탐지기 Mk47]<INFO>28771</INFO></ITEM>\n\t\t<ITEM>[보석 탐지기 Mk47]<INFO>28772</INFO></ITEM>\n\t\t<ITEM>[볼트 슈터]<INFO>18190</INFO></ITEM>\n\t\t<ITEM>[볼트 크러셔]<INFO>28045</INFO></ITEM>\n\t\t<ITEM>[볼트 리볼버]<INFO>32303</INFO></ITEM>\n\t\t<ITEM>[세이프티 세이버]<INFO>32352</INFO></ITEM>\n\t\t<ITEM>[세이프티 너클]<INFO>1867</INFO></ITEM>\n\t\t<ITEM>[세이프티 메뉴얼]<INFO>28635</INFO></ITEM>\n\t\t<ITEM>[세이프티 휩]<INFO>26215</INFO></ITEM>\n\t\t<ITEM>[세이프티 류트]<INFO>32110</INFO></ITEM>\n\t\t<ITEM>[세이프티 폭스테일]<INFO>550006</INFO></ITEM>\n\t\t<ITEM>[크로우 소드]<INFO>21054</INFO></ITEM>\n\t\t<ITEM>[블로킹 스피어]<INFO>32026</INFO></ITEM>\n\t\t<ITEM>[러버 해머]<INFO>16099</INFO></ITEM>\n\t\t<ITEM>[쏘우 액스]<INFO>28140</INFO></ITEM>\n\t\t<ITEM>[웰딩 완드]<INFO>26162</INFO></ITEM>\n\t\t<ITEM>[디텍팅 스태프]<INFO>2058</INFO></ITEM>\n\t\t<ITEM>[그라인더 풍마수리검]<INFO>13346</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 아인브로크, 아인베흐<INFO>4156</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6110] = {Title = "Q X세기 XX골트 (180)#휘겔#오딘신전#3층#180#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"스케골트의 옛 모습을 볼 수 있는 드문 기횜다. 두 종류의 \'엔젤골트\'를 상대해 주시지 않겠슴까? 보답은 경험치로 하겠슴다!\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6111] = {Title = "Q 발키리란 무엇인가 (180)#휘겔#오딘신전#3층#180#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"프루스와 스코글의 옛 모습을 볼 수 있는 드문 기횜다. 어째서 신의 종자가 인간에게 적대적인 모습을 보이는지 의문임다만 알 때까지 들이대는게 학자 아니겠슴까?\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6112] = {Title = "Q 특이한 색의 페러스 (190)#어비스#호수#4층#190#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"페러스는 보통 자연 속성을 따라가는데 퍼플이라니 신기하지 않나요? 그래서 이 퍼플 페러스에 대해 알고 싶어요.\n\t\t^663399◈레벨 190 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 190~199<INFO>4134</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6113] = {Title = "Q 신종 미믹 조사 (190)#어비스#호수#4층#190#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"새로운 미믹 종류가 발견되었다고 해요. \'트레져 미믹\'이라 불리는 이 녀석이 어떤 전리품을 줄지 궁금해요.\n\t\t^663399◈레벨 190 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 190~199<INFO>4134</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6114] = {Title = "Q 어시더스 속성연구 (190)#어비스#호수#4층#190#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"어시더스는 색으로 자연 속성을 대충 가늠할 수 있답니다. 하지만 블랙과 실버 어시더스는 잘 모르겠네요. 자료 수집을 도와줄 분을 찾고 있어요.\n\t\t^663399◈레벨 190 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 190~199<INFO>4134</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6115] = {Title = "Q 섭리를 거스르는 일 (190)#어비스#호수#4층#190#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"죽어서 뼈만 남은 페러스와 어시더스가 마치 살아있는 듯 움직여요. 섭리를 거스르는 일이죠. 그냥 둬서는 안된다고 생각해요.\n\t\t^663399◈레벨 190 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 190~199<INFO>4134</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6116] = {Title = "Q 이상진화를 일으킨 딜리터 (175)#유노#노그로드#3층#170#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"몬스터는 사는 곳이 달라지면 특성과 모습이 달라진다고 했는데요. 굳은 공중 딜리터랑, 굳은 지상 딜리터가 이상진화를 일으켰다고 보고가 올라왔어요.\n\t\t^663399◈레벨 175 이상^000000\n\t\t\n\t\t<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 유노<INFO>4152</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 170~179<INFO>4132</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6117] = {Title = "Q 실체가 된 악몽 퇴치 (175)#유노#노그로드#3층#170#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"나이트메어 테러가 굳어서 된 것이 굳은 나이트메어 테러, 얼마나 단단하게 굳었는지 알려 주세요.\n\t\t^663399◈레벨 175 이상^000000\n\t\t\n\t\t<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 유노<INFO>4152</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 170~179<INFO>4132</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6118] = {Title = "Q 밀도 확인 (175)#유노#노그로드#3층#170#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라바골렘과 굳은 라바골렘은 밀도차가 엄청나다는 이야기를 들었어요. 처치하고 밀도차를 알려 주세요.\n\t\t^663399◈레벨 175 이상^000000\n\t\t\n\t\t<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 유노<INFO>4152</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 170~179<INFO>4132</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6119] = {Title = "Q 바스라지는 작은 것들 (175)#유노#노그로드#3층#170#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"굳은 익스플로젼과 굳은 블레이저는 평범한 익스플로젼, 블레이저보다 훨씬 잘 바스라진다고 하더라고요. 처치하고 감촉을 알려 주세요.\n\t\t^663399◈레벨 175 이상^000000\n\t\t\n\t\t<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 유노<INFO>4152</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 170~179<INFO>4132</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6120] = {Title = "Q 내용물이 없는 것 (175)#게펜#글래스트헤임#어비스#170#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"내용물이 없는 것들이 있어요. 오염된 레이드릭과 레이드릭 아쳐 저 오염도라는 거 말인데... 모험가에게 영향을 미칠까요?\n\t\t^663399◈레벨 175 이상^000000\n\t\t\n\t\t<NAVI>[마법사 닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 게펜<INFO>4147</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 170~179<INFO>4132</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6121] = {Title = "Q 어는점이 높은 것 (175)#게펜#글래스트헤임#어비스#170#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"어는 점이 높은 것들이 있어요. 냉동 가고일과 프리즌 브레이커라고.. 쓰러뜨리고 돌아오면 연구할 거예요.\n\t\t^663399◈레벨 175 이상^000000\n\t\t\n\t\t<NAVI>[마법사 닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 게펜<INFO>4147</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 170~179<INFO>4132</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6122] = {Title = "Q 거울과도 같은 것 (175)#게펜#글래스트헤임#어비스#170#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"서로 거울같은 존재가 있어요. 아이스 고스트와 플레임 고스트.. 전혀 달라 보이지만 차원의 틈새란 알 수 없는 존재죠.\n\t\t^663399◈레벨 175 이상^000000\n\t\t\n\t\t<NAVI>[마법사 닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 게펜<INFO>4147</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 170~179<INFO>4132</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7055] = {Title = "Episode 17.1 등장, 일루시온#퀘스트에피소드", Search = 1, Image = "유저인터페이스\\tipbox\\tip07055", 
@@ -5021,7 +5177,7 @@ Page = {"전승 3차 전직을 완료한 모험가의 경험이 쌓이면 4차 직업으로 전직할 수 있
 [9136] = {Title = "4차 직업 전직 퀘스트#4차전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"베이스 레벨 200, 직업레벨(Job Level) 70 이상인 전승 3차 직업군은 4차 직업으로 전직할 수 있습니다.\n        <TIPBOX>▷JQ 드래곤나이트 전직<INFO>9137</INFO></TIPBOX>\n        <TIPBOX>▷JQ 임페리얼 가드 전직<INFO>9138</INFO></TIPBOX>\n        <TIPBOX>▷JQ 아크 메이지 전직<INFO>9139</INFO></TIPBOX>\n        <TIPBOX>▷JQ 엘레멘탈 마스터 전직<INFO>9140</INFO></TIPBOX>\n        <TIPBOX>▷JQ 마이스터 전직<INFO>9141</INFO></TIPBOX>\n        <TIPBOX>▷JQ 바이올로 전직<INFO>9142</INFO></TIPBOX>\n        <TIPBOX>▷JQ 카디날 전직<INFO>9143</INFO></TIPBOX>\n        <TIPBOX>▷JQ 인퀴지터 전직<INFO>9144</INFO></TIPBOX>\n        <TIPBOX>▷JQ 쉐도우 크로스 전직<INFO>9145</INFO></TIPBOX>\n        <TIPBOX>▷JQ 어비스 체이서 전직<INFO>9146</INFO></TIPBOX>\n        <TIPBOX>▷JQ 윈드 호크 전직<INFO>9147</INFO></TIPBOX>\n        <TIPBOX>▷JQ 트루바두르 전직<INFO>9148</INFO></TIPBOX>\n        <TIPBOX>▷JQ 트루베르 전직<INFO>9149</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9135</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"베이스 레벨 200, 직업레벨(Job Level) 70 이상인 전승 3차 직업군은 4차 직업으로 전직할 수 있습니다.\n      <TIPBOX>▷드래곤나이트<INFO>9137</INFO></TIPBOX>\n      <TIPBOX>▷임페리얼 가드<INFO>9138</INFO></TIPBOX>\n      <TIPBOX>▷아크 메이지<INFO>9139</INFO></TIPBOX>\n      <TIPBOX>▷엘레멘탈 마스터<INFO>9140</INFO></TIPBOX>\n      <TIPBOX>▷마이스터<INFO>9141</INFO></TIPBOX>\n      <TIPBOX>▷바이올로<INFO>9142</INFO></TIPBOX>\n      <TIPBOX>▷카디날<INFO>9143</INFO></TIPBOX>\n      <TIPBOX>▷인퀴지터<INFO>9144</INFO></TIPBOX>\n      <TIPBOX>▷쉐도우 크로스<INFO>9145</INFO></TIPBOX>\n      <TIPBOX>▷어비스 체이서<INFO>9146</INFO></TIPBOX>\n      <TIPBOX>▷윈드 호크<INFO>9147</INFO></TIPBOX>\n      <TIPBOX>▷트루바두르<INFO>9148</INFO></TIPBOX>\n      <TIPBOX>▷트루베르<INFO>9149</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9135</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9137] = {Title = "JQ 드래곤나이트 전직", Search = 1, Image = "", 
@@ -5033,7 +5189,7 @@ Page = {"룬나이트에서 전직하는 4차 직업 드래곤나이트는 양손 무기를 자유롭게 사용
 [9138] = {Title = "JQ 임페리얼 가드 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"로얄가드에서 전직하는 4차 직업 임페리얼 가드는 검과 방패를 사용하며, 진정한 강함에 대한 신념을 찾은 자들입니다.\n\t\t기본적으로 신성력을 다룰 수 있기 때문에 더욱 강력한 신성 공격을 가할 수 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 로얄가드^000000\n\n\t\t<NAVI>[왕의 기사]<INFO>prt_cas,179,28,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"로얄가드에서 전직하는 4차 직업 임페리얼 가드는 검과 방패를 사용하며, 진정한 강함에 대한 신념을 찾은 자들입니다.\n\t\t기본적으로 신성력을 다룰 수 있기 때문에 더욱 강력한 신성 공격을 가할 수 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 로얄가드^000000\n\n\t\t<NAVI>[왕의 기사]<INFO>prt_cas,181,10,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9139] = {Title = "JQ 아크 메이지 전직", Search = 1, Image = "", 
@@ -5244,6 +5400,378 @@ Page = {"레켄베르 본사의 회장은 일행들을 만나고 싶어한다.\n\t\t무슨 용무인지는 �
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"케로첼이 데리고 있는 후배 중, 수습 기간중인 신입이 영 맘에 걸린다.\n\t\t어쩌면 폐허가 된 지역으로 갔을지도 모른다. 신입을 찾게 되면 케로첼에게 보고하도록 하자.\n\t\t<NAVI>[케로첼]<INFO>verus02,79,31,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399EP 15.1 완료^000000\n\n\t\t<TIPBOX>▶메모리레코드 퀘스트 보기<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10026] = {Title = "Q 경계하는 마을#포트 말라야#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10026", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"최근 마을 내에 사악한 영혼들의 위협이 늘어 주민들은 외부인을 경계하고 있습니다.\n\t\t경비대원 로델은 일단 마을의 영도자인 뭄바키 퐁을 만나보라고 합니다.\n\t\t<NAVI>[경비대원 로델]<INFO>malaya,266,76,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10027] = {Title = "Q 벙웅곳 입장 (100)#포트 말라야#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10027", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"벙웅곳에 입장하기 위한 퀘스트입니다.\n\t\t발이 벗겨지는 바람에 병원에 들어가지도 못하고 있는 간호사 라즈의 다급한 부탁을 들어줍시다.\n\t\t<NAVI>[간호사]<INFO>malaya,55,72,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10028] = {Title = "Q 숲 속의 비밀 (100)#포트 말라야#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10028", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"포트 말라야의 숲 깊은 곳에는 굉장한 보물이 숨겨져 있다는 소문이 있습니다. 최근 이곳에 외부인이 급격하게 늘어난 이유이기도 합니다.\n\t\t일확천금을 위해 모험가님도 숲 탐색에 동참하셨으면 좋겠습니다.\n\t\t<NAVI>[경비대원]<INFO>malaya,305,281,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10029] = {Title = "Q 버코너워 호수 입장 (120)#포트 말라야#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10029", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"버코너워 호수에 입장하기 위한 퀘스트입니다.\n\t\t억울하게 죽은 노파의 원혼이 버코너워로 되살아나게 되었습니다. 더 큰 재앙을 막기 위해서는 원혼을 달래기 위한 의식을 행해야 합니다.\n\t\t<NAVI>[전설에 밝은 노인]<INFO>malaya,285,332,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 120^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10030] = {Title = "Q 노인과 무쇠 솥 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"악령이 날뛰고 있는 마을 안에서 불안함에 떨고 있던 노인 너르도는 당신에게서 신비한 기운을 발견합니다.\n\t\t그의 간곡한 부탁을 외면하기는 힘들어 보이니 악령들을 잠잠해질 수 있게 하는 방법을 찾아봅시다.\t\t\n\t\t<NAVI>[노인 너르도]<INFO>malaya,181,353,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10031] = {Title = "Q 제제링 퇴치 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"포트 말라야와 바르요를 오가는 행상인들에게 제제링에 의한 피해가 누적되고 있다고 합니다.\n\t\t경비대원 로델의 부탁에 따라 제제링 퇴치에 동참할 수 있도록 합시다.\t\n\t\t<NAVI>[경비대원 로델]<INFO>malaya,266,76,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10032] = {Title = "Q 제제링과 제젤로피 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"제제링을 쓰러뜨리면 얻을 수 있는 제젤로피는 여러 가지 가공 물품의 훌륭한 재료가 됩니다.\n\t\t수집품 상인 워언에게 제젤로피를 가져다주어 보상을 받을 수 있도록 합시다.\t\t\n\t\t<NAVI>[워언]<INFO>malaya,295,171,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10033] = {Title = "Q 반짝반짝 실버블레이드 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"모든 악귀를 단칼에 베어버린다는 칼인 실버블레이드.\n\t\t견습 대장장이 판도이는 실버블레이드를 만들어 모두에게 인정받고 싶어 합니다. 그에게 무엇인가 도움이 될 수 있을 것 같습니다.\n\t\t<NAVI>[판도이]<INFO>malaya,119,217,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10034] = {Title = "Q 마리스의 아이 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"딸아이가 집을 나선 뒤 아직까지 돌아오고 있지 않아 마리스의 걱정은 이만저만이 아닙니다. 아무래도 숲의 악령들에 의해 길을 헤매고 있는 것 같습니다.\n\t\t마리스를 도와 실종된 아이가 귀가할 수 있도록 도와줍시다.\n\t\t<NAVI>[마리스]<INFO>ma_fild01,200,190,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10035] = {Title = "Q 동의 부탁 - 뼈다귀를 모아줘 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"경비대원 동의 파트너인 반타이는 매우 뛰어난 능력을 가지고 있는 경비견입니다.\n\t\t하지만 반타이가 계속 그 능력을 발휘하기 위해서는 특별한 뼈다귀가 필요한 것 같습니다. \n\t\t<NAVI>[경비대원 동]<INFO>ma_fild01,239,253,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10036] = {Title = "Q 전통 수호물 제작을 위해 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이멜다는 마을의 평화를 지키기 위한 수호물을 제작할 수 있는 능력을 가지고 있습니다.\n\t\t하지만 그녀에게는 수호물을 제작하기 위한 재료를 수집할 수 있는 능력은 없어 보이네요.\n\t\t<NAVI>[이멜다]<INFO>malaya,169,350,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10037] = {Title = "Q 페리호의 영혼 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"페드로는 본인의 배가 귀신들에 의해 점령이 되어 더 이상 운행을 하지 못하고 있는 상황이라고 합니다.\n\t\t귀신 소굴이 되어버린 페드로의 배를 조사하러 갈 용기 있는 모험가가 필요합니다!\n\t\t<NAVI>[페드로]<INFO>malaya,326,68,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>경계하는 마을<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10038] = {Title = "Q 그 녀석과 눈 마주칠 수 없다 (100)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"부디데이의 노래를 좋아하던 소, 말, 양, 닭, 그리고 돼지... 하지만 그들이 아직 돌아오고 있지 않다고 합니다.\n\t\t외눈박이 괴물 붕이승이스의 괴롭힘 때문인데요, 모험가님의 도움이 필요할 것 같네요! \n\t\t<NAVI>[부디데이]<INFO>ma_fild02,241,39,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10039] = {Title = "Q 핀타도스 페스티벌#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"바르요 마히와가에 오래전부터 이어내려 온 핀타도스 페스티벌이라는 축제가 있습니다.\n\t\t이번 축제를 준비하는 과정에서 붕이승이스의 습격을 받는 바람에 페스티벌을 열지 못할 위기에 처했습니다. 곤경에 빠진 이스코를 도울 방법이 없을까요?\n\t\t<NAVI>[페스티벌 준비소년]<INFO>ma_fild01,179,260,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10040] = {Title = "Q 부워여 처치 (130)#포트 말라야#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"거대한 머리 두 개를 달고 있는 끔찍한 괴물 부워여가 포레스트 깊숙한 곳에서 발견되었다고 합니다.\n\t\t부워여의 힘은 매우 강력하기 때문에 외부의 힘이 절실히 필요한 상태입니다. 부워여 처치에 참가하여 포트 말라야의 주민들을 보호할 수 있도록 합시다.\n\t\t<NAVI>[경비대장]<INFO>malaya,290,340,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 130^000000\n\t\t<TIPBOX>Q 숲 속의 비밀 (100)<INFO>10029</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶포트 말라야 퀘스트 보기<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10041] = {Title = "Q 과라나#브라질리스#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10041", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"과라나 열매로 만든 사탕은 브라질리스의 남녀노소 모두에게 큰 사랑을 받고 있는 상품이라고 하는데요.\n\t\t그런데 최근에 들어서 과라나 사탕 제조에 어려움을 겪고 있다고 합니다.\n\t\t<NAVI>[사탕 제조업자]<INFO>brasilis,187,162,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶브라질리스 퀘스트 보기<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10042] = {Title = "Q 행운의 수련#브라질리스#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10042", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"브라질리스의 식물들은 고유의 환경에 의해 선명하고 화려한 것으로 유명합니다.\n\t\t그중에서도 브라질리스 수련은 특별히 아름다우며 커다란 행운까지 가져다준다고 해요.\n\t\t<NAVI>[카르멘]<INFO>brasilis,203,286,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶브라질리스 퀘스트 보기<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10043] = {Title = "Q 화장실의 유령 (40)#브라질리스#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10043", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"브라질리스의 미술 박물관 화장실에는 기괴한 소문이 돌고 있습니다.\n\t\t이 아이들로부터 그 소문에 대해 정보를 얻을 수 있을 것 같습니다.\n\t\t<NAVI>[페르도]<INFO>brasilis,185,246,0,101,0</INFO></NAVI>\n\t\t<NAVI>[마리아나]<INFO>brasilis,188,244,0,101,0</INFO></NAVI>\n\t\t<NAVI>[파비오]<INFO>brasilis,181,250,0,101,0</INFO></NAVI>\n\t\t<NAVI>[다니엘]<INFO>brasilis,180,249,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 40^000000\n\n\t\t<TIPBOX>▶브라질리스 퀘스트 보기<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10044] = {Title = "Q 이아라#브라질리스#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"동굴 깊은 곳에 있는 수련 위에는 남자들만 골라서 사악한 힘으로 유혹하는 미녀, 이아라가 있다고 합니다.\n\t\t그녀의 힘을 약화시킬 수 있는 방법을 찾아야 합니다.\n\t\t<NAVI>[샤먼]<INFO>brasilis,315,334,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶브라질리스 퀘스트 보기<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10045] = {Title = "Q 쥐 잡기 (40)#브라질리스#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"언제부턴가 브라질리스에서는 정체를 알 수 없는 좋지 않은 기운을 가진 이상한 쥐들이 나타나기 시작했습니다.\n\t\t루시아는 그것들을 잡을 수 있는 특수 아이템을 가지고 있는 것 같습니다.\n\t\t<NAVI>[루시아]<INFO>brasilis,192,133,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 40^000000\n\n\t\t<TIPBOX>▶브라질리스 퀘스트 보기<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10046] = {Title = "Q 동물 찾기 (40)#브라질리스#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"안젤로가 기르고 있던 강아지들이 마을 밖 필드까지 나가버리는 사태가 발생했습니다.\n\t\t난처해하고 있는 안젤로를 위해 무엇인가 할 일은 없을까요?\n\t\t<NAVI>[안젤로]<INFO>brasilis,297,307,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 40^000000\n\n\t\t<TIPBOX>▶브라질리스 퀘스트 보기<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10047] = {Title = "Q 스밍 타이거#아요타야#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10047", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"두씻으로부터 고대 건물의 중심부에 위치하고 있다는 스밍타이거에 대한 이야기를 들을 수 있습니다.\n\t\t스밍 타이거에 대한 해괴하고 무서운 이야기가 오히려 모험가들의 호기심을 자극하게 되는 것 같습니다!\n\t\t<NAVI>[두씻]<INFO>ayothaya,83,132,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶아요타야 퀘스트 보기<INFO>4169</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10048] = {Title = "Q 똠양궁#아요타야#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10048", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아요타야에는 맛있는 음식들이 풍부한 것으로 유명합니다. 그중에서 똠양궁이라는 음식이 으뜸이라고 하는데요!\n\t\t에이논에게 부탁하면 그 특별한 음식의 맛을 볼 수 있을지도 모르겠네요.\n\t\t<NAVI>[에이논]<INFO>ayothaya,196,265,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶아요타야 퀘스트 보기<INFO>4169</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10049] = {Title = "Q 약혼반지 찾아주기#아요타야#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10049", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"물에 그만 반지를 빠뜨리고 만 여인은 그 자리에서 안절부절못하고 있습니다.\n\t\t그녀를 도와 반지를 건져내고 추가적인 사연도 들어보도록 합시다.\n\t\t<NAVI>[강해보이는 여자]<INFO>ayothaya,233,105,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶아요타야 퀘스트 보기<INFO>4169</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10050] = {Title = "Q 고래섬을 찾아서#모스코비아#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10050", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"모스코비아에는 옛날부터 움직이는 섬에 대한 이야기가 내려오고 있었습니다.\n\t\t그리고 베르바예프는 그것을 얼마 전에 실제로 봤다고 강력하게 주장하고 있습니다.\n\t\t<NAVI>[베르바예프]<INFO>moscovia,171,71,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10051] = {Title = "Q 러시아 불사신 코쉐이#모스코비아#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10051", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"세이지는 다른 지역에서 방문하는 사람들을 매우 반기는 눈치입니다.\n\t\t그리고 근처에 있는 숲에서 많은 모험가들이 실종되고 있다는 이야기를 전해주는데...\n\t\t<NAVI>[세이지]<INFO>mosk_fild02,198,252,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈포링 카드 소지^000000\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10052] = {Title = "Q WINTER, DON\'T COME AGAIN PLEASE!#모스코비아#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10052", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"그 어느 지역보다도 추운 날씨로 악명이 높은 모스코비아.\n\t\t더 무서운 바바야가는 본인을 조금만 도와준다면 겨울이 오지 않게 하는 마법을 완성시켜주겠다고 합니다.\n\t\t<NAVI>[더 무서운 바바야가]<INFO>mosk_in,215,46,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 60^000000\n\t\t^663399◈절구공이 40개 소지^000000\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10053] = {Title = "Q 빨간 반지#모스코비아#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"빨간 반지를 얻기 위해 바실리 할아버지를 찾아갔지만 반지는 이제 본인이 가지고 있지 않다고 합니다.\n\t\t그리고 그것과 관련된 슬픈 이야기를 듣게 되는데...\n\t\t<NAVI>[바실리 할아버지]<INFO>moscovia,206,81,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t<TIPBOX>Q 러시아 불사신 코쉐이<INFO>10051</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10054] = {Title = "Q 루살까의 머리카락#모스코비아#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"결혼 직전의 신부가 늪에 빠져 죽게 되면 루살까라는 물의 요정이 되어버린다고 합니다.\n\t\t그리고 얼마 전, 그녀의 딸이 결혼을 앞두고 실종되었다고 합니다.\n\t\t<NAVI>[상심한 아주머니]<INFO>moscovia,166,145,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t<TIPBOX>Q 러시아 불사신 코쉐이<INFO>10051</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10055] = {Title = "Q 마로즈까#모스코비아#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"황금색의 열쇠를 만들기 위한 재료인 금실은 마로즈까에게서 얻을 수 있다고 합니다.\n\t\t벽 너머에서 들리는 소녀의 목소리가 몇 가지 단서를 주고 있습니다.\n\t\t<NAVI>[벽]<INFO>mosk_dun01,45,257,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t<TIPBOX>Q 러시아 불사신 코쉐이<INFO>10051</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10056] = {Title = "Q 겁쟁이 소년 미하일#모스코비아#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"갈리나의 아들 미하일이 사고를 치고 도망가서는 아직까지 돌아오지 않고 있다고 합니다.\n\t\t안절부절못하고 있는 갈리나에게 호의를 베풀어주도록 합시다.\n\t\t<NAVI>[갈리나]<INFO>mosk_in,144,279,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10057] = {Title = "Q 팬케이크 만들기#모스코비아#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"가정부 라리사는 미하일을 찾아준 답례로 특별히 구운 팬케이크를 준비했습니다.\n\t\t또한 필요한 재료만 가져온다면 새로운 팬케이크 제조법을 알려준다고 하네요.\n\t\t<NAVI>[라리사]<INFO>mosk_in,211,259,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t<TIPBOX>Q 겁쟁이 소년 미하일<INFO>10056</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10058] = {Title = "Q 귀마개 모자 제작#모스코비아#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"모스코비아에서 매우 유명한 전통 모자인 샤프키 모자는 추운 날씨를 견디기 위한 필수품이기도 합니다.\n\t\t남쪽 민가에서 지내고 있는 이리나는 몇 가지 재료만 가져온다면 샤프키 모자를 제작해 주겠다고 합니다.\n\t\t<NAVI>[이리나]<INFO>moscovia,211,93,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10059] = {Title = "Q 보석을 뱉는 신기한 다람쥐#모스코비아#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"모스코비아의 도토리 상인은 싱싱한 도토리를 팔고 있습니다.\n\t\t상인으로부터 구입한 도토리를 마을 인근에 있는 덩치 큰 다람쥐에게 가져다주면 신기한 보석들을 뱉어준다는 소문이 있네요.\n\t\t<NAVI>[도토리 상인]<INFO>moscovia,208,182,0,101,0</INFO></NAVI>\n\t\t<NAVI>[몸집이 큰 다람쥐]<INFO>mosk_fild01,113,108,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶모스코비아 퀘스트 보기<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10060] = {Title = "Q 전설 (60)#데와타#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10060", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"자티 부족의 영광을 얻은 사람만이 사용할 수 있다고 하는 자티 왕관.\n\t\t오두막 앞에서 현자 카시아파와 자티 왕관에 대한 사연을 엿듣게 되는데...\n\t\t<NAVI>[현자 카시아파]<INFO>dew_in01,22,48,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 60^000000\n\n\t\t<TIPBOX>▶데와타 퀘스트 보기<INFO>4172</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10061] = {Title = "Q 노인을 도와라!! (60)#데와타#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"전통 주를 제조하는 노인 메모는 난처한 상황에 놓여 있습니다.\n\t\t주 거래처인 자티 부족과 갑자기 연락이 두절되었기 때문인데요, 자티 부족은 근 10년간 한 번도 약속을 어긴 적이 없다고 합니다. 무슨 일이 생긴 걸까요?\n\t\t<NAVI>[메모]<INFO>dewata,109,262,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 60^000000\n\n\t\t<TIPBOX>▶데와타 퀘스트 보기<INFO>4172</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10062] = {Title = "Q 전통무기!! (60)#데와타#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"자신이 위치하고 있는 곳이 어디인지도 모르고 있는 노인.\n\t\t알고 보니 사연이 많은 화이트스미스였습니다. 그는 그동안 여행하는 길에 의문의 무기 제작서를 습득했다고 하는데...\n\t\t<NAVI>[가티]<INFO>dew_fild01,127,240,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 60^000000\n\n\t\t<TIPBOX>▶데와타 퀘스트 보기<INFO>4172</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10063] = {Title = "Q 한약방 (40)#용지성#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10063", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"용지성의 한의사로 보이는 타화는 급한 환자를 맞이하고 있는 중인데 안타깝게도 약재가 떨어져 버린 상황입니다.\n\t\t자리를 뜨기 어려운 타화를 대신하여 약재를 구해다 주어야 할 것 같습니다.\n\t\t<NAVI>[의사처럼 보이는 의사]<INFO>lou_in02,265,69,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 40^000000\n\n\t\t<TIPBOX>▶용지성 퀘스트 보기<INFO>4166</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10064] = {Title = "Q 독약왕 (40)#용지성#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10064", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"독약왕 나가쉬 아르세스는 용지성에서 인정받는 무공의 달인입니다.\n\t\t그중에서도 독공에 대해서는 일인자라고 할 수 있었는데요, 그에게 독공에 대한 지식을 얻어보는 것이 어떨까요?\n\t\t<NAVI>[독약왕]<INFO>lou_in02,123,39,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 40^000000\n\t\t<TIPBOX>Q 한약방 (40)<INFO>10063</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶용지성 퀘스트 보기<INFO>4166</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10065] = {Title = "Q 8인의 개혁 운동가#용지성#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"용지성의 미래를 바꾸고 싶어 하는 개혁 운동가 쑨 마오는 당신에게도 동료들과 함께 개혁 운동에 동참할 것을 권합니다.\n\t\t새로 동참하는 인원이 8명이 된다면 특별한 임무를 받을 수 있는 것 같습니다.\n\t\t<NAVI>[은둔자]<INFO>lou_in02,77,37,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶용지성 퀘스트 보기<INFO>4166</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10066] = {Title = "Q 전망대#용지성#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"뤄양 필드 중앙 봉오리에서 경치를 감상하고 있는 소년은 마을의 어떤 주점에 대해 분노하고 있는 것 같습니다.\n\t\t그의 부탁을 들어준다면 좋은 것을 알려준다고 합니다.\n\t\t<NAVI>[구연보]<INFO>lou_fild01,195,177,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶용지성 퀘스트 보기<INFO>4166</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10067] = {Title = "Q 아마쯔 던전출입#아마쯔#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10067", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아마쯔 던전에 출입하기 위한 퀘스트입니다.\n\t\t아마쯔의 별관 앞을 지키고 있는 문지기들로부터 성주의 어머니가 매우 편찮으시다는 이야기를 듣게 됩니다. 도움을 위해 성주를 찾아가는 것으로부터 이야기가 시작됩니다.\n\t\t<NAVI>[문지기 병사]<INFO>amatsu,164,174,0,101,0</INFO></NAVI>\n\t\t<NAVI>[성주]<INFO>ama_in02,200,176,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶아마쯔 퀘스트 보기<INFO>4167</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10068] = {Title = "Q 모모타로 (30)#아마쯔#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"두루마기 출판사에서는 인기 설화 모모타로 이야기의 100만 부 출판 기념으로 멋진 이벤트를 준비했습니다.\n\t\t직접 이야기 속의 주인공이 되어서 멋진 경험을 할 수 있게 되실 겁니다!\n\t\t<NAVI>[출판사직원]<INFO>amatsu,223,236,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 30^000000\n\n\t\t<TIPBOX>▶아마쯔 퀘스트 보기<INFO>4167</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10069] = {Title = "Q 속성 원석 교환#아마쯔#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"광기에 가득 찬 것처럼 보이는 연금술사 라스푸친 그레고리.\n\t\t그의 사악한 말투와는 다르게 거래에 있어서는 매우 깔끔한 것 같습니다.\n\t\t<NAVI>[연금술사]<INFO>ama_in02,61,27,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶아마쯔 퀘스트 보기<INFO>4167</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10070] = {Title = "Q 스시! 와사비! 스시! 와사비! 스시!#아마쯔#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"뛰어난 요리 솜씨는 물론이고 정 또한 많아 손님들에게 음식을 마구 퍼 주는 바람에 그는 마구마구라고 불리고 있습니다.\n\t\t그런 이유로 항상 재료 부족 현상을 겪고 있는데요, 이 사람을 도와주면 무엇인가 좋은 일이 생길 것 같습니다.\n\t\t<NAVI>[초밥 명인]<INFO>ama_in01,162,17,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶아마쯔 퀘스트 보기<INFO>4167</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10071] = {Title = "Q 브로큰 소드 (50)#쿤룬#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10071", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이런저런 흉흉한 소문 때문에 현재 이곳 마을에서는 외부인을 썩 반기지 않고 있습니다.\n\t\t최근에는 도둑들까지도 설치고 다닌다고 하는데...\n\t\t<NAVI>[당주]<INFO>gon_in,17,93,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 50^000000\n\n\t\t<TIPBOX>▶쿤룬 퀘스트 보기<INFO>4168</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10072] = {Title = "Q 대련장#쿤룬#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이곳에는 자신의 힘을 시험해볼 수 있는 대련장이 있습니다.\n\t\t대련장에 입장하기 위해서는 차력사 앞에서 완력을 인정받아야 한다고 합니다.\n\t\t<NAVI>[차력사]<INFO>gonryun,180,118,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶쿤룬 퀘스트 보기<INFO>4168</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10073] = {Title = "Q 떨어뜨린 걸 주워다 주는 착한 인간 (20)#쿤룬#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"연교 함은 가보로 내려오고 있는 중요한 물건을 지상으로 떨어뜨리고 말았습니다.\n\t\t도움을 준다면 답례를 받을 수 있지 않을까요?\n\t\t<NAVI>[연교 함]<INFO>gonryun,237,226,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 20^000000\n\n\t\t<TIPBOX>▶쿤룬 퀘스트 보기<INFO>4168</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10074] = {Title = "Q 잡힌 놈, 안잡힌 놈, 바쁜 놈 (100)#락 릿지#", Search = 1, Image = "유저인터페이스\\tipbox\\tip10074", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"신대륙의 개척도시인 락 릿지에 대한 소문을 들으셨나요?\n\t\t알베르타의 항해사 카람 푸치를 통하여 최초 의뢰를 접하실 수 있습니다.\t\n\t\t<NAVI>[카람 푸치]<INFO>alberta,240,103,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10075] = {Title = "Q 파이프 청소 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"락 릿지 지하 하수도의 파이프와 펌프를 관리하고 있는 도노반에게 고민이 많아 보이는데요.\n\t\t파이프와 펌프에 달라붙어 있는 괴물들이 원흉이라고 합니다.\n\t\t<NAVI>[도노반]<INFO>harboro1,138,157,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10076] = {Title = "Q 광석 조각 수집 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이방인들의 과도한 채굴작업으로 인해 원주민들에게 필요한 광물들조차 부족한 지경에 다다랐습니다.\n\t\t이방인 중 한 사람으로서 그들에게 도움을 주는 것이 어떨까요?\n\t\t<NAVI>[웅크린 말]<INFO>rockrdg1,262,90,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>Q 잡힌 놈, 안잡힌 놈, 바쁜 놈 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10077] = {Title = "Q 가족의 평화 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"캑터론 씨는 황무지를 지나던 도중 코요테들의 습격을 받아 중요한 물건을 잃어버리게 되었다고 합니다.\n\t\t캑터론 씨네 가족의 평화를 위해 힘을 써 주셨으면 좋겠습니다.\n\t\t<NAVI>[캑터론 씨]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>Q 잡힌 놈, 안잡힌 놈, 바쁜 놈 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10078] = {Title = "Q 가스! 가스!! (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"광산 안에는 광부들의 이상 현상을 유발하는 악성 가스 덩어리들이 돌아다니고 있다고 해요.\n\t\t병약해진 그를 대신해 광산 내부를 순찰해보도록 해요.\n\t\t<NAVI>[병약한 가스트]<INFO>rockrdg2,295,328,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>Q 잡힌 놈, 안잡힌 놈, 바쁜 놈 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10079] = {Title = "Q 바둑이가 물고 간 반지 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"맥피네 반려견인 바둑이가 귀중한 금반지를 물어가버리고 말았습니다.\n\t\t모험가님이 대신해서 찾아주면 좋을 것 같습니다.\n\t\t<NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10080] = {Title = "Q 바둑아 그럼 못 써 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"바둑이가 매일같이 물건을 황야로 물어가버리고 있어요.\n\t\t어떤 물건을 물어갔는지는 그날 그날 다른 것 같습니다.\n\t\t<NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>Q 바둑이가 물고 간 반지 (100)<INFO>10079</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10081] = {Title = "Q 바둑이를 위한 복수 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"바둑이가 집에 있는 장총만 봐도 공포에 질려 벌벌 떤다고 합니다.\n\t\t누군가가 괴롭힌 것으로 보이는데요, 대신하여 복수해 줄 수 있도록 해요.\n\t\t<NAVI>[미스터 맥피]<INFO>harboro1,344,61,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>Q 바둑이가 물고 간 반지 (100)<INFO>10079</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10082] = {Title = "Q 배관 정비 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"담수시설 관리소는 인력난에 매우 힘들어하고 있는 모양입니다.\n\t\t관리소장의 제안을 받아들이면 4가지의 배관을 정비하는 임무를 할 수 있게 됩니다.\n\t\t<NAVI>[담수시설 관리소장]<INFO>harboro1,334,135,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10083] = {Title = "Q 개척지의 식료품 조달 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이곳에서는 식료품 확보가 어려워서 배고픈 노동자들의 배식에 애를 먹고 있는 모양입니다.\n\t\t외부에서 식자재를 조달하여 급식 담당자를 도와줄 수 있도록 합시다.\n\t\t<NAVI>[급식 담당자]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10084] = {Title = "Q 개척지의 사냥 - 일반 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이 지역이 제대로 된 교통의 요충지가 되기 위해서는 어떻게든 주변의 몬스터 개체 수를 줄여야 합니다.\n\t\t강철 자경단을 도와 소적단 무리를 사냥할 수 있도록 합시다.\n\t\t<NAVI>[강철 자경단]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10085] = {Title = "Q 개척지의 사냥 - 정예 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"강철 자경단을 따라 소적단 무리의 사냥을 계속해서 이어나가도록 해요.\n\t\t이번에는 조금 더 강한 무리들을 상대하게 될 것입니다.\n\t\t<NAVI>[강철 자경단]<INFO>harboro1,357,152,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\t\t<TIPBOX>Q 개척지의 사냥 - 일반 (100)<INFO>10084</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10086] = {Title = "Q 거상과의 계약 (100)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"대륙 곳곳을 돌아다니는 상인 후딘이 이곳, 락 릿지의 특산품을 찾으러 왔습니다.\n\t\t양심적인 상인 같아 보이니 좋은 거래를 할 수 있을 것입니다.\n\t\t<NAVI>[이국의 상인]<INFO>harboro1,231,254,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 100^000000\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10087] = {Title = "Q 불꽃 축제 준비 위원회 (130)#락 릿지#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"폭파 기술자 데몬은 소적단으로부터 광산을 되찾기 위해 강력한 폭탄 제조를 준비하고 있습니다.\n\t\t그를 도와서 제조에 필요한 재료들을 조달해 줄 수 있도록 합시다.\n\t\t<NAVI>[데몬]<INFO>harboro2,164,80,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 130^000000\n\t\t<TIPBOX>Q 잡힌 놈, 안잡힌 놈, 바쁜 놈 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶락 릿지 퀘스트 보기<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 }
 main = function()

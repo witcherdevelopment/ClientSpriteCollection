@@ -17049,19 +17049,19 @@ Description = {"깃털이 엉망이 된 페퍼로티 세리를 위해 필드에 출몰하는 나들이 문�
 Description = {"페퍼로티 세리는 깃털 손질을 하느라 정신이 없는 것 같다. 내일 다시 찾아오자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[11498] = {Title = "잭과 잭의 잭한 나날", IconName = "ico_ev.bmp", 
+[11498] = {Title = "잭과 잭의 잭한 이야기", IconName = "ico_ev.bmp", 
 Description = {"유령들의 소근대는 소리와 함께 정신을 차려보니 죽은자의 도시 니플헤임에 도착했다. 유령들의 이야기를 들어보자."}
 , Summary = "호로롱과 대화"}
 , 
-[11499] = {Title = "잭과 잭의 잭한 나날", IconName = "ico_ev.bmp", 
+[11499] = {Title = "잭과 잭의 잭한 이야기", IconName = "ico_ev.bmp", 
 Description = {"광장에 있는 잭이 뭔가 알고 있을지도 모른다고 한다. 광장에 있는 잭에게 물어보자."}
 , Summary = "잭과 대화"}
 , 
-[11500] = {Title = "잭과 잭의 잭한 나날", IconName = "ico_ev.bmp", 
+[11500] = {Title = "잭과 잭의 잭한 이야기", IconName = "ico_ev.bmp", 
 Description = {"잭이 있었다는 곳에 대한 이야기를 들었다. 후루롱에게 돌아가자."}
 , Summary = "후루롱과 대화"}
 , 
-[11501] = {Title = "잭과 잭의 잭한 나날", IconName = "ico_ev.bmp", 
+[11501] = {Title = "잭과 잭의 잭한 이야기", IconName = "ico_ev.bmp", 
 Description = {"필드 및 던전 어딘가에 있는 도망치는 잭을 10개정도 잡고, 잭을 잡으면 떨어지는 장식용 호박 10개, 바싹 마른 하얀줄기 20개를 호로롱에게 가져오자."}
 , 
 RewardItemList = {
@@ -17071,11 +17071,11 @@ RewardItemList = {
 }
 , Summary = "잭을 니플헤임으로"}
 , 
-[11502] = {Title = "잭과 잭의 잭한 나날", IconName = "ico_ev.bmp", 
+[11502] = {Title = "잭과 잭의 잭한 이야기-대기", IconName = "ico_ev.bmp", 
 Description = {"잭을 니플헤임으로 데리고 왔다. 유령들의 말에 따르면 잭은 산자의 땅에 너무 오래 머물면 줄기가 자란다고 하니 푹 쉬도록 하자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[11503] = {Title = "잭과 잭의 잭한 나날", IconName = "ico_ev.bmp", 
+[11503] = {Title = "잭과 잭의 잭한 이야기", IconName = "ico_ev.bmp", 
 Description = {"필드 및 던전 어딘가에 있는 도망치는 잭을 10개정도 잡고, 잭을 잡으면 떨어지는 장식용 호박 10개, 바싹 마른 하얀 줄기 20개를 호로링에게 가져오자."}
 , 
 RewardItemList = {
@@ -17197,7 +17197,7 @@ RewardItemList = {
 }
 , Summary = "잭과 대화"}
 , 
-[11527] = {Title = "검은 언덕에서 불어오는 바람", IconName = "ico_ev.bmp", 
+[11527] = {Title = "검은 언덕에서 불어오는 바람-대기", IconName = "ico_ev.bmp", 
 Description = {"잭이 피곤한 것 같다. 04시 이후 다시 방문하자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
@@ -17479,10 +17479,6 @@ Description = {"할로윈 축제장을 완성하기 위해 빨갛고 뜨거운 ^ff0000엘더 윌로우 1
 , 
 [11605] = {Title = "잭 더 자이언트 펌프킨", IconName = "ico_ev.bmp", 
 Description = {"할로윈 축제장을 구경하고 ^ff0000잭 잡기 게임^000000을 완료하자. 할로윈 축제장은 축제 안내원을 통해 갈 수 있다. ^ff0000※이벤트보상박스는 획득 즉시 오픈 됩니다.^000000"}
-, 
-RewardItemList = {
-{ItemID = 23921, ItemNum = 1}
-}
 , Summary = "잭 더 자이언트 잡기"}
 , 
 [11606] = {Title = "잭 더 자이언트 펌프킨-대기", IconName = "ico_ev.bmp", 
@@ -17658,22 +17654,22 @@ Description = {"조금 이상한 잭은 이상한잭은 잘 모르겠지만 이상한 나이트들을 봤다
 , Summary = "이상한 잭과 대화"}
 , 
 [11656] = {Title = "잭과 이상한 잭의 조금 이상한 이야기", IconName = "ico_ev.bmp", 
-Description = {"잭을 쓰고 있는 나이트들은 갑자기 늘어난 갈링 때문에 숨쉬기가 힘들다고 한다. 갈링을 20마리 처치하고 돌아오자."}
-, Summary = "갈링 20마리 처치"}
+Description = {"잭을 쓰고 있는 나이트들은 갑자기 늘어난 갈링 때문에 숨쉬기가 힘들다고 한다. 갈링을 20개 처치하고 돌아오자."}
+, Summary = "갈링 20개 처치"}
 , 
 [11657] = {Title = "잭과 이상한 잭의 조금 이상한 이야기", IconName = "ico_ev.bmp", 
 Description = {"갈링을 처치했지만 상황은 그다지 나아지지 않은 것 같다. 허리롱에게 돌아가 보고하자."}
 , Summary = "허리롱과 대화"}
 , 
 [11658] = {Title = "잭과 이상한 잭의 조금 이상한 이야기", IconName = "ico_ev.bmp", 
-Description = {"허리롱은 이상한 잭을 위해 갈링을 처치해 달라고 한다. 갈링을 20마리 처치하고 허리롱에게 돌아오자."}
+Description = {"허리롱은 이상한 잭을 위해 갈링을 처치해 달라고 한다. 갈링을 20개 처치하고 허리롱에게 돌아오자."}
 , 
 RewardItemList = {
 {ItemID = 6658, ItemNum = 1}
 }
-, Summary = "갈링 20마리 처치"}
+, Summary = "갈링 20개 처치"}
 , 
-[11659] = {Title = "잭과 이상한 잭의 조금 이상한 이야기", IconName = "ico_ev.bmp", 
+[11659] = {Title = "잭과 이상한 잭의 조금 이상한 이야기-대기", IconName = "ico_ev.bmp", 
 Description = {"갈링을 처치했다. 더 이상 무리하면 정화되어버릴지도 모른다고 하니 04시 이후 다시 찾아오자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
@@ -17784,6 +17780,76 @@ Description = {"윱은 자신을 소환한 것 처럼 셰즈와 이베인을 소환해 달라고 한다. �
 [11683] = {Title = "엘레멘탈 마스터 전직", IconName = "ico_jq.bmp", 
 Description = {"윱의 부탁대로 소환을 완료했지만 소란스러웠던 탓에 에그노로리아님에게 들켜버렸다."}
 , Summary = "마스터와 대화"}
+, 
+[11684] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"슬퍼 보이는 잭은 니플헤임 남쪽에 있는 잭에게 냐옹이와 친해질 수 있는 방법을 배우고 싶어 한다. 니플헤임 남쪽에 있는 잭과 대화하자."}
+, Summary = "니플헤임 남쪽의 잭"}
+, 
+[11685] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"잭의 고양이는 위즈를 따라갔다고 한다. 왼쪽 길에 있는 위즈와 대화하자."}
+, Summary = "위즈와 대화"}
+, 
+[11686] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"냐옹이에 대한 이야기를 듣고 싶다면 뼈조각 2개를 구해오라고 한다. 뼈조각 2개를 구해서 위즈에게 돌아오자."}
+, Summary = "뼈조각 2개"}
+, 
+[11687] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"뼈조각을 하나 받은 위즈는 나머지 뼈조각 한개를 니플헤임 남쪽의 잭에게 주라고 한다. 뼈조각을 잭에게 전해주자."}
+, Summary = "니플헤임 남쪽의 잭"}
+, 
+[11688] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"쓸만한 정보를 얻지 못했다. 아쉽지만 슬퍼 보이는 잭에게 돌아가자."}
+, Summary = "슬퍼 보이는 잭에게"}
+, 
+[11689] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"떠돌아다니는 ^ff0000도망치는 잭을 10마리^000000잡고 ^ff0000장식용 호박, 바싹 마른 하얀 줄기를 5개씩^000000 가져오자."}
+, Summary = "슬퍼 보이는 잭에게"}
+, 
+[11690] = {Title = "잭과 잭의 기묘한 눈동자-대기", IconName = "ico_ev.bmp", 
+Description = {"내일 다시 잭과 이야기 해보자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11691] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"떠돌아다니는 ^ff0000도망치는 잭을 10마리^000000잡고 ^ff0000장식용 호박, 바싹 마른 하얀 줄기를 5개씩^000000 가져오자."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "슬퍼 보이는 잭에게"}
+, 
+[11692] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"떠돌아다니는 ^ff0000도망치는 잭을 10마리^000000잡고 ^ff0000장식용 호박, 바싹 마른 하얀 줄기를 5개씩^000000 가져오자."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "슬퍼 보이는 잭에게"}
+, 
+[11693] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"떠돌아다니는 ^ff0000도망치는 잭을 10마리^000000잡고 ^ff0000장식용 호박, 바싹 마른 하얀 줄기를 5개씩^000000 가져오자."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "슬퍼 보이는 잭에게"}
+, 
+[11694] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"떠돌아다니는 ^ff0000도망치는 잭을 10마리^000000잡고 ^ff0000장식용 호박, 바싹 마른 하얀 줄기를 5개씩^000000 가져오자."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+, 
+{ItemID = 420025, ItemNum = 1}
+}
+, Summary = "슬퍼 보이는 잭에게"}
+, 
+[11695] = {Title = "잭과 잭의 기묘한 눈동자", IconName = "ico_ev.bmp", 
+Description = {"떠돌아다니는 ^ff0000도망치는 잭을 10마리^000000잡고 ^ff0000장식용 호박, 바싹 마른 하얀 줄기를 5개씩^000000 가져오자."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "슬퍼 보이는 잭에게"}
 , 
 [12000] = {Title = "친구:불협화음", 
 Description = {"마쿠의 또다른 친구를 찾아 그와 이야기를 나누어야 합니다."}

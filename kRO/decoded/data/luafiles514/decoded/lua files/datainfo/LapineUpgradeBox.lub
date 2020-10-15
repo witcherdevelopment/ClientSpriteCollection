@@ -5,6 +5,14 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+Dark_Stone = {ItemID = 100580, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Red_Force_Pendant", 490100}
+, 
+{"Blue_Mental_Pendant", 490101}
+}
+, NeedSource_String = "레드 포스/블루 멘탈 펜던트"}
+, 
 Egir_Power_Box = {ItemID = 100466, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"에기르헬름K", 19026}
@@ -3896,6 +3904,14 @@ TargetItems = {
 {"S_Evilcurse_Pendant", 24659}
 , 
 {"S_Evilcurse_Shoes", 24660}
+, 
+{"S_FullPene_Shoes", 24664}
+, 
+{"S_FullPene_Armor", 24663}
+, 
+{"S_FullPene_Pendant", 24662}
+, 
+{"S_FullPene_Earring", 24661}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5168,6 +5184,14 @@ TargetItems = {
 {"S_Evilcurse_Pendant", 24659}
 , 
 {"S_Evilcurse_Shoes", 24660}
+, 
+{"S_FullPene_Shoes", 24664}
+, 
+{"S_FullPene_Armor", 24663}
+, 
+{"S_FullPene_Pendant", 24662}
+, 
+{"S_FullPene_Earring", 24661}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6260,6 +6284,14 @@ TargetItems = {
 {"S_Evilcurse_Pendant", 24659}
 , 
 {"S_Evilcurse_Shoes", 24660}
+, 
+{"S_FullPene_Shoes", 24664}
+, 
+{"S_FullPene_Armor", 24663}
+, 
+{"S_FullPene_Pendant", 24662}
+, 
+{"S_FullPene_Earring", 24661}
 }
 , NeedSource_String = "+7 쉐도우 아이템"}
 , 
