@@ -1226,6 +1226,16 @@ SignBoardList = {
 , 
 {"prontera", 115, 191, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ｽﾛｯﾄｴﾝﾁｬﾝﾄ-DX級", "255,255,255"}
 , 
+{"izlude", 156, 136, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  転職チケット", "255,255,255"}
+, 
+{"prontera", 86, 63, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  神秘の館へ", "255,255,255"}
+, 
+{"ev_season01", 37, 116, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  デモニッシュ交換", "255,255,255"}
+, 
+{"ev_season01", 44, 98, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  シーズンエンチャント", "255,255,255"}
+, 
+{"ev_season01", 38, 120, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  装備の覚醒", "255,255,255"}
+, 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
 , 
 {"lby_in", 44, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐依頼", "255,255,255"}
@@ -1342,6 +1352,118 @@ SignBoardList = {
 , 
 {"pab_camp", 21, 171, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｾｷｭｱﾛｸﾞｲﾝﾎﾞｰﾅｽ", "255,255,255"}
 , 
-{"prontera", 100, 68, 0, IT_BMP, "signboard\\main_img18th.bmp"}
+{"yuno", 211, 329, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミッションマスター", "255,255,255"}
+, 
+{"yuno", 216, 329, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ミッション転送サポート", "255,255,255"}
+, 
+{"yuno", 221, 329, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  転職・転生サポート", "255,255,255"}
+, 
+{"yuno", 205, 316, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  セーブ・倉庫", "255,255,255"}
+, 
+{"yuno", 214, 316, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  回復", "255,255,255"}
+, 
+{"yuno", 202, 303, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【40Zeny】", "255,255,255"}
+, 
+{"yuno", 192, 291, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売", "255,255,255"}
+, 
+{"yuno", 197, 291, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬・修理", "255,255,255"}
+, 
+{"yuno", 205, 307, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  騎乗レンタル", "255,255,255"}
+, 
+{"yuno", 225, 324, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ステータス・スキルリセット", "255,255,255"}
+, 
+{"yuno", 201, 324, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  回復剤交換", "255,255,255"}
+, 
+{"prontera", 105, 63, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
+, 
+{"ac_cl_room", 49, 32, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
+, 
+{"lasagna", 314, 237, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
+, 
+{"prontera", 105, 68, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  175種類討伐", "255,255,255"}
+, 
+{"prontera", 105, 73, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  記念品", "255,255,255"}
+, 
+{"ac_cl_room", 49, 37, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  いきなり拳聖・ソウルリンカー", "255,255,255"}
+, 
+{"yuno", 193, 349, 8, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アムヘル", "255,255,255"}
+, 
+{"yuno", 198, 349, 8, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  コンビクシオン", "255,255,255"}
+, 
+{"ev_summer01", 238, 269, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  welcome!", "255,255,255"}
+, 
+{"ev_summer01", 237, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  HITトレーニング", "255,255,255"}
+, 
+{"ev_summer01", 231, 200, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  HITトレーニング", "255,255,255"}
+, 
+{"ev_summer01", 228, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  フィッシング・エクササイズ", "255,255,255"}
+, 
+{"ev_summer01", 239, 169, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  フィッシング・エクササイズ", "255,255,255"}
+, 
+{"ev_summer01", 233, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ラクテート・レイド", "255,255,255"}
+, 
+{"ev_summer01", 231, 182, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ラクテート・レイド", "255,255,255"}
+, 
+{"ev_summer01", 278, 285, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  BAR　ナイス・マッチョ", "255,255,255"}
+, 
+{"ev_summer01", 288, 277, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  神秘の館へ", "255,255,255"}
+, 
+{"ev_summer01", 232, 261, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  プロンテラへ", "255,255,255"}
+, 
+{"ev_summer02", 112, 208, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　トレーニング！", "255,255,255"}
+, 
+{"ev_summer02", 243, 90, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ナイス　トレーニング！", "255,255,255"}
+, 
+{"ev_summer02", 128, 206, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer06", 173, 180, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  釣り具あり升", "255,255,255"}
+, 
+{"ev_summer06", 179, 189, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  釣りマガジン", "255,255,255"}
+, 
+{"ev_summer06", 179, 180, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  漁場転送", "255,255,255"}
+, 
+{"ev_summer06", 173, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  釣果納品", "255,255,255"}
+, 
+{"ev_summer06", 157, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer07", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer07", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer08", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer08", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer09", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer09", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer10", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer10", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer11", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer11", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer12", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer12", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer13", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer13", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer14", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer14", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer15", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer15", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer16", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer16", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
 }
 

@@ -544,6 +544,18 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Happy_Cat_TW] = {Default = 480, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Japanes_Hair] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Katashiro_Flying] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Magic_Heir_TW] = {Default = 450, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

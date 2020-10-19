@@ -5662,3 +5662,8 @@ ad_island.rsw#
 0.5#
 0x22fca964#
 0.2#
+star_frst.rsw#
+0.25#
+0.4#
+0xffc99a5d#
+0.3#

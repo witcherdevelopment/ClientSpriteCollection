@@ -4417,4 +4417,54 @@ ad_island.rsw#トキ砂の島#
 1@8adt.rsw#エンドレスタワーアナザーはんごろし　頂上#
 2@0adt.rsw#エンドレスタワーアナザーみなごろし　6層#
 //------------------------------------------------
+2@gld.rsw#特訓の間#
+//------------------------------------------------
+star_frst.rsw#流星林#
+star_in.rsw#流星林 室内#
+1@soul.rsw#魂の通路#
+//------------------------------------------------
+jobroom01.rsw#ジョブルーム01#
+jobroom02.rsw#ジョブルーム02#
+//------------------------------------------------
+jp_ev_mi1.rsw#わからない所#
+training01.rsw#特訓ルーム01#
+training02.rsw#特訓ルーム02#
+//------------------------------------------------
+ev_summer01.rsw#マッスルパンプ・ジム#
+ev_summer02.rsw#ウォームアップ・エリア#
+ev_summer03.rsw#マッスルロード01#
+ev_summer04.rsw#マッスルロード02#
+ev_summer05.rsw#マッスルロード03#
+ev_summer06.rsw#フィッシング・エリア#
+ev_summer07.rsw#フェルビナクA 駐屯地#
+ev_summer08.rsw#フェルビナクB 駐屯地#
+ev_summer09.rsw#フェルビナクC 駐屯地#
+ev_summer10.rsw#フェルビナクD 駐屯地#
+ev_summer11.rsw#フェルビナクE 駐屯地#
+ev_summer12.rsw#フェルビナクF 駐屯地#
+ev_summer13.rsw#フェルビナクG 駐屯地#
+ev_summer14.rsw#フェルビナクH 駐屯地#
+ev_summer15.rsw#フェルビナクI 駐屯地#
+ev_summer16.rsw#フェルビナクJ 駐屯地#
+ev_summer17.rsw#ソアマッスルA#
+ev_summer18.rsw#ソアマッスルB#
+ev_summer19.rsw#ソアマッスルC#
+ev_summer20.rsw#ソアマッスルD#
+ev_summer21.rsw#ソアマッスルE#
+ev_summer22.rsw#ソアマッスルF#
+ev_summer23.rsw#ソアマッスルG#
+ev_summer24.rsw#ソアマッスルH#
+ev_summer25.rsw#ソアマッスルI#
+ev_summer26.rsw#ソアマッスルJ#
+ev_summer27.rsw#マッスルオアダイA#
+ev_summer28.rsw#マッスルオアダイB#
+ev_summer29.rsw#マッスルオアダイC#
+ev_summer30.rsw#マッスルオアダイD#
+ev_summer31.rsw#マッスルオアダイE#
+ev_summer32.rsw#マッスルオアダイF#
+ev_summer33.rsw#マッスルオアダイG#
+ev_summer34.rsw#マッスルオアダイH#
+ev_summer35.rsw#マッスルオアダイI#
+ev_season01.rsw#神秘の館#
+//------------------------------------------------
 //[file end]
