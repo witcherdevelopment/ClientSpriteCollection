@@ -24222,5 +24222,241 @@ Description = {"向奧斯卡聽取了有關扭曲時空的說明。"}
 [12495] = {Title = "危險的挑戰", 
 Description = {"你是唯一能阻止污染的次元去影響這個世界的人。"}
 , Summary = "淨化污染的次元"}
+, 
+[12470] = {Title = "安德烈亞的報仇I", 
+Description = {"\t\t\t安德烈亞被只到自己膝蓋的生物揮舞的鐮刀而身負致命傷死亡，他希望可以讓這個置自己於死地的小傢伙同樣感受死亡的安寧。\n\t\t\t\n\t\t\t^ff0000\"不可以被它可愛的外表給騙了，它比惡魔還可惡。\"^000000\n\t\t\t\n\t\t\t得親自確認它是不是真的很可愛了。\n\t\t"}
+, Summary = "擊殺混沌小巴風特", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12471] = {Title = "安德烈亞的報仇II", 
+Description = {"\t\t\t安德烈亞身受致命傷後雖嘗試用自己的靈力治療，卻被這個混沌生物控制靈魂，只能放棄生命，他希望可以淨化這個邪惡的生物。\n\t\t\t\n\t\t\t^ff0000\"應該是比我更早死亡的冒險家靈魂，不是的話又能怎麼辦?\"^000000\n\t\t\t\n\t\t\t無從得知安德烈亞生前是否也是個這麼好戰的祭司。\n\t\t"}
+, Summary = "擊殺混沌幽靈波利", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12472] = {Title = "艾妮絲的報仇I", 
+Description = {"\t\t\t被這個快速又邪惡的昆蟲逼向死亡的艾妮絲，遭受了決定性的致命一擊，她深信在這個世界有翅膀的昆蟲都應該被消滅。\n\t\t\t\n\t\t\t^ff0099\"不可以因為它長得像蒼蠅就掉以輕心，它們的食物也包含「活人」…\"^000000\n\t\t\t\n\t\t\t不管怎麼說，她對昆蟲留有不怎麼好的回憶。\n\t\t"}
+, Summary = "擊殺混沌赤蒼蠅", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12473] = {Title = "艾妮絲的報仇II", 
+Description = {"\t\t\t迷路的她被從草叢中竄出的殘忍獵食者攻擊、身受致命傷。可惜的是，這件事發生在她咬下為了探險早起準備的三明治那一刻。\n\t\t\t\n\t\t\t^ff0099\"如果發現那些可惡的傢伙，我要把它們的腿都拔光、丟入淤泥中。\"^000000\n\n\t\t\t\n\t\t\t無論是誰，打斷別人吃飯都會出大事。\n\t\t"}
+, Summary = "擊殺混沌狂暴螳螂", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12474] = {Title = "西爾瓦諾的報仇I", 
+Description = {"\t\t\t西爾瓦諾他明確記得攻擊自己、讓自己面臨瀕死狀態的人是誰。在他的記憶中，雖然和攻擊小艾妮絲的魔物外型類似，但一定有不同特徵。 \n\t\t\t\n\t\t\t^ff0077\"你問艾妮絲姊妹想要什麼?她們也希望能夠消滅它們，我也很想要拜託你這件事。\"^000000\n\t\t"}
+, Summary = "擊殺混沌螳螂", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25781, ItemNum = 1}
+}
+}
+, 
+[12475] = {Title = "西爾瓦諾的報仇II", 
+Description = {"\t\t\t瀕臨死亡的西爾瓦諾因為連唸恢復咒語的時間都沒有而打算服用藥水，但他背包中的所有藥水都被這軟爛的魔物喝光了。\n\t\t\t\n\t\t\t^ff0077\"現在我的生活必需品又有什麼用?現在我一無所有，只希望不再有冒險家受到相同的傷害。\"^000000\n\t\t\t\n\t\t\t實現他的小小希望，是下一個冒險家的工作。\n\t\t"}
+, Summary = "擊殺混沌波波利", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25782, ItemNum = 1}
+}
+}
+, 
+[12476] = {Title = "聖西利亞的報仇I", 
+Description = {"\t\t\t^0000ff\"請小心那條蛇，它比外表還要凶殘。當你看到它的那一刻，它就會發動攻擊。\"^000000\n\t\t\t\n\t\t\t聖西利亞因為暫時虛脫坐在位子時，被這個魔物咬了。她因為瞬間向身體擴散的麻痺神經毒而一動也不能動。\n\t\t\t\n\t\t\t^0000ff\"我不會說在迷宮中想休息時不要休息。但如果我是活人的話，我會想避免...\"^000000\n\t\t"}
+, Summary = "擊殺混沌黑蛇", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25783, ItemNum = 1}
+}
+}
+, 
+[12477] = {Title = "聖西利亞的報仇II", 
+Description = {"\t\t\t在因麻痺神經毒而無法動彈下被咬的她，因這個尖尖的魔物受了貫穿傷害。\n\t\t\t\n\t\t\t^0000ff\"被尖牙穿過的傷口逐漸癒合，但你懂手腳都不能用的心情嗎?如果只是麻痺狀態的話我還能活下來，這都是因為那個死尖牙魔物!!\"^000000\n\t\t\t\n\t\t\t能夠理解她的憤怒。\n\t\t"}
+, Summary = "擊殺混沌灰森靈", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25784, ItemNum = 1}
+}
+}
+, 
+[12478] = {Title = "淨化邪念", 
+Description = {"\t\t\t這是擊殺在迷宮中徘徊的4名祭司其中一個邪念的任務。這個邪念是凝聚靈魂在淨化過程中流出的怨恨與憎惡而成，是與靈魂意志無關的產物。\n\t\t\t\n\t\t\t^ff0000※本任務1週只可執行1次。^000000\n\t\t\t\n\t\t\t^ff00cc※每週改變淨化對象。^000000\n\t\t"}
+, Summary = "擊殺安德烈亞", RewardEXP = "2500000", RewardJEXP = "1625000", 
+RewardItemList = {
+{ItemID = 25781, ItemNum = 3}
+}
+}
+, 
+[12479] = {Title = "淨化邪念", 
+Description = {"\t\t\t這是擊殺在迷宮中徘徊的4名祭司其中一個邪念的任務。這個邪念是凝聚靈魂在淨化過程中流出的怨恨與憎惡而成，是與靈魂意志無關的產物。\n\t\t\t\n\t\t\t^ff0000※本任務1週只可執行1次。^000000\n\t\t\t\n\t\t\t^ff00cc※每週改變淨化對象。^000000\n\t\t"}
+, Summary = "擊殺艾妮絲", RewardEXP = "2500000", RewardJEXP = "1625000", 
+RewardItemList = {
+{ItemID = 25782, ItemNum = 3}
+}
+}
+, 
+[12480] = {Title = "淨化邪念", 
+Description = {"\t\t\t這是擊殺在迷宮中徘徊的4名祭司其中一個邪念的任務。這個邪念是凝聚靈魂在淨化過程中流出的怨恨與憎惡而成，是與靈魂意志無關的產物。\n\t\t\t\n\t\t\t^ff0000※本任務1週只可執行1次。^000000\n\t\t\t\n\t\t\t^ff00cc※每週改變淨化對象。^000000\n\t\t"}
+, Summary = "擊殺西爾瓦諾", RewardEXP = "2500000", RewardJEXP = "1625000", 
+RewardItemList = {
+{ItemID = 25783, ItemNum = 3}
+}
+}
+, 
+[12481] = {Title = "淨化邪念", 
+Description = {"\t\t\t這是擊殺在迷宮中徘徊的4名祭司其中一個邪念的任務。這個邪念是凝聚靈魂在淨化過程中流出的怨恨與憎惡而成，是與靈魂意志無關的產物。\n\t\t\t\n\t\t\t^ff0000※本任務1週只可執行1次。^000000\n\t\t\t\n\t\t\t^ff00cc※每週改變淨化對象。^000000\n\t\t"}
+, Summary = "擊殺聖西利亞", RewardEXP = "2500000", RewardJEXP = "1625000", 
+RewardItemList = {
+{ItemID = 25784, ItemNum = 3}
+}
+}
+, 
+[12482] = {Title = "夥伴失蹤", 
+Description = {"\t\t\t與普隆德拉教堂附近的 <NAVI>愛斯美蘭達<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI>對話。\n\t\t\t\n\t\t\t受伊勒妮之託，轉告在普隆德拉教堂附近的愛斯美蘭達公會會長祭司會公會實習服事的狀況。\n\t\t"}
+, Summary = "通報祭司會"}
+, 
+[12483] = {Title = "確認後續", 
+Description = {"\t\t\t與迷宮內部的 <NAVI>愛斯美蘭達<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI>對話。\n\t\t\t\n\t\t\t雖已經把消息轉告祭司會公會的公會會長，還是很好奇後續發展。前往迷宮追上愛斯美蘭達後，確認事件的進展。\n\t\t"}
+, Summary = "尋找愛斯美蘭達"}
+, 
+[12484] = {Title = "尋找實習祭司痕跡", 
+Description = {"\t\t\t得找到進入扭曲的迷宮的安德烈亞痕跡。\n\t\t\t\n\t\t\t^0000ff備註了值得比較的身體上特異之處，發現遺骸時走近比較看看。^000000\n\t\t"}
+, Summary = "尋找安德烈亞"}
+, 
+[12485] = {Title = "尋找實習祭司的痕跡", 
+Description = {"\t\t\t得找到進入扭曲的迷宮的艾妮絲痕跡。\n\t\t\t\n\t\t\t^0000ff備註了值得比較的身體上特異之處，發現遺骸時走近比較看看^000000\n\t\t"}
+, Summary = "尋找艾妮絲"}
+, 
+[12486] = {Title = "尋找實習祭司的痕跡", 
+Description = {"\t\t\t得找到進入扭曲的迷宮的西爾瓦諾痕跡。\n\t\t\t\n\t\t\t^0000ff備註了值得比較的身體上特異之處，發現遺骸時走近比較看看^000000\n\t\t"}
+, Summary = "尋找西爾瓦諾"}
+, 
+[12487] = {Title = "尋找實習祭司的痕跡", 
+Description = {"\t\t\t得找到進入扭曲的迷宮的聖西利亞痕跡。\n\t\t\t\n\t\t\t^0000ff備註了值得比較的身體上特異之處，發現遺骸時走近比較看看^000000\n\t\t"}
+, Summary = "尋找聖西利亞"}
+, 
+[12488] = {Title = "結案報告", 
+Description = {"\t\t\t與迷宮內部的<NAVI>愛斯美蘭達<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI>對話。\n\t\t\t\n\t\t\t4位實習祭司的痕跡都找到了，把痕跡交給愛斯美蘭達。\n\t\t"}
+, Summary = "去找愛斯美蘭達"}
+, 
+[12489] = {Title = "客座公會會員", 
+Description = {"\t\t\t在迷宮內部<NAVI>愛斯美蘭達<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> 所在之處附近，與實習祭司們的靈魂對話。\n\t\t\t\n\t\t\t見到以靈魂狀態復活的實習祭司，以客座公會會員身份活動。\n\t\t"}
+, Summary = "接取任務"}
+, 
+[12490] = {Title = "接取今日任務", 
+Description = {"\t\t\t與迷宮內部的<NAVI>祭司會公會會員們<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI>對話。\n\t\t\t\n\t\t\t已接取所有身為普隆德拉祭司會公會的客座公會會員可以接取的任務，任務於^ff0000每天凌晨4點^000000後可以重新接取，但無法重複接取任務。\n\t\t"}
+, Summary = "隔日凌晨4點重置"}
+, 
+[12491] = {Title = "接取本週任務", 
+Description = {"\t\t\t與迷宮內部的<NAVI>祭司會公會會員們<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI>對話。\n\t\t\t\n\t\t\t已接取所有身為普隆德拉祭司會公會的客座公會會員可以接取的任務，任務於^ff0000每週六凌晨4點^000000後可以重新接取，但無法重複接取任務。\t\t"}
+, Summary = "每週六4點重置"}
+, 
+[12492] = {Title = "愛斯美蘭達", 
+Description = {"\t\t\t與愛斯美蘭達對話，聽取花絮\n\t\t"}
+, Summary = "結束對話"}
+, 
+[293211] = {Title = "救贖受詛咒的烈士", IconName = "ico_ev.bmp", 
+Description = {"擊殺殭屍衛士 30隻"}
+, Summary = "擊殺殭屍衛士 30隻"}
+, 
+[293212] = {Title = "救贖受詛咒的烈士-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了殭屍衛士 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293213] = {Title = "排除舊時代的偏執者", IconName = "ico_ev.bmp", 
+Description = {"擊殺妖君 30隻"}
+, Summary = "擊殺妖君 30隻"}
+, 
+[293214] = {Title = "排除舊時代的偏執者-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了妖君 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293215] = {Title = "消滅潛藏的影武者", IconName = "ico_ev.bmp", 
+Description = {"擊殺彩色皮影魔 30隻"}
+, Summary = "擊殺彩色皮影魔 30隻"}
+, 
+[293216] = {Title = "消滅潛藏的影武者-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了彩色皮影魔 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293217] = {Title = "擊倒效忠舊時代的隱者", IconName = "ico_ev.bmp", 
+Description = {"擊殺不祥風靈龜 30隻"}
+, Summary = "擊殺不祥風靈龜 30隻"}
+, 
+[293218] = {Title = "擊倒效忠舊時代的隱者-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了不祥風靈龜 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293219] = {Title = "破壞無感情的偵查者", IconName = "ico_ev.bmp", 
+Description = {"擊殺勘查機器人 30隻"}
+, Summary = "擊殺勘查機器人 30隻"}
+, 
+[293220] = {Title = "破壞無感情的偵查者-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了勘查機器人 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293221] = {Title = "再次安息復甦的死者", IconName = "ico_ev.bmp", 
+Description = {"擊殺狂暴木乃伊-夢魘 30隻"}
+, Summary = "擊殺狂暴木乃伊-夢魘 30隻"}
+, 
+[293222] = {Title = "再次安息復甦的死者-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了狂暴木乃伊-夢魘 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293223] = {Title = "解放資本下的壓迫者", IconName = "ico_ev.bmp", 
+Description = {"擊殺勞碌礦工魔 30隻"}
+, Summary = "擊殺勞碌礦工魔 30隻"}
+, 
+[293224] = {Title = "解放資本下的壓迫者-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了勞碌礦工魔 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293225] = {Title = "斬斷未了的怨念", IconName = "ico_ev.bmp", 
+Description = {"擊殺無顱武士 30隻"}
+, Summary = "擊殺無顱武士 30隻"}
+, 
+[293226] = {Title = "斬斷未了的怨念-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了無顱武士 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293227] = {Title = "掃蕩黑夜裡的惡夢", IconName = "ico_ev.bmp", 
+Description = {"擊殺惡耗女妖 30隻"}
+, Summary = "擊殺惡耗女妖 30隻"}
+, 
+[293228] = {Title = "掃蕩黑夜裡的惡夢-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了惡耗女妖 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293229] = {Title = "阻止妄想真理的偏執者", IconName = "ico_ev.bmp", 
+Description = {"擊殺闇●魔法師 30隻"}
+, Summary = "擊殺闇●魔法師 30隻"}
+, 
+[293230] = {Title = "阻止妄想真理的偏執者-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了闇●魔法師 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293231] = {Title = "等了一輩子的誓約", IconName = "ico_ev.bmp", 
+Description = {"擊殺闇●騎士領主 30隻"}
+, Summary = "擊殺闇●騎士領主 30隻"}
+, 
+[293232] = {Title = "等了一輩子的誓約-等候", IconName = "ico_ev.bmp", 
+Description = {"擊殺了闇●騎士領主 30隻。"}
+, Summary = "4:00AM以後可執行任務"}
+, 
+[293233] = {Title = "革命火花集結", IconName = "ico_ev.bmp", 
+Description = {"把     <ITEM>[革命旗幟]<INFO>1000361</INFO></ITEM>轉達給     <NAVI>[革命指揮官]<INFO>yuno,154,90,0,101,0</INFO></NAVI>吧!"}
+, Summary = "轉達革命旗幟", NpcSpr = "4_F_LAPERM", NpcNavi = "hugel", NpcPosX = 76, NpcPosY = 100}
+, 
+[293234] = {Title = "革命火花集結-等候", IconName = "ico_ev.bmp", 
+Description = {"今天順利地轉達了革命旗幟。"}
+, Summary = "4:00AM以後可執行任務", NpcSpr = "4_F_LAPERM", NpcNavi = "hugel", NpcPosX = 76, NpcPosY = 100}
 }
 

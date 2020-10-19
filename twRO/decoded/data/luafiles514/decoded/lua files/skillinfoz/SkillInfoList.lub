@@ -3394,32 +3394,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.WL_CRIMSONROCK] = {"WL_CRIMSONROCK"; SkillName = "ºÑ¦å¹k¥Û", MaxLv = 5, 
-SpAmount = {60, 70, 80, 90, 100}
-, bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
-, 
-_NeedSkillList = {
-{SKID.WL_SUMMONFB, 1}
-}
-}
-, 
-[SKID.WL_SUMMONBL] = {"WL_SUMMONBL"; SkillName = "¥l³ê¹p¹q²y", MaxLv = 5, 
-SpAmount = {10, 12, 14, 16, 18}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.WZ_VERMILION, 1}
-}
-}
-, 
-[SKID.WL_READING_SB] = {"WL_READING_SB"; SkillName = "¾\ÅªÅ]ªk®Ñ", MaxLv = 1, 
-SpAmount = {40}
-, bSeperateLv = false, 
-AttackRange = {1}
-}
-, 
 [SKID.PR_SANCTUARY] = {"PR_SANCTUARY"; SkillName = "¥úÄ£¤§°ó", MaxLv = 10, 
 SpAmount = {15, 18, 21, 24, 27, 30, 33, 36, 39, 42}
 , bSeperateLv = true, 
@@ -4936,26 +4910,6 @@ SpAmount = {0, 0, 0}
 AttackRange = {1, 1, 1}
 }
 , 
-[SKID.WL_HELLINFERNO] = {"WL_HELLINFERNO"; SkillName = "¦aº»¤õµK", MaxLv = 5, 
-SpAmount = {35, 40, 45, 50, 55}
-, bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
-, 
-_NeedSkillList = {
-{SKID.WL_CRIMSONROCK, 2}
-}
-}
-, 
-[SKID.WL_EARTHSTRAIN] = {"WL_EARTHSTRAIN"; SkillName = "¦a¤ûÂ½¨­", MaxLv = 5, 
-SpAmount = {70, 78, 86, 94, 102}
-, bSeperateLv = true, 
-AttackRange = {6, 6, 6, 6, 6}
-, 
-_NeedSkillList = {
-{SKID.WL_SIENNAEXECRATE, 2}
-}
-}
-, 
 [SKID.AS_POISONREACT] = {"AS_POISONREACT"; SkillName = "¬r©Ê¤Ï¼u", MaxLv = 10, 
 SpAmount = {25, 30, 35, 40, 45, 50, 55, 60, 45, 45}
 , bSeperateLv = false, 
@@ -4963,16 +4917,6 @@ AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.AS_ENCHANTPOISON, 3}
-}
-}
-, 
-[SKID.WL_SUMMONWB] = {"WL_SUMMONWB"; SkillName = "¥l³ê¤ô²y", MaxLv = 5, 
-SpAmount = {10, 12, 14, 16, 18}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.WZ_STORMGUST, 1}
 }
 }
 , 
@@ -8544,32 +8488,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.WL_RELEASE] = {"WL_RELEASE"; SkillName = "ÄÀ©ñ", MaxLv = 2, 
-SpAmount = {3, 20}
-, bSeperateLv = true, 
-AttackRange = {11, 11}
-}
-, 
-[SKID.WL_SUMMONSTONE] = {"WL_SUMMONSTONE"; SkillName = "¥l³ê¥Û¶ô", MaxLv = 5, 
-SpAmount = {10, 12, 14, 16, 18}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.WZ_HEAVENDRIVE, 1}
-}
-}
-, 
-[SKID.WL_SUMMONFB] = {"WL_SUMMONFB"; SkillName = "¥l³ê¤õµK²y", MaxLv = 5, 
-SpAmount = {10, 12, 14, 16, 18}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.WZ_METEOR, 1}
-}
-}
-, 
 [SKID.WL_CHAINLIGHTNING] = {"WL_CHAINLIGHTNING"; SkillName = "³sÂê¹qÀ»", MaxLv = 5, 
 SpAmount = {80, 90, 100, 110, 120}
 , bSeperateLv = true, 
@@ -8577,16 +8495,6 @@ AttackRange = {11, 11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.WL_SUMMONBL, 1}
-}
-}
-, 
-[SKID.WL_COMET] = {"WL_COMET"; SkillName = "·´·À¼z¬P", MaxLv = 5, 
-SpAmount = {480, 560, 640, 720, 800}
-, bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
-, 
-_NeedSkillList = {
-{SKID.WL_HELLINFERNO, 3}
 }
 }
 , 
@@ -8633,36 +8541,6 @@ AttackRange = {11, 11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.WZ_QUAGMIRE, 1}
-}
-}
-, 
-[SKID.WL_JACKFROST] = {"WL_JACKFROST"; SkillName = "­á»ø³N", MaxLv = 5, 
-SpAmount = {50, 60, 70, 80, 90}
-, bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
-, 
-_NeedSkillList = {
-{SKID.WL_FROSTMISTY, 2}
-}
-}
-, 
-[SKID.WL_FROSTMISTY] = {"WL_FROSTMISTY"; SkillName = "´H¦B¿@Ãú", MaxLv = 5, 
-SpAmount = {40, 48, 56, 64, 72}
-, bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
-, 
-_NeedSkillList = {
-{SKID.WL_SUMMONWB, 1}
-}
-}
-, 
-[SKID.WL_SOULEXPANSION] = {"WL_SOULEXPANSION"; SkillName = "ÆF»îÃz¬µ", MaxLv = 5, 
-SpAmount = {30, 35, 40, 45, 50}
-, bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
-, 
-_NeedSkillList = {
-{SKID.WL_DRAINLIFE, 1}
 }
 }
 , 
@@ -8934,12 +8812,6 @@ AttackRange = {5, 6, 7, 8, 9}
 _NeedSkillList = {
 {SKID.GC_CROSSIMPACT, 3}
 }
-}
-, 
-[SKID.HW_MAGICPOWER] = {"HW_MAGICPOWER"; SkillName = "Å]¤O¼W´T", MaxLv = 10, 
-SpAmount = {14, 18, 22, 26, 30, 34, 38, 42, 46, 50}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
 , 
 [SKID.RK_ABUNDANCE] = {"RK_ABUNDANCE"; SkillName = "Â×¨¬", MaxLv = 1, 
@@ -10666,24 +10538,6 @@ SkillScale = {
 }
 }
 , 
-[SKID.NPC_JACKFROST] = {"NPC_JACKFROST"; SkillName = "­á»ø³N", MaxLv = 5, 
-SpAmount = {0, 0, 0, 0, 0}
-, bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-SkillScale = {
-[1] = {x = 11, y = 11}
-, 
-[2] = {x = 13, y = 13}
-, 
-[3] = {x = 15, y = 15}
-, 
-[4] = {x = 17, y = 17}
-, 
-[5] = {x = 19, y = 19}
-}
-}
-, 
 [SKID.NPC_VENOMFOG] = {"NPC_VENOMFOG"; SkillName = "¬rÃú", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
@@ -11009,24 +10863,6 @@ SkillScale = {
 [4] = {x = 7, y = 7}
 , 
 [5] = {x = 7, y = 7}
-}
-}
-, 
-[SKID.NPC_COMET] = {"NPC_COMET"; SkillName = "·´·À¼z¬P", MaxLv = 5, 
-SpAmount = {0, 0, 0, 0, 0}
-, bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-SkillScale = {
-[1] = {x = 19, y = 19}
-, 
-[2] = {x = 19, y = 19}
-, 
-[3] = {x = 19, y = 19}
-, 
-[4] = {x = 19, y = 19}
-, 
-[5] = {x = 19, y = 19}
 }
 }
 , 
@@ -12336,6 +12172,176 @@ SkillScale = {
 , 
 [10] = {x = 29, y = 29}
 }
+}
+, 
+[SKID.NPC_JACKFROST] = {"NPC_JACKFROST"; SkillName = "¦B­á¬ï¤Õ", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 11, y = 11}
+, 
+[2] = {x = 13, y = 13}
+, 
+[3] = {x = 15, y = 15}
+, 
+[4] = {x = 17, y = 17}
+, 
+[5] = {x = 19, y = 19}
+}
+}
+, 
+[SKID.NPC_COMET] = {"NPC_COMET"; SkillName = "¬y¬P«B", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 19, y = 19}
+, 
+[2] = {x = 19, y = 19}
+, 
+[3] = {x = 19, y = 19}
+, 
+[4] = {x = 19, y = 19}
+, 
+[5] = {x = 19, y = 19}
+}
+}
+, 
+[SKID.HW_MAGICPOWER] = {"HW_MAGICPOWER"; SkillName = "Å]¤O¼W´T", MaxLv = 10, 
+SpAmount = {30, 35, 40, 45, 50, 55, 60, 65, 70, 75}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.WL_CRIMSONROCK] = {"WL_CRIMSONROCK"; SkillName = "ºÑ¦å¹k¥Û", MaxLv = 5, 
+SpAmount = {60, 70, 80, 90, 100}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.WL_SUMMONFB, 1}
+}
+}
+, 
+[SKID.WL_COMET] = {"WL_COMET"; SkillName = "·´·À¼z¬P", MaxLv = 5, 
+SpAmount = {70, 90, 110, 130, 150}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.WL_HELLINFERNO, 3}
+}
+}
+, 
+[SKID.WL_SOULEXPANSION] = {"WL_SOULEXPANSION"; SkillName = "ÆF»îÃz¬µ", MaxLv = 5, 
+SpAmount = {30, 35, 40, 45, 50}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.WL_DRAINLIFE, 1}
+}
+}
+, 
+[SKID.WL_SUMMONWB] = {"WL_SUMMONWB"; SkillName = "¥l³ê¤ô²y", MaxLv = 2, 
+SpAmount = {10, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1}
+, 
+_NeedSkillList = {
+{SKID.WZ_STORMGUST, 1}
+}
+}
+, 
+[SKID.WL_HELLINFERNO] = {"WL_HELLINFERNO"; SkillName = "¦aº»¤õµK", MaxLv = 5, 
+SpAmount = {64, 70, 76, 82, 88}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.WL_CRIMSONROCK, 2}
+}
+}
+, 
+[SKID.WL_EARTHSTRAIN] = {"WL_EARTHSTRAIN"; SkillName = "¦a¤ûÂ½¨­", MaxLv = 5, 
+SpAmount = {70, 78, 86, 94, 102}
+, bSeperateLv = true, 
+AttackRange = {6, 6, 6, 6, 6}
+, 
+_NeedSkillList = {
+{SKID.WL_SIENNAEXECRATE, 2}
+}
+}
+, 
+[SKID.WL_JACKFROST] = {"WL_JACKFROST"; SkillName = "­á»ø³N", MaxLv = 5, 
+SpAmount = {50, 60, 70, 80, 90}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.WL_FROSTMISTY, 2}
+}
+}
+, 
+[SKID.WL_FROSTMISTY] = {"WL_FROSTMISTY"; SkillName = "´H¦B¿@Ãú", MaxLv = 5, 
+SpAmount = {40, 48, 56, 64, 72}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.WL_SUMMONWB, 1}
+}
+}
+, 
+[SKID.WL_SUMMONBL] = {"WL_SUMMONBL"; SkillName = "¥l³ê¹p¹q²y", MaxLv = 2, 
+SpAmount = {10, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1}
+, 
+_NeedSkillList = {
+{SKID.WZ_VERMILION, 1}
+}
+}
+, 
+[SKID.WL_RELEASE] = {"WL_RELEASE"; SkillName = "ÄÀ©ñ", MaxLv = 2, 
+SpAmount = {10, 10}
+, bSeperateLv = true, 
+AttackRange = {11, 11}
+}
+, 
+[SKID.WL_SUMMONSTONE] = {"WL_SUMMONSTONE"; SkillName = "¥l³ê¥Û¶ô", MaxLv = 2, 
+SpAmount = {10, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1}
+, 
+_NeedSkillList = {
+{SKID.WZ_HEAVENDRIVE, 1}
+}
+}
+, 
+[SKID.WL_SUMMONFB] = {"WL_SUMMONFB"; SkillName = "¥l³ê¤õµK²y", MaxLv = 2, 
+SpAmount = {10, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1}
+, 
+_NeedSkillList = {
+{SKID.WZ_METEOR, 1}
+}
+}
+, 
+[SKID.WL_READING_SB] = {"WL_READING_SB"; SkillName = "¾\ÅªÅ]ªk®Ñ", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
+[SKID.WL_READING_SB_READING] = {"WL_READING_SB_READING"; SkillName = "¾\ÅªÅ]ªk®Ñ", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
 }
 

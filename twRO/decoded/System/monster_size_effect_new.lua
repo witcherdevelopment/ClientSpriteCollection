@@ -5753,6 +5753,10 @@ MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT}
 [20580] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
 }
+, 
+[20520] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
 }
 main = function()
   -- function num : 0_0

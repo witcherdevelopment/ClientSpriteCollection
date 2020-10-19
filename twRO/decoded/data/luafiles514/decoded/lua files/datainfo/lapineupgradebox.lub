@@ -134,6 +134,8 @@ TargetItems = {
 {"Fatalist", 510006}
 , 
 {"Freezing_Rod", 550007}
+, 
+{"Blue_Crystal_Staff", 640004}
 }
 , NeedSource_String = "英雄武器"}
 , 
@@ -208,6 +210,8 @@ TargetItems = {
 {"Fatalist", 510006}
 , 
 {"Freezing_Rod", 550007}
+, 
+{"Blue_Crystal_Staff", 640004}
 }
 , NeedSource_String = "英雄武器"}
 , 
@@ -4226,6 +4230,242 @@ TargetItems = {
 {"S_M_Exe_Ho_Weapon", 24431}
 }
 , NeedSource_String = "+6 以上 影子II"}
+, 
+ILL_Piece_A = {ItemID = 100003, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Bazerald_IL", 28762}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Spectral_Spear_IL", 26007}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Hunter_Bow_IL", 18174}
+, 
+{"Tablet_IL", 28626}
+, 
+{"Gate_KeeperDD_IL", 28244}
+, 
+{"Counter_Dagger_IL", 28745}
+, 
+{"Survival_Staff_IL", 2051}
+, 
+{"Taegoolyeon_IL", 21050}
+, 
+{"Death_Guidance_IL", 600011}
+, 
+{"KatarOfCold_Icicle_IL", 610012}
+, 
+{"Brionac_IL", 630006}
+, 
+{"Zephyrus_IL", 630007}
+, 
+{"Electronic_Guitar_IL", 570008}
+, 
+{"Electric_Eel_IL", 580008}
+}
+, NeedSource_String = "幻影LV4武器"}
+, 
+ILL_Piece_B = {ItemID = 100004, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Bazerald_IL", 28762}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Spectral_Spear_IL", 26007}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Hunter_Bow_IL", 18174}
+, 
+{"Tablet_IL", 28626}
+, 
+{"Gate_KeeperDD_IL", 28244}
+, 
+{"Counter_Dagger_IL", 28745}
+, 
+{"Survival_Staff_IL", 2051}
+, 
+{"Taegoolyeon_IL", 21050}
+, 
+{"Death_Guidance_IL", 600011}
+, 
+{"KatarOfCold_Icicle_IL", 610012}
+, 
+{"Brionac_IL", 630006}
+, 
+{"Zephyrus_IL", 630007}
+, 
+{"Electronic_Guitar_IL", 570008}
+, 
+{"Electric_Eel_IL", 580008}
+}
+, NeedSource_String = "幻影LV4武器"}
+, 
+Old_Refine_Cube = {ItemID = 100270, NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Old_Rune_Circlet", 18971}
+, 
+{"Old_Mitra", 18972}
+, 
+{"Old_Driver_Band_R", 18973}
+, 
+{"Old_Driver_Band_Y", 18974}
+, 
+{"Old_Shadow_Handicraft", 18975}
+, 
+{"Old_Minstrel_Song_Hat", 18976}
+, 
+{"Old_Midas_Whisper", 18977}
+, 
+{"Old_Magic_Stone_Hat", 18978}
+, 
+{"Old_Blazing_Soul", 18979}
+, 
+{"Old_Wind_Whisper", 18980}
+, 
+{"Old_Dying_Swan", 18981}
+, 
+{"Old_Circlet_Of_Bone", 18982}
+, 
+{"Old_Protect_Of_Crown", 18983}
+, 
+{"Old_Camo_RabbitHood", 18984}
+}
+, NeedSource_String = "戰死者頭盔"}
+, 
+Refine_Hero_Weapon = {ItemID = 100271, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Royal_Bow_K", 18164}
+, 
+{"Narcis_Bow", 18170}
+, 
+{"Shadow_Staff_K", 26118}
+, 
+{"Iron_Nail_K", 1847}
+, 
+{"Magic_Sword", 28744}
+, 
+{"Sword_Of_Bluefire", 13485}
+, 
+{"Avenger", 28130}
+, 
+{"Iron_Staff", 2048}
+, 
+{"Oriental_Sword", 21038}
+, 
+{"Undine_Spear_K", 32018}
+, 
+{"Demon_Hunting_Bible_K", 28630}
+, 
+{"Shiver_Katar_K", 28039}
+, 
+{"OneSkyOneSun", 28631}
+, 
+{"SoulWeight", 26154}
+, 
+{"MeawFoxtail", 26155}
+, 
+{"Crimson_Rose", 32302}
+, 
+{"Master_Soul_Rifle", 28255}
+, 
+{"Demon_S_Shot", 28256}
+, 
+{"Golden_L_Launcher", 28257}
+, 
+{"The_Black_Gatling", 28258}
+, 
+{"Sharp_Wind_Sword", 28763}
+, 
+{"Fog_Dew_Sword", 28764}
+, 
+{"Humma_Clear", 13345}
+, 
+{"Dragonic_Slayer", 600004}
+, 
+{"Light_Blade", 500003}
+, 
+{"Slate_Sword", 500004}
+, 
+{"Trumpet_Shell_K", 570002}
+, 
+{"Barb_Wire_K", 580002}
+, 
+{"Meteor_Striker", 590002}
+, 
+{"Blade_Katar", 610003}
+, 
+{"Scalet_Dragon_L_Bow", 700003}
+, 
+{"Fatalist", 510006}
+, 
+{"Ray_Knuckle", 560002}
+, 
+{"Saint_Hall", 590003}
+, 
+{"Blue_Crystal_Staff", 640004}
+, 
+{"Freezing_Rod", 550007}
+}
+, NeedSource_String = "英雄武器"}
 }
 , serverMain = function()
   -- function num : 0_0

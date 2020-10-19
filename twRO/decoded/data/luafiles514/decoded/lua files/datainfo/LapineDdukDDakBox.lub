@@ -4840,6 +4840,54 @@ SourceItems = {
 {"MechanicStone_Robe", 1, 25497}
 , 
 {"WanderMinstreStone_Robe", 1, 25501}
+, 
+{"RangerStone_Top2", 1, 1000008}
+, 
+{"RangerStone_Middle2", 1, 1000009}
+, 
+{"RangerStone_Bottom2", 1, 1000010}
+, 
+{"RangerStone_Robe2", 1, 1000011}
+, 
+{"MechanicStone_Top2", 1, 1000012}
+, 
+{"MechanicStone_Middle2", 1, 1000013}
+, 
+{"MechanicStone_Bottom2", 1, 1000014}
+, 
+{"MechanicStone_Robe2", 1, 1000015}
+, 
+{"HighpriestStone_Top2", 1, 1000016}
+, 
+{"HighpriestStone_Middle2", 1, 1000017}
+, 
+{"HighpriestStone_Bottom2", 1, 1000018}
+, 
+{"ArchbishopStone_Robe2", 1, 1000019}
+, 
+{"WarlockStone_Robe2", 1, 1000213}
+, 
+{"WarlockStone_Top2", 1, 1000214}
+, 
+{"WarlockStone_Middle2", 1, 1000215}
+, 
+{"WarlockStone_Bottom2", 1, 1000216}
+, 
+{"RoyalguardStone_Robe2", 1, 1000217}
+, 
+{"PaladinStone_Top2", 1, 1000218}
+, 
+{"PaladinStone_Middle2", 1, 1000219}
+, 
+{"PaladinStone_Bottom2", 1, 1000220}
+, 
+{"GuillcrossStone_Robe2", 1, 1000221}
+, 
+{"AssacrossStone_Top2", 1, 1000222}
+, 
+{"AssacrossStone_Middle2", 1, 1000223}
+, 
+{"AssacrossStone_Bottom2", 1, 1000224}
 }
 , NeedSource_String = "ªþÅ]¥Û"}
 , 
