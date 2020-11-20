@@ -5757,6 +5757,30 @@ MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
 [20520] = {MonsterSize = 1.5, 
 MonsterEff = {EFFECT.EF_NONE}
 }
+, 
+[3897] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[3898] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[3899] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[3900] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[3901] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[3902] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
+}
 }
 main = function()
   -- function num : 0_0

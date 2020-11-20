@@ -9887,5 +9887,113 @@
 		</so_full>
 
 	</gloomundernight2>
-	
+
+	<capoo_tw>
+<hungry>
+<feeding>	肚子餓餓... </feeding>
+<feeding>	需要更多更多的食物。</feeding>
+<hunting>	別只顧打怪啦!還要餵我吃飯啊!</hunting>
+<hunting>	你打他難道會掉食物來嗎? </hunting>
+<danger>	危險啦! </danger>
+<danger>	不會很痛嗎? </danger>
+<dead>	你要給完食物再死啊! </dead>
+<dead>	我現在難道要喝西北風了嗎? </dead>
+<stand>	我想吃又甜又辣又酸又鹹的食物。 </stand>
+<stand>	我搞不好連主人都吃下肚呢! </stand>
+<stand>	我餓到頭暈了啦! </stand>
+<connect>	你叫我是要給食物嗎? </connect>
+<connect>	現在好像可以吃東西了吧? </connect>
+<levelup>	先給點吃的也可以。 </levelup>
+<levelup>提升等級固然好，但要先給我食物啊! </levelup>
+<perfor_1>	帥呆了! </perfor_1>
+<perfor_1>	今天要吃啥東西呢? </perfor_1>
+<perfor_2>	開心又快樂地~ </perfor_2>
+<perfor_2>	快樂的夢~美味的夢~ </perfor_2>
+</hungry>
+<bit_hungry>
+<feeding>	我要吃囉! </feeding>
+<feeding>	看起來好好吃。 </feeding>
+<hunting>	我看那邊有賣好吃的喔... </hunting>
+<hunting>	吃飯比打怪重要啦! </hunting>
+<danger>	危險啦! </danger>
+<danger>	注意安全! </danger>
+<dead>	不可以死啦! </dead>
+<dead>	嗚嗚...要給我食物的人... </dead>
+<stand>	食物是第一優先你知道吧? </stand>
+<stand>	不忙的話記得給食物喔! </stand>
+<stand>	已經超過餵食的時間了吧? </stand>
+<connect>	今天要吃甚麼東西呢? </connect>
+<connect>	要給我東西吃嗎? </connect>
+<levelup>	紀念Level Up給食物如何呢? </levelup>
+<levelup>	恭喜!要一起分享喜悅喔... </levelup>
+<perfor_1>	帥呆了!! </perfor_1>
+<perfor_1>	今天要吃啥東西呢? </perfor_1>
+<perfor_2>	開心又快樂地~ </perfor_2>
+<perfor_2>	快樂的夢~美味的夢~ </perfor_2>
+</bit_hungry>
+<noting>
+<feeding>	能吃就是福。</feeding>
+<feeding>	哇~看起來好好吃喔! </feeding>
+<hunting>	加油! 加油! </hunting>
+<hunting>	加油! 把它們通通打倒。 </hunting>
+<danger>	危險啦!趕快閃開。 </danger>
+<danger>	你要趕快恢復過來! </danger>
+<dead>	都還沒吃到好吃的食物，就這麼死了.... </dead>
+<dead>	哭哭!不可以死啦!不要死啦! </dead>
+<stand>	你要不要談談新的食物呢? </stand>
+<stand>	這世界有很多各式各樣的食物呢! </stand>
+<stand>	你在幹嗎?跟我一起去吃飯吧! </stand>
+<connect>	你來啦? </connect>
+<connect>	你好，我正在等你呢! </connect>
+<levelup>恭喜!你越來越意氣風發了。 </levelup>
+<levelup>	 你變更強了，我可以期待有更好吃的食物嗎? </levelup>
+<perfor_1>	帥呆了!! </perfor_1>
+<perfor_1>	今天要吃啥東西呢? </perfor_1>
+<perfor_2>	開心又快樂地~ </perfor_2>
+<perfor_2>	快樂的夢~美味的夢~ </perfor_2>
+</noting>
+<full>
+<feeding>	雖然難以置信，但是我快撐死了。 </feeding>
+<feeding>	雖然好吃，但實在吃不下去了。 </feeding>
+<hunting>	如此懦弱的怪物不會成為我們的敵人! </hunting>
+<hunting>	加油，打退敵人吧! </hunting>
+<danger>	危險啦!不要衝到太前面去。 </danger>
+<danger>	治療!需要治療! </danger>
+<dead>	不要!快點起來，不可以死... </dead>
+<dead>	怎麼可以丟下我一個人死掉呢! </dead>
+<stand>	我發現了一間不錯的餐廳，下次一起去吃吧! </stand>
+<stand>	吃飽了，心情好像也會變好。 </stand>
+<stand>	最近是不是胖了些呢?這都是我的功勞，知道吧? </stand>
+<connect>	你好，我正在等你呢! </connect>
+<connect>	今天也麻煩你了。 </connect>
+<levelup>	你會不會變成世界最強的啊? </levelup>
+<levelup>	Level Up!恭喜!繼續加油!! </levelup>
+<perfor_1>	帥呆了!! </perfor_1>
+<perfor_1>	今天要吃啥東西呢? </perfor_1>
+<perfor_2>	開心又快樂地~ </perfor_2>
+<perfor_2>	快樂的夢~美味的夢~ </perfor_2>
+</full>
+<so_full>
+<feeding>	我實在撐不下去了。 </feeding>
+<feeding>	我快撐死了不知道嗎? </feeding>
+<hunting>	加油!加油! </hunting>
+<hunting>	吃太撐走不動了啦! </hunting>
+<danger>	危險啦!跟我肚子一樣危險... </danger>
+<danger>需要緊急治療! </danger>
+<dead>	我要躺一下，吃太飽實在走不動了。 </dead>
+<dead>	請幫忙救救我的主人!! </dead>
+<stand>	肚子好飽，要不要一起去散步呢?</stand>
+<stand>	不想去散步，那去打怪也不賴! </stand>
+<stand>	你在幹嗎? </stand>
+<connect>	趕快過來!我吃飽了不用餵我! </connect>
+<connect>	我正在等你，等你不是為了討東西吃，千萬別誤會。 </connect>
+<levelup>	恭喜!你的經驗值滿到跟我大肚子一樣多。 </levelup>
+<levelup>	Level Up!恭喜恭喜你啊! </levelup>
+<perfor_1>	帥呆了!! </perfor_1>
+<perfor_1>	今天要吃啥東西呢? </perfor_1>
+<perfor_2>	開心又快樂地~ </perfor_2>
+<perfor_2>	快樂的夢~美味的夢~ </perfor_2>
+</so_full>
+</capoo_tw>
+
 </monster_talk_table>

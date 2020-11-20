@@ -1,7 +1,7 @@
-//-ÃÖÁ¾°»½Å ¿ÀÀü 11:16 2013-04-23 º»¼­¹ö
-//¸ÊÀÌ¸§.rsw#bgm\\À½¾Ç¹øÈ£#
+//-ìµœì¢…ê°±ì‹  ì˜¤ì „ 11:16 2013-04-23 ë³¸ì„œë²„
+//ë§µì´ë¦„.rsw#bgm\\ìŒì•…ë²ˆí˜¸#
 
-//--- Åë»óÆÇ ¸¶À»À½¾Ç
+//--- í†µìƒíŒ ë§ˆì„ìŒì•…
 prt_church.rsw#bgm\\10.mp3#
 izlude.rsw#bgm\\26.mp3#
 izlude_in.rsw#bgm\\26.mp3#
@@ -16,7 +16,7 @@ alberta_in.rsw#bgm\\15.mp3#
 hugel.rsw#bgm\\93.mp3#
 hu_in01.rsw#bgm\\93.mp3#
 
-//--- Å©¸®½º¸¶½º ÀÌº¥Æ® ¸¶À»À½¾Ç
+//--- í¬ë¦¬ìŠ¤ë§ˆìŠ¤ ì´ë²¤íŠ¸ ë§ˆì„ìŒì•…
 //alberta.rsw#bgm\\54.mp3#
 //alberta_in.rsw#bgm\\54.mp3#
 //aldebaran.rsw#bgm\\56.mp3#
@@ -33,21 +33,21 @@ hu_in01.rsw#bgm\\93.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
-//¿î¿µÆÀÀÌº¥Æ®
+//ìš´ì˜íŒ€ì´ë²¤íŠ¸
 e_hugel.rsw#bgm\\48.mp3#
 
-//½Ã°èÅ¾ ³ªÀÌÆ®¸Ş¾î
+//ì‹œê³„íƒ‘ ë‚˜ì´íŠ¸ë©”ì–´
 c_tower2_.rsw#bgm\\60.mp3#
 c_tower3_.rsw#bgm\\60.mp3#
 
-// ¼³³¯ ÀÌº¥Æ® ºñ´Ü¹ìÀÇ Àº½ÅÃ³ //
+// ì„¤ë‚  ì´ë²¤íŠ¸ ë¹„ë‹¨ë±€ì˜ ì€ì‹ ì²˜ //
 silk_lair.rsw#bgm\\146.mp3#
 
-//14.3 2Â÷//
+//14.3 2ì°¨//
 1@jtb.rsw#bgm\\160.mp3#
 1@eom.rsw#bgm\\156.mp3#
 
-// ¿¡ÇÇ¼Òµå 14.3 //
+// ì—í”¼ì†Œë“œ 14.3 //
 1@dth1.rsw#bgm\\157.mp3#
 1@dth2.rsw#bgm\\157.mp3#
 1@dth3.rsw#bgm\\157.mp3#
@@ -55,11 +55,11 @@ silk_lair.rsw#bgm\\146.mp3#
 moro_vol.rsw#bgm\\159.mp3#
 moro_cav.rsw#bgm\\159.mp3#
 
-//È£·¯Àå³­°¨°øÀå
+//í˜¸ëŸ¬ì¥ë‚œê°ê³µì¥
 1@xm_d.rsw#bgm\\997.mp3#
 
 
-//¿µ¿õÀÇÈçÀû
+//ì˜ì›…ì˜í”ì 
 dali02.rsw#bgm\\60.mp3#
 1@face.rsw#bgm\\36.mp3#
 1@sara.rsw#bgm\\37.mp3#
@@ -72,18 +72,18 @@ dali.rsw#bgm\\60.mp3#
 1@gef_in.rsw#bgm\\13.mp3#
 1@spa.rsw#bgm\\117.mp3#
 
-//¸ó½ºÅÍ¿şÀÌºê
+//ëª¬ìŠ¤í„°ì›¨ì´ë¸Œ
 1@def01.rsw#bgm\\19.mp3# 
 1@def02.rsw#bgm\\75.mp3# 
 1@def03.rsw#bgm\\152.mp3# 
 
-//°í¼º¸Ş¸ğ¸®¾ó
+//ê³ ì„±ë©”ëª¨ë¦¬ì–¼
 gl_cas02_.rsw#bgm\\43.mp3#
 gl_chyard_.rsw#bgm\\40.mp3#
 1@gl_k.rsw#bgm\\44.mp3#
 2@gl_k.rsw#bgm\\44.mp3#
 
-//°ø¼ºÀü TE(º¹»ç¸Ê)
+//ê³µì„±ì „ TE(ë³µì‚¬ë§µ)
 te_prt_gld.rsw#bgm\\66.mp3#
 te_prtcas01.rsw#bgm\\66.mp3#
 te_prtcas02.rsw#bgm\\66.mp3#
@@ -99,7 +99,7 @@ te_aldecas4.rsw#bgm\\66.mp3#
 te_aldecas5.rsw#bgm\\66.mp3#
 teg_dun02.rsw#bgm\\44.mp3#
 
-//Æ©Åä¸®¾ó (º¹»ç¸Ê)
+//íŠœí† ë¦¬ì–¼ (ë³µì‚¬ë§µ)
 prt_fild08d.rsw#bgm\\12.mp3#
 prt_fild08c.rsw#bgm\\12.mp3#
 prt_fild08b.rsw#bgm\\12.mp3#
@@ -117,7 +117,7 @@ iz_ac02_b.rsw#bgm\\26.mp3#
 iz_ac01_a.rsw#bgm\\26.mp3#
 iz_ac02_a.rsw#bgm\\26.mp3#
 
-//ÀÌÁî·çµå¸®´º¾ó
+//ì´ì¦ˆë£¨ë“œë¦¬ë‰´ì–¼
 iz_int.rsw#bgm\\26.mp3#
 iz_int01.rsw#bgm\\26.mp3#
 iz_int02.rsw#bgm\\26.mp3#
@@ -129,7 +129,7 @@ iz_ng01.rsw#bgm\\26.mp3#
 treasure_n1.rsw#bgm\\17.mp3#
 treasure_n2.rsw#bgm\\17.mp3#
 
-//ÇÇ¶ó¹Ìµå ³ªÀÌÆ®¸Ş¾î ´øÁ¯ (º¹»ç¸Ê)
+//í”¼ë¼ë¯¸ë“œ ë‚˜ì´íŠ¸ë©”ì–´ ë˜ì ¼ (ë³µì‚¬ë§µ)
 moc_pryd1.rsw#bgm\\22.mp3#
 moc_pryd2.rsw#bgm\\22.mp3#
 
@@ -956,7 +956,7 @@ gl_chyard_.rsw#bgm\\40.mp3#
 1@gl_k.rsw#bgm\\44.mp3#
 2@gl_k.rsw#bgm\\44.mp3#
 
-//¿µ¿õÀÇÈçÀû
+//ì˜ì›…ì˜í”ì 
 dali02.rsw#bgm\\60.mp3#
 1@tnm1.rsw#bgm\\102.mp3#
 1@tnm2.rsw#bgm\\113.mp3#
@@ -968,11 +968,11 @@ dali02.rsw#bgm\\60.mp3#
 
 1@def01.rsw#bgm\\19.mp3# 
 
-//½Ã°èÅ¾ ³ªÀÌÆ®¸Ş¾î
+//ì‹œê³„íƒ‘ ë‚˜ì´íŠ¸ë©”ì–´
 c_tower2_.rsw#bgm\\60.mp3#
 c_tower3_.rsw#bgm\\60.mp3#
 
-// ¿¡ÇÇ¼Òµå 14.3 //
+// ì—í”¼ì†Œë“œ 14.3 //
 1@dth1.rsw#bgm\\157.mp3#
 1@dth2.rsw#bgm\\157.mp3#
 1@dth3.rsw#bgm\\157.mp3#
@@ -997,7 +997,7 @@ egef_dun03l.rsw#bgm\\50.mp3#
 egef_dun03m.rsw#bgm\\50.mp3#
 egef_dun03h.rsw#bgm\\50.mp3#
 
-// ¿µ¿õÀÇÈçÀû 3
+// ì˜ì›…ì˜í”ì  3
 1@air1.rsw#bgm\\87.mp3#
 1@air2.rsw#bgm\\87.mp3#
 1@glast.rsw#bgm\\95.mp3#
@@ -1005,14 +1005,14 @@ ealde_dun02m.rsw#bgm\\64.mp3#
 egld2_aldl.rsw#bgm\\64.mp3#
 emal_dun01h.rsw#bgm\\64.mp3#
 
-//ep15.1 ÆÇÅ¸½º¸¶°í¸®Ä«
+//ep15.1 íŒíƒ€ìŠ¤ë§ˆê³ ë¦¬ì¹´
 ver_eju.rsw#bgm\\89.mp3#
 ver_tunn.rsw#bgm\\89.mp3#
 verus04.rsw#bgm\\164.mp3#
 verus03.rsw#bgm\\164.mp3#
 1@mcd.rsw#bgm\\160.mp3#
 
-// ep15.2 ÆÇÅ¸½º¸¶°í¸®Ä«
+// ep15.2 íŒíƒ€ìŠ¤ë§ˆê³ ë¦¬ì¹´
 verus01.rsw#bgm\\161.mp3#
 verus02.rsw#bgm\\161.mp3#
 un_bk_q.rsw#bgm\\122.mp3#
@@ -1032,7 +1032,7 @@ conch_in.rsw#bgm\\170.mp3#
 lasa_in01.rsw#bgm\\170.mp3#
 lasa_dun_q.rsw#bgm\\168.mp3#
 
-// ep16.1 ¿µ¿õÀ» À§ÇÑ ¿¬È¸ + ÇÁ·ĞÅ×¶ó ¸®´º¾ó
+// ep16.1 ì˜ì›…ì„ ìœ„í•œ ì—°íšŒ + í”„ë¡ í…Œë¼ ë¦¬ë‰´ì–¼
 1@mir.rsw#bgm\\166.mp3#
 2@mir.rsw#bgm\\10.mp3#
 1@sthb.rsw#bgm\\165.mp3#
@@ -1055,10 +1055,10 @@ rockmi2.rsw#bgm\\172.mp3#
 rockrdg1.rsw#bgm\\172.mp3#
 rockrdg2.rsw#bgm\\172.mp3#
 
-// »ıÃ¼´øÀü ½Å±Ô Àü»çÀÚÀÇ ¹«´ı
+// ìƒì²´ë˜ì „ ì‹ ê·œ ì „ì‚¬ìì˜ ë¬´ë¤
 lhz_dun_n.rsw#bgm\\124.mp3#
 
-// ep16.2 (Ãß°¡ ÄÁÅÙÃ÷ ¾È ³Ö¾úÀ½)
+// ep16.2 (ì¶”ê°€ ì»¨í…ì¸  ì•ˆ ë„£ì—ˆìŒ)
 1@slw.rsw#bgm\\124.mp3#
 1@swat.rsw#bgm\\87.mp3#
 que_swat.rsw#bgm\\87.mp3#
@@ -1077,7 +1077,7 @@ hal_in18.rsw#bgm\\60.mp3#
 1@niflhe.rsw#bgm\\60.mp3#
 1@rossi.rsw#bgm\\60.mp3#
 
-// ÀÏ·çÀü °ÔÆæ (¹ìÆÄÀÌ¾î)
+// ì¼ë£¨ì „ ê²Œíœ (ë±€íŒŒì´ì–´)
 gef_d01_i.rsw#bgm\\51.mp3#
 
 // XMAS 2018
@@ -1121,14 +1121,14 @@ prt_f1319.rsw#bgm\\158.mp3#
 station_f13.rsw#bgm\\11.mp3#
 prt_f1319in.rsw#bgm\\17.mp3#
 
-//-ÃÖÁ¾°»½Å 2017-12-26
-//¸ÊÀÌ¸§.rsw#bgm\\À½¾Ç¹øÈ£#
+//-ìµœì¢…ê°±ì‹  2017-12-26
+//ë§µì´ë¦„.rsw#bgm\\ìŒì•…ë²ˆí˜¸#
 
 //--- Advanced Glast Heim
 1@gl_kh.rsw#bgm\\44.mp3#
 2@gl_kh.rsw#bgm\\44.mp3#
 
-// ¿¡ÇÇ¼Òµå 17.1 ÅÂµ¿, ÀÏ·ç½Ã¿Â
+// ì—í”¼ì†Œë“œ 17.1 íƒœë™, ì¼ë£¨ì‹œì˜¨
 1@cor.rsw#bgm\\103.mp3#
 1@os_a.rsw#bgm\\102.mp3#
 1@os_b.rsw#bgm\\87.mp3#
@@ -1140,3 +1140,7 @@ sp_os.rsw#bgm\\174.mp3#
 sp_rudus.rsw#bgm\\176.mp3#
 sp_rudus2.rsw#bgm\\176.mp3#
 sp_rudus3.rsw#bgm\\176.mp3#
+
+// Nov Hunt event
+hu_fild03.rsw#bgm\\91.mp3#
+que_house_s.rsw#bgm\\05.mp3#

@@ -4435,7 +4435,6 @@ ev_summer02.rsw#ウォームアップ・エリア#
 ev_summer03.rsw#マッスルロード01#
 ev_summer04.rsw#マッスルロード02#
 ev_summer05.rsw#マッスルロード03#
-ev_summer06.rsw#フィッシング・エリア#
 ev_summer07.rsw#フェルビナクA 駐屯地#
 ev_summer08.rsw#フェルビナクB 駐屯地#
 ev_summer09.rsw#フェルビナクC 駐屯地#
@@ -4466,5 +4465,43 @@ ev_summer33.rsw#マッスルオアダイG#
 ev_summer34.rsw#マッスルオアダイH#
 ev_summer35.rsw#マッスルオアダイI#
 ev_season01.rsw#神秘の館#
+ev_summer36.rsw#マッスルオアダイJ#
+ev_summer06.rsw#フィッシング・エリア(東島)#
+ev_summer37.rsw#フィッシング・エリア(西島)#
+//------------------------------------------------
+hal_main.rsw#ハロウィンパーティー会場#
+hal_fes1.rsw#パレード準備会場#
+hal_fes2.rsw#エキセントリックパレード#
+hal_mostro1.rsw#キッコ・モストロ#
+hal_mostro2.rsw#キッコ・モストロ（店長の部屋）#
+hal_mostro3.rsw#キッコ・モストロ（店長の部屋）#
+hal_field1.rsw#ハロウィンフィールド 01#
+hal_field2.rsw#ハロウィンフィールド 02#
+hal_field3.rsw#ハロウィンフィールド 03#
+//------------------------------------------------
+ba_in01.rsw#バルムント邸 室内#
+ba_pw01.rsw#第1魔力発電所#
+ba_pw02.rsw#下水処理場#
+ba_pw03.rsw#第2魔力発電所#
+ba_2whs01.rsw#貯蔵庫タルタロス上層#
+ba_2whs02.rsw#貯蔵庫タルタロス下層#
+ba_maison.rsw#バルムント邸 庭園#
+ba_lib.rsw#図書館 記憶の回廊#
+ba_bath.rsw#大浴場メディタティオ#
+1@bamn1.rsw#薄明りの夜の庭園（バルムント邸掃討作戦）#
+1@bamq1.rsw#飛行船発着場（バルムント邸掃討作戦）#
+1@ghg.rsw#水上植物園オルトゥス・アクア#
+1@herbs1.rsw#隠された花園（隠された花園）#
+1@lost.rsw#飼育場ロストバレー#
+ba_go.rsw#水相戦場#
+ba_chess.rsw#チェックメイト#
+1@bamn2.rsw#薄明りの夜の庭園（ヘイ！スウィーティ！）#
+1@bamq2.rsw#飛行船発着場（ヘイ！スウィーティ！）#
+1@herbs2.rsw#隠された花園（保安区域）#
+2@lost.rsw#飼育場ロストバレー#
+1@bamn.rsw#薄明りの夜の庭園#
+1@bamq.rsw#飛行船発着場#
+1@herbs.rsw#隠された花園#
+ba_lost.rsw#飼育場ロストバレー#
 //------------------------------------------------
 //[file end]

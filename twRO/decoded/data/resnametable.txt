@@ -3492,3 +3492,7 @@ orcsd01a.gat#orcsdun01.gat#
 orcsd01a.rsw#orcsdun01.rsw#
 유저인터페이스\map\orcsd01a.bmp#유저인터페이스\map\orcsdun01.bmp#
 
+1@orcs.gnd#1@orcs.gnd#
+1@orcs.gat#1@orcs.gat#
+1@orcs.rsw#1@orcs.rsw#
+유저인터페이스\map\1@orcs.bmp#유저인터페이스\map\1@orcs.bmp#

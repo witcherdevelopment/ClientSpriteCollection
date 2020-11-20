@@ -21318,7 +21318,7 @@ Description = {"貝德羅瓦說\'勃蘭\'搭船前往失事輪，調查失事輪附近後搜索船內部吧!"
 , Summary = "前往失事輪的島"}
 , 
 [21928] = {Title = "波利們的村落", 
-Description = {"伊甸園請求去調查在普隆德拉附近散佈的有關\'波利村\'傳言的真偽，去\'普隆德拉西邊\'蒐集情資吧!(目前版本還未開放)"}
+Description = {"伊甸園請求去調查在普隆德拉附近散佈的有關\'波利村\'傳言的真偽，去\'普隆德拉西邊\'蒐集情資吧!"}
 , Summary = ""}
 , 
 [21929] = {Title = "前往失事輪", 
@@ -24458,5 +24458,167 @@ Description = {"把     <ITEM>[革命旗幟]<INFO>1000361</INFO></ITEM>轉達給     <NA
 [293234] = {Title = "革命火花集結-等候", IconName = "ico_ev.bmp", 
 Description = {"今天順利地轉達了革命旗幟。"}
 , Summary = "4:00AM以後可執行任務", NpcSpr = "4_F_LAPERM", NpcNavi = "hugel", NpcPosX = 76, NpcPosY = 100}
+, 
+[11684] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"看起來很悲傷的南瓜先生希望向尼芙菲姆南邊的南瓜先生請教可以跟貓咪親近的方法，與尼芙菲姆南邊的南瓜先生對話吧!"}
+, Summary = "與尼芙菲姆南邊的南瓜先生對話"}
+, 
+[11685] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"說南瓜先生的貓咪跟著威茲走掉了，跟位於左邊路的威茲對話吧!"}
+, Summary = "與威茲對話"}
+, 
+[11686] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"如果想聽關於貓咪的事，必須帶來死人遺骨2個，收集死人遺骨2個後去找威茲吧!"}
+, Summary = "死人遺骨2個"}
+, 
+[11687] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"威茲收下死人遺骨1個後，請你把另一個送給尼芙菲姆南邊的南瓜先生，快去交給南瓜先生吧!"}
+, Summary = "去找尼芙菲姆南邊的南瓜先生"}
+, 
+[11688] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"只可惜毫無所獲，只好再去找看起來很悲傷的南瓜先生吧!"}
+, Summary = "去找看起來很悲傷的南瓜先生"}
+, 
+[11689] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"擊殺^ff0000落跑的南瓜10隻^000000後^ff0000，收集南瓜裝飾、乾扁白梗各5個^000000吧!"}
+, Summary = "去找看起來很悲傷的南瓜先生"}
+, 
+[11690] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔-等候", IconName = "ico_ev.bmp", 
+Description = {"明天再跟南瓜先生吧!"}
+, Summary = "凌晨四點重置"}
+, 
+[11691] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"擊殺^ff0000落跑的南瓜10隻^000000後^ff0000，收集南瓜裝飾、乾扁白梗各5個^000000吧!"}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "去找看起來很悲傷的南瓜先生"}
+, 
+[11692] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"擊殺^ff0000落跑的南瓜10隻^000000後^ff0000，收集南瓜裝飾、乾扁白梗各5個^000000吧!"}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "去找看起來很悲傷的南瓜先生"}
+, 
+[11693] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"擊殺^ff0000落跑的南瓜10隻^000000後^ff0000，收集南瓜裝飾、乾扁白梗各5個^000000吧!"}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "去找看起來很悲傷的南瓜先生"}
+, 
+[11694] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"擊殺^ff0000落跑的南瓜10隻^000000後^ff0000，收集南瓜裝飾、乾扁白梗各5個^000000吧!"}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+, 
+{ItemID = 420025, ItemNum = 1}
+}
+, Summary = "去找看起來很悲傷的南瓜先生"}
+, 
+[11695] = {Title = "南瓜先生和南瓜先生的奇妙大眼仔", IconName = "ico_ev.bmp", 
+Description = {"擊殺^ff0000落跑的南瓜10隻^000000後^ff0000，收集南瓜裝飾、乾扁白梗各5個^000000吧!"}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "去找看起來很悲傷的南瓜先生"}
+, 
+[293185] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[肉]<INFO>517</INFO></ITEM> ^4A94F720個^000000給咖波吧!"}
+, Summary = "收集肉 20個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293186] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[牛奶]<INFO>519</INFO></ITEM> ^4A94F720個^000000給咖波吧!"}
+, Summary = "收集牛奶 20個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293187] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[好吃的魚]<INFO>579</INFO></ITEM> ^4A94F720個^000000給咖波吧!"}
+, Summary = "收集好吃的魚 20個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293188] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[美味豬肉]<INFO>11616</INFO></ITEM> ^4A94F720個^000000給咖波吧!"}
+, Summary = "收集美味豬肉 20個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293189] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[腐臭之肉]<INFO>7564</INFO></ITEM> ^4A94F710個^000000給咖波吧!"}
+, Summary = "收集腐臭之肉 10個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293190] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[蛤蜊肉]<INFO>966</INFO></ITEM> ^4A94F75個^000000給咖波吧!"}
+, Summary = "收集蛤蜊肉 5個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293191] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[烤野豬]<INFO>12429</INFO></ITEM> ^4A94F71個^000000給咖波吧!"}
+, Summary = "收集烤野豬 1個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293192] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[野豬肉]<INFO>6249</INFO></ITEM> ^4A94F72個^000000給咖波吧!"}
+, Summary = "收集野豬肉 2個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293193] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[米洛斯燒肉]<INFO>12431</INFO></ITEM> ^4A94F71個^000000給咖波吧!"}
+, Summary = "收集米洛斯燒肉 1個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293194] = {Title = "咖波今天吃甚麼呢?", IconName = "ico_ev.bmp", 
+Description = {"幫拉拉收集<ITEM>[牛頭肉]<INFO>6254</INFO></ITEM> ^4A94F72個^000000給咖波吧!"}
+, Summary = "收集牛頭肉 2個", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293195] = {Title = "咖波今天吃甚麼呢? - 等候", IconName = "ico_ev.bmp", 
+Description = {"咖波美食吃的津津有味。"}
+, Summary = "4:00AM之後可進行任務", NpcSpr = "4_F_SITDOWN", NpcNavi = "aldebaran", NpcPosX = 119, NpcPosY = 119}
+, 
+[293196] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"帶咖波去有<NAVI>[克魔島當地美食]<INFO>comodo,198,306,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "指引克魔島當地美食", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "comodo", NpcPosX = 198, NpcPosY = 306}
+, 
+[293197] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"帶咖波去有<NAVI>[艾爾貝塔進口魚貨]<INFO>alberta,147,177,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "指引艾爾貝塔進口魚貨", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "alberta", NpcPosX = 147, NpcPosY = 177}
+, 
+[293198] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"帶咖波去有<NAVI>[毀葛田園美食]<INFO>hugel,81,165,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "指引毀葛田園美食", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "hugel", NpcPosX = 81, NpcPosY = 165}
+, 
+[293199] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"帶咖波去有<NAVI>[普隆德拉都市美食]<INFO>prontera,57,190,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "指引普隆德拉都市美食", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "prontera", NpcPosX = 57, NpcPosY = 190}
+, 
+[293200] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"帶咖波去有<NAVI>[綿綿島章魚美食]<INFO>malangdo,168,142,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "指引綿綿島章魚美食", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "malangdo", NpcPosX = 168, NpcPosY = 142}
+, 
+[293201] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"帶咖波去有<NAVI>[精靈美食]<INFO>splendide,244,259,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "指引精靈美食", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "splendide", NpcPosX = 244, NpcPosY = 259}
+, 
+[293202] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"帶咖波去有<NAVI>[巨人美食]<INFO>manuk,192,191,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "指引巨人美食", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "manuk", NpcPosX = 192, NpcPosY = 191}
+, 
+[293203] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"帶咖波去有<NAVI>[雙層純牛肉]<INFO>verus03,110,177,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "指引雙層純牛肉", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "verus03", NpcPosX = 110, NpcPosY = 177}
+, 
+[293204] = {Title = "咖波餓壞了", IconName = "ico_ev.bmp", 
+Description = {"咖波似乎心滿意足了，回去找<NAVI>[咖波]<INFO>aldebaran,120,118,0,101,0</INFO></NAVI>吧!"}
+, Summary = "回去領獎勵。", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "aldebaran", NpcPosX = 120, NpcPosY = 118}
+, 
+[293205] = {Title = "咖波餓壞了 - 等候", IconName = "ico_ev.bmp", 
+Description = {"咖波似乎心滿意足了。"}
+, Summary = "4:00AM之後可進行任務", NpcSpr = "CAPOO_Collabo_TW", NpcNavi = "aldebaran", NpcPosX = 120, NpcPosY = 118}
+, 
+[12419] = {Title = "探險獸人的記憶1", 
+Description = {"進行獸人記憶副本1樓直到最後，確認在那裡發生了什麼事。"}
+, Summary = "獸人的記憶1樓"}
+, 
+[12420] = {Title = "恢復疲勞中", 
+Description = {"恢復疲勞前無法再次進入獸人的記憶。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
 }
 

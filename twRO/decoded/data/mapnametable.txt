@@ -1930,3 +1930,6 @@ tur_d03ia.rsw#¦º±I¨}Àt§ø#
 tur_d03ib.rsw#¦º±I¨}Àt§ø#
 tur_d04ia.rsw#²Y²DÂÂ¨}®c#
 tur_d04ib.rsw#²Y²DÂÂ¨}®c#
+
+//200922 9¤ë¤º®e
+prt_mz03_i.rsw#§á¦±ªº°g®c´ËªL#

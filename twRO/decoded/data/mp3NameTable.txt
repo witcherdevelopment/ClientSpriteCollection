@@ -1199,3 +1199,6 @@ tur_d03ia.rsw#bgm\\65.mp3#
 tur_d03ib.rsw#bgm\\65.mp3#
 tur_d04ia.rsw#bgm\\65.mp3#
 tur_d04ib.rsw#bgm\\65.mp3#
+
+// 9월 컨텐츠 일루전 라비린스
+prt_mz03_i.rsw#bgm\\16.mp3#

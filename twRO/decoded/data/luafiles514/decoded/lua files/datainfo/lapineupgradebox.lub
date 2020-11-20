@@ -489,15 +489,15 @@ TargetItems = {
 , 
 {"S_M_Exe_Ho_Weapon", 24431}
 , 
-{"S_Hasty_Weapon", 24312}
+{"S_Hasty_Weapon", 24439}
 , 
-{"S_PerfectSize_Weapon", 24439}
+{"S_PerfectSize_Weapon", 24425}
 , 
-{"S_PerfectSize_Armor", 24425}
+{"S_PerfectSize_Armor", 24426}
 , 
-{"S_Soul_Reaper_Armor", 24426}
+{"S_Soul_Reaper_Armor", 24414}
 , 
-{"S_Soul_Reaper_Shoes", 24414}
+{"S_Soul_Reaper_Shoes", 24415}
 , 
 {"S_Star_Emperor_Armor", 24412}
 , 
@@ -1698,6 +1698,8 @@ TargetItems = {
 {"Overwhelm_Agi_Armor", 15353}
 , 
 {"Overwhelm_Luk_Armor", 15346}
+, 
+{"Temporal_Armor_TW", 450175}
 }
 , NeedSource_String = "®É¥úñZ¥Ò6ºØ"}
 , 
@@ -2503,15 +2505,15 @@ TargetItems = {
 , 
 {"S_M_Exe_Ho_Weapon", 24431}
 , 
-{"S_Hasty_Weapon", 24312}
+{"S_Hasty_Weapon", 24439}
 , 
-{"S_PerfectSize_Weapon", 24439}
+{"S_PerfectSize_Weapon", 24425}
 , 
-{"S_PerfectSize_Armor", 24425}
+{"S_PerfectSize_Armor", 24426}
 , 
-{"S_Soul_Reaper_Armor", 24426}
+{"S_Soul_Reaper_Armor", 24414}
 , 
-{"S_Soul_Reaper_Shoes", 24414}
+{"S_Soul_Reaper_Shoes", 24415}
 , 
 {"S_Star_Emperor_Armor", 24412}
 , 

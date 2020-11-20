@@ -1236,6 +1236,8 @@ SignBoardList = {
 , 
 {"ev_season01", 38, 120, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  装備の覚醒", "255,255,255"}
 , 
+{"ba_maison", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  バルムント邸案内", "255,255,255"}
+, 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
 , 
 {"lby_in", 44, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐依頼", "255,255,255"}
@@ -1352,44 +1354,6 @@ SignBoardList = {
 , 
 {"pab_camp", 21, 171, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｾｷｭｱﾛｸﾞｲﾝﾎﾞｰﾅｽ", "255,255,255"}
 , 
-{"yuno", 211, 329, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミッションマスター", "255,255,255"}
-, 
-{"yuno", 216, 329, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ミッション転送サポート", "255,255,255"}
-, 
-{"yuno", 221, 329, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  転職・転生サポート", "255,255,255"}
-, 
-{"yuno", 205, 316, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  セーブ・倉庫", "255,255,255"}
-, 
-{"yuno", 214, 316, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  回復", "255,255,255"}
-, 
-{"yuno", 202, 303, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【40Zeny】", "255,255,255"}
-, 
-{"yuno", 192, 291, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売", "255,255,255"}
-, 
-{"yuno", 197, 291, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬・修理", "255,255,255"}
-, 
-{"yuno", 205, 307, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  騎乗レンタル", "255,255,255"}
-, 
-{"yuno", 225, 324, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ステータス・スキルリセット", "255,255,255"}
-, 
-{"yuno", 201, 324, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  回復剤交換", "255,255,255"}
-, 
-{"prontera", 105, 63, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
-, 
-{"ac_cl_room", 49, 32, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
-, 
-{"lasagna", 314, 237, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
-, 
-{"prontera", 105, 68, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  175種類討伐", "255,255,255"}
-, 
-{"prontera", 105, 73, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  記念品", "255,255,255"}
-, 
-{"ac_cl_room", 49, 37, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  いきなり拳聖・ソウルリンカー", "255,255,255"}
-, 
-{"yuno", 193, 349, 8, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アムヘル", "255,255,255"}
-, 
-{"yuno", 198, 349, 8, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  コンビクシオン", "255,255,255"}
-, 
 {"ev_summer01", 238, 269, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  welcome!", "255,255,255"}
 , 
 {"ev_summer01", 237, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  HITトレーニング", "255,255,255"}
@@ -1425,6 +1389,16 @@ SignBoardList = {
 {"ev_summer06", 173, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  釣果納品", "255,255,255"}
 , 
 {"ev_summer06", 157, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer37", 173, 180, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  釣り具あり升", "255,255,255"}
+, 
+{"ev_summer37", 179, 189, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  釣りマガジン", "255,255,255"}
+, 
+{"ev_summer37", 179, 180, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  漁場転送", "255,255,255"}
+, 
+{"ev_summer37", 173, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  釣果納品", "255,255,255"}
+, 
+{"ev_summer37", 157, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
 , 
 {"ev_summer07", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
 , 
@@ -1465,5 +1439,55 @@ SignBoardList = {
 {"ev_summer16", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
 , 
 {"ev_summer16", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"hal_main", 193, 200, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  HalloweenParty!!", "255,255,255"}
+, 
+{"hal_main", 188, 201, 12, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ガーリンを退治して", "255,255,255"}
+, 
+{"hal_main", 201, 185, 8, IT_SIGNBOARD, "signboard\\sign_hal07.bmp", "  ﾒﾓﾘｱﾙｽﾄｰﾘｰ", "255,255,255"}
+, 
+{"hal_main", 181, 163, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  プロンテラへ帰還", "255,255,255"}
+, 
+{"hal_main", 180, 189, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"hal_main", 198, 201, 12, IT_SIGNBOARD, "signboard\\sign_hal02.bmp", "  ﾊﾛｳｨﾝｷｬﾝﾃﾞ\168!!", "255,255,255"}
+, 
+{"hal_main", 203, 204, 6, IT_SIGNBOARD, "signboard\\sign_hal03.bmp", "  お菓子販売", "255,255,255"}
+, 
+{"hal_main", 211, 199, 6, IT_SIGNBOARD, "signboard\\sign_hal06.bmp", "  ｷｭｰﾍﾟｯﾄｸﾞｯｽﾞ", "255,255,255"}
+, 
+{"hal_main", 216, 197, 6, IT_SIGNBOARD, "signboard\\sign_hal05.bmp", "  ｷｭｰﾍﾟｯﾄの予145", "255,255,255"}
+, 
+{"hal_main", 220, 193, 6, IT_SIGNBOARD, "signboard\\sign_hal04.bmp", "  ｷｭｰﾍﾟｯﾄｱｸｾｻﾘ\176", "255,255,255"}
+, 
+{"hal_main", 180, 179, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  モンスター変身", "255,255,255"}
+, 
+{"hal_main", 167, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  特殊転送", "255,255,255"}
+, 
+{"hal_main", 207, 165, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  果物販売", "255,255,255"}
+, 
+{"hal_main", 197, 158, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  騎乗物の貸出", "255,255,255"}
+, 
+{"hal_main", 203, 158, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ﾎﾑﾝｸﾙｽ親密度アップ", "255,255,255"}
+, 
+{"hal_field1", 229, 267, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  マップ転送", "255,255,255"}
+, 
+{"hal_field2", 370, 236, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  マップ転送", "255,255,255"}
+, 
+{"hal_field3", 150, 208, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  マップ転送", "255,255,255"}
+, 
+{"hal_fes1", 203, 177, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  イベント会場へ", "255,255,255"}
+, 
+{"hal_fes2", 355, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  イベント会場へ", "255,255,255"}
+, 
+{"hal_mostro1", 22, 10, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  イベント会場へ", "255,255,255"}
+, 
+{"hal_mostro1", 95, 107, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  店長の部屋", "255,255,255"}
+, 
+{"hal_fes2", 338, 86, 0, IT_BMP, "signboard\\sign_hal01.bmp"}
+, 
+{"prontera", 116, 60, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ドーナツ屋", "255,255,255"}
+, 
+{"prontera", 116, 66, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  人気投票くじ roro", "255,255,255"}
 }
 

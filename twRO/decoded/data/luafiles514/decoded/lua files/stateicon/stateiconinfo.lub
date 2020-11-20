@@ -6123,4 +6123,32 @@ descript = {
 {"所有屬性攻擊抗性-50%。"}
 }
 }
+-- DECOMPILER ERROR at PC12595: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DARKCROW] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"致命爪痕", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"近距離物理傷害增加"}
+, 
+{"部分反射效果無效"}
+}
+}
+-- DECOMPILER ERROR at PC12624: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_POISONINGWEAPON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"劇毒武器", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"近距離物理傷害增加"}
+, 
+{"根據賦予的毒給予Buff"}
+, 
+{"攻擊時讓目標被塗在武器上的毒而中毒"}
+}
+}
 

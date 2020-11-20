@@ -556,6 +556,10 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Magic_Heir_TW] = {Default = 450, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_WH] = {Default = 150, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

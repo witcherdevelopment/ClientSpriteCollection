@@ -1,3 +1,6 @@
 loadingscreen#
-10#
+12#
+
+weather#hal_main.rsw#pokjuk#
+weather#hal_fes2.rsw#pokjuk#
 //file end
