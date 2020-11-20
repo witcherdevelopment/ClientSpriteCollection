@@ -3762,7 +3762,7 @@ Description = {"50Lv 이상의 용족 몬스터를 30마리 사냥한 뒤에 <NAVI>[부관 장하성]
 , Summary = "용족 몬스터 사냥"}
 , 
 [3398] = {Title = "왕실 사냥터로", IconName = "ico_ev.bmp", 
-Description = {"<NAVI>[텔레포테이션 장치]<INFO>prt_fild01,109,192,0,101,0</INFO></NAVI>를 사용하여 왕실 사냥터로 진입하자."}
+Description = {"<NAVI>[텔레포테이션 장치]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI>를 사용하여 왕실 사냥터로 진입하자."}
 , Summary = ""}
 , 
 [3399] = {Title = "곤충형 몬스터 사냥", IconName = "ico_ev.bmp", 
@@ -4075,6 +4075,38 @@ Description = {"유노 몬스터 학회 토벌 의뢰\n\t\t<NAVI>[얼음 동굴 1층]<INFO>ice_d
 , 
 [3484] = {Title = "[대기]토벌-얼음 동굴 1층", IconName = "ico_dq.bmp", 
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[조사관 도브]<INFO>ice_dun01,161,13,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[3485] = {Title = "(숙련)곤충형 몬스터 사냥", IconName = "ico_ev.bmp", 
+Description = {"100Lv 이상의 곤충형 몬스터를 30마리 사냥한 뒤에 <NAVI>[부관 장하성]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>에게 보고하도록 하자."}
+, Summary = "곤충형 몬스터 사냥"}
+, 
+[3486] = {Title = "(숙련)곤충형 몬스터 사냥 - 대기", IconName = "ico_ev.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[3487] = {Title = "(숙련)동물형 몬스터 사냥", IconName = "ico_ev.bmp", 
+Description = {"100Lv 이상의 동물형 몬스터를 30마리 사냥한 뒤에 <NAVI>[부관 장하성]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>에게 보고하도록 하자."}
+, Summary = "동물형 몬스터 사냥"}
+, 
+[3488] = {Title = "(숙련)동물형 몬스터 사냥 - 대기", IconName = "ico_ev.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[3489] = {Title = "(숙련)어패형 몬스터 사냥", IconName = "ico_ev.bmp", 
+Description = {"100Lv 이상의 어패형 몬스터를 30마리 사냥한 뒤에 <NAVI>[부관 장하성]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>에게 보고하도록 하자."}
+, Summary = "어패형 몬스터 사냥"}
+, 
+[3490] = {Title = "(숙련)어패형 몬스터 사냥 - 대기", IconName = "ico_ev.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[3491] = {Title = "(숙련)용족 몬스터 사냥", IconName = "ico_ev.bmp", 
+Description = {"100Lv 이상의 용족 몬스터를 30마리 사냥한 뒤에 <NAVI>[부관 장하성]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>에게 보고하도록 하자."}
+, Summary = "용족 몬스터 사냥"}
+, 
+[3492] = {Title = "(숙련)용족 몬스터 사냥 - 대기", IconName = "ico_ev.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [4000] = {Title = "셰린의 면접", 
@@ -6666,7 +6698,7 @@ Description = {"도시상인연합 게시판에 새로 등록된 현상수배 의뢰가 없습니다. 의뢰
 , Summary = "수요일 04시 초기화", CoolTimeQuest = 1}
 , 
 [5471] = {Title = "(현상수배)", 
-Description = {"프론테라 왕실에서 Endless Tower의 보스 엔트바이엔 크놋헨을 잡는 자에게 사례한다고 합니다."}
+Description = {"프론테라 왕실에서 성좌의 탑 보스 엔트바이엔 크놋헨을 잡는 자에게 사례한다고 합니다."}
 , Summary = "현상금 연합의 증표 300"}
 , 
 [5472] = {Title = "(현상수배)", 
@@ -8004,6 +8036,38 @@ Description = {"루루카 깊은 숲 밖으로 나가 오두막의 주인을 만나자."}
 [5907] = {Title = "자세 봐주기.", IconName = "ico_jq.bmp", 
 Description = {"오두막의 주인이 윈드 호크가 되어보지 않겠냐고 제안해왔다. 오두막 주인과 대화를 나눠보자.", " ", "^FF0000전직을 위해^000000", "^FF0000남은 스킬 포인트를 모두 사용해주세요.^000000", "^FF0000팔콘, 워그를 해제해주세요.^000000", "^FF0000탈것에서 내려주세요.^000000"}
 , Summary = "오두막 주인과 대화"}
+, 
+[5908] = {Title = "비공정추락지", IconName = "ico_nq.bmp", 
+Description = {"드라이 서클 스트롱 박사에게 비공정추락지에 대한 설명을 들었다."}
+, Summary = ""}
+, 
+[5909] = {Title = "[대기]비공정추락지", IconName = "ico_nq.bmp", 
+Description = {"비공정추락지는 3일에 한번 입장이 가능하다. 비공정추락지에 다시 가고 싶다면, 시간이 지난 후 <NAVI>[드라이 서클 스트롱 박사]<INFO>dali02,137,86,0,101,0</INFO></NAVI>에게 찾아가자."}
+, Summary = "3일 후 04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_M_FAIRYANG", NpcNavi = "dali02", NpcPosX = 137, NpcPosY = 86}
+, 
+[5910] = {Title = "잊혀진 공동의 연구(1)", IconName = "ico_nq.bmp", 
+Description = {"대구토 교수에게 잊혀진 공동을 연구하는 것에 대한 이야기를 들었다."}
+, Summary = ""}
+, 
+[5911] = {Title = "잊혀진 공동의 연구(2)", IconName = "ico_nq.bmp", 
+Description = {"대학원생에게 공동의 지배자를 부르는 방법에 대한 이야기를 들었다."}
+, Summary = ""}
+, 
+[5912] = {Title = "공동 몬스터 사냥 의뢰", IconName = "ico_nq.bmp", 
+Description = {"공동의 몬스터 100마리를 사냥하는 의뢰를 받았다.\n\t\t\n\t\t대구토 교수에게 등록한 파티 인원과 공동 내부의 인원이 동일하지 않으면 정당한 보상을 받을 수 없으니 주의하도록하자.\n\t\t반복이 가능한 퀘스트입니다."}
+, Summary = ""}
+, 
+[5913] = {Title = "공동 몬스터 사냥 의뢰", IconName = "ico_nq.bmp", 
+Description = {"공동의 몬스터 200마리를 사냥하는 의뢰를 받았다.\n\t\t\n\t\t대구토 교수에게 등록한 파티 인원과 공동 내부의 인원이 동일하지 않으면 정당한 보상을 받을 수 없으니 주의하도록하자.\n\t\t반복이 가능한 퀘스트입니다."}
+, Summary = ""}
+, 
+[5914] = {Title = "공동 몬스터 사냥 의뢰", IconName = "ico_nq.bmp", 
+Description = {"공동의 몬스터 350마리를 사냥하는 의뢰를 받았다.\n\t\t\n\t\t대구토 교수에게 등록한 파티 인원과 공동 내부의 인원이 동일하지 않으면 정당한 보상을 받을 수 없으니 주의하도록하자.\n\t\t반복이 가능한 퀘스트입니다."}
+, Summary = ""}
+, 
+[5915] = {Title = "부상자를 도운 보상", IconName = "ico_nq.bmp", 
+Description = {"비공정 추락으로 발생한 부상자를 발견하는데 도움이 되었다며, 펠록에게 보상을 받았다."}
+, Summary = ""}
 , 
 [5916] = {Title = "토벌-아인브로크 필드-1", IconName = "ico_dq.bmp", 
 Description = {"유노 몬스터 학회 토벌 의뢰\n\t\t<NAVI>[아인브로크 필드]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI>의 몬스터 80마리를 토벌해 달라는 의뢰를 받았다. 토벌을 마친 후에는 <NAVI>[조사관 인피유]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI>에게 보고하도록 하자.\n\t\t\n\t\t토벌 대상\n\t\t<NAVI>[홀덴]<INFO>MOLE,0,0,3,-222,1</INFO></NAVI>\n\t\t<NAVI>[메탈링]<INFO>METALING,0,0,3,-222,1</INFO></NAVI>"}
@@ -19767,6 +19831,18 @@ Description = {"^FF0000\'당신이 정말 드래곤의 시험응시자?\'^FF0000", "눈앞의 시�
 Description = {"너무 집중한 듯하니 잠시 쉬고 다시 도전하도록 하자"}
 , Summary = "30분간 휴식"}
 , 
+[12510] = {Title = "숨겨진 투기장에 대해", 
+Description = {"차원의 균열 너머에 불법적인 방법으로 투기장을 운용하는 것을 알게 되었습니다.", "이미 과거의 존재가 되어버린 자들을 어떻게 구워삶은것인지는 알 수 없지만 꽤나 재미난 일임에는 분명합니다."}
+, Summary = "비겁한 자들의 룰"}
+, 
+[12511] = {Title = "[대기]오늘은 경기가 없어", 
+Description = {"투기장은 3일에 한번씩 열린다고 합니다. 경기가 없는동안은 쉬는것이 좋겠죠."}
+, Summary = "3일후 새벽4시 경기 재개", CoolTimeQuest = 1}
+, 
+[12512] = {Title = "살아남았다는 증거", 
+Description = {"아직 투기장 안에 당신이 서 있다면. 그리고 이 출입증을 보고있다면 당신이 살아있다는 증거입니다."}
+, Summary = "아직 죽지않음."}
+, 
 [13000] = {Title = "RWC2011카드 구하기", 
 Description = {"파란카드를 모아서 RWC2011를 완성하자"}
 , Summary = ""}
@@ -24913,7 +24989,7 @@ Description = {"수상정원 보통 난이도에 도전했다."}
 Description = {"수상정원 어려움 난이도에 도전했다.."}
 , Summary = "수상정원 어려움"}
 , 
-[16439] = {Title = "수상정원-대기", IconName = "ico_ep.bmp", 
+[16439] = {Title = "수상정원-대기", IconName = "ico_dq.bmp", 
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
@@ -25000,6 +25076,94 @@ Description = {"인퀴지터가 되기 위한 시험을 치르기로 했다. 홀로 수도원 지하결계�
 [16460] = {Title = "인퀴지터로 전직", IconName = "ico_jq.bmp", 
 Description = {"드디어 인퀴지터로 전직한다. 몸과 마음을 정결하게 하고 <NAVI>[에인하르]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>에게 가 그의 말을 듣자."}
 , Summary = "인퀴지터로 전직"}
+, 
+[16461] = {Title = "회한의 무덤", IconName = "ico_nq.bmp", 
+Description = {"낯선 왕국의 <NAVI>[공주]<INFO>dali,124,88,0,101,0</INFO></NAVI>는 모험가에게 부탁하고 싶은 일이 있어 보인다."}
+, Summary = "회오의 공주와 대화"}
+, 
+[16462] = {Title = "회한의 무덤", IconName = "ico_nq.bmp", 
+Description = {"공주의 이야기를 더 듣기 위해, 그 <NAVI>[뒤]<INFO>dali,79,112,0,101,0</INFO></NAVI>를 따라가 보자."}
+, Summary = "회오의 공주와 대화"}
+, 
+[16463] = {Title = "회한의 무덤", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[공주]<INFO>dali02,78,116,0,101,0</INFO></NAVI>의 이야기를 들은 뒤, 회한의 무덤으로 향하자."}
+, Summary = "회오의 공주와 대화"}
+, 
+[16464] = {Title = "회한의 무덤", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[회오의 공주]<INFO>dali02,78,116,0,101,0</INFO></NAVI>통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16465] = {Title = "끊어진 인연의 실", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[회오의 후작]<INFO>dali02,78,112,0,101,0</INFO></NAVI>은 이제는 공주와의 인연 한 자락 남지 않은 마검사 사크라이를 왕궁에서 내보내기를 바라고 있다."}
+, Summary = ""}
+, 
+[16466] = {Title = "끊어진 인연의 실-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[회오의 후작]<INFO>dali02,78,112,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16467] = {Title = "눈물 흘리며 베다", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[회오의 후작]<INFO>dali02,78,112,0,101,0</INFO></NAVI>은 공주의 명령에 따라, 이성을 잃고 공격해 오는 공주를 잠재워 주기를 바라고 있다."}
+, Summary = ""}
+, 
+[16468] = {Title = "눈물 흘리며 베다-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[회오의 후작]<INFO>dali02,78,112,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16469] = {Title = "조각난 기억", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[회오의 후작]<INFO>dali02,78,112,0,101,0</INFO></NAVI>은 사건의 전말을 알고자, 기억의 조각 3개를 모아 오기를 바라고 있다."}
+, Summary = ""}
+, 
+[16470] = {Title = "조각난 기억-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다.<NAVI>[회오의 후작]<INFO>dali02,78,112,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16471] = {Title = "파편이 된 과거", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[회오의 후작]<INFO>dali02,78,112,0,101,0</INFO></NAVI>은 자신들이 있었다는 사실이 잊혀지지 않도록 하기 위해, 과거의 파편 10개를 모아 오기를 바라고 있다."}
+, Summary = ""}
+, 
+[16472] = {Title = "파편이 된 과거-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[회오의 후작]<INFO>dali02,78,112,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16473] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16474] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16475] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16476] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16477] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16478] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16479] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16480] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16481] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16482] = {Title = "기억의 파편", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
 , 
 [16521] = {Title = "폐기실험체 유기장 루두스 4층", IconName = "ico_dq.bmp", 
 Description = {"율마는 폐기실험장 루두스 4층에 대한 정보를 알려주었다. <NAVI>[파이언]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI>에게 찾아가 직접 루두스 4층에 방문해 보자."}
@@ -25253,9 +25417,9 @@ RewardItemList = {
 Description = {"차후의 일처리는 모두 여기 있는 <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>군을 통해서 해주십시오. 수거한 팔찌도 아스군에게 전달하시면 됩니다."}
 , Summary = "아스씨에게"}
 , 
-[17034] = {Title = "루두스로", IconName = "ico_ep.bmp", 
+[17034] = {Title = "루두스로", IconName = "ico_dq.bmp", 
 Description = {"그럼 돌로르라 불리는 실험체 20분들께 안식을 드리고, 실험체용 식별 팔찌 10개를 부탁드립니다. - <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"}
-, Summary = "실험체용 식별 팔찌 10", RewardEXP = "300000", RewardJEXP = "300000", 
+, Summary = "실험체용 식별 팔찌 10", RewardEXP = 300000, RewardJEXP = 300000, 
 RewardItemList = {
 {ItemID = 25723, ItemNum = 1}
 , 
@@ -25263,9 +25427,9 @@ RewardItemList = {
 }
 }
 , 
-[17035] = {Title = "대기: 루두스로", IconName = "ico_ep.bmp", 
+[17035] = {Title = "대기: 루두스로", IconName = "ico_dq.bmp", 
 Description = {"새벽이 지난 후에 다시 뵙겠습니다. 정말로 고생 많으셨습니다. - <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"}
-, Summary = "04시 초기화", CoolTimeQuest = 1}
+, Summary = "초기화 시간 04시", CoolTimeQuest = 1}
 , 
 [17036] = {Title = "추수제의 의미", IconName = "ico_ev.bmp", 
 Description = {"사과를 땄다"}

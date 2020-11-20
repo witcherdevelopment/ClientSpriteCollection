@@ -1,6 +1,28 @@
 // ==========================================================================
-// resnametable.txt 본서버 최종수정: 2020-09-03 - 4차_본사동기화
+// resnametable.txt 본서버 최종수정: 2020-10-28 - 회한의무덤/비공정추락지
 // ==========================================================================
+// 영웅의 흔적 외전 회한의 무덤
+1@spa2.gnd#1@spa2.gnd#
+1@spa2.gat#1@spa2.gat#
+1@spa2.rsw#1@spa2.rsw#
+유저인터페이스\map\1@spa2.bmp#유저인터페이스\map\1@spa2.bmp#
+
+// 영웅의 흔적 외전 비공정추락지
+1@mjo1.gnd#1@mjo1.gnd#
+1@mjo1.gat#1@mjo1.gat#
+1@mjo1.rsw#1@mjo1.rsw#
+유저인터페이스\map\1@mjo1.bmp#유저인터페이스\map\1@mjo1.bmp#
+1@mjo2.gnd#1@mjo2.gnd#
+1@mjo2.gat#1@mjo2.gat#
+1@mjo2.rsw#1@mjo2.rsw#
+유저인터페이스\map\1@mjo2.bmp#유저인터페이스\map\1@mjo2.bmp#
+
+// 게펜 야간 투기장
+1@ge_sn.gnd#1@ge_sn.gnd#
+1@ge_sn.gat#1@ge_sn.gat#
+1@ge_sn.rsw#1@ge_sn.rsw#
+유저인터페이스\map\1@ge_sn.bmp#유저인터페이스\map\1@ge_sn.bmp#
+
 //4차 전직 마이스터
 1@4mst.gnd#1@4mst.gnd#
 1@4mst.gat#1@4mst.gat#

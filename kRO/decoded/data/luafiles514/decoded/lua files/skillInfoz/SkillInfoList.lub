@@ -13733,5 +13733,23 @@ SpAmount = {0}
 , bSeperateLv = false, 
 AttackRange = {1}
 }
+, 
+[SKID.NPC_DEADLYCURSE2] = {"NPC_DEADLYCURSE2"; SkillName = "客捞靛 单甸府 目胶", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 7, y = 7}
+, 
+[3] = {x = 9, y = 9}
+, 
+[4] = {x = 11, y = 11}
+, 
+[5] = {x = 13, y = 13}
+}
+}
 }
 

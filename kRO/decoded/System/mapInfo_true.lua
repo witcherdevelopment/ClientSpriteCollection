@@ -4,6 +4,22 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["1@spa2.rsw"] = {displayName = "회한의 무덤", notifyEnter = true, 
+signName = {mainTitle = "회한의 무덤"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@mjo1.rsw"] = {displayName = "묘르닐 산맥 비공정추락지", notifyEnter = true, 
+signName = {subTitle = "묘르닐 산맥", mainTitle = "비공정추락지"}
+, backgroundBmp = "field_s2"}
+, 
+["1@mjo2.rsw"] = {displayName = "묘르닐 산맥 잊혀진 공동 (空洞)", notifyEnter = true, 
+signName = {subTitle = "묘르닐 산맥", mainTitle = "잊혀진 공동 (空洞)"}
+, backgroundBmp = "dungeon"}
+, 
+["1@ge_sn.rsw"] = {displayName = "게펜 야간 투기장", notifyEnter = true, 
+signName = {mainTitle = "게펜 야간 투기장"}
+, backgroundBmp = "dungeon_s2"}
+, 
 ["sp_rudus4.rsw"] = {displayName = "폐기실험체 유기장 루두스 4층", notifyEnter = true, 
 signName = {subTitle = "폐기실험체 유기장", mainTitle = "루두스 4층"}
 , backgroundBmp = "dungeon"}

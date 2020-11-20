@@ -712,7 +712,7 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"룬나이트, 로얄가드로 전직 시, 드래곤, 그리폰을 탈 수 있습니다.\n\n\t거수 관리병\'은 각 도시의 \'안내요원\' NPC를 통해 위치를 검색 할 수 있습니다.\n\t<TIPBOX>▶페코페코 관리병<INFO>2000</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[2002] = {Title = "소지량 확장#헬스장,중력성인,인벤토리", Search = 1, Image = "tip02002.bmp", 
+[2002] = {Title = "소지량 확장#헬스장,중력성인,인벤토리", Search = 1, Image = "유저인터페이스\\tipbox\\tip02002", 
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"\t\'헬스장 회원권\'을 사용하여 소지량을 증가시킬 수 있습니다.\n\t\'헬스장 회원권\'은 캐시샵에서 구매할 수 있으며 각 마을에 있는 [캐시판매 안내인]을 통해 캐시몰에 입장할 수 있습니다.\n\t캐시몰에서 [중력성인]NPC에게 \'헬스장 회원권\'아이템을 지급하여 1회당 200의 소지량을 증가시킬 수 있습니다.(총 10회 중첩하여 2000 까지 증가 가능)\n\n\t▷프론테라 <NAVI>[캐시 판매 안내인]<INFO>prontera,137,125,0,101,0</INFO></NAVI>\n\t▷모로크 <NAVI>[캐시 판매 안내인]<INFO>morocc,164,39,0,101,0</INFO></NAVI>\n\t▷모로크(피라미드 앞) <NAVI>[캐시 판매 안내인]<INFO>moc_ruins,115,143,0,101,0</INFO></NAVI>\n\t▷게펜 <NAVI>[캐시 판매 안내인]<INFO>geffen,115,168,0,101,0</INFO></NAVI>\n\t▷페이욘 <NAVI>[캐시 판매 안내인]<INFO>payon,164,157,0,101,0</INFO></NAVI>\n\t▷리히타르젠 <NAVI>[캐시 판매 안내인]<INFO>lighthalzen,206,144,0,101,0</INFO></NAVI>\n\t▷라헬 <NAVI>[캐시 판매 안내인]<INFO>rachel,128,144,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶캐릭터: Weight(무게)<INFO>13</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
@@ -2206,6 +2206,18 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"진정한 용사만이 가질 수 있다는 용사의 반지를 아는가? 난 그 반지의 주인을 기다리고 있다네.\n\t\t<NAVI>[인챈트전문가 번즈]<INFO>moro_cav,34,65,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t<ITEM>[용사의 반지]<INFO>2981</INFO></ITEM> 소지자\n\n\t\t<TIPBOX>▶결전 퀘스트 보기<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
+[6095] = {Title = "비공정 추락지#비공정#추락지#메모리얼#외전#영웅의흔적#", Search = 1, Image = "유저인터페이스\\tipbox\\tip06095", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"영웅의 흔적 외전! 비공정 추락지\n\t\t한 라피네에 의해 비공정이 추락한 묘르닐 산맥으로 갈 수 있는 차원의 균열이 발견되었다. 추락지에서 발견한 공동을 탐험해보자.\n\t\t<NAVI>[드라이 서클 스트롱 박사]<INFO>dali02,137,86,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 215^000000\n\n\t\t<TIPBOX>▶비공정 추락지 보상 보기<INFO>6096</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6096] = {Title = "비공정 추락지 보상#비공정#추락지#메모리얼#외전#영웅의흔적#보상#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"비공정 추락지에서 얻을 수 있는 <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM>은 다양한 보상으로 교환할 수 있습니다.\n\t\t\n\t\t▶ 불명의 부츠 & 강화 아이템\n\t\t<ITEM>[불명의 힘 부츠]<INFO>470071</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 185개\n\t\t\n\t\t<ITEM>[불명의 손재주 부츠]<INFO>470072</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 185개\n\t\t\n\t\t<ITEM>[불명의 생명력 부츠]<INFO>470073</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 185개\n\t\t\n\t\t<ITEM>[불명의 마력 부츠]<INFO>470074</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 185개\n\t\t\n\t\t<ITEM>[불명의 민첩 부츠]<INFO>470076</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 185개\n\t\t\n\t\t<ITEM>[불명의 행운 부츠]<INFO>470077</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 185개\n\t\t\n\t\t<ITEM>[마력을 머금은 구슬]<INFO>100476</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 17개\n\t\t→ 150,000 제니\n\t\t\n\t\t▶ 카드첩\n\t\t<ITEM>[오염된 카드첩]<INFO>100462</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 2500개\n\t\t\n\t\t<TIPBOX>▶비공정 추락지 보기<INFO>6095</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
 [6097] = {Title = "Q 수상한고양이: 앙숙 (110)#피라미드#모로크#나이트메어#110#", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
@@ -2539,7 +2551,7 @@ Page = {"미지에 대한 호기심은 탐험으로 이어집니다. 이것은 모험가의 숙명과도 같습
 [7084] = {Title = "미드가르드 대륙 MD#고성포링타워보르세브요일오크장던바포문어바다신무한꿈구두굽", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"신화가 역사로 남아 있는 곳, 미드가르드 대륙. 옛 이야기와 영웅의 모험담이 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶MD 수상한 난파선 (10)<INFO>7085</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 포링 마을 (30)<INFO>7086</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD Endless Tower (60)<INFO>7087</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 보르세브 연구실 (60)<INFO>7088</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 주말 던전 (60)<INFO>7089</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 오크의 기억 (60)<INFO>7090</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 호러 장난감 공장<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 잔당들의 아지트<INFO>7094</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 봉인의 신전 (75)<INFO>7095</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 지하 배수로 (90)<INFO>7096</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 문어 동굴<INFO>7097</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 금요일 던전 (99)<INFO>7098</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 무한의 공간 (100)<INFO>7099</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 꿈과 그림자 (120)<INFO>7100</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 왕의 구두굽에서 (130)<INFO>7101</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"신화가 역사로 남아 있는 곳, 미드가르드 대륙. 옛 이야기와 영웅의 모험담이 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶MD 수상한 난파선 (10)<INFO>7085</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 포링 마을 (30)<INFO>7086</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 보르세브 연구실 (60)<INFO>7088</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 주말 던전 (60)<INFO>7089</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 오크의 기억 (60)<INFO>7090</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 호러 장난감 공장<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 잔당들의 아지트<INFO>7094</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 봉인의 신전 (75)<INFO>7095</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 지하 배수로 (90)<INFO>7096</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 문어 동굴<INFO>7097</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 금요일 던전 (99)<INFO>7098</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 무한의 공간 (100)<INFO>7099</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 꿈과 그림자 (120)<INFO>7100</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 왕의 구두굽에서 (130)<INFO>7101</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7085] = {Title = "MD 수상한 난파선 (10)#초보루민레노", Search = 1, Image = "", 
@@ -2552,12 +2564,6 @@ Page = {"레노와 모험가가 프론테라의 감옥 구경을 하게 만든 여신 신봉자 브랜. 그자
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"초보자들이 쉽게 도전할 수 있는 모험은 그리 많지 않습니다. 하지만 그러한 곳을 먼저 찾아낸 임시 동료가 있다면 어떨까요? 초보자들끼리 서로 도와 도전해 봅시다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 30 이상 60 이하\n\t\t\t\n\t\t<NAVI>[에밀리]<INFO>prt_fild05,145,235,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 중 획득한 <ITEM>[포링마을 대파]<INFO>19238</INFO></ITEM>나 <ITEM>[포링마을 당근]<INFO>19239</INFO></ITEM>을 <NAVI>[채소 강화사]<INFO>prt_fild05,174,238,0,101,0</INFO></NAVI>에게 가지고 가면 인챈트 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[7087] = {Title = "MD Endless Tower (50)#엔들레스타워", Search = 1, Image = "", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"알베르타에서 만난 노선장은 과거 항해에서 두고 올 수 밖에 없었던 선원에 대한 회한으로 가득합니다. 노선장의 의무를 함께하기 위해 모험가는 미지의 탑으로 출발합니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 7일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 240분\n\t\t\t▷ 레벨 50 이상\n\t\t\t\n\t\t<NAVI>[함장 얀센]<INFO>alberta,214,77,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7088] = {Title = "MD 보르세브의 연구실 (60)#생던리히기업", Search = 1, Image = "", 
@@ -2809,7 +2815,7 @@ Page = {"엘류미나의 중독을 치료하기 위해서는 대현자의 수상정원에서 나오는 실바 �
 [7129] = {Title = "MD 영웅의 흔적", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"오랜 연구 끝에 불안정한 차원의 균열을 통제할 수 있게 되자 균열을 통해 가까운 과거로의 시간여행이 가능하게 되었습니다.\n\t\t그 시간의 흐름 속에서 마주하게 된 것은 책에서 혹은 구전으로나 접할 수 있었던 고대의 영웅들!\n\t\t\n\t\t▶ 차원의 균열 입장\n\t\t<TIPBOX>Q 만족하지 못한 탐욕, 그리고 인간은 이계로 (70)<INFO>6005</INFO></TIPBOX>\n\t\t<TIPBOX>Q 고양이손 요원과 계약 (70)<INFO>6030</INFO></TIPBOX>\n\t\t※ 두 퀘스트 중 한 가지를 완료했다면, 입장 가능\n\t\t\n\t\t<TIPBOX>▶MD 게펜 마법대회 (90)<INFO>7130</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 사라의 기억 (99)<INFO>7131</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 망령의 왕궁 (120)<INFO>7132</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 비공정 습격 (125)<INFO>7133</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 마신의 탑 (130)<INFO>7134</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 페이스웜의 둥지 (140)<INFO>7135</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 펜릴과 사라 (145)<INFO>7136</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"오랜 연구 끝에 불안정한 차원의 균열을 통제할 수 있게 되자 균열을 통해 가까운 과거로의 시간여행이 가능하게 되었습니다.\n\t\t그 시간의 흐름 속에서 마주하게 된 것은 책에서 혹은 구전으로나 접할 수 있었던 고대의 영웅들!\n\t\t\n\t\t▶ 차원의 균열 입장\n\t\t<TIPBOX>Q 만족하지 못한 탐욕, 그리고 인간은 이계로 (70)<INFO>6005</INFO></TIPBOX>\n\t\t<TIPBOX>Q 고양이손 요원과 계약 (70)<INFO>6030</INFO></TIPBOX>\n\t\t※ 두 퀘스트 중 한 가지를 완료했다면, 입장 가능\n\t\t\n\t\t<TIPBOX>▶MD 게펜 마법대회 (90)<INFO>7130</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 사라의 기억 (99)<INFO>7131</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 망령의 왕궁 (120)<INFO>7132</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 비공정 습격 (125)<INFO>7133</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 마신의 탑 (130)<INFO>7134</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 페이스웜의 둥지 (140)<INFO>7135</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 펜릴과 사라 (145)<INFO>7136</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 회한의 무덤 (180)<INFO>8165</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7130] = {Title = "MD 게펜 마법대회 (90)#차원의균열", Search = 1, Image = "", 
@@ -3288,6 +3294,12 @@ Page = {"클라나 네미에리의 장로 리드쉬 님은 수상한 장소에서 오래된 편지를 구해오
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"클라나 네미에리의 장로 코트네스 님은 수상한 장소에서 번쩍거리는 링을 구해오라고 하십니다.\n\t\t<TIPBOX>▶앙금<INFO>8147</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 100 이상^000000\n\n\t\t<NAVI>[리벨리온 경비대장]<INFO>rebel_in,162,87,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>8143</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[8165] = {Title = "MD 회한의 무덤 (180)#메모리얼메던전md", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회오의 공주는 이 시대의 영웅에게 자신의 왕국에 일어난 참혹한 일에 대해 이야기합니다.\n\n\t\t ▷레벨 220 이상\n\t\t ▷<NAVI>[회오의 공주]<INFO>dali.gat,124,88,0,101,0</INFO></NAVI>와 대화해 퀘스트 시작\n\t\t ▷<NAVI>[회오의 공주]<INFO>dali02.gat,78,116,0,101,0</INFO></NAVI>와 대화해 MD 입장\n\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [8166] = {Title = "Q 호수의 용 (120)#낙원단낙단일일퀘스트휘겔", Search = 1, Image = "", 

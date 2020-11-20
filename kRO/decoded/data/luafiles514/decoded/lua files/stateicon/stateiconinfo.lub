@@ -6296,11 +6296,11 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"뜨거운 잔치국수", COLOR_TITLE_BUFF}
+{"이벤트 버프", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"화속성 몬스터 내성"}
+{"회피율 및 완전회피 증가"}
 , 
 {"공격 속도 증가"}
 , 
@@ -7792,6 +7792,83 @@ descript = {
 {"%s", COLOR_TIME}
 , 
 {"무기 공격력 상승"}
+}
+}
+-- DECOMPILER ERROR at PC16167: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPWEAPON2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"스트립 쉐도우", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"웨폰 쉐도우 장비를 착용할 수 없는 상태"}
+}
+}
+-- DECOMPILER ERROR at PC16191: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPARMOR2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"스트립 쉐도우", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"아머 쉐도우 장비를 착용할 수 없는 상태"}
+}
+}
+-- DECOMPILER ERROR at PC16215: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"스트립 쉐도우", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"쉴드 웨폰 쉐도우 장비를 착용할 수 없는 상태"}
+}
+}
+-- DECOMPILER ERROR at PC16239: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPSHOES2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"스트립 쉐도우", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"신발 쉐도우 장비를 착용할 수 없는 상태"}
+}
+}
+-- DECOMPILER ERROR at PC16263: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPPENDANT2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"스트립 쉐도우", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"악세서리 쉐도우 장비를 착용할 수 없는 상태"}
+}
+}
+-- DECOMPILER ERROR at PC16287: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPEARING2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"스트립 쉐도우", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"악세서리 쉐도우 장비를 착용할 수 없는 상태"}
+}
+}
+-- DECOMPILER ERROR at PC16311: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPFULL2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"스트립 쉐도우", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"모든 쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
 

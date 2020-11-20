@@ -15,8 +15,7 @@
 4015#콘도르카드#
 4016#도둑벌레카드#
 4017#새비지베베카드#
-4018#앙드레유충카드#
-4019#호넷카드#
+4018#앙드레유충카드#4019#호넷카드#
 4020#퍼밀리어카드#
 4021#로커카드#
 4022#스포아카드#
@@ -1102,3 +1101,39 @@
 300149#sorry#
 300150#sorry#
 300151#sorry#
+
+//게펜 야간투기장 카드
+300177#MD_Geffen_Archi_Card#
+300178#MD_Geffen_Dio_Card#
+300179#MD_Geffen_Thief_Card#
+300180#MD_Geffen_Gang_Card#
+300181#MD_Geffen_Thug_Card#
+300182#MD_Geffen_Monk_Card#
+300183#MD_Geffen_Ordre_Card#
+300184#MD_Geffen_Blut_Card#
+300185#MD_Geffen_Akuma_Card#
+300186#MD_Geffen_Hyper_Card#
+300187#MD_Geffen_Odorico_Card#
+300188#MD_Geffen_Reche_Card#
+300189#MD_Geffen_Jew_Card#
+300190#MD_Geffen_Fei_Card#
+300191#MD_Geffen_Dy_Card#
+
+//2020년 왕실사냥 대회
+27393#Kathryn_Card#
+27394#S_Kathryn_Card#
+27395#Isaac_Card#
+27396#S_Issac_Card#
+
+//회한의 무덤 카드
+300192#sorry#
+300193#sorry#
+
+//비공정 추락 신규카드
+300170#sorry#
+300171#sorry#
+300172#sorry#
+300173#sorry#
+300174#sorry#
+300175#sorry#
+300176#sorry#

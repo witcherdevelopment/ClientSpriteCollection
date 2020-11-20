@@ -5181,3 +5181,14 @@
 200070	1	1	0	1	1	1	1	1	//A_HD_Oridecon_Box
 200071	1	1	0	1	1	1	1	1	//A_HD_Carnium_Box
 200072	1	1	0	1	1	1	1	1	//A_HD_Bradium_Box
+100365	1	1	1	1	0	1	1	1	//MD_Geffen_Rarmor
+100366	1	1	1	1	0	1	1	1	//MD_Geffen_Rhood
+100367	1	1	1	1	0	1	1	1	//MD_Geffen_Racc
+100368	1	1	1	1	0	1	1	1	//MD_Geffen_Rsheild
+1000366	1	1	1	1	0	1	1	1	//MD_Geffen_Win
+1000367	1	1	1	1	0	1	1	1	//Mine_As
+100477	1	1	1	1	0	1	1	1	//Poenetentia_Box1
+100478	1	1	1	1	0	1	1	1	//Poenetentia_Box2
+100476	1	1	0	1	0	1	1	1	//MD_Airboat_Random			
+1000364	1	1	1	1	0	1	1	1	//MD_Airboat_Ore			
+
