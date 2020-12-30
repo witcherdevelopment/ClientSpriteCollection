@@ -4,6 +4,18 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["1@ch_t.rsw"] = {displayName = "성좌의 탑", notifyEnter = true, 
+signName = {mainTitle = "성좌의 탑"}
+, backgroundBmp = "noname_s2"}
+, 
+["2@ch_t.rsw"] = {displayName = "성좌의 탑", notifyEnter = true, 
+signName = {mainTitle = "성좌의 탑"}
+, backgroundBmp = "noname_s2"}
+, 
+["3@ch_t.rsw"] = {displayName = "성좌의 탑", notifyEnter = true, 
+signName = {mainTitle = "성좌의 탑"}
+, backgroundBmp = "noname_s2"}
+, 
 ["1@spa2.rsw"] = {displayName = "회한의 무덤", notifyEnter = true, 
 signName = {mainTitle = "회한의 무덤"}
 , backgroundBmp = "dungeon_s2"}

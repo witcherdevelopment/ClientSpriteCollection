@@ -4190,6 +4190,34 @@ TargetItems = {
 {"S_FullTemp_Armor", 24667}
 , 
 {"S_FullTemp_Shoes", 24666}
+, 
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
 }
 , NeedSource_String = "Ω¶µµøÏ æ∆¿Ã≈€"}
 , 
@@ -5478,10 +5506,38 @@ TargetItems = {
 {"S_FullTemp_Armor", 24667}
 , 
 {"S_FullTemp_Shoes", 24666}
+, 
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
 }
 , NeedSource_String = "Ω¶µµøÏ æ∆¿Ã≈€"}
 , 
-Shadow_Random_Mix = {ItemID = 23720, NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Shadow_Random_Mix = {ItemID = 23720, NeedRefineMin = 7, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"T»˚1æ∆∏”Ω¶µµøÏ", 24000}
 , 
@@ -6586,6 +6642,34 @@ TargetItems = {
 {"S_FullTemp_Armor", 24667}
 , 
 {"S_FullTemp_Shoes", 24666}
+, 
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
 }
 , NeedSource_String = "+7 Ω¶µµøÏ æ∆¿Ã≈€"}
 , 

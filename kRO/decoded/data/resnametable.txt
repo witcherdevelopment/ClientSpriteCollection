@@ -1,6 +1,20 @@
 // ==========================================================================
-// resnametable.txt 본서버 최종수정: 2020-10-28 - 회한의무덤/비공정추락지
+// resnametable.txt 본서버 최종수정: 2020-12-10 - TE관련 오류수정
 // ==========================================================================
+//성좌의 탑 
+1@ch_t.gnd#1@ch_t.gnd#
+1@ch_t.gat#1@ch_t.gat#
+1@ch_t.rsw#1@ch_t.rsw#
+유저인터페이스\map\1@ch_t.bmp#유저인터페이스\map\1@ch_t.bmp#
+2@ch_t.gnd#2@ch_t.gnd#
+2@ch_t.gat#2@ch_t.gat#
+2@ch_t.rsw#2@ch_t.rsw#
+유저인터페이스\map\2@ch_t.bmp#유저인터페이스\map\2@ch_t.bmp#
+3@ch_t.gnd#3@ch_t.gnd#
+3@ch_t.gat#3@ch_t.gat#
+3@ch_t.rsw#3@ch_t.rsw#
+유저인터페이스\map\3@ch_t.bmp#유저인터페이스\map\3@ch_t.bmp#
+
 // 영웅의 흔적 외전 회한의 무덤
 1@spa2.gnd#1@spa2.gnd#
 1@spa2.gat#1@spa2.gat#
@@ -762,11 +776,10 @@ gl_chyard_.rsw#gl_chyard_.rsw#
 
 
 //공성전 TE 복사맵
-
-te_prt_gld.gnd#prt_gld.gnd#
-te_prt_gld.gat#prt_gld.gat#
-te_prt_gld.rsw#prt_gld.rsw#
-유저인터페이스\map\te_prt_gld.bmp#유저인터페이스\map\prt_gld.bmp#
+te_prt_gld.gnd#te_prt_gld.gnd#
+te_prt_gld.gat#te_prt_gld.gat#
+te_prt_gld.rsw#te_prt_gld.rsw#
+유저인터페이스\map\te_prt_gld.bmp#유저인터페이스\map\te_prt_gld.bmp#
 
 te_prtcas01.gnd#prtg_cas01.gnd#
 te_prtcas01.gat#prtg_cas01.gat#

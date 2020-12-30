@@ -345,7 +345,7 @@ Page = {"장비 아이템을 오른쪽 클릭하면 자신이 현재 장비하고 있는 아이템과 클릭한
 [67] = {Title = "시스템: 노점 보기", Search = 1, Image = "유저인터페이스\\tipbox\\tip00067", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"채팅창에 ^3b488c/노점보기 또는 /showshop을 입력^000000하여 모든 ^3b488c노점을 보이지 않게 하거나, 보이게^000000 할 수 있습니다.\n\t\t노점이 너무 많이 열려있어 플레이에 방해가 될 경우 노점을 보이지 않게 하여 플레이 하고, 노점에서 필요한 물건을 구매해야 할 경우에는 명령어를 다시 입력해서 노점을 보이게 할 수 있습니다.\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"채팅창에 ^3b488c/노점보기 또는 /showshop을 입력^000000하여 모든 ^3b488c노점을 보이지 않게 하거나, 보이게^000000 할 수 있습니다.\n\t\t노점이 너무 많이 열려있어 플레이에 방해가 될 경우 노점을 보이지 않게 하여 플레이 하고, 노점에서 필요한 물건을 구매해야 할 경우에는 명령어를 다시 입력해서 노점을 보이게 할 수 있습니다.\n\t\t\\n<TIPBOX>▶유저 가리기<INFO>115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [68] = {Title = "길드: 엠블렘", Search = 1, Image = "유저인터페이스\\tipbox\\tip00068", 
@@ -656,6 +656,12 @@ Page = {"각 지역 대장간에 있는 NPC로부터 제련 광석을 교환할 수 있습니다.\n\t▷<N
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"에텔은 직접적으로 사용할 수는 없지만 각종 보석이나 광석을 조합하여 사용하는 광석 입니다.\n\t<ITEM>[에텔 더스트]<INFO>1000322</INFO></ITEM>\n\t<ITEM>[에텔 스톤]<INFO>1000323</INFO></ITEM>\n\t\n\t주 재료인 에텔 더스트와 에텔 스톤은 망자의 연회장, 무너진 오페라 하우스, 폐기실험체 유기장 루두스 4층, 버려진 연구소 아미키티아 1층 종합연구실, 2층 호문쿨루스 집중배양실 등에서 획득 할 수 있습니다.\n\t\n\t<TIPBOX>▶무기/방어구 레벨<INFO>113</INFO></TIPBOX>\n\t<TIPBOX>▶등급 강화 시스템<INFO>111</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[115] = {Title = "유저 숨기기#화면,가리기,NPC,반투명", Search = 1, Image = "유저인터페이스\\tipbox\\tip00115", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"유저 숨기기 기능은 다른 유저 캐릭터를 반투명하게 만들어 캐릭터 뒤에 가려진 NPC를 찾아내는 데 유용합니다.(기능이 ON상태인 경우 유저에게 가려진 NPC 클릭 가능)\n\t^4d4dffCtrl + End를 눌러 On/Off^000000 할 수 있고 마을에서만 사용이 가능하며 NPC, 노점, 채팅방, 소환수에는 적용 되지 않습니다.\n\t이 기능은 캐릭터 접속시마다 Off로 전환 됩니다.\n\t\\n<TIPBOX>▶노점 보기<INFO>67</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [900] = {Title = "월드맵#map", Search = 1, Image = "유저인터페이스\\tipbox\\tip00900", 
@@ -1666,6 +1672,18 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"아우둠라 초원에서 수행가능한 토벌 퀘스트. 파견된 조사관을 통해 토벌 의뢰를 받을 수 있다.\n\t\t위치: 라헬 동북북북\n\t\t대상: 데저트울프, 로우윈, 위레스\n\t\t^663399◈레벨 88^000000\n\t\t\n\t\t<NAVI>[조사관 시아라]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
+[5001] = {Title = "MD 게펜 야간 투기장(210)#게펜야간투기장대회영웅의흔적마법", Search = 1, Image = "유저인터페이스\\tipbox\\tip05001", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"마법대회에서 활약하던 싸움꾼들이 가면을 벗어두고 난투를 벌이는 장소가 있다는 첩보가 있다. 아마도 험상궂은 사내에게 물어보면 적당한 정보를 받을 수 있지 않을까?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 60분 \n\t\t\t    (다만 각 라운드의 제한시간 1분)\n\t\t\t▷ 레벨 210 이상\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[험상궂은 남자]<INFO>geffen_in,78,62,0,101,0</INFO></NAVI>\n\n\t\t던전 출입 위치\n\t\t<NAVI>[폐기된 포탈]<INFO>dali02,80,61,0,101,0</INFO></NAVI>\n\n\t\t장비 교환장소\n\t\t<NAVI>[버려진 자판기]<INFO>dali02,83,67,0,101,0</INFO></NAVI>\n\t\t\n\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[5002] = {Title = "MD 성좌의 탑(240)#성좌엔들리스베텔기우스", Search = 1, Image = "유저인터페이스\\tipbox\\tip05002", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"엔들리스 타워였던 곳에 무슨일이 벌어진 걸까요. 아무래도 새로운 주인이 그곳을 완전히 뒤집어 엎기로 작정한 모양입니다. 강력한 조력자가 없다면 가까이 가지 않는게 좋을지도 모르겠습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 240 이상\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[함장 얀센]<INFO>alberta,213,76,0,101,0</INFO></NAVI>\n\n\t\t던전 출입 위치\n\t\t<NAVI>[오스카]<INFO>e_tower,71,115,0,101,0</INFO></NAVI>\n\n\t\t장비 교환장소\n\t\t<NAVI>[OSC0007]<INFO>e_tower,77,111,0,101,0</INFO></NAVI>\n\t\t\n\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
 [6004] = {Title = "Episode 13.1 애쉬 바쿰#애쉬#바쿰#13.1#", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
@@ -2209,7 +2227,7 @@ Page = {"진정한 용사만이 가질 수 있다는 용사의 반지를 아는가? 난 그 반지의 주인�
 [6095] = {Title = "비공정 추락지#비공정#추락지#메모리얼#외전#영웅의흔적#", Search = 1, Image = "유저인터페이스\\tipbox\\tip06095", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"영웅의 흔적 외전! 비공정 추락지\n\t\t한 라피네에 의해 비공정이 추락한 묘르닐 산맥으로 갈 수 있는 차원의 균열이 발견되었다. 추락지에서 발견한 공동을 탐험해보자.\n\t\t<NAVI>[드라이 서클 스트롱 박사]<INFO>dali02,137,86,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 215^000000\n\n\t\t<TIPBOX>▶비공정 추락지 보상 보기<INFO>6096</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"영웅의 흔적 외전! 비공정 추락지\n\t\t한 라피네에 의해 비공정이 추락한 묘르닐 산맥으로 갈 수 있는 차원의 균열이 발견되었다. 추락지에서 발견한 공동을 탐험해보자.\n\t\t<NAVI>[드라이 서클 스트롱 박사]<INFO>dali02,137,86,0,101,0</INFO></NAVI>\n\n\t\t▶ 퀘스트 조건\n\t\t^663399◈레벨 215^000000\n\n\t\t<TIPBOX>▶비공정 추락지 보상 보기<INFO>6096</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6096] = {Title = "비공정 추락지 보상#비공정#추락지#메모리얼#외전#영웅의흔적#보상#", Search = 1, Image = "", 
@@ -2551,7 +2569,7 @@ Page = {"미지에 대한 호기심은 탐험으로 이어집니다. 이것은 모험가의 숙명과도 같습
 [7084] = {Title = "미드가르드 대륙 MD#고성포링타워보르세브요일오크장던바포문어바다신무한꿈구두굽", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"신화가 역사로 남아 있는 곳, 미드가르드 대륙. 옛 이야기와 영웅의 모험담이 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶MD 수상한 난파선 (10)<INFO>7085</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 포링 마을 (30)<INFO>7086</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 보르세브 연구실 (60)<INFO>7088</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 주말 던전 (60)<INFO>7089</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 오크의 기억 (60)<INFO>7090</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 호러 장난감 공장<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 잔당들의 아지트<INFO>7094</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 봉인의 신전 (75)<INFO>7095</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 지하 배수로 (90)<INFO>7096</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 문어 동굴<INFO>7097</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 금요일 던전 (99)<INFO>7098</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 무한의 공간 (100)<INFO>7099</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 꿈과 그림자 (120)<INFO>7100</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 왕의 구두굽에서 (130)<INFO>7101</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"신화가 역사로 남아 있는 곳, 미드가르드 대륙. 옛 이야기와 영웅의 모험담이 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶MD 수상한 난파선 (10)<INFO>7085</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 포링 마을 (30)<INFO>7086</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 보르세브 연구실 (60)<INFO>7088</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 주말 던전 (60)<INFO>7089</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 오크의 기억 (60)<INFO>7090</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 호러 장난감 공장<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 잔당들의 아지트<INFO>7094</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 봉인의 신전 (75)<INFO>7095</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 지하 배수로 (90)<INFO>7096</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 문어 동굴<INFO>7097</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 금요일 던전 (99)<INFO>7098</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 무한의 공간 (100)<INFO>7099</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 꿈과 그림자 (120)<INFO>7100</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 왕의 구두굽에서 (130)<INFO>7101</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 성좌의 탑 (240)<INFO>5002</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7085] = {Title = "MD 수상한 난파선 (10)#초보루민레노", Search = 1, Image = "", 
@@ -2815,7 +2833,7 @@ Page = {"엘류미나의 중독을 치료하기 위해서는 대현자의 수상정원에서 나오는 실바 �
 [7129] = {Title = "MD 영웅의 흔적", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"오랜 연구 끝에 불안정한 차원의 균열을 통제할 수 있게 되자 균열을 통해 가까운 과거로의 시간여행이 가능하게 되었습니다.\n\t\t그 시간의 흐름 속에서 마주하게 된 것은 책에서 혹은 구전으로나 접할 수 있었던 고대의 영웅들!\n\t\t\n\t\t▶ 차원의 균열 입장\n\t\t<TIPBOX>Q 만족하지 못한 탐욕, 그리고 인간은 이계로 (70)<INFO>6005</INFO></TIPBOX>\n\t\t<TIPBOX>Q 고양이손 요원과 계약 (70)<INFO>6030</INFO></TIPBOX>\n\t\t※ 두 퀘스트 중 한 가지를 완료했다면, 입장 가능\n\t\t\n\t\t<TIPBOX>▶MD 게펜 마법대회 (90)<INFO>7130</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 사라의 기억 (99)<INFO>7131</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 망령의 왕궁 (120)<INFO>7132</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 비공정 습격 (125)<INFO>7133</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 마신의 탑 (130)<INFO>7134</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 페이스웜의 둥지 (140)<INFO>7135</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 펜릴과 사라 (145)<INFO>7136</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 회한의 무덤 (180)<INFO>8165</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"오랜 연구 끝에 불안정한 차원의 균열을 통제할 수 있게 되자 균열을 통해 가까운 과거로의 시간여행이 가능하게 되었습니다.\n\t\t그 시간의 흐름 속에서 마주하게 된 것은 책에서 혹은 구전으로나 접할 수 있었던 고대의 영웅들!\n\t\t\n\t\t▶ 차원의 균열 입장\n\t\t<TIPBOX>Q 만족하지 못한 탐욕, 그리고 인간은 이계로 (70)<INFO>6005</INFO></TIPBOX>\n\t\t<TIPBOX>Q 고양이손 요원과 계약 (70)<INFO>6030</INFO></TIPBOX>\n\t\t※ 두 퀘스트 중 한 가지를 완료했다면, 입장 가능\n\t\t\n\t\t<TIPBOX>▶MD 게펜 마법대회 (90)<INFO>7130</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 사라의 기억 (99)<INFO>7131</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 망령의 왕궁 (120)<INFO>7132</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 비공정 습격 (125)<INFO>7133</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 마신의 탑 (130)<INFO>7134</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 페이스웜의 둥지 (140)<INFO>7135</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 펜릴과 사라 (145)<INFO>7136</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 회한의 무덤 (180)<INFO>8165</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 게펜 야간 투기장 (210)<INFO>5001</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 비공정 추락지 (215)<INFO>6095</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7130] = {Title = "MD 게펜 마법대회 (90)#차원의균열", Search = 1, Image = "", 
@@ -3296,7 +3314,7 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"클라나 네미에리의 장로 코트네스 님은 수상한 장소에서 번쩍거리는 링을 구해오라고 하십니다.\n\t\t<TIPBOX>▶앙금<INFO>8147</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 100 이상^000000\n\n\t\t<NAVI>[리벨리온 경비대장]<INFO>rebel_in,162,87,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>8143</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[8165] = {Title = "MD 회한의 무덤 (180)#메모리얼메던전md", Search = 1, Image = "", 
+[8165] = {Title = "MD 회한의 무덤 (220)#메모리얼메던전md", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"회오의 공주는 이 시대의 영웅에게 자신의 왕국에 일어난 참혹한 일에 대해 이야기합니다.\n\n\t\t ▷레벨 220 이상\n\t\t ▷<NAVI>[회오의 공주]<INFO>dali.gat,124,88,0,101,0</INFO></NAVI>와 대화해 퀘스트 시작\n\t\t ▷<NAVI>[회오의 공주]<INFO>dali02.gat,78,116,0,101,0</INFO></NAVI>와 대화해 MD 입장\n\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}

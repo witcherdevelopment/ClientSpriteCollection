@@ -25,8 +25,19 @@ end
 CreateEffect_ver_2_0 = function(tableName, effectTypeId)
   -- function num : 0_2
   local t = _G[tableName]
+  if t == nil then
+    return 
+  end
   for i = 0, (table.getn)(t) do
     CreateEffect(effectTypeId, ((t[i]).pos)[1], ((t[i]).pos)[2], ((t[i]).pos)[3])
+  end
+end
+
+CreateEffect_ver_3_0 = function(tableName, effectTypeId)
+  -- function num : 0_3
+  local t = _G[tableName]
+  for ID,effect in pairs(t) do
+    CreateEffect_v3(ID, effectTypeId, (effect.pos)[1], (effect.pos)[2], (effect.pos)[3])
   end
 end
 

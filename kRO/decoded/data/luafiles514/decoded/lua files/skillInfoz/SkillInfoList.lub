@@ -11352,7 +11352,7 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SP_CURSEEXPLOSION] = {"SP_CURSEEXPLOSION"; SkillName = "»ç·ÉÆø¹ß", MaxLv = 10, 
+[SKID.SP_CURSEEXPLOSION] = {"SP_CURSEEXPLOSION"; SkillName = "»ç·É Æø¹ß", MaxLv = 10, 
 SpAmount = {50, 55, 60, 65, 70, 75, 80, 85, 90, 95}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}

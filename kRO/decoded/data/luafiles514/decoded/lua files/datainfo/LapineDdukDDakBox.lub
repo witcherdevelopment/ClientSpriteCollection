@@ -5,6 +5,44 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+True_GemShadow_Mix = {ItemID = 100620, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"젬스톤슈즈S", 1, 24085}
+, 
+{"젬스톤쉴드S", 1, 24086}
+, 
+{"젬스톤웨폰S", 1, 24087}
+, 
+{"젬스톤이어링S", 1, 24088}
+, 
+{"젬스톤펜던트S", 1, 24089}
+, 
+{"젬스톤아머S", 1, 24084}
+, 
+{"젬스톤웨폰S2", 1, 24335}
+, 
+{"젬스톤쉴드S2", 1, 24336}
+, 
+{"젬스톤이어링S2", 1, 24322}
+}
+, NeedSource_String = "젬스톤 쉐도우"}
+, 
+Mammoth_Mix = {ItemID = 100621, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+}
+, NeedSource_String = "맘모스 쉐도우"}
+, 
 Shadow_Mix_Recipe2 = {ItemID = 100600, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
 {"피지컬이어링S", 1, 24018}
@@ -1254,6 +1292,34 @@ SourceItems = {
 {"S_FullTemp_Armor", 1, 24667}
 , 
 {"S_FullTemp_Shoes", 1, 24666}
+, 
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+, 
+{"S_TrueGem_Armor", 1, 24675}
+, 
+{"S_TrueGem_Shoes", 1, 24676}
+, 
+{"S_TrueGem_Earring", 1, 24677}
+, 
+{"S_TrueGem_Pendant", 1, 24678}
+, 
+{"S_M_Mammoth_Armor", 1, 24679}
+, 
+{"S_M_Mammoth_Shoes", 1, 24680}
+, 
+{"S_M_Mammoth_Earring", 1, 24681}
+, 
+{"S_M_Mammoth_Pendant", 1, 24682}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -4199,14 +4265,6 @@ SourceItems = {
 , 
 {"리로드아머S2", 1, 24331}
 , 
-{"포스액서듀얼웨폰S2", 1, 24328}
-, 
-{"스피릿매직듀얼웨폰S2", 1, 24329}
-, 
-{"캐스터아머S2", 1, 24330}
-, 
-{"리로드아머S2", 1, 24331}
-, 
 {"크리티컬쉴드S", 1, 24332}
 , 
 {"크리티컬슈즈S", 1, 24333}
@@ -4822,6 +4880,34 @@ SourceItems = {
 {"S_FullTemp_Armor", 1, 24667}
 , 
 {"S_FullTemp_Shoes", 1, 24666}
+, 
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+, 
+{"S_TrueGem_Armor", 1, 24675}
+, 
+{"S_TrueGem_Shoes", 1, 24676}
+, 
+{"S_TrueGem_Earring", 1, 24677}
+, 
+{"S_TrueGem_Pendant", 1, 24678}
+, 
+{"S_M_Mammoth_Armor", 1, 24679}
+, 
+{"S_M_Mammoth_Shoes", 1, 24680}
+, 
+{"S_M_Mammoth_Earring", 1, 24681}
+, 
+{"S_M_Mammoth_Pendant", 1, 24682}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6442,6 +6528,22 @@ SourceItems = {
 {"C_Gossip_Raven", 1, 31380}
 , 
 {"C할로윈모자", 1, 19910}
+, 
+{"C_Blessed_Veil", 1, 20604}
+, 
+{"C이프리트의눈", 1, 20221}
+, 
+{"C다크니스아이즈", 1, 19877}
+, 
+{"C_Sunglasses_Bball_Hat", 1, 31805}
+, 
+{"C살쾡이니트모자", 1, 19292}
+, 
+{"C분홍털모자", 1, 20237}
+, 
+{"C눈의선물", 1, 20240}
+, 
+{"C큰리본머플러_빨강", 1, 20441}
 }
 , NeedSource_String = "냥다래 의상"}
 }

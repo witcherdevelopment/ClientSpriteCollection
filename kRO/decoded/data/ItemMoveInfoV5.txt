@@ -5186,9 +5186,20 @@
 100367	1	1	1	1	0	1	1	1	//MD_Geffen_Racc
 100368	1	1	1	1	0	1	1	1	//MD_Geffen_Rsheild
 1000366	1	1	1	1	0	1	1	1	//MD_Geffen_Win
-1000367	1	1	1	1	0	1	1	1	//Mine_As
-100477	1	1	1	1	0	1	1	1	//Poenetentia_Box1
-100478	1	1	1	1	0	1	1	1	//Poenetentia_Box2
+1000367	1	1	0	1	0	1	1	1	//Mine_As
+100477	1	1	0	1	0	1	1	1	//Poenetentia_Box1
+100478	1	1	0	1	0	1	1	1	//Poenetentia_Box2
 100476	1	1	0	1	0	1	1	1	//MD_Airboat_Random			
 1000364	1	1	1	1	0	1	1	1	//MD_Airboat_Ore			
-
+200090	1	1	0	1	1	1	1	1	//LI_Mana_Potion_Box
+200091	1	1	0	1	1	1	1	1	//LI_Nyangvine_Box_II
+200092	1	1	0	1	1	1	1	1	//LI_Nyangvine_Box_III
+200093	1	1	0	1	1	1	1	1	//LI_HD_Oridecon_Box3
+200094	1	1	0	1	1	1	1	1	//LI_HD_Elunium_Box3
+450169	1	1	0	1	0	1	1	1	//Star_Armor_Of_Pow
+450170	1	1	0	1	0	1	1	1	//Star_Armor_Of_Sta
+450171	1	1	0	1	0	1	1	1	//Star_Suit_Of_Con
+450172	1	1	0	1	0	1	1	1	//Star_Suit_Of_Crt
+450173	1	1	0	1	0	1	1	1	//Star_Robe_Of_Spl
+450174	1	1	0	1	0	1	1	1	//Star_Robe_Of_Wis
+100616	1	1	1	1	1	1	1	1	//Auction_Promotion

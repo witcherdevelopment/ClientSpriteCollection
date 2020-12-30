@@ -89,6 +89,14 @@
 ;
 (StylingShop.AddBodyPalette)(3, {itid = 6046, boxitid = 16854})
 ;
+(StylingShop.AddBodyPalette)(4, {itid = 6046, boxitid = 16854})
+;
+(StylingShop.AddBodyPalette)(5, {itid = 6046, boxitid = 16854})
+;
+(StylingShop.AddBodyPalette)(6, {itid = 6046, boxitid = 16854})
+;
+(StylingShop.AddBodyPalette)(7, {itid = 6046, boxitid = 16854})
+;
 (StylingShop.AddTopAccessory)(2220, {zeny = 1000}, true)
 ;
 (StylingShop.AddTopAccessory)(2208, {zeny = 800}, true)
