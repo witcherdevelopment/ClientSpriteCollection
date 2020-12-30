@@ -560,6 +560,54 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_WH] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_Wonder_Egg_Basket] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cons_Of_Fire] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_BD] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_SV] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_LB] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_CB] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_YL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_BG] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_JBL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_WH] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_OM] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_LPP] = {Default = 150, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

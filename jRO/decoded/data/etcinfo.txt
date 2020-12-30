@@ -1,5 +1,8 @@
 loadingscreen#
-12#
+7#
+
+event#
+1#
 
 weather#hal_main.rsw#pokjuk#
 weather#hal_fes2.rsw#pokjuk#
