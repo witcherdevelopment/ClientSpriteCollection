@@ -29,6 +29,10 @@ echo -------------------------------
 echo system2\system:
 luadec.exe ".\system2\system\OngoingQuestInfoList_True.lub" > ".\system2\system\OngoingQuestInfoList_True.lua"
 echo -------------------------------
+echo Switching to System3\
+echo -------------------------------
+luadec.exe ".\System3\iteminfo.lub" > ".\System3\iteminfo.lua"
+echo -------------------------------
 echo Switching to data\luafiles514\
 echo -------------------------------
 echo data\luafiles514\lua files:

@@ -1788,10 +1788,10 @@ gl_chyard_.rsw#gl_chyard_.rsw#
 
 //공성전 TE 복사맵
 
-te_prt_gld.gnd#prt_gld.gnd#
-te_prt_gld.gat#prt_gld.gat#
-te_prt_gld.rsw#prt_gld.rsw#
-유저인터페이스\map\te_prt_gld.bmp#유저인터페이스\map\prt_gld.bmp#
+te_prt_gld.gnd#te_prt_gld.gnd#
+te_prt_gld.gat#te_prt_gld.gat#
+te_prt_gld.rsw#te_prt_gld.rsw#
+유저인터페이스\map\te_prt_gld.bmp#유저인터페이스\map\te_prt_gld.bmp#
 
 te_prtcas01.gnd#prtg_cas01.gnd#
 te_prtcas01.gat#prtg_cas01.gat#
@@ -3496,3 +3496,31 @@ orcsd01a.rsw#orcsdun01.rsw#
 1@orcs.gat#1@orcs.gat#
 1@orcs.rsw#1@orcs.rsw#
 유저인터페이스\map\1@orcs.bmp#유저인터페이스\map\1@orcs.bmp#
+
+//201208 EDDA 생체연구소 - 원정의 여로
+1@gol1.gnd#1@gol1.gnd#
+1@gol1.gat#1@gol1.gat#
+1@gol1.rsw#1@gol1.rsw#
+유저인터페이스\map\1@gol1.bmp#유저인터페이스\map\1@gol1.bmp#
+
+1@gol2.gnd#1@gol2.gnd#
+1@gol2.gat#1@gol2.gat#
+1@gol2.rsw#1@gol2.rsw#
+유저인터페이스\map\1@gol2.bmp#유저인터페이스\map\1@gol2.bmp#
+
+//초심자 호러장던
+1@xm_d2.gnd#1@xm_d.gnd#
+1@xm_d2.gat#1@xm_d.gat#
+1@xm_d2.rsw#1@xm_d.rsw#
+유저인터페이스\map\1@xm_d2.bmp#유저인터페이스\map\1@xm_d.bmp#
+
+//초심자 고성
+1@gl_k2.gnd#1@gl_k.gnd#
+1@gl_k2.gat#1@gl_k.gat#
+1@gl_k2.rsw#1@gl_k.rsw#
+유저인터페이스\map\1@gl_k2.bmp#유저인터페이스\map\1@gl_k.bmp#
+
+2@gl_k2.gnd#2@gl_k.gnd#
+2@gl_k2.gat#2@gl_k.gat#
+2@gl_k2.rsw#2@gl_k.rsw#
+유저인터페이스\map\2@gl_k2.bmp#유저인터페이스\map\2@gl_k.bmp#
