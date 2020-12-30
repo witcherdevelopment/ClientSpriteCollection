@@ -745,3 +745,9 @@
 27318#Of Tigerpower#
 27319#Poison Break#
 27320#Inhance Fire#
+27114#Indomitable#
+27115#Sagacious#
+27116#Dual Critical#
+27117#Lethal#
+27118#Of Pierce#
+27119#Of Turtle Shell#

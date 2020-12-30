@@ -1,4 +1,4 @@
-// í•˜ì¹˜ì›
+// ÇÏÄ¡¿ø
 1000#Transcendent#SG_FEEL#QUE_NOIMAGE#
 Find the Hall of Honor in Valkyrie. There, you will become a new hero of Valkyrie.#
 #
@@ -68,7 +68,7 @@ Talk to Quest Guide Tutor Cicero and make sure you still have the Bao.#
 Gain 2 base levels to complete your Field Combat Training by killing as many monsters are you can. Make sure to talk to the staff at the North after you increase your base level by 2.#
 #
 
-// ì¡°ë¯¸ì •
+// Á¶¹ÌÁ¤
 
 2000#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 We want to check the dedication and eagerness of Merchants who apply to us to become Blacksmiths. For the first test, go to Alberta and help one of our guild members Geschupenschte.#
@@ -451,7 +451,7 @@ Talk with Rekenber officers#
 Sueii Slierre, a secretary in Rekenber, says that Wolfchev has retired and the case is closed.#
 Confirm that Wolfchev has retired.#
 
-//==================== í† ë¥´í™”ì‚°ì˜ ê¸°ì§€ ======================== 
+//==================== Åä¸£È­»êÀÇ ±âÁö ======================== 
 2114#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
 High Priest Zhed wants you to sneak into the camp at Thor Volcano for the sake of protecting international peace and sneak into the room of High Priest Vildt.#
 #
@@ -641,7 +641,7 @@ Free Maheo with the Wind Hammer#
 "Well, I suppose this is where we part ways. Here, take this as a gift... And please don't mention the fact that I trapped myself in ice to anyone else, okay?"#
 Bring the Sparkling Necklace to Urstialla#
 
-// ê¹€ì€ë™
+// ±èÀºµ¿
 
 3000#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 Beautiful Song - I have met a beautiful singer Bard. I want to be a Bard...Should I ask him about becoming a Bard?#
@@ -840,7 +840,7 @@ You stretch your hand and pick up a lusterless fragment. It's a piece of the Sat
 "Congratulations, soldier. You just saved this world and people from being consumed by destruction and evil. I have three items. Which one do you like to receive?"#
 Choose your reward#
 
-//--------------------ë² ì¸ìŠ¤ì˜ ë‚¨ë§¤---------------------------------
+//--------------------º£ÀÎ½ºÀÇ ³²¸Å---------------------------------
 3060#Kids in Veins - Where's the Little Sis?#SG_FEEL#QUE_NOIMAGE#
 A kid name Karyn has lost his little sister when they went to Thor Volcano in Veins. You must help him finding his sis Curdie.#
  #
@@ -1131,8 +1131,8 @@ You have 4 hours to defeat Nidhoggur's Shadow. If the Memorial Dungeon is destro
 Hunt Nidhoggur's Shadow#
 #
 
-// ì˜¤ë‚¨ê²½
-//----------------------í—Œí„°ì „ì§------------------------------
+// ¿À³²°æ
+//----------------------ÇåÅÍÀüÁ÷------------------------------
 4000#Sherin's Job Interview#SG_FEEL#QUE_NOIMAGE#
 You've got to pass Sherin's test to take a step forward.#
 #
@@ -1190,7 +1190,7 @@ Go back to the Hunter Guild and report that you've passed the exam.#
 Penetration#
 
 
-//--------------------êµ­ì™•ì„ ì¶œ--------------------------------
+//--------------------±¹¿Õ¼±Ãâ--------------------------------
 4015#Becoming an Adventurer Appraiser#SG_FEEL##
 Meet the inspector of the kingdom and become an advanturer appraiser##
 
@@ -1246,11 +1246,11 @@ There's a conspiracy between Walter and Rechard Family. You must report to someo
 The prince Ahrum is killed by Ernst. You need to report ASAP.##
 
 
-// ê¶Œì˜¤ë¯¼
+// ±Ç¿À¹Î
 
 
 
-//íƒœê¶Œì „ì§
+//ÅÂ±ÇÀüÁ÷
 
 6000#Job Change to Taekwon#SG_FEEL#QUE_NOIMAGE#
 You've chosen you're path to become a Taekwon. You must increase your base level and talk to Phoenix.#
@@ -1264,7 +1264,7 @@ You've chosen you're path to become a Taekwon. You must take the mental aptitude
 You finally can become a Taekwon by having a conversation with Phoenix.#
 #
 
-//ì†Œìš¸ë§ì»¤ì „ì§
+//¼Ò¿ï¸µÄ¿ÀüÁ÷
 
 6005#Job Change to Soul-Linker#SG_FEEL#QUE_NOIMAGE#
 If you want to rule the power of spirits, you need to proceed a ceremony using some materials. You must gather 1 Witherless Rose, 3 Carat Diamond and 1 Immortal Heart.#
@@ -1282,12 +1282,12 @@ Maia wishes to speak with the spirits.#
 The acho of the spirits are remaining in your heart. Talk with Maia again.#
 #
 
-//ìŠˆë…¸
+//½´³ë
 6010#Job Change to Super Novice#SG_FEEL#QUE_NOIMAGE#
 If you really want to enjoy the ordinary life of Novice, you must gather 2 kinds of very ordinary items.#
 30 Sticky Mucus, 30 Resin#
 
-//ë‹Œì
+//´ÑÀÚ
 6015#A favor from Cougar#SG_FEEL#QUE_NOIMAGE#
 Go find Wildcat Joe in Einbroch and talk to him.#
 #
@@ -1304,7 +1304,7 @@ Go back to Cougar guy with Red Leopard Joe's recommendation.#
 Hurry and bring 5 Iron Ore and 1 Phracon to Cougar.#
 #
 
-//ê±´ìŠ¬ë§ê±°
+//°Ç½½¸µ°Å
 6020#Master Miller's Letter#SG_FEEL#QUE_NOIMAGE#
 Take the letter to Mr. Wise Bull Horn in Payon.#
 #
@@ -1325,8 +1325,8 @@ It's going to take a little while. Talk to him again a bit later.#
 "Eeh~Yeah~Eeh~Hooom, Maaaaarrraaa Neeey~ Yippee Yippee Yai Yocaiyay~ Take this to Miller, the Black Fox."#
 #
 
-// ë°°í˜œë ¹
-//-------ëŒ„ì„œì „ì§ ë¶€ë¶„---------------
+// ¹èÇı·É
+//-------´í¼­ÀüÁ÷ ºÎºĞ---------------
 
 // Fill out the Application!
 7000#Job Change to Dancer!#SG_FEEL#QUE_NOIMAGE#
@@ -1363,7 +1363,7 @@ Lst's Dance!#
 Your steps and body waves were fantastic! The instructor, Bijou must be so impressed. Let's find out what she really thinks..#
 Conversation with Bijou#
 
-//------ ê¶Œì„± ì „ì§
+//------ ±Ç¼º ÀüÁ÷
 7007#Warrior of the Sun, the Moon, and the Stars#SG_FEEL#QUE_NOIMAGE#
 You can find 'Moogang' in Comodo, supposedly at the place that's closest tot he sky.#
 Conversation with 'Moogang'#
@@ -1384,7 +1384,7 @@ A piece of a star, the sand of a star#
 If you are all done and satisfied, please go back to 'Moogang.'#
 Conversation with 'Moogang'#
 
-//---ì—í”¼ì†Œë“œ 13.1 ë‹¨ë¸ë¦¬ì˜¨ì˜ ì˜ë¢° 2ë¶€ ëª¨ë¡œí¬ ì¶”ì  (ep13_moc2.sc)
+//---¿¡ÇÇ¼Òµå 13.1 ´Üµ¨¸®¿ÂÀÇ ÀÇ·Ú 2ºÎ ¸ğ·ÎÅ© ÃßÀû (ep13_moc2.sc)
 
 7012#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 The conversation with Echinacea was a rather one-sided talk. You have been assigned to be Mr. Kidd's assistant so you better go speak to him.#
@@ -1439,7 +1439,7 @@ The old scholar Defaria requested for some materials to unseal the scroll.#
 30 of each Holy Water, Rune of Darkness, Bloody Rune#
 
 7025#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
-You need to get all the required materials. Defaria said, 'Iâ€™ll be waiting for your return.'#
+You need to get all the required materials. Defaria said, 'I¡¯ll be waiting for your return.'#
 Conversation with Defaria#
 
 7026#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
@@ -1507,21 +1507,21 @@ Echinacea advises that you stop questioning the motives of the politicians and t
 Defaria#
 
 //----- EP 13
-//---- ìº í”„ì˜ ì‚¬ìœ¡ì‚¬
+//---- Ä·ÇÁÀÇ »çÀ°»ç
 7042#Part-time Job - Tatacho's feed#SG_FEEL#QUE_NOIMAGE#
-Please bring me 50 Fresh Fish. Theyâ€™re feed for Tatachoes. Iâ€™m fresh out, and Iâ€™ll need to restock very soon. You can find them from Tatachoes in the fields.#
+Please bring me 50 Fresh Fish. They¡¯re feed for Tatachoes. I¡¯m fresh out, and I¡¯ll need to restock very soon. You can find them from Tatachoes in the fields.#
 50 Fresh Fish#
 
 7043#Part-time Job - Cornus's feed#SG_FEEL#QUE_NOIMAGE#
-Iâ€™ve just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields.#
+I¡¯ve just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields.#
 30 Great Leaf & 30 Brown Root#
 
 7044#Part-time Job - Hillslion's feed1#SG_FEEL#QUE_NOIMAGE#
-Iâ€™ve just run out of feed for Hillslions. Scholars think these guys are members of the cat family. Iâ€™ve been trying to feed them various things.. This timeâ€¦ Iâ€™d like to try Monsterâ€™s Feed. Can you please bring me 20 Monsterâ€™s Feeds and 30 Pet Foods?#
-20 Monsterâ€™s Feeds and 30 Pet Foods#
+I¡¯ve just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I¡¯ve been trying to feed them various things.. This time¡¦ I¡¯d like to try Monster¡¯s Feed. Can you please bring me 20 Monster¡¯s Feeds and 30 Pet Foods?#
+20 Monster¡¯s Feeds and 30 Pet Foods#
 
 7045#Part-time Job - Hillslion's feed2#SG_FEEL#QUE_NOIMAGE#
-This is perfect because I was going to try some new feed for Hillslions. I tried Monsterâ€™s Feed, but I donâ€™t know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?#
+This is perfect because I was going to try some new feed for Hillslions. I tried Monster¡¯s Feed, but I don¡¯t know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?#
 50 Meats and 30 Pet Foods#
 
 7046#Part-time Job - warm rugs#SG_FEEL#QUE_NOIMAGE#
@@ -1533,7 +1533,7 @@ Seems like all of the part-time work is done for the day. Taab may have more wor
 #
 
 //----------------EP 13----------------------------------
-//-íƒ€ë‚˜í† ìŠ¤íƒ€ì›Œ 080702
+//-Å¸³ªÅä½ºÅ¸¿ö 080702
 7048#Thanatos Tower - Burled's Favor#SG_FEEL#QUE_NOIMAGE#
 Burled wants to find out why Rekenber Corporation is so eager to develop the tower regardless of all those sacrifices.#
 Investigate the 3rd floor of the tower.#
@@ -1558,7 +1558,7 @@ Search for another seal inside the tower#
 When the 4th key was found, you also found Varmunt's journal. Maybe this journal could be the one that Rekenber was looking for! I must tell Burled about this.#
 Deliver Varmunt's journal to Burled#
 
-//--- ì‹ ê·œëª¨ì ì œì‘ 2008ë…„ ê³ ì–‘ì´ë°œë¨¸ë¦¬í•€
+//--- ½Å±Ô¸ğÀÚ Á¦ÀÛ 2008³â °í¾çÀÌ¹ß¸Ó¸®ÇÉ
 
 7054#Myu's Favor - Teach them a lesson!#SG_FEEL#QUE_NOIMAGE#
 You've got a mission to "warn" the Kobold Archer to protect the Wild Rose's home.#
@@ -1568,7 +1568,7 @@ Beat up 1000 Kobold Archers.#
 Myu's asking for one more favor! Since you're protecting Wild Rose, you must not harm a single Wild Rose....#
 #
 
-//--- ep13.2 [ë©”ì‹ ì €]
+//--- ep13.2 [¸Ş½ÅÀú]
 7056#Messenger - Arc's Favor#SG_FEEL#QUE_NOIMAGE#
 At the Laphine's post, 'Splendide,' you met a Laphine, 'Arc' who asked you to find his friend, 'Terra.'  He says Terra usually leaves traces by tying plants into knots.#
 Find the traces of Terra.#
@@ -1683,8 +1683,8 @@ Walk across the bridge to the east.#
 
 
 
-// ì´ê²½ìˆ™
-//--------------------ì–´ì„ì‹ ì „ì§--------------------------------
+// ÀÌ°æ¼÷
+//--------------------¾î½ê½ÅÀüÁ÷--------------------------------
 8000#Quitting Job Change#SG_FEEL#QUE_NOIMAGE#
 Give up changing your job to Assassin and go back to town. #
 Quit Job Change to Assassin#
@@ -1722,7 +1722,7 @@ You've now become an Assassin !!#
 Job Change to Assassin#
 
 
-//í”„ë¦¬ìŠ¤íŠ¸ ì „ì§
+//ÇÁ¸®½ºÆ® ÀüÁ÷
 
 8009#Applying for Job Change to Priest#SG_FEEL#QUE_NOIMAGE#
 Accept the Three Trials of Priesthood to change the job.#
@@ -1760,7 +1760,7 @@ Applying for Job Change to Priest#
 You've now become a Priest!!#
 #
 
-// ì•„ì¸ë¸Œë¡œí¬ ê³µì¥ í€˜ìŠ¤íŠ¸
+// ¾ÆÀÎºê·ÎÅ© °øÀå Äù½ºÆ®
 8017#Factory Inspection#SG_FEEL#QUE_NOIMAGE#
 Zelmeto has asked you to help him inspect the machines in the factory one at a time to know which one needs to be fixed. Find the 2nd control panel and report back to Zelmeto.#
 #
@@ -1821,7 +1821,7 @@ The superintendant refused to approve the increase in the Factory Repair budget.
 Zelmeto still wants to make the repairs so he has asked you to bring back ^FF000020 Flexible Tube^000000, ^FF000010 Rusty Screw^000000, and ^FF000010 Used Iron Plate^000000 so they can make the needed repairs.#
 #
 
-// ë¦¬íˆíƒ€ë¥´ì   : ë¹„ê³µì • í€˜ìŠ¤íŠ¸
+// ¸®È÷Å¸¸£Á¨ : ºñ°øÁ¤ Äù½ºÆ®
 
 8032#Tarlock's Favor#SG_FEEL#QUE_NOIMAGE#
 Tarlock says that he wouldn't mind telling you how the Airship works if you do him a favor of delivering a letter to his brother Ferlock.#
@@ -1840,7 +1840,7 @@ You have delivered Ferlock's letter to Tarlock. Now may be a good time to ask hi
 Continue speaking to Tarlock.#
 
 
-// ë¦¬íˆíƒ€ë¥´ì   : ìœ ì‚¬ ì´ë¯¸ë¥´ í€˜ìŠ¤íŠ¸
+// ¸®È÷Å¸¸£Á¨ : À¯»ç ÀÌ¹Ì¸£ Äù½ºÆ®
 
 8036#Hallen's Favor#SG_FEEL#QUE_NOIMAGE#
 Hallen has asked you to deliver a letter to Kaci from someone named Mr. Mawong who is something like her mentor.#
@@ -1875,7 +1875,7 @@ You better get out of here. The guards patrol this place regularly, so you're al
 You must go and see Ferlock.#
 
 
-// íœ˜ê²” : ì•½ êµ¬í•˜ê¸° í€˜ìŠ¤íŠ¸
+// ÈÖ°Ö : ¾à ±¸ÇÏ±â Äù½ºÆ®
 
 8044#Euslan's Fiancee#SG_FEEL#QUE_NOIMAGE#
 ...Are you really willing to go out and look for Thierry for me? Oh, thank you so much! You don't know how much your kind offer means to me. Thierry went on a trip, traveling on one of the Airships, to find some medicine that the doctors say I need for my illness.#
@@ -1914,7 +1914,7 @@ Please understand that I want to see her as soon as I can, but I have to wait un
 Deliver the medicine to Euslan.#
 
 
-// Hugel : Herb Quest íœ˜ê²” : ì•½ì´ˆ í€˜ìŠ¤íŠ¸ (hg_herv.sc)
+// Hugel : Herb Quest ÈÖ°Ö : ¾àÃÊ Äù½ºÆ® (hg_herv.sc)
 
 8053#Find Postell#SG_FEEL#QUE_NOIMAGE#
 Find Allen's son Postell and to tell him to bring his medicine! Head east, go outside of town, and you should be able to find Postell.#
@@ -1933,7 +1933,7 @@ Take care of Allen.#
 Look inside the medicine drawer.#
 
 
-// íœ˜ê²” : ì¶”ì–µ í€˜ìŠ¤íŠ¸ (hg_memo.sc)
+// ÈÖ°Ö : Ãß¾ï Äù½ºÆ® (hg_memo.sc)
 
 8057#Grumbling Manainne#SG_FEEL#QUE_NOIMAGE#
 Speak to Manainne about the comforting tree.#
@@ -1964,7 +1964,7 @@ El Schatt says that there was a time when he would have protected the tree with 
 #
 
 
-// íœ˜ê²” : ì˜¤ë… í€˜ìŠ¤íŠ¸ (hg_odeng.sc)
+// ÈÖ°Ö : ¿Àµ­ Äù½ºÆ® (hg_odeng.sc)
 
 8064#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
 Please take this order of Fish Cake Soup to my friend Neha. I'm grateful that she's a regular customer..#
@@ -2015,7 +2015,7 @@ Return to Cellette.#
 Return to Cellette.#
 
 
-// ì•„ì¸ë¸Œë¡œí¬ : ì—°ì¸ í€˜ìŠ¤íŠ¸ (Einbroch Lovers)
+// ¾ÆÀÎºê·ÎÅ© : ¿¬ÀÎ Äù½ºÆ® (Einbroch Lovers)
 
 8076#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 I know I'm acting like a complete idiot. But I'd give anything to see Calla... Just don't listen to anything I say. I'm just a poor fool in love with the wrong person. That has to be it....#
@@ -2114,7 +2114,7 @@ This note is a letter of recommendation hat I have written for you. Please deliv
 Go see Sir Zhed.#
 
 
-// ë¼í—¬ : ì‹ ê´€ í€˜ìŠ¤íŠ¸ (rachel_ma1.sc)
+// ¶óÇï : ½Å°ü Äù½ºÆ® (rachel_ma1.sc)
 
 8100#Recommendation from High Priest Zhed#SG_FEEL#QUE_NOIMAGE#
 While I finish writing this recommendation, let me tell you how to get to the pope's office where you must go once you gather 40 Glacial Hearts.#
@@ -2141,7 +2141,7 @@ I warned Bekento that he might cause trouble for you, but it seems that you've c
 Go back to Zhed.#
 
 
-// ë¼í—¬ : ê°œì²™í•˜ì§€ ëª»í•œ ìš´ëª… í€˜ìŠ¤íŠ¸ (rachel_ryu.sc)
+// ¶óÇï : °³Ã´ÇÏÁö ¸øÇÑ ¿î¸í Äù½ºÆ® (rachel_ryu.sc)
 
 8106#Mr. Shendar's daughter#SG_FEEL#QUE_NOIMAGE#
 Mr. Shendar says that his daughter has been going out with someone. She went to some town for that boy and he hasn't heard from her since. Find someone who may know what may have happened to her.#
@@ -2238,7 +2238,7 @@ Now, the Momotaro story is over. You can get your reward when you talk to the Pu
 
 8129#Momotaro Field Trip#SG_FEEL#QUE_NOIMAGE#
 ..At this point I'm supposed to send you back...BUT! I will give you a chance. But if you fail, ^3163FFyou can't take this challenge.^000000 Also, this mission will be pretty hard.#
-ë„ê¹¨ë¹„ë¥¼ ì†Œíƒ•í•œë‹¤#
+µµ±úºñ¸¦ ¼ÒÅÁÇÑ´Ù#
 
 8130#Momotaro Field Trip#SG_FEEL#QUE_NOIMAGE#
 You are really something. You've got the moves, kiddo. Let me show you the exit. I had a great time...Don't forget to get your reward.#
@@ -2262,7 +2262,7 @@ A stronger spirit will expel the fox from a human. Come on, yell out and show me
  
 8135#Fox Expelled#SG_FEEL#QUE_NOIMAGE#
 ^FF6060Yelp! Yelp! Yelp! Human! To expel me from this body like this! Curse you! Darn you!! I will curse the Ishida family, and You better watch out, human!^000000#
-ì—¬ìš°ì˜ ê¼¬ë¦¬ë¥¼ ê°–ê³  ì„±ì£¼ì—ê²Œ ëŒì•„ê°„ë‹¤#
+¿©¿ìÀÇ ²¿¸®¸¦ °®°í ¼ºÁÖ¿¡°Ô µ¹¾Æ°£´Ù#
 
 //=======Koshei the Immortal========
 8136#The Gray Wolf's Warning#SG_FEEL#QUE_NOIMAGE#
@@ -2469,7 +2469,7 @@ G-go away. Talk to Canell, my sister...!..ZzzzzZzZZZzzzZZ..#
 Now, a true Dancer should be able to figure out the secret to winking on her own. But since I'm such a kind woman, I will deign to explain it to you. Ho-ho~#
  #
 
-// ep13 : ì‚¼êµ­ ì—°í•© ì¡°ì‚¬ë‹¨ì˜ ê°ˆë“± (ep13_1_rhea.sc)
+// ep13 : »ï±¹ ¿¬ÇÕ Á¶»ç´ÜÀÇ °¥µî (ep13_1_rhea.sc)
 
 8196#The Tripartite Union's Feud#SG_FEEL#QUE_NOIMAGE#
 "Those researchers complain a lot these days. They're terribly stressed out and I think somebody should really listen to their problems. Especially those dealing with document files argue with each other many times. You might wanna start by talking to them."#
@@ -2531,7 +2531,7 @@ Participate in the meeting#
 "Ok. I should set up another meeting asap. Could you go see the official instead of me and set up a meeting?"#
  #
 
-// íŠœí† ë¦¬ì–¼ í€˜ìŠ¤íŠ¸ : ê²€ì‚¬ (tu_sword.sc)
+// Æ©Åä¸®¾ó Äù½ºÆ® : °Ë»ç (tu_sword.sc)
 
 8211#Shurank's Lecture#SG_FEEL#QUE_NOIMAGE#
 "Have you been learning the art of using Bash? I fervently believe that the Bash skill is the essense of Swordmanship!"#
@@ -2557,7 +2557,7 @@ Listen to Shurank's Lecture#
 "I wish for you to find a Knight named ^5D478BDequ'ee^000000 in ^5D478BGeffen^000000. Listen carefully, this is the message: ^0000FFWhat happened to the murderer?^000000 ^0000FFDid you find out who he is? If you did, what are we supposed to do now?^000000"#
 Deliver Shurank's message to Dequ'ee in Geffen#
 
-8217#Dequ'eeì˜ Message#SG_FEEL#QUE_NOIMAGE#
+8217#Dequ'eeÀÇ Message#SG_FEEL#QUE_NOIMAGE#
 "So Shurank is asking, 'What happened to the murderer? Did you find out who he is? If you did, what are we supposed to do now?' We haven't found out who the murderer is for sure. However, we have a list of suspects and we'll figure it out soon.?#
 Deliver Dequ'ee's message to Shurank in Izlude#
 
@@ -2605,14 +2605,14 @@ Return to Shurank#
 "This will be my final lecture to you. Please listen carefully as I tell you all about Magnum Break."#
 Listen to Shurank's Lecture#
 
-// íŠœí† ë¦¬ì–¼ í€˜ìŠ¤íŠ¸ : ìƒì¸ (tu_merchant.sc)
+// Æ©Åä¸®¾ó Äù½ºÆ® : »óÀÎ (tu_merchant.sc)
 
 8229#Guarnien's Lecture#SG_FEEL#QUE_NOIMAGE#
 "You can't really be a Merchant if you can't even carry around goods to sell. Increase Weight Limit skill up to Level 4. After that, we can talk more about becoming a true Merchant."#
 Return to Guarnien after mastering the skill, Increase Weight Limit#
 
 8230#Guarnien's Lecture#SG_FEEL#QUE_NOIMAGE#
-"Item Appraisalê³¼ I'll talk about the Mammonite skill, just a basic skill as Item Appraisal. For now, let me take a little bit of a break from all of this arduous lecture."#
+"Item Appraisal°ú I'll talk about the Mammonite skill, just a basic skill as Item Appraisal. For now, let me take a little bit of a break from all of this arduous lecture."#
 Listen to Guarnien's Lecture#
 
 8231#Guarnien's Lecture#SG_FEEL#QUE_NOIMAGE#
@@ -2656,7 +2656,7 @@ Listen to Guarnien's Lecture#
 Return to Guarnien after mastering the Vending Skill#
 
 
-// ep13 : í†µì—­ê¸° í€˜ìŠ¤íŠ¸ (ep13_2_rhea.sc)
+// ep13 : Åë¿ª±â Äù½ºÆ® (ep13_2_rhea.sc)
 
 8241#Collection of Red Jewel#SG_FEEL#QUE_NOIMAGE#
 You collected a Red Jewel from a grave which stores voice on it!#
@@ -2710,17 +2710,17 @@ This is the last request. Please bring this worked jewel to to the Mechanic Engi
 I need to make the device which can read the magic code from the jewels. It should only take me 1 hour to finish making it.#
 Return after 1 hour.#
 
-// ë°•ì„ êµ¬
+// ¹Ú¼±±¸
 
-//================================ë‚˜ì´íŠ¸ ì „ì§==========================================
+//================================³ªÀÌÆ® ÀüÁ÷==========================================
 
-//-----------------í—¤ë¥´ë§Œ------------------------
+//-----------------Çì¸£¸¸------------------------
 
 9000#Job Change to Knight#SG_FEEL#QUE_NOIMAGE#
 The Chivalry Captain 'Herman' says you need to get approvals by other Knights in order to become a Knight. #
 Talk to other members of Chivalry.#
 
-//-----------------ì—”ë“œë¥˜-----------------------
+//-----------------¿£µå·ù-----------------------
 
 // 1st test - 1
 9001#Loyalty of a Knight#SG_FEEL#QUE_NOIMAGE#
@@ -2737,14 +2737,14 @@ The first test by Sir Andrew!#
 Sir Andrew tells you to visit Sir Siracuse to continue the tests.#
 Speak to Sir Siracuse#
 
-//----------------ì œì„ìŠ¤--------------------------
+//----------------Á¦ÀÓ½º--------------------------
 
 // 2nd test
 9004#The Honor of a Knight#SG_FEEL#QUE_NOIMAGE#
 'James Siracuse' tells you to visit Sir Windsor to continue the tests.#
 Speak to Sir Windsor#
 
-//----------------ìœˆì €--------------------------
+//----------------À©Àú--------------------------
 
 // 3rd test
 9005#Tenacity of a Knight#SG_FEEL#QUE_NOIMAGE#
@@ -2763,7 +2763,7 @@ Kill all monsters in 3 minutes#
 'Sir Windsor' tells you to visit 'Amy Beatrice' for the next test.#
 Speak to Amy Beatrice#
 
-//----------------ì—ì´ë¯¸--------------------------
+//----------------¿¡ÀÌ¹Ì--------------------------
 
 
 // 3rd test
@@ -2779,7 +2779,7 @@ Speak to Amy Beatrice#
 Speak to Sir Edmond#
 
 
-//----------------ì• ë“œëª¬ë“œ--------------------------
+//----------------¾Öµå¸óµå--------------------------
 
 // 4th test
 9010#Quality of reverence#SG_FEEL#QUE_NOIMAGE#
@@ -2791,21 +2791,21 @@ Meditation#
 'Sir Edmond' tells you to find 'Sir Gray' for the final test.#
 Speak to Sir Gray#
 
-//-----------------ê·¸ë ˆì´----------------------------
+//-----------------±×·¹ÀÌ----------------------------
 
 // 6th test
 9012#Glory of a Knight!#SG_FEEL#QUE_NOIMAGE#
 'Sir Gray' tells you to change your job by seeing the captain, since you've talked to every other member. It is finally the time to become a Knight!# 
 Speak to Captain Herman#
 
-//=======================ì¢…ë£Œ======================================
+//=======================Á¾·á======================================
 
 
 
 
-//= =====================ìœ„ìë“œ ==============================
+//= =====================À§ÀÚµå ==============================
 
-//---------------------------ì¹´íŠ¸ë¦°ëŠ--------------------------------
+//---------------------------Ä«Æ®¸°´À--------------------------------
 9013#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
 The Wizard Guildman, Catherine's first test is to gather Gemstones.#
 Collect 3 of each Red, Blue, Yellow Gemstone.#
@@ -2821,7 +2821,7 @@ You passed the first test by 'Catherine.'  She says you should go see the Gloomy
 Find and have a conversation with 'Gloomy Wizard.'#
 
 
-//---------------------------ë¼ìš°ë Œ ( ìŒì¹¨í•œ ë‚¨ì )--------------------------------
+//---------------------------¶ó¿ì·» ( À½Ä§ÇÑ ³²ÀÚ )--------------------------------
 
 9016#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
 The second step of the Job Change test is to give correct answers to the questions given by 'Raulel.'#
@@ -2835,7 +2835,7 @@ Practical test using 3 different properties#
 You have passed all the tests given by 'Raulel.' Talk to Catherine for the last part of the test!#
 Conversation with 'Catherine'#
 
-//---------------------------ì „ì¥--------------------------------
+//---------------------------ÀüÀå--------------------------------
 2069#Tierra Gorge Battle#SG_FEEL#QUE_NOIMAGE#
 You have received an indicator showing that you've participated in the Battle at Tierra Gorge.  Guillaume Army won't let you participate in any other battles until the indicator goes off.#
 Stand-by for Tierra Gorge Battle until the time limit passes.#
@@ -2873,7 +2873,7 @@ You have just participated in the Maroll Battlegrounds. You cannot choose anothe
 //Due to the death inside the tower, it is not possible to enter until another tower is regenerated.#
 //#
 
-//---------------------------ì™•ìœ„ì¡°ë¡€--------------------------------
+//---------------------------¿ÕÀ§Á¶·Ê--------------------------------
 10000#To the Prontera Royal Court#SG_FEEL#QUE_NOIMAGE#
 As the messenger says, go to the Prontera Royal Court and talk to the Inspector.#
 Inspector in Prontera Castle#
@@ -2978,7 +2978,7 @@ Let's make sure to remember the last conversation of the two princes.#
 Report to the inspector about all you have gone through.#
 #
 
-//---------------------------ìœ ë…¸ ë©”í†  í€˜--------------------------------
+//---------------------------À¯³ë ¸ŞÅä Äù--------------------------------
 10026#Reforming Meto#SG_FEEL#QUE_NOIMAGE#
 Go and see Meto like Weigon said.#
 #
@@ -3011,7 +3011,7 @@ Go to Meto and check if your interference was effective.#
 Reforming successful! Go and report to Weigon.#
 #
 
-//---------------------------ê³¤ë¥œ ì°©í•œ ì¸ê°„--------------------------------
+//---------------------------°ï·û ÂøÇÑ ÀÎ°£--------------------------------
 10034#Search the knife#SG_FEEL#QUE_NOIMAGE#
 Go down to the field to find YunKyoHam's knife.#
 #
@@ -3020,7 +3020,7 @@ Go down to the field to find YunKyoHam's knife.#
 You found the knife. Return to YunKyoHam.#
 #
 
-//---------------------------ìŠ¤ì‹œ ì™€ì‚¬ë¹„ í€˜--------------------------------
+//---------------------------½º½Ã ¿Í»çºñ Äù--------------------------------
 10036#Material Supply-Candy#SG_FEEL#QUE_NOIMAGE#
 Bring 10 Candies to Magumagu.#
 #
@@ -3045,7 +3045,7 @@ Bring 1 White_Platter to Magumagu.#
 Bring 100 Hearts of Mermaid to Magumagu.#
 #
 
-//---------------------------ê±´ë°˜ ì°¾ê¸° í€˜--------------------------------
+//---------------------------°Ç¹İ Ã£±â Äù--------------------------------
 10042#Find the Piano Keys-5 remained#SG_FEEL#QUE_NOIMAGE#
 Probably the person who talks in difficult words would have the next key.#
 #
@@ -3098,7 +3098,7 @@ It seems ok to put whatever even if it's not a key.#
 Talk to the witch, Clint Kana to escape.#
 #
 
-//---------------------------ìš°íƒ„ ì¶”ì¥ ë²ˆì—­ í€˜--------------------------------
+//---------------------------¿ìÅº ÃßÀå ¹ø¿ª Äù--------------------------------
 
 10055#Understanding the culture of Utan#SG_FEEL#QUE_NOIMAGE#
 The Chief of Utan tribe suggests that you try learning Utan's culture.#
@@ -3109,7 +3109,7 @@ You'll be able to learn Utan language if you bring certain materials.#
 10 Oil Paper, 5 Slick Paper, 1 Squid Ink, 1 Feather of Birds#
 
 // --------------EP13------------------------------------------
-//---------------------------ì´ê³„ë¡œ ê°€ì--------------------------------
+//---------------------------ÀÌ°è·Î °¡ÀÚ--------------------------------
 10057#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
 Go to the promotional staff in Aldebaran.#
 #
@@ -3242,8 +3242,8 @@ Tell him about your friend. If you don't know about any stories about friends, j
 Your story seems quite influential to him.#
 You experienced of things to tell him, just tell all of things you felt from the experience.#
 
-// ì†¡ì†¡ì´
-// ----------ì˜¤ë”˜ì‹ ì „, ìƒì²´ì—°êµ¬, ë„ì„œê´€, ëŒì¤ëŠ”ë…¸ì¸
+// ¼Û¼ÛÀÌ
+// ----------¿Àµò½ÅÀü, »ıÃ¼¿¬±¸, µµ¼­°ü, µ¹Áİ´Â³ëÀÎ
 11000#Inspection of Odin Shrine#SG_FEEL#QUE_NOIMAGE#
 Anyway, if you'd like to help us, please take a look around the shrine and see if you'd want to work for us. Please talk to the Boatman to travel to the shrine, okay?#
 Talk to Alex again after investigating the Shrine.#
@@ -3600,11 +3600,11 @@ Deliver the last supply box to Alberto.#
 You've delivered the last supply box to Alberto. Go back to Instructor Lugen.#
 Lugen.#
 
-11099# To My Friendâ€¦#SG_FEEL#QUE_NOIMAGE#
+11099# To My Friend¡¦#SG_FEEL#QUE_NOIMAGE#
 Lugen asked you to deliver a letter to his friend Otto who is working on the barrier in the west.#
 Otto#
 
-11100#To My Friendâ€¦#SG_FEEL#QUE_NOIMAGE#
+11100#To My Friend¡¦#SG_FEEL#QUE_NOIMAGE#
 Otto asked you to bring his letter to Lugen and to tell him that he will be visiting him when he gets his next vacation.#
 Lugen.#
 
@@ -3629,8 +3629,8 @@ I need something to fix the tent with, if you can get^0000FF 30 Horn of Hillslio
 30 Horn of Hillslion.#
 
 
-// ë°•ì¼ìš©
-//---------------ì¹œêµ¬, ë¬´ê¸°ê³µê¸‰------------------------
+// ¹ÚÀÏ¿ë
+//---------------Ä£±¸, ¹«±â°ø±Ş------------------------
 12000#An old friend#SG_FEEL#QUE_NOIMAGE#
 Find Maku's old friend and talk with him.#
 #
@@ -3815,8 +3815,8 @@ Find Torpy's mother out of the village.#
 Finding Torpy's mother#
 
 12045#Soothing a crying child 2#SG_FEEL#QUE_NOIMAGE#
-Deliver the mother's message to Torpy. [I'll be backâ€¦]#
-I'll be backâ€¦#
+Deliver the mother's message to Torpy. [I'll be back¡¦]#
+I'll be back¡¦#
 
 12046#Soothing a crying child 3#SG_FEEL#QUE_NOIMAGE#
 Find Torpy's father who caused all the trouble. He must be hiding somewhere in the village.#
@@ -6569,7 +6569,7 @@ Collect '5 Mole Whiskers' and '3 Mole Claw's. You can get these items from Marti
 Deliver items to Dashia in Payon#
 
 
-//ë¬¸ìƒì—°
+//¹®»ó¿¬
 //------------------------------Announce event No.1----------------------------------
 9024#An errand boy of Ainbroc#SG_FEEL#QUE_NOIMAGE#
 Help an errand who comes to prontera from Ainbroc for finding jellopy.#
@@ -6583,7 +6583,7 @@ Capture a^FF0000Strange Hydra^000000#
 In ^8B4513Brasilis^000000, there is a message from ^0000FFLucia^000000: ^404040Thanks for your help. Unfortunately, I can supply a new ^006400Hydra Ball^404040 to you tomorrow.^000000#
 If you want another ^FF0000Hydra Ball^000000 return to^0000FFLucia^000000 after the timer expires.#
 
-//ì´ë²”ìˆ˜
+//ÀÌ¹ü¼ö
 9030#Lost Puppies#SG_FEEL#QUE_NOIMAGE#
 Angelo says that 3 puppies were lost in the jungle recently. Find 3 puppies at Brasilis Field.#
 #
@@ -7073,9 +7073,9 @@ I received the ring of Karakass, which was available for sometime.#
 
 9024#An errand boy from Einbroch#SG_FEEL#QUE_NOIMAGE#
 Help ^0000FFan errand boy^000000 who come to find ^8B4513Prontera^000000.#
-Collect ^006400100 Jellopies^000000 and go back to ^0000FFthe errand boy^000000ì—ê²Œ ëŒì•„ê°€ì.#
+Collect ^006400100 Jellopies^000000 and go back to ^0000FFthe errand boy^000000¿¡°Ô µ¹¾Æ°¡ÀÚ.#
 
-//-- ë¯¼ìŠ¤íŠ¸ëŸ´
+//-- ¹Î½ºÆ®·²
 11135#Looking for Maestro Song#SG_FEEL#QUE_NOIMAGE#
 Can you go to ^000077Prontera^000000and collect ^000077 'Information about Maestro Song^000000. I have something to investigate in Alberta.#
 #
@@ -7156,7 +7156,7 @@ Go to the Clock Tower entrance in Aldebaran#
 You listened to Karian remember a song that his friend sang with him in front of the Clock Tower#
 Go back to Prontera's south gate.#
 
-//- ìˆ˜ë¼ ì „ì§ í€˜ìŠ¤íŠ¸
+//- ¼ö¶ó ÀüÁ÷ Äù½ºÆ®
 11155#Job Change to Sura#SG_FEEL#QUE_NOIMAGE#
 You just witnessed a woman display amazing power. Go to the Inn and find out more about her.#
 #
@@ -7173,7 +7173,7 @@ Go to the El Mes Gorge, Southeast of Juno, and find 'Buddy' who should be near t
 The Master is meditating so you must wait in the living room.#
 Wait for the Master and survive.#
 
-//--- 3-2ì°¨ ì „ì§
+//--- 3-2Â÷ ÀüÁ÷
 12090#Job Change to Royal Guard#SG_FEEL#QUE_NOIMAGE#
 Hainrich tells you that he is looking for Schmidtz's trace and any information about the Royal Guard.#
 Continue conversation with the Middle-aged Gentleman Hainrich#
@@ -7194,7 +7194,7 @@ The last trace should be somewhere in the Glast Heim St. Abbey. The research say
 The inscription says: 'You are one who has holy power... Find my memory near my old castle of Glast Heim. My chambers were to the North...'#
 #
 
-//-- ì†Œì„œëŸ¬
+//-- ¼Ò¼­·¯
 12096#Job Change to Sorcerer#SG_FEEL#QUE_NOIMAGE#
 Find Karacas on the 4th floor of Geffen Tower.#
 Conversation with Karacas#
@@ -8594,7 +8594,7 @@ Hunt the Heirozoist monsters at Niffelheim Field 1 and return to Gramps at the E
 Hunt 400 Heirozoist monsters.#
 
 //--------13.3 Add--------
-//------ ì¸ë„ë„¤ì‹œì•„ ë¡œì»¬ë¼ì´ì§• - ë°ì™€íƒ€ ì„¬(ë…¸ì¸ì„ ë„ì™€ë¼, ì „í†µ ë¬´ê¸°)
+//------ ÀÎµµ³×½Ã¾Æ ·ÎÄÃ¶óÀÌÂ¡ - µ¥¿ÍÅ¸ ¼¶(³ëÀÎÀ» µµ¿Í¶ó, ÀüÅë ¹«±â)
 5035#Help the old man!#SG_FEEL#QUE_NOIMAGE#
 Mr. Memo in Dewata island is in trouble. Go and find out what's happening at the Jaty tribe as a favor to him.#
 The ^0000FFJaty Tribe^000000 is located at ^FF000010 o'clock^000000 direction of Dewata Island.#
@@ -8676,7 +8676,7 @@ If you bring the Caress Hilt I made, 100 Leather of Comodo, 20 Steel, and 10 Ori
 Whitesmith, Gatti will make the weapon if you bring 100 Leather of Comodo, 20 Steel, and 10 Oridecon to him.#
 
 
-// ì¸ë„ë„¤ì‹œì•„ ë¡œì»¬ : "ì „ì„¤"
+// ÀÎµµ³×½Ã¾Æ ·ÎÄÃ : "Àü¼³"
 
 9155#Getting materials for the Jaty Crown#SG_FEEL#QUE_NOIMAGE#
 Hunt Cendrawasih and bring back ^404040Get 15 Cendrawasih Feather^000000 to Tribal Chief Paiko.#
@@ -8722,8 +8722,8 @@ Deliver the ^FF0000Satay^000000 to the ^0000FFBorobudur Temple Manager^000000#
 Message from ^0000FFBorobudur Temple Manager^000000: "^404040Dewata Island and Jaty Tribe is full of mystery.^000000"#
 Go back to the ^0000FFTribal Chief Paiko^000000 and receive the reward.#
 
-//---------13.3 ì¶”ê°€ ë° ìˆ˜ì •-------
-//--ep13_3_invite , ep13_3_secret ì—í”¼ì†Œë“œ 13.3 ì‚¬íŒŒì˜ ì´ˆì²­, ë¹„ë°€ì„ë¬´
+//---------13.3 Ãß°¡ ¹× ¼öÁ¤-------
+//--ep13_3_invite , ep13_3_secret ¿¡ÇÇ¼Òµå 13.3 »çÆÄÀÇ ÃÊÃ», ºñ¹ĞÀÓ¹«
 7182#Sapha's Visit#SG_FEEL#QUE_NOIMAGE#
 There are rumors that a Sapha from Manuk has come to visit the camp. Aello trusts me so he appointed me to speak to him. The delegate is in the room at the right on the second floor.#
 Meet the Sapha delegate upstairs.#
@@ -8816,7 +8816,7 @@ Bring your final Report to Inspector Doha#
 I met 'Bomi' in Lutie who was curious about Spring bringing flower. For her, I promised I would bring her a bunch of spring flower. It may be enough with 5 [Huge Spray Of Flowers]..#
 Give Bomi Spring as a gift#
 
-//-------------ep13.3 ì—í”¼ì†Œë“œ 13.3
+//-------------ep13.3 ¿¡ÇÇ¼Òµå 13.3
 11159#Story of Brian#SG_FEEL#QUE_NOIMAGE#
 Ah... How many days have passed since I came here...? Do you happen to know what day it is today?#
 Listen to Brian's story.#
@@ -8889,7 +8889,7 @@ The job seems to need 2 hours to be done.#
 Work completed! Bouy was a bit nervous because it had been a long time since he did manual work but he did a good job. Please take these to friends.#
 Give the refined Bradium to friends and go back to Frede to tell the story.#
 
-//-------Ep. 13.3 --- ì¼ì¼í€˜ìŠ¤íŠ¸ Daily Quest
+//-------Ep. 13.3 --- ÀÏÀÏÄù½ºÆ® Daily Quest
 12099#Remove Root Cause#SG_FEEL#QUE_NOIMAGE#
 Baby dragons near the Yggdrasilberry roots are reportedly hatching. Eliminating the baby dragon is important because those baby dragons will eventually grow to be mean adults so we have to take them out while they're young.#
 Hunt 10 Draco's Eggs - Report to Hunting Dept. 1 Manager within 23 hours.#
@@ -10506,7 +10506,7 @@ Hunt down 30 Turkeys in the Border Posts map to the north of Al De Baran. Termin
 Return to Lidia in Prontera to receive your reward from the Chefs' Union.#
 #
 
-//-- 2010 ì—í”¼ì†Œë“œ 14.1 ep14_1_rofe.sc
+//-- 2010 ¿¡ÇÇ¼Òµå 14.1 ep14_1_rofe.sc
 1109#Lope and Euridi - Survivors of the forest fog.#SG_FEEL#QUE_NOIMAGE#
 Find the Mora Village Inn and ask about the whereabouts of Lope.#
 #
@@ -10551,8 +10551,8 @@ Collect 30 Clue_Of_Lope and return to the Order of the Knights Head.#
 You have finished a job for the Knights of the Neighborhood Boss. Wait for the timer to expire before trying to help him again.#
 #
 
-// ì—í”¼ì†Œë“œ 14.1
-// ëª¨ë¼ë§ˆì„ ëª©ìš•íƒ• ì—°êµ¬ í€˜ë””í”Œ
+// ¿¡ÇÇ¼Òµå 14.1
+// ¸ğ¶ó¸¶À» ¸ñ¿åÅÁ ¿¬±¸ ÄùµğÇÃ
 5016#Bring me Research Tools#SG_FEEL#QUE_NOIMAGE#
 The Raffle Researchers are saying that they were being attached by an unidentified life and so their research was stolen from them.#
 Go and retrieve the research from the unidentified life and give it back to the researchers.#
@@ -10629,7 +10629,7 @@ Find Fishee's family.#
 You found Fishee's family. Let's go tell Fishee.#
 Go to Fishee of the Bathtub and tell him your news.#
 
-//--- ë‚™ì›ë‹¨ 71 - 85 í€˜ìŠ¤íŠ¸ ì¶”ê°€
+//--- ³«¿ø´Ü 71 - 85 Äù½ºÆ® Ãß°¡
 5055#Local Rising - Headless Horse#SG_FEEL#QUE_NOIMAGE#
 Heaven's Recruit Board levels 71-85 requests you to go hunt Headless Horses.#
 Hunt 15 Headless Horses, and report back to the ^0000FFHeaven's Recruit Board 71 - 85^000000.#
@@ -10642,8 +10642,8 @@ Hunt 15 Tamruan, and report back to the ^0000FFHeaven's Recruit Board 71 - 85^00
 Heaven's Recruit Board levels 71-85 requests you to go help the festival get ready.#
 Go gather 30 things?, and report back to the ^0000FFHeaven's Recruit Board 71 - 85^000000.#
 
-//-- 2010 ì—í”¼ì†Œë“œ 14.1
-//---- Cheshireì˜ ìƒˆë¡œìš´ ì¼
+//-- 2010 ¿¡ÇÇ¼Òµå 14.1
+//---- CheshireÀÇ »õ·Î¿î ÀÏ
 7206#The new days of Cheshire#SG_FEEL#QUE_NOIMAGE#
 You will find a member of the Cat Paw if you look in the middle of the ^4d4dffKamidal Tunnel^000000. ^4d4dff At West side of Skaraba Hall entrance there is a marked box of goods.^000000. Please move it. The location of where you need to move it will be on the box.#
 #
@@ -10664,7 +10664,7 @@ Refined Bradium: 20 each.#
 Cheshire is waiting for the Bradium box. You must take today's items to Cheshire who is waiting in Bifrost.#
 #
 
-//------ë°©í™©í•˜ëŠ” ìˆ˜í˜¸ì
+//------¹æÈ²ÇÏ´Â ¼öÈ£ÀÚ
 7211#Explore the Foggy Forest#SG_FEEL#QUE_NOIMAGE#
 Explore the Foggy Forest. The foggy forest remembers you so if you try to force re-entry it may reject you.#
 #
@@ -10681,7 +10681,7 @@ The thing that Loki was looking for was the Guardian of Niddhog who was wanderin
 Hunt the Wandering Purple Dragon in the Hazy Forest#
 #
 
-//-- ì—í”¼ì†Œë“œ 14.1
+//-- ¿¡ÇÇ¼Òµå 14.1
 //Bifrost ep14_1_bs.sc
 11182#Theore's Report#SG_FEEL#QUE_NOIMAGE#
 Theore seems to be in a manic state. Wait for him to calm down and talk to him again.#
@@ -10791,7 +10791,7 @@ Lighten your inventory weight and talk to Jones again.#
 Please take good care of it. It's for Daphrer in Splendide.#
 Bring the Supply Kit to Daphrer.#
 
-//---- 2010 ì—í”¼ì†Œë“œ 14.1 ep14_1_dealer.sc
+//---- 2010 ¿¡ÇÇ¼Òµå 14.1 ep14_1_dealer.sc
 12225#Fruit-Carrying Insects#SG_FEEL#QUE_NOIMAGE#
 I'd like you to take them out as you see them, before they try to sell anything to the adventurers lost in the forest.#
 Hunt 3 Pom Spiders#
@@ -10935,7 +10935,7 @@ Search the Fog Maze Forest around 11, 4#
 No more tasks are available today from Soul Guide#
 Wait for the timer to expire#
 
-//--- 150ë ˆë²¨ ë‹¬ì„±
+//--- 150·¹º§ ´Ş¼º
 9142#Achievement#SG_FEEL#QUE_NOIMAGE#
 Received Evil_Snake_Lord_Hat#
 #
@@ -11525,7 +11525,7 @@ Observe Beho and Bianca and make sure that your plan for the one-eyed loverboy w
 #
 
 
-//- í¬íŠ¸ ë§ë¼ì•¼
+//- Æ÷Æ® ¸»¶ó¾ß
 2271#Secret in the Woods#SG_FEEL#QUE_NOIMAGE#
 Guard from Port Malaya said villagers are all talking about a treasure.#
 Talk to the gathered Port Malaya villagers.#
@@ -11572,7 +11572,7 @@ Get Rid of Buwaya#
 
 // ---------- Port Malaya Update ------------
 
-//------------í¬íŠ¸ ë§ë¼ì•¼ ì¼ì¼í€˜
+//------------Æ÷Æ® ¸»¶ó¾ß ÀÏÀÏÄù
 7350#Cautious Village#SG_FEEL#QUE_NOIMAGE#
 First time in Port Malaya. Feeling a bit confused but better go see Phong in Mumbaki in the village as told. I'm sure he'll help me out.#
 Talk to Phong in Mumbaki#
@@ -11819,7 +11819,7 @@ Capre Budidai said the Bongisungisu won't go away from one scare and asks to con
 #
 
 
-//----------í•„ë¦¬í•€ ë¡œì»¬ë¼ì´ì§• ë°”ì½”ë‚˜ì™€ ì…ì¥í€˜ìŠ¤íŠ¸
+//----------ÇÊ¸®ÇÉ ·ÎÄÃ¶óÀÌÂ¡ ¹ÙÄÚ³ª¿Í ÀÔÀåÄù½ºÆ®
 1174#Rumor, Time and Legend#SG_FEEL#QUE_NOIMAGE#
 Bring back the Geffen Tablet to the granddaughter of the Old Man Bright in Legends.#
 Talk to the 'Old Man's Granddaughter' at the north port of Malaya.#
@@ -11901,7 +11901,7 @@ Set up the trap. Report back to the Chief.#
 Talk to the 'Chief' in Malaya.#
 
 
-//-- í¬íŠ¸ë§ë¼ì•¼
+//-- Æ÷Æ®¸»¶ó¾ß
 12278#Towards Bakonawa Lake...#SG_FEEL#QUE_NOIMAGE#
 Entered the lake to stop Bakonawa. Don't think I need to go back into the lake within the week.#
 #
@@ -11911,7 +11911,7 @@ A huge fight will break out if Bakonawa is left as is. He must be eliminated.#
 #
 
 
-// í•„ë¦¬í•€ ë¡œì»¬ë¼ì´ì§• : "ë²™ì›…ê³³ ë³‘ì› 2ì¸µ" í¬íŠ¸ë§ë¼ì•¼
+// ÇÊ¸®ÇÉ ·ÎÄÃ¶óÀÌÂ¡ : "º¡¿õ°÷ º´¿ø 2Ãş" Æ÷Æ®¸»¶ó¾ß
 9222#Get Rid of Bangungot from Hospital 2F'#SG_FEEL#QUE_NOIMAGE#
 Track and kill ^0000FFBangungot^000000 and then return to the nurse.#
 #
@@ -11925,7 +11925,7 @@ Investigate the ^0000FFHospital 2F^000000 overflowing with dark energy.#
 #
 
 
-//-- í¬íŠ¸ ë§ë¼ì•¼
+//-- Æ÷Æ® ¸»¶ó¾ß
 11284#Nurse at Port Malaya#SG_FEEL#QUE_NOIMAGE#
 Looks dirty but 'Rotten Bandages' were soaked in special juice and have special powers. It only takes 2 of these bandages to cover both feet.#
 Deliver 2 Rotten Bandages and talk again.#
@@ -12030,7 +12030,7 @@ Feel like Las was playing you. Talk to the nurse in front of the hospital.#
 You've not only interrupted my job but you also brought her to the room making you responsible. Don't think of running away.#
 Get rid of Bangungot and return.#
 
-//-- í¬íŠ¸ ë§ë¼ì•¼
+//-- Æ÷Æ® ¸»¶ó¾ß
 4229#Devil in the Cave#SG_FEEL#QUE_NOIMAGE#
 People say the monster is not appearing at the moment. Should come back tomorrow.#
 Buwaya in hiding#
@@ -12945,7 +12945,7 @@ Victory is yours. Tell the Admiral#
 
 
 //------ 2011.05 malangdo
-//---------ã…¡Malangdo Daily Quest - Help the Bad Cats --------------------------------
+//---------¤ÑMalangdo Daily Quest - Help the Bad Cats --------------------------------
 
 1145#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
 Do a favor for Gobong who's stomach is upset. Go to the port and try to listen to the suspious conversation.#
@@ -12991,12 +12991,12 @@ Patrol leader.#
 Report Bad action to Gobonge.#
 Gobonge#
 
-//- ë¬¸ì–´ë™êµ´
+//- ¹®¾îµ¿±¼
 4197#Octopus#SG_FEEL#QUE_NOIMAGE#
 The Octopus appears every 3 hours.#
 The next time of its appearance: 3 hours#
 
-// 2010 ë§ë‘ë„ - ëƒ¥ì´ ê²Œì´ë¨¸ì¦ˆ
+// 2010 ¸»¶ûµµ - ³ÉÀÌ °ÔÀÌ¸ÓÁî
 5058#The mood of the players-(1)#SG_FEEL#QUE_NOIMAGE#
 Cat gamers Director's worry for escaping from a 10-game losing streak!!#
 Ask director of cat about the current mood of Nyang gamers players.#
@@ -13034,7 +13034,7 @@ Cat gamers Director wants to change his Scary image.#
 Let me ask director cat who is accredited by Cat gamers Director.#
 
 5067#Scary image-(2)#SG_FEEL#QUE_NOIMAGE#
-Director cat said "Scary imageâ€¦ that is really hard.. Why does not giving up.. Tthat will be easyâ€¦collecting complaint... !! I heard that sometimes army do that~#
+Director cat said "Scary image¡¦ that is really hard.. Why does not giving up.. Tthat will be easy¡¦collecting complaint... !! I heard that sometimes army do that~#
 Tell Cat gamers Director, bring a box for collecting complaint.#
 
 5068#Collecting complaint#SG_FEEL#QUE_NOIMAGE#
@@ -13133,7 +13133,7 @@ When you finish your job, Please report to Cat gamers Director.#
 Go Malangdo..#
 Malangdo#
 
-//-- ë§ë‘ë„ ì•¼ì˜¹ ëª¨í—˜ë‹¨
+//-- ¸»¶ûµµ ¾ß¿Ë ¸ğÇè´Ü
 7242#Play with the baby cat#SG_FEEL#QUE_NOIMAGE#
 The request from Rato, an expert cat sailor in Malangdo. He worries about the baby cats so asked you find them and play with them. Go to find those baby cats. They are Rosy the white one, Roku the black one, and gold one Charo.#
 #
@@ -13275,7 +13275,7 @@ In a sand grave, you found out cat's hard biscuit which was hidden. The biscuit 
 Chef Nyas wants you to deliver the ingredient for the biscuit every day, and for some new food. Anyway go back to him whenever you can.#
 #
 
-//-ë±
+//-µ¦
 7281#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Honey Grape Juice#
@@ -13316,7 +13316,7 @@ Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. An
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Hwergelmir's Tonic#
 
-//-í˜
+//-Èû
 7291#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Fried Grasshopper Legs#
@@ -13357,7 +13357,7 @@ Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. An
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Tongue#
 
-//-ì–´ì§ˆ
+//-¾îÁú
 7301#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Frog Egg Squid Ink Soup#
@@ -13398,7 +13398,7 @@ Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. An
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Scorpion#
 
-//-ë°”íƒˆ
+//-¹ÙÅ»
 7311#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Crab Nippers#
@@ -13439,7 +13439,7 @@ Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. An
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Stew Of Immortality#
 
-//-ì¸íŠ¸
+//-ÀÎÆ®
 7321#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Grape Juice Herbal Tea#
@@ -13480,7 +13480,7 @@ Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. An
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Dragon Breath Cocktail#
 
-//-ëŸ­
+//-·°
 7331#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Fried Monkey Tails#
@@ -13521,7 +13521,7 @@ Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. An
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Cooked Nine Tail's Tails#
 
-//-20ìš”ë¦¬
+//-20¿ä¸®
 7341#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Savage BBQ#
@@ -13546,7 +13546,7 @@ Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. An
 Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
 10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Petti Tail Noodle#
 
-//--í† ë§ˆìŠ¤ì”¨ì˜ ê³ ì¶©(êµ­ë‚´14.1ì—ì¶”ê°€_ë§ë‘ë„í¬í•¨)
+//--Åä¸¶½º¾¾ÀÇ °íÃæ(±¹³»14.1¿¡Ãß°¡_¸»¶ûµµÆ÷ÇÔ)
 11209#Mr. Tomas' distress#SG_FEEL#QUE_NOIMAGE#
 All human who visit Malangdo are coming to me that is why I have too much work. There is ^0000FFMalangdo regular meeting^000000, just go over there. The place is located on ^0000FFThe other side of corridor end^000000.#
 Participate in the meeting.#
@@ -13695,7 +13695,7 @@ Let's get back with 30 delicious jelly.#
 You can't receive any request from Biscuit during one day.#
 #
 
-//--ì§€í•˜ë°°ìˆ˜ë¡œ ë˜ì „ í€˜ìŠ¤íŠ¸(êµ­ë‚´14.1ì—ì¶”ê°€_ë§ë‘ë„í¬í•¨)
+//--ÁöÇÏ¹è¼ö·Î ´øÀü Äù½ºÆ®(±¹³»14.1¿¡Ãß°¡_¸»¶ûµµÆ÷ÇÔ)
 12254#Now it's cleaning#SG_FEEL#QUE_NOIMAGE#
 Now it's cleaning time. Please concentrate one spot before the time finishes#
 Clean the culvert within 1 hour#
@@ -13780,7 +13780,7 @@ You are in charge of Culvert, normal for 7 days#
 You already have got 1 requested service. Since you already have done it, you cannot get a new request for 7 days.#
 You are in charge of Culvert, hard for 7 days#
 
-//----------2012í¬ë¦¬ìŠ¤ë§ˆìŠ¤_Merry Christmas, Raccoon Hooray Team!
+//----------2012Å©¸®½º¸¶½º_Merry Christmas, Raccoon Hooray Team!
 
 1276#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
 collect 10 Stolen Candies, 10 Stolen cookies and 10 Bag Of Selling Goods by defeating Sock Stealing Raccoon and Gift Stealing Raccoon.#
@@ -13803,63 +13803,63 @@ Raccoon Hooray Team Captain is depressed for failing to make the Cookie house. Y
 Speak to Raccoon Hooray Captain#
 
 1281#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.2. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.2. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1282#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.5. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.5. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1283#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.12. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.12. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1284#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.20. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.20. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1285#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.25. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.25. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1286#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.1. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.1. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1287#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.15. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.15. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1288#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.7. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.7. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1289#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.17. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.17. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1290#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.24. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.24. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1291#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.3. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.3. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1292#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.10. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.10. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1293#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.11. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.11. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1294#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.19. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.19. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1295#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hoorayâ€™s No.23. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.23. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1296#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
@@ -14007,8 +14007,8 @@ Meet the Isis at her new House#
 #
 
 
-//-- ì¹´ê²Œë¡œ ì˜¤ë³´ë¡œ ì „ì§ í€˜ìŠ¤íŠ¸
-// ì¹´ê²Œë¡œìš°-ì˜¤ë³´ë¡œ ì „ì§ í€˜ìŠ¤íŠ¸
+//-- Ä«°Ô·Î ¿Àº¸·Î ÀüÁ÷ Äù½ºÆ®
+// Ä«°Ô·Î¿ì-¿Àº¸·Î ÀüÁ÷ Äù½ºÆ®
 5131#Strange Conversation#SG_FEEL#QUE_NOIMAGE#
 You just experienced a very strange conversaion. Hidden place?#
 Search the Ninja Guild for a Drawing.#
@@ -14326,7 +14326,7 @@ Talk with Professor Worm on the 4th floor of Bifrost Tower.#
 
 //--ep14.2 
 4254#Fairy with a stomache#SG_FEEL#QUE_NOIMAGE#
-Even a fairy gets a stomacheâ€¦ Help the fairy get some material.# 
+Even a fairy gets a stomache¡¦ Help the fairy get some material.# 
 10 Green Herbs#
 
 4255#Revenge!#SG_FEEL#QUE_NOIMAGE#
@@ -14841,7 +14841,7 @@ If the cat is stopped from fighting, it may be possible to gain useful informati
 A way to calm down a cat.#
 
 12286#Information traded for some canned foods#SG_FEEL#QUE_NOIMAGE#
-It is told that ^0000991 Dark Debris, 2 of each red/yellow/blue gemstones^000000 are needed for activating the rift fragment. It seems that Hiel is having a hard time obtaining themâ€¦# 
+It is told that ^0000991 Dark Debris, 2 of each red/yellow/blue gemstones^000000 are needed for activating the rift fragment. It seems that Hiel is having a hard time obtaining them¡¦# 
 Information traded for some canned foods.#
 
 12287#A weird experience#SG_FEEL#QUE_NOIMAGE#
@@ -14901,7 +14901,7 @@ Show Home Tree's leaf and encourage Etran. Although Robert's refusal to receive 
 Revisiting Etran.#
 
 12301#Two remaining friends#SG_FEEL#QUE_NOIMAGE#
-Robert and Etran will carry out their destinies until the end. Until the land of the past (although present for themâ€¦) becomes the abundant land of the present. Talk to Hiel and Clever who made the encounters possible.# 
+Robert and Etran will carry out their destinies until the end. Until the land of the past (although present for them¡¦) becomes the abundant land of the present. Talk to Hiel and Clever who made the encounters possible.# 
 Two remaining friends.# 
 
 //-- ep14.2 
@@ -15003,7 +15003,7 @@ Wuhari is searching for ways to recover Wuhuru's body. However, he doesn't know 
 Talk with people in the town.#
  
 14126#Searching for Ms. Goatie#SG_FEEL#QUE_NOIMAGE#
-Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these thingsâ€¦# 
+Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these things¡¦# 
 Search for Ms. Goatie.#
 
 14127#Searching for Ms. Goatie's husband#SG_FEEL#QUE_NOIMAGE#
@@ -15054,7 +15054,7 @@ Report to Wuhari.#
 Wuhari asked for ingredients that he could use to research on his own. Provide Wuhari with his necessary ingredients. (1 Wing piece, 1 sturdy hair, 1 Bradium, 1 rune of darkness, 1 rune of blood).# 
 Obtain the items!#
 
-//ë‚˜ì´íŠ¸ë©”ì–´
+//³ªÀÌÆ®¸Ş¾î
 2289#Suspicious Cat: enemies#SG_FEEL#QUE_NOIMAGE#
 Request from Suspicious Cat to Hunt 20 Verits#
 #
@@ -15082,7 +15082,7 @@ Kill the large orc wandering somewhere in the sewers.#
 Please wait three hours before playing again#
 #
 
-// 2013ë…„ ë¶ë¯¸ 10ì£¼ë…„ 6ì›” ì´ë²¤íŠ¸
+// 2013³â ºÏ¹Ì 10ÁÖ³â 6¿ù ÀÌº¥Æ®
 
 14235#Invaded Prontera#SG_FEEL#QUE_NOIMAGE#
 Annie said that she will meet you near the Castle Gates in Prontera She said she will be hiding so you may have to search.#
@@ -16445,7 +16445,7 @@ Waiting time - 23hours#
 [Highest-Level reqiest from Energy crystal research] If you hunt 100 Ancient Mimics, You can get 10 of High Purity Energy crystals.#
 #
 
-//----- 2012 íˆ¬êµ¬ê°•í™” í€˜ìŠ¤íŠ¸(ì¶”ê°€)
+//----- 2012 Åõ±¸°­È­ Äù½ºÆ®(Ãß°¡)
 5222#saving the energy crystals#SG_FEEL#QUE_NOIMAGE#
 It is working on saving Rough energy crystal to the body. ^FF0000*Please go to Reno if the Buff is disappeared.*^000000#
 #
@@ -17168,7 +17168,7 @@ On the second floor of Luina guild dungeon, fight off 40 Killer Mantises and 50 
 Monsters eliminated from the second floor of guild dungeon#
 
 7530# Luina Challenge 3#SG_FEEL#QUE_NOIMAGE#
-Fight off Gioia and Elvira in Heroâ€™s Tear in Corridor of the Abyss in Luina.#
+Fight off Gioia and Elvira in Hero¡¯s Tear in Corridor of the Abyss in Luina.#
 Battle in Corridor of the Abyss#
 
 7531# Britoniah Challenge 1#SG_FEEL#QUE_NOIMAGE#
@@ -17180,7 +17180,7 @@ On the second floor of Britoniah guild dungeon, fight off 20 Abysmal Dark Frames
 Monsters eliminated from the second floor of guild dungeon#
 
 7533# Britoniah Challenge 3#SG_FEEL#QUE_NOIMAGE#
-Fight off Kades and Rudo, the guardians of the dead, in the Dead Manâ€™s Hill in Corridor of the Abyss in Britoniah.#
+Fight off Kades and Rudo, the guardians of the dead, in the Dead Man¡¯s Hill in Corridor of the Abyss in Britoniah.#
 Battle in Corridor of the Abyss#
 
 7534# Greenwood Lake Challenge 1#SG_FEEL#QUE_NOIMAGE#
@@ -17341,7 +17341,7 @@ Old castle time travel#
 Inside of Glastheim has been distorted by Hugin. Anything can happen inside of this castle. #
 Space distorted#
 
-// ë¶ë¯¸ 11ì£¼ë…„ ê³¤ì¶© ì¹¨ê³µì´ë²¤íŠ¸
+// ºÏ¹Ì 11ÁÖ³â °ïÃæ Ä§°øÀÌº¥Æ®
 5374#Emergency#SG_FEEL#QUE_NOIMAGE#
 Delivered the dangerous documents to Rune Midgarts Guard.#
 #
@@ -17699,7 +17699,7 @@ Hunt 150 Stalactic Golem monsters and return to the Bounty Board at El Dicastes#
 Hunt 150 Medusa monsters and return to the Bounty Board at El Dicastes#
 #
 
-//-- ì˜ì›…ì˜ í”ì ê³¼ ì°¨ì›ì´ë™
+//-- ¿µ¿õÀÇ ÈçÀû°ú Â÷¿øÀÌµ¿
 7565#Return of Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 The dimensional Crack was found based on the information from Rayan Moore. Find out how he's doing while he's being held captive in Eclage.#
 Conversation with Rayan Moore#
@@ -17709,7 +17709,7 @@ The dimensional devices are specially manufactured to enter the dimensional gap 
 #
 
 
-//- ì˜ì›…ì˜ í”ì 
+//- ¿µ¿õÀÇ ÈçÀû
 12325#Faceworm's Nest after-effects#SG_FEEL#QUE_NOIMAGE#
 You cannot re-enter the Faceworm's Nest until the timer has expired.#
 #
@@ -17719,7 +17719,7 @@ You have discovered the owner of the old ring.#
 #
 
 12327#The memory of old photo album#SG_FEEL#QUE_NOIMAGE#
-The merchant will be happy if he receives the photo album. Letâ€™s find other photo albums that he may have lost and bring them to him.#
+The merchant will be happy if he receives the photo album. Let¡¯s find other photo albums that he may have lost and bring them to him.#
 #
 
 12328#Dol-Seoi's Sorrow#SG_FEEL#QUE_NOIMAGE#
@@ -17730,7 +17730,7 @@ Dol-Seoi wept when you gave him the pills that you found. Bring any other pills 
 Why can't this soul rest in peace? Bring any bracelets you find at the Faceworm's Nest back to Keaton.#
 #
 
-//-ì˜ì›…ì˜ í”ì 
+//-¿µ¿õÀÇ ÈçÀû
 15002#Memorial dungeon: Sara's Memory#SG_FEEL#QUE_NOIMAGE#
 You must wait for the timer before re-entering this instance.#
 #
@@ -18476,7 +18476,7 @@ Hunt 400 Toucan monsters.#
 Hunt the Siorava monsters and return to Gramps at the Eden Group to get your reward.#
 Hunt 400 Siorava monsters.#
 
-// 2012 ë°œë Œíƒ€ì¸í™”ì´íŠ¸ ì´ë²¤íŠ¸
+// 2012 ¹ß·»Å¸ÀÎÈ­ÀÌÆ® ÀÌº¥Æ®
 7454#Dessert Class-Handmade Chocolate#SG_FEEL#QUE_NOIMAGE#
 Learn how to make a Handmade Chocolate from the Dessert Class. Ingredient: 5 White Chocolate, 1 Milk for White / 5 Chocolate, 1 Milk for Black#
 #
@@ -18541,7 +18541,7 @@ Jinha gave you some ingredients. Let's deliver them to Serious Lee at Kiel Hyre 
 It seems ingredients are delivered daily. You might get some part time work this time tomorrow...#
 #
 
-//2015ë…„ ë°œë Œíƒ€ì¸ ì´ë²¤íŠ¸
+//2015³â ¹ß·»Å¸ÀÎ ÀÌº¥Æ®
 
 2365#2015 Valentine Day#SG_FEEL#QUE_NOIMAGE#
 Bring 15 Handmade Chocolates, 15 White Handmade Chocolates, 15 Chocolate Drinks, 15 Chocolate Tarts, 15 Strawberry Chocolates, 1 Flame Heart, and a Silver Arrow.#
@@ -18616,7 +18616,7 @@ Register for the ^8B4513Magic Competition^000000#
 
 9286#Stop Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
 Stop^0000FF Geffen Gangsters ^000000who is bullying^8B4513A student^000000#
-Letâ€™s save ^8B4513 A student^000000#
+Let¡¯s save ^8B4513 A student^000000#
 
 9287#defeating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
 You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
@@ -18631,15 +18631,15 @@ A salary of a resident was returned from the ^8B4513Geffen Shoplifter^000000 I t
 Register for the ^8B4513Magic Competition^000000#
 
 9290#Participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Letâ€™s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain..#
+Let¡¯s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain..#
 #
 
 9291# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Letâ€™s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+Let¡¯s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
 #
 
 9292# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Letâ€™s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+Let¡¯s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
 #
 
 9293# Register in Magic Competition#SG_FEEL#QUE_NOIMAGE#
@@ -19214,7 +19214,7 @@ Message from ^8B4513Professor Bernhard ^000000: I ask that you enter the ^0000FF
 Obtained shard from Ancient Gigantes. #
 
 9336#Go back to Professor Bernhard#SG_FEEL#QUE_NOIMAGE#
-Message from ^8B4513 Professor Bernhard^000000: I donâ€™t have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door.#
+Message from ^8B4513 Professor Bernhard^000000: I don¡¯t have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door.#
 Reunited after 7 days.#
 
 9337#Wrapping up the Adventure#SG_FEEL#QUE_NOIMAGE#
@@ -20040,7 +20040,7 @@ A  small, white object quickly passed the entrance not so long ago. They are not
 Talk to nervous Jakk#
 
 11488#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
-Jakk said that Jakk's kitty went to the place called â€™there'. Let's inform Jakk, who is trying to find the kitty.#
+Jakk said that Jakk's kitty went to the place called ¡¯there'. Let's inform Jakk, who is trying to find the kitty.#
 Talk to Jakk#
 
 11489#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
@@ -20060,7 +20060,7 @@ If you go near the harbor, you can find many cats who want to take fish from you
 Investigation on Alberta harbor#
 
 11493#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
-You found a white cat, but it doesn't look like Jakkâ€™s kitty. The pile of sand behind is suspicious. Let's investigate.#
+You found a white cat, but it doesn't look like Jakk¡¯s kitty. The pile of sand behind is suspicious. Let's investigate.#
 Investigation on the pile_of_sand#
 
 11494#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
@@ -20131,7 +20131,7 @@ Learned emergency medical treatment.#
 Learned about status and ability. Let's talk to Vigilante Nyoki more about this.#
 Talk to Nyoki#
 
-// ë„ëŒ
+// µµ¶÷
 11432#Suspicious Task#SG_FEEL#QUE_NOIMAGE#
 Talk to [Suspicious Man] near by Izlude port.#
 To Izlude port#
@@ -20188,7 +20188,7 @@ Collect 2 Luxurious Cloths#
 Talk to Peperoncino at [Adventurer's Club].#
 Talk to Peperoncino#
 
-// ì½˜ í‚¬ë¦¬ë‚˜
+// ÄÜ Å³¸®³ª
 
 14531#Everything about Con-Chliina#SG_FEEL#QUE_NOIMAGE#
 If you are first to Con-Chliina, it's always nice to meet the purser and listen to its story.#
@@ -20862,7 +20862,7 @@ You need to attack the Sky Fortress attacking Prontera and defeat the boss.#
 Attack Sky Fortress#
 
 9419#Attack Sky Fortress Invading Prontera#SG_FEEL#QUE_NOIMAGE#
-^8B4513Scientist Doyeon^000000â€˜s Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic.#
+^8B4513Scientist Doyeon^000000¡®s Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic.#
 Visit Doyeon in 3 days.#
 
 9427#Clearing the Sky Fortress for the Same Time#SG_FEEL#QUE_NOIMAGE#
@@ -21237,7 +21237,7 @@ Midnight Snack Delivery#
 
 
 
-//----- 2017 3ì›” í–‰ë³µí•œ ì•Œ ì¶•ì œ - ì•ˆì§€í˜„
+//----- 2017 3¿ù Çàº¹ÇÑ ¾Ë ÃàÁ¦ - ¾ÈÁöÇö
 
 62899#Find Happy Egg#SG_FEEL#QUE_NOIMAGE#
 Happy Egg Festival began. Come back to member of Egg festival after break 10 of happy eggs.#
@@ -22030,7 +22030,7 @@ Speak to Retired Santa again tomorrow to help save Christmas again!#
 
 
 
-// 12ì›” ëˆˆê½ƒ ì¶•ì œ
+// 12¿ù ´«²É ÃàÁ¦
 
 14849#Make snow flower bouquet#SG_FEEL#QUE_NOIMAGE#
 You wanna a make snow flower bouquet? Then, collect 10 magical snow flowers and come back here.#
@@ -24027,13 +24027,13 @@ Come back to Jelloshaker(Payon) in 20 hours to see if there is more volunteer wo
 
 
 
-//ê¿ˆê³¼ ê·¸ë¦¼ì MD
+//²Ş°ú ±×¸²ÀÚ MD
 16215#The Shadowed Dream#SG_FEEL#QUE_NOIMAGE#
-Youâ€™ve agreed to accompany Lorecheâ€™s investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap.#
+You¡¯ve agreed to accompany Loreche¡¯s investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap.#
 Dimensional Gap Investigation#
 
 16216#The Bubbly Illusion#SG_FEEL#QUE_NOIMAGE#
-Youâ€™ve agreed to accompany Lorecheâ€™s investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap.#
+You¡¯ve agreed to accompany Loreche¡¯s investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap.#
 Dimensional Gap Investigation#
 
 16217#Rest and Relaxation#SG_FEEL#QUE_NOIMAGE#
@@ -24041,7 +24041,7 @@ This is a daily quest, and you can re-take it when the cooldown resets. Speak to
 Resets at 4 am#
 
 16218#Modification and Calculation#SG_FEEL#QUE_NOIMAGE#
-Letâ€™s go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap.#
+Let¡¯s go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap.#
 Speak with Eugenie#
 
 16219#Kindness and Gratitude#SG_FEEL#QUE_NOIMAGE#
@@ -24094,11 +24094,11 @@ Deliver the receipt to Masha, who works in the human resources department at the
 Receipt Delivered#
 
 8334#Collection from the Prontera Culvert#SG_FEEL#QUE_NOIMAGE#
-An Adventurer by the name â€œMurianâ€ is currently on a quest for the Merchant Union on Prontera Culvert 3F. You need to retrieve the ^4d4dffSlightly Aged Antique Box^000000 from him.#
+An Adventurer by the name ¡°Murian¡± is currently on a quest for the Merchant Union on Prontera Culvert 3F. You need to retrieve the ^4d4dffSlightly Aged Antique Box^000000 from him.#
 Box Retrieved#
 
 8335#Return to Merchant Union#SG_FEEL#QUE_NOIMAGE#
-Letâ€™s deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department.#
+Let¡¯s deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department.#
 Box Submitted#
 
 8336#Defeat 10 Bongun#SG_FEEL#QUE_NOIMAGE#
@@ -24130,7 +24130,7 @@ An Adventurer named Elbury is currently at the Sphinx B3F fulfilling a quest for
 Box Retrieved#
 
 8343#Return to Merchant Union#SG_FEEL#QUE_NOIMAGE#
-Letâ€™s deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department.#
+Let¡¯s deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department.#
 Box Submitted#
 
 8344#Collection of Biolabs Data#SG_FEEL#QUE_NOIMAGE#
@@ -24138,7 +24138,7 @@ Check the small sign somewhere in the Biolabs 3F for a slot to insert a card. Ta
 Data Retrieved#
 
 8345#Deliver Card to Masha#SG_FEEL#QUE_NOIMAGE#
-Letâ€™s deliver the data retrieval card to Masha, who works for the Alberta Merchant Union Human Resources Department.#
+Let¡¯s deliver the data retrieval card to Masha, who works for the Alberta Merchant Union Human Resources Department.#
 Card submitted#
 
 8346#Defeat 3 Eremes Guile#SG_FEEL#QUE_NOIMAGE#
@@ -24178,14 +24178,14 @@ To hire a street stall staffer, you must have an employment certificate given by
 #
 
 
-//ì‹ ì°°ìŠ¤í„´===MD ì™•ì˜ êµ¬ë‘êµ½ì—ì„œ
+//½ÅÂû½ºÅÏ===MD ¿ÕÀÇ ±¸µÎ±Á¿¡¼­
 
-8401#Into the Kingâ€™s Heel#SG_FEEL#QUE_NOIMAGE#
+8401#Into the King¡¯s Heel#SG_FEEL#QUE_NOIMAGE#
 #
 Enter Dungeon#
 
-8538#Tomorrow at the Kingâ€™s Heel#SG_FEEL#QUE_NOIMAGE#
-I never want to see another card again... But maybe Iâ€™ll feel differently tomorrow! Letâ€™s go talk to Dr. Magnatum again tomorrow.#
+8538#Tomorrow at the King¡¯s Heel#SG_FEEL#QUE_NOIMAGE#
+I never want to see another card again... But maybe I¡¯ll feel differently tomorrow! Let¡¯s go talk to Dr. Magnatum again tomorrow.#
 Resets at 4 am#
 
 8527#Delay Insurance: EXP Card and step#SG_FEEL#QUE_NOIMAGE#
@@ -24196,7 +24196,7 @@ If you defeat 50 wild Steps and EXP Cards within the Summoning Room, you can rec
 Delay Insurance re-registration cannot be instantly processed. Please wait and try again.#
 Resets at 4 am#
 
-8529#Master of the Kingâ€™s Heel#SG_FEEL#QUE_NOIMAGE#
+8529#Master of the King¡¯s Heel#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
@@ -24449,91 +24449,6 @@ Additional Search Mission#
 The gateway to Os is temporarily blocked. I should wait until it's released.#
 Operation pending#
 
-//--- 2017 Nov Hunt Event
-16222#The Loyal Hunt#SG_FEEL#QUE_NOIMAGE#
-You decided to The Loyal Hunt in Prontera. Go to <NAVI>[Main Camp]<INFO>prt_fild01.gat,101,155,0,101,0</INFO></NAVI> and listen to the details and participate in the Hunt.#
-Join The Loyal Hunt#
-
-16223#Insect Hunting Test#SG_FEEL#QUE_NOIMAGE#
-Hunt 30 Insect monsters over 50Lv and return to <NAVI>[Commander Nadezhda]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>.#
-#
-
-16224#Beast Hunting Test#SG_FEEL#QUE_NOIMAGE#
-Hunt 30 Beast monsters over 50Lv and return to <NAVI>[Commander Nadezhda]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>.#
-#
-
-16225#The Loyal Hunt#SG_FEEL#QUE_NOIMAGE#
-#
-#
-
-16226#Hunting insect under 99Lv#SG_FEEL#QUE_NOIMAGE#
-Hunt 50 Insect monsters under 99Lv and return to <NAVI>[Deputy La Finch]<INFO>prt_fild01.gat,97,180,0,101,0</INFO></NAVI>.#
-#
-
-16227#Hunting insect under 99Lv-Complete#SG_FEEL#QUE_NOIMAGE#
-These quests are daily quests and can be re-received upon expiration of the waiting time. Quest orders are available through <NAVI>[Deputy La Finch]<INFO>prt_fild01.gat,97,180,0,101,0</INFO></NAVI>#
-Reset at 04:00#
-
-16228#Hunting beast under 99Lv#SG_FEEL#QUE_NOIMAGE#
-Hunt 50 Beast monsters under 99Lv and return to <NAVI>[Deputy La Finch]<INFO>prt_fild01.gat,97,180,0,101,0</INFO></NAVI>.#
-#
-
-16229#Hunting beast under 99Lv-Complete#SG_FEEL#QUE_NOIMAGE#
-These quests are daily quests and can be re-received upon expiration of the waiting time. Quest orders are available through <NAVI>[Deputy La Finch]<INFO>prt_fild01.gat,97,180,0,101,0</INFO></NAVI>#
-Reset at 04:00#
-
-16230#Hunting insect above 100Lv#SG_FEEL#QUE_NOIMAGE#
-Hunt 50 Insect monsters over 100Lv and return to <NAVI>[Deputy La Finch]<INFO>prt_fild01.gat,97,180,0,101,0</INFO></NAVI>.#
-#
-
-16231#Hunting insect above 100Lv-Complete#SG_FEEL#QUE_NOIMAGE#
-These quests are daily quests and can be re-received upon expiration of the waiting time. Quest orders are available through <NAVI>[Deputy La Finch]<INFO>prt_fild01.gat,97,180,0,101,0</INFO></NAVI>#
-Reset at 04:00#
-
-16232#Hunting beast above 100Lv#SG_FEEL#QUE_NOIMAGE#
-Hunt 50 beast monsters over 100Lv and return to <NAVI>[Deputy La Finch]<INFO>prt_fild01.gat,97,180,0,101,0</INFO></NAVI>.#
-#
-
-16233#Hunting beast above 100Lv-Complete#SG_FEEL#QUE_NOIMAGE#
-These quests are daily quests and can be re-received upon expiration of the waiting time. Quest orders are available through <NAVI>[Deputy La Finch]<INFO>prt_fild01.gat,97,180,0,101,0</INFO></NAVI>#
-Reset at 04:00#
-
-16234#Hunting Starving Baphomet#SG_FEEL#QUE_NOIMAGE#
-Hunting a Starving Baphomet and return to <NAVI>[Deputy Jang Ha-sung]<INFO>prt_fild01.gat,107,180,0,101,0</INFO></NAVI>.#
-#
-
-16235#Hunting Starving Baphomet Jr.#SG_FEEL#QUE_NOIMAGE#
-Hunting a Starving Baphomet Jr. and return to <NAVI>[Deputy Jang Ha-sung]<INFO>prt_fild01.gat,107,180,0,101,0</INFO></NAVI>.#
-#
-
-16236#Hunting Sensitive Wild Wolf#SG_FEEL#QUE_NOIMAGE#
-Hunting a Sensitive Wild Wolf and return to <NAVI>[Deputy Jang Ha-sung]<INFO>prt_fild01.gat,107,180,0,101,0</INFO></NAVI>.#
-#
-
-16237#Hunting Hungry Eclipse#SG_FEEL#QUE_NOIMAGE#
-Hunting a Hungry Eclipse and return to <NAVI>[Deputy Jang Ha-sung]<INFO>prt_fild01.gat,107,180,0,101,0</INFO></NAVI>.#
-#
-
-16238#Hunting Vocal in Regretting#SG_FEEL#QUE_NOIMAGE#
-Hunting a Vocal in Regretting and return to <NAVI>[Deputy Jang Ha-sung]<INFO>prt_fild01.gat,107,180,0,101,0</INFO></NAVI>.#
-#
-
-16239#Hunting Diligent Ungoliant#SG_FEEL#QUE_NOIMAGE#
-Hunting a Diligent Ungoliant and return to <NAVI>[Deputy Jang Ha-sung]<INFO>prt_fild01.gat,107,180,0,101,0</INFO></NAVI>.#
-#
-
-16240#Equipment Rental for Hunting#SG_FEEL#QUE_NOIMAGE#
-<NAVI>[Leather Craftsman]<INFO>prt_fild01.gat,95,194,0,101,0</INFO></NAVI> let hunting equipment. It can be used for 24 hours.#
-Reset at 04:00#
-
-16241#Dinner for Hunters#SG_FEEL#QUE_NOIMAGE#
-<NAVI>[Alchemist]<INFO>prt_fild01.gat,87,198,0,101,0</INFO></NAVI> gave me free medicine to make meat and sweet potatoes very effective for 6 hours.#
-Reset at 04:00#
-
-16242#Gift from Noble Blood#SG_FEEL#QUE_NOIMAGE#
-You voted in the royal popularity vote. Maybe something good will happen after that?#
-Participation in the popularity vote of the royal family#
-
 //----- EP17.1 Innocent Menace
 16352#Elena Volkova's Call#SG_FEEL#QUE_NOIMAGE#
 Talk to Elena Volkova.#
@@ -24783,3 +24698,336 @@ Test Subject Identification Bracelet 10#
 17035#Pending: To Rudus#SG_FEEL#QUE_NOIMAGE#
 I'll see you again after dawn. You did a great job. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>#
 Quest resets at 4:00 a.m.#
+
+3364#Fire Event#SG_FEEL#QUE_NOIMAGE#
+To participate in setting a fire, you need a few items that can burn well. Please come <NAVI>[to me]<INFO>alberta,138,169,0,101,0</INFO></NAVI> with 5 fine branches, 10 old tree roots and 1 fire arrow.#
+Great Fire Material#
+
+3365#Mage Luna#SG_FEEL#QUE_NOIMAGE#
+Would you like to meet <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>, who was dispatched from Gefen Tower for this lighting event?#
+To Luna#
+
+3366#Capture wild boar#SG_FEEL#QUE_NOIMAGE#
+It takes a lot of work to capture wild boars that ruin crops. Please go to <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>.#
+To Serena#
+
+3367#Preparation for the harvesting agent#SG_FEEL#QUE_NOIMAGE#
+Food is indispensable for the festival. Please go to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>, who prepares food for the harvest festival. There are a lot of delicious food.#
+To Songhwa#
+
+3369#Resurrected Twig#SG_FEEL#QUE_NOIMAGE#
+I hope you will get rid of 10 resurrected branches and get about 10 good quality branches. My Reputation depends on it! <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>#
+10 quality branches#
+
+3370#Atmosphere: Resurrected Branch#SG_FEEL#QUE_NOIMAGE#
+Now, Lana is watching. Will you come back after dawn <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>#
+Initialization time 04:00#
+
+3371#Hungry Boar#SG_FEEL#QUE_NOIMAGE#
+The boars that have already come down to the village must be safely captured and returned home. <NAVI>[My]<INFO>alberta,152,198,0,101,0</INFO></NAVI> Give me a wild boar trap to capture 10 hungry boars.#
+10 captured wild boars#
+
+3372#Waiting: Hungry Boar#SG_FEEL#QUE_NOIMAGE#
+Now I need to trim the boar trap. Would you come back to <NAVI>[I]<INFO>alberta,152,198,0,101,0</INFO></NAVI> after dawn time?#
+Initialization time 04:00#
+
+3373#Songpyeon preparation#SG_FEEL#QUE_NOIMAGE#
+Songpyeon's ingredients are running out. Go get Songpyeon some ingredients? 1 grain, 3 honey, 10 green herbs. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>#
+Songpyeon ingredients#
+
+3374#Prepare Mooncake#SG_FEEL#QUE_NOIMAGE#
+The moon cake's ingredients have run out. Can you get some moon cake ingredients? 1 yellow spice and 3 pieces of wood. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>#
+Mooncake material#
+
+3375#Preparing roast turkey#SG_FEEL#QUE_NOIMAGE#
+The ingredients for roast turkey are running out. Can you get some ingredients for the roast turkey? 1 plain sauce, 3 lemons and 10 carrots. <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>#
+Ingredients for roast turkey#
+
+3376#Waiting: Preparing food for the harvest festival#SG_FEEL#QUE_NOIMAGE#
+The food preparation is in full swing, so I can't give you anything. If you come to <NAVI>[I]<INFO>alberta,119,193,0,101,0</INFO></NAVI> after some time, I will give it to you.#
+#
+
+3377#Louise's business#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Lewis]<INFO>alberta,115,198,0,101,0</INFO></NAVI> seems to need help. Let's talk.#
+Talking to Lewis#
+
+3378#Food of turkeys#SG_FEEL#QUE_NOIMAGE#
+The turkeys need food. <ITEM>[Locust hind leg]<INFO>940</INFO></ITEM> 30ea, <ITEM>[Green Herb]<INFO>511</INFO></ITEM> 20ea, <ITEM>[Additive Commemorative snack]<INFO>11613</INFO></ITEM> Let's bring 20 pieces to Lewis.#
+Feeding Turkey#
+
+3379#Turkey's Food-Repeat#SG_FEEL#QUE_NOIMAGE#
+Turkeys continue to need food. <ITEM>[Locust hind leg]<INFO>940</INFO></ITEM> 30ea, <ITEM>[Green Herb]<INFO>511</INFO></ITEM> 20ea, <ITEM>[Additive Commemorative snack]<INFO>11613</INFO></ITEM> Let's bring 20 pieces to Lewis.#
+Feeding Turkey#
+
+3380#Turkey's Food-Repeat#SG_FEEL#QUE_NOIMAGE#
+Turkeys continue to need food. <ITEM>[Locust hind leg]<INFO>940</INFO></ITEM> 30ea, <ITEM>[Green Herb]<INFO>511</INFO></ITEM> 20ea, <ITEM>[Additive Commemorative snack]<INFO>11613</INFO></ITEM> Let's bring 20 pieces to Lewis.#
+Feeding Turkey#
+
+3381#Food of Turkeys-Repeat#SG_FEEL#QUE_NOIMAGE#
+Turkeys continue to need food. <ITEM>[Locust hind leg]<INFO>940</INFO></ITEM> 30ea, <ITEM>[Green Herb]<INFO>511</INFO></ITEM> 20ea, <ITEM>[Additive Commemorative snack]<INFO>11613</INFO></ITEM> Let's bring 20 pieces to Lewis.#
+Feeding Turkey#
+
+3382#Reason for moving to Kunlun#SG_FEEL#QUE_NOIMAGE#
+Seobang Kim asks for two <ITEM>[anywhere ticket]<INFO>25392</INFO></ITEM> to meet her daughter Kejin.#
+Accepting Seobang Kim's request#
+
+3383#Why move to Kunlun-Repeat#SG_FEEL#QUE_NOIMAGE#
+Seobang Kim asks you to bring two <ITEM>[anywhere ticket]<INFO>25392</INFO></ITEM> to meet her daughter Kejin today.#
+Accepting Seobang Kim's request#
+
+3384#Reason for moving to Kunlun- Waiting#SG_FEEL#QUE_NOIMAGE#
+When dawn is over and it's time to launch the boat again, let's visit Kim Seobang again.#
+#
+
+3385#Eunwol's Dragon #SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Eunwol]<INFO>alberta,117,198,0,101,0</INFO></NAVI> seems to need help. Let's talk.#
+Talking to Eunwol#
+
+3386#Delivery of Thanksgiving Confectionery#SG_FEEL#QUE_NOIMAGE#
+For the study of harvest sweets, ask for 10 <ITEM>[Thanksgiving Sweets]<INFO>25392</INFO></ITEM>.#
+Accepting Eunwol's request#
+
+3387#Delivery of Thanksgiving Confectionery-Repeat#SG_FEEL#QUE_NOIMAGE#
+I think I need more <ITEM>[Thanksgiving Confectionery]<INFO>25392</INFO></ITEM>. Collect 10 and bring it to Eunwol.#
+Accepting Eunwol's request#
+
+3388#Delivery of Thanksgiving Confectionery-Waiting#SG_FEEL#QUE_NOIMAGE#
+When Eunwol needs more sweets for the harvest festival, let's come back.#
+#
+
+63735#Bounty Board Angry Nine Tail#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Angry Nine Tail monsters and return to the Bounty Board in Illusion of Moonlight Dungeon#
+#
+
+63736#Bounty Board Resentful Munak#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Resentful Munak monsters and return to the Bounty Board in Illusion of Moonlight Dungeon#
+#
+
+63737#Bounty Board Resentful Bongun#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Resentful Bongun monsters and return to the Bounty Board in Illusion of Moonlight Dungeon#
+#
+
+63738#Bounty Board Resentful Sohee#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Resentful Sohee monsters and return to the Bounty Board in Illusion of Moonlight Dungeon#
+#
+
+63739#Bounty Board Resentful Soldier#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Resentful Soldier monsters and return to the Bounty Board in Illusion of Moonlight Dungeon#
+#
+
+63740#Bounty Board Deranged Adventurer#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Deranged Adventurer monsters and return to the Bounty Board in Illusion of Moonlight Dungeon#
+#
+
+63741#Bounty Board Angry Gazeti#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Angry Gazeti monsters and return to the Bounty Board in Illusion of Frozen Dungeon#
+#
+
+63742#Bounty Board Angry Snowier#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Angry Snowier monsters and return to the Bounty Board in Illusion of Frozen Dungeon#
+#
+
+63743#Bounty Board Angry Ice Titan#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Angry Ice Titan monsters and return to the Bounty Board in Illusion of Frozen Dungeon#
+#
+
+63744#Bounty Board Sweet Nightmare#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Sweet Nightmare monsters and return to the Bounty Board in Illusion of Vampire Dungeon#
+#
+
+63745#Bounty Board Matte Drainliar#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Matte Drainliar monsters and return to the Bounty Board in Illusion of Vampire Dungeon#
+#
+
+63746#Bounty Board Restless Dead#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Restless Dead monsters and return to the Bounty Board in Illusion of Vampire Dungeon#
+#
+
+63747#Bounty Board Restless Dead#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Restless Dead monsters and return to the Bounty Board in Illusion of Vampire Dungeon#
+#
+
+63748#Bounty Board Restless Dead#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Restless Dead monsters and return to the Bounty Board in Illusion of Vampire Dungeon#
+#
+
+//----- Illusion of Turtle Island
+63749#To the unknown tortoise island#SG_FEEL#QUE_NOIMAGE#
+In the middle of talking to E, I came to a strange place. Talk to the girl in front of me.#
+Talk to the girl#
+
+63750#Stranger on Turtle Island 1#SG_FEEL#QUE_NOIMAGE#
+The girl let me know several places. Let's find Ph.D. Lanai at the turtles village.#
+Looking for Ph.D. Lanai at the turtles village#
+
+63751#Stranger on Turtle Island 2#SG_FEEL#QUE_NOIMAGE#
+The girl told me some point. Let's find Ph.D. Lanai at the turtles village.#
+Looking for Ph.D. Lanai at the turtles village#
+
+63752#Stranger on Turtle Island 3#SG_FEEL#QUE_NOIMAGE#
+The girl show me some places. Let's find Ph.D. Lanai at the turtle palace.#
+Looking for Ph.D. Lanai at the turtle palace#
+
+63753#Stranger on Turtle Island 4#SG_FEEL#QUE_NOIMAGE#
+There is one more point, Let's find Ph.D. Lanai at the turtle palace.#
+Looking for Ph.D. Lanai at the turtle palace#
+
+63754#Emergency food procurement 1#SG_FEEL#QUE_NOIMAGE#
+Let's hunt ILL_PERMETER, ILL_SOLIDER, ILL_FREEZER, ILL_HEATER for 10 monsters and get 10 pieces of rotten meat to Lanai.#
+Hand over the 10 pieces of rotten meat#
+
+63755#Emergency food procurement 2#SG_FEEL#QUE_NOIMAGE#
+Let's hunt ILL_PERMETER, ILL_SOLIDER, ILL_FREEZER, ILL_HEATER for 10 monsters and get 10 pieces of rotten meat to Lanai.#
+Hand over to Lanai#
+
+63756#The Secret of Strangers#SG_FEEL#QUE_NOIMAGE#
+As Lanai's requst, Let's go to the local residents. The nearest is the middle of Turtle Palace.#
+Talk to the woman without energy#
+
+63757#A long-forgotten story#SG_FEEL#QUE_NOIMAGE#
+Let's run away to the middle of turtles village.#
+Talk to the girl#
+
+63758#A short break, and a promise#SG_FEEL#QUE_NOIMAGE#
+This quest is a daily quest, you can take it when the waiting time is over. After the time, you can ask the girl again at the Turtles vilage.#
+#
+
+63759#A memory that should not be forgotten 1#SG_FEEL#QUE_NOIMAGE#
+Let's find Ph.D. Lanai at the Turtles Palace, to remind her.#
+Talk to Ph.D Lanai at the Turtles Palace#
+
+63760#A memory that should not be forgotten 2#SG_FEEL#QUE_NOIMAGE#
+Let's go back to the girl with Ph.D. Lanai at the Turtles vilage.#
+Talk to the girl#
+
+63761#A memory that should not be forgotten - Cooldown#SG_FEEL#QUE_NOIMAGE#
+This quest is a daily quest, you can take it when the waiting time is over. After the time, you can ask the girl again at the Turtles vilage.#
+#
+
+63762#Vain Desire#SG_FEEL#QUE_NOIMAGE#
+As the request of an susceptible soldier, kill ILL_ASSULTER 10 monster, and give him 5 pieces of Shabby_Metal_Chip.#
+Give him 5 pieces of Shabby_Metal_Chip#
+
+63763#Vain Desire - Cooldown#SG_FEEL#QUE_NOIMAGE#
+This quest is a daily quest, you can take it when the waiting time is over. After the time, you can ask the soldier again at the Turtles vilage.#
+#
+
+63764#Endless Hunger 1#SG_FEEL#QUE_NOIMAGE#
+Let's hunt ILL_PERMETER, ILL_SOLIDER, ILL_FREEZER, ILL_HEATER for 10 monsters and get 10 pieces of rotten meat to A woman without energy.#
+Hand over 10 pieces of rotten meat#
+
+63765#Endless Hunger 2#SG_FEEL#QUE_NOIMAGE#
+Let's hunt ILL_PERMETER, ILL_SOLIDER, ILL_FREEZER, ILL_HEATER for 10 monsters and get 10 pieces of rotten meat to A woman without energy.#
+Hand over to A woman without energy#
+
+63766#Endless Hunger - Cooldown#SG_FEEL#QUE_NOIMAGE#
+This quest is a daily quest, you can take it when the waiting time is over. After the time, you can ask the woman again at Turtles Palace.#
+#
+
+63767#Talk with Eilbar#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+63768#Talk with girl#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+63769#Continuous story#SG_FEEL#QUE_NOIMAGE#
+Let's talk to the girl in middle of the Turtles vilage.#
+Talk to the girl again#
+
+63770#Continuous story 2#SG_FEEL#QUE_NOIMAGE#
+Let's talk to the girl in middle of the Turtles vilage.#
+Talk to the girl again#
+
+
+// Snow Flower Festival - Dec
+
+17137#Make snow flower bouquet#SG_FEEL#QUE_NOIMAGE#
+You wanna a make snow flower bouquet? Then, collect 10 <ITEM>magical snow flowers<INFO>25425</INFO></ITEM> and come back <NAVI>[here]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>.#
+10 magical snow flower#
+
+17138#Make snow flower bouquet#SG_FEEL#QUE_NOIMAGE#
+Find the <NAVI>[Snow flower illusionist]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>. If you are interested find the place.#
+To snow flower illusionist#
+
+17139#To get through hot winter#SG_FEEL#QUE_NOIMAGE#
+Snow for the region where it does not fall, Cotton clothes for cold region! If you wish to get through the winter find <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> and Ulsi.#
+To Coti#
+
+17140#Exchange festival card#SG_FEEL#QUE_NOIMAGE#
+Did you find a special card from your gift box? Then bring it to <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>. You will receive a special gift.#
+To Twinkle#
+
+17141#Festival organizers#SG_FEEL#QUE_NOIMAGE#
+why don't you meet the festival organizers and listen to the behind story of this event? Snow Boy Keeper, <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI> is around here.#
+To [Eugene]#
+
+17142#Make snow flower bouquet#SG_FEEL#QUE_NOIMAGE#
+You need 10 <ITEM>magical snow flower<INFO>25425</INFO></ITEM> to make snow flower bouquet. Please do not forget 1 <ITEM>carrot<INFO>515</INFO></ITEM> for decorating snowman. - <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>#
+10 Snow flower, 1 carrot#
+
+
+17143#Waiting: Chilly feeling is remained#SG_FEEL#QUE_NOIMAGE#
+The effect of magical snow flower is still remained. Please comeback after the dawn. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>#
+Waiting time#
+
+17144#Getting through winter#SG_FEEL#QUE_NOIMAGE#
+Snow for children! Warm cotton clothes for children in cold region! <NAVI>[To us]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> donate 10 warm cotton!#
+10 Warm cotton#
+
+17145#Waiting: Cotton is being wrapped#SG_FEEL#QUE_NOIMAGE#
+Cotton is being wrapped. The wrapping seems be be finished by dawn so please come back after dawn! - <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>#
+Waiting time#
+
+17146#Exchange festival card#SG_FEEL#QUE_NOIMAGE#
+The lucky word for you is ALDEBARAN!! Please open snow flower envelope from your gift box. In the envelope, you can find these letters A.L.D.E.B.A.R.A.N. Total of 9 letters.  - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Collect ALDEBARAN card#
+
+17147#Exchange festival card#SG_FEEL#QUE_NOIMAGE#
+The lucky word for you is SNOW!! Please open snow flower envelope from your gift box. In the envelope, you can find these letters S. N. O. W. Total of 4 letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Collect SNOW card#
+
+17148#Exchange festival card#SG_FEEL#QUE_NOIMAGE#
+The lucky word for you is FESTIVAL!! Please open snow flower envelope from your gift box. In the envelope, you can find these letters F. E. S. T. I. V. A. L.. Total of 8 letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Collect FESTIVAL card#
+
+17149#Exchange festival card#SG_FEEL#QUE_NOIMAGE#
+The lucky word for you is SPARKLE!! Please open snow flower envelope from your gift box. In the envelope, you can find these letters S.P.A.R.K.L.E. Total of 7 letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Collect SPARKLE card#
+
+17150#Waiting: Card exchange is once a day#SG_FEEL#QUE_NOIMAGE#
+Alphabet card exchange is once a day. Okay? So please comeback after dawn! - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Waiting time#
+
+17151#Not everyone likes it#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI> and Rigel said they had plans and told you to gather closer.#
+Talk to Eugene#
+
+17152#Not everyone likes it#SG_FEEL#QUE_NOIMAGE#
+Please bring 10 <ITEM>Flowers<INFO>712</INFO></ITEM>. There is a <NAVI>[Flower Merchant]<INFO>geffen,161,83,0,101,0</INFO></NAVI> in geffen.#
+Geffen Flower merchant#
+
+17153#Not everyone likes it#SG_FEEL#QUE_NOIMAGE#
+Rigel has worked at <NAVI>[Toy Factory]<INFO>xmas_dun01,128,154,0,101,0</INFO></NAVI> in Lutie. You might find something there.#
+Lutie Toy Factory#
+
+17154#Not everyone likes it#SG_FEEL#QUE_NOIMAGE#
+Eugene has come to Lutie by <NAVI>[Train]<INFO>xmas,204,223,0,101,0</INFO></NAVI>. you'll find something there.#
+Lutie Track#
+
+17155#Not everyone likes it#SG_FEEL#QUE_NOIMAGE#
+Let's go back to <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI> and Rigel at Snow Festival with 10 Flowers and persuade them again.#
+To Eugene#
+
+17156#Not everyone likes it#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Rigel]<INFO>aldebaran,107,164,0,101,0</INFO></NAVI> seems to carry out the plan to the end. Is there any way to stop him?#
+Talk to Rigel#
+
+17157#Growing Snow Boy#SG_FEEL#QUE_NOIMAGE#
+If you'd like to grow snow Boy, you need holy water. Please bring 5 Holy water. - <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>#
+5 Holy Water#
+
+17158#Waiting: Growing Snow Boy#SG_FEEL#QUE_NOIMAGE#
+You can grow snow boy with the holy water you brought. Please come back after dawn. - <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>#
+Waiting Time#

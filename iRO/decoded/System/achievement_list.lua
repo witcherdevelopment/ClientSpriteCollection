@@ -3519,6 +3519,16 @@ resource = {
 , 
 reward = {title = 9982}
 , score = 5}
+, 
+[999966] = {UI_Type = 0, group = "ADVENTURE", major = 4, minor = 1, title = "RO\'s Most Talented 2020", 
+content = {summary = "RO\'s Most Talented  2020", details = "Winner of the Ragnarok\'s Got Talent Contest."}
+, 
+resource = {
+[1] = {text = "Winner of the Ragnarok\'s Got Talent Contest."}
+}
+, 
+reward = {title = 9981}
+, score = 5}
 }
 main = function()
   -- function num : 0_0
