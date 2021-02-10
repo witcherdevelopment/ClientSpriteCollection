@@ -483,6 +483,8 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_Snow_Fox] = {Default = 304, isIgnoreRiding = true}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Desert_Wolf_B] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, 
@@ -525,11 +527,11 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_RABBIT_HEAD_DRESS] = {Default = 302, 
+[ACCESSORY_IDs.ACCESSORY_RABBIT_HEAD_DRESS] = {Default = 153, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {Default = 301, 
+[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {Default = 300, 
 Direction = {}
 }
 , 
@@ -553,7 +555,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Happy_Balloon_J] = {Default = 304, 
+[ACCESSORY_IDs.ACCESSORY_Happy_Balloon_J] = {Default = 305, 
 Direction = {}
 }
 , 
@@ -697,7 +699,141 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Gluttony_CAPOO_TW] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_Gluttony_CAPOO_TW] = {Default = 302, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Pure_Love_Muffler] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Drops_Muffler] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Poporing_Muffler] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Poring_Muffler] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Marin_Muffler] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_LB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_BG] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_JBL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_BW] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Low_Twin] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_BU] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_RD] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_YL] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_GN] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_BL] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_WH] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_OM] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_PP] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_PORING_LETTER] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Heart_Card_In_Mouth] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Water] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cons_Of_Fire] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cons_Of_Earth] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Wind] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cons_Of_Darkness] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Poring_Soap_Pipe] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Baby_Polar_Bear] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_WitchManteau] = {Default = 303, 
 Direction = {}
 }
 }

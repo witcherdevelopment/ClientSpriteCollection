@@ -5,11 +5,11 @@
 //pay_arche.rsw#
 //sakura#
 //weather#
-//comodo.rsw#
-//pokjuk#
+comodo.rsw#
+pokjuk#
 //weather#
-//malangdo.rsw#
-//pokjuk#
+malangdo.rsw#
+pokjuk#
 //file end
 
 //prontera.rsw#
@@ -27,18 +27,18 @@
 //hugel.rsw#
 //sakura#
 
-weather#
-prontera.rsw#
-snow#
-weather#
-alberta.rsw#
-snow#
-weather#
-geffen.rsw#
-snow#
-weather#
-izlude.rsw#
-snow#
-weather#
-hugel.rsw#
-snow#
+//weather#
+//prontera.rsw#
+//snow#
+//weather#
+//alberta.rsw#
+//snow#
+//weather#
+//geffen.rsw#
+//snow#
+//weather#
+//izlude.rsw#
+//snow#
+//weather#
+//hugel.rsw#
+//snow#

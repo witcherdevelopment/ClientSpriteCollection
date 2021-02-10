@@ -6151,4 +6151,125 @@ descript = {
 {"攻擊時讓目標被塗在武器上的毒而中毒"}
 }
 }
+-- DECOMPILER ERROR at PC12654: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"活動Buff", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"迴避率及完全迴避增加"}
+, 
+{"攻擊速度增加"}
+, 
+{"變動詠唱減少"}
+}
+}
+-- DECOMPILER ERROR at PC12678: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"ATK增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATK + 7%"}
+}
+}
+-- DECOMPILER ERROR at PC12702: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"MATK增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MATK + 7%"}
+}
+}
+-- DECOMPILER ERROR at PC12732: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"突里薩茲盧恩石 : 力量成長", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"STR增加"}
+, 
+{"一般近距離物理攻擊時，有高機率造成嚴重傷害"}
+, 
+{"近距離物理傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC12759: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"艾伊瓦茲盧恩石 : 提升鬥志", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATK增加"}
+, 
+{"攻擊速度增加"}
+}
+}
+-- DECOMPILER ERROR at PC12786: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VITALITYACTIVATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"伊札盧恩石 : 生命激化", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"HP恢復效果增加"}
+, 
+{"減少所受近距離物理反射傷害"}
+}
+}
+-- DECOMPILER ERROR at PC12822: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LUXANIMA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"力量根源盧恩石 : 盧恩爆發", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"一般近距離物理攻擊時，有機率"}
+, 
+{"觸發風暴衝擊LV1"}
+, 
+{"對全體型的敵人物理傷害增加"}
+, 
+{"暴擊傷害增加"}
+, 
+{"近距離與遠距離物理傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC12846: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_AURABLADE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"靈氣劍", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"物理攻擊力增加"}
+}
+}
+-- DECOMPILER ERROR at PC12873: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"集中攻擊", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATK、命中率增加 "}
+, 
+{"物理防禦減少"}
+}
+}
 

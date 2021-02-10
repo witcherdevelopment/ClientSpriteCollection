@@ -1290,16 +1290,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.RK_WINDCUTTER] = {"RK_WINDCUTTER"; SkillName = "風壓飛刃", MaxLv = 5, 
-SpAmount = {20, 24, 28, 32, 36}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.RK_ENCHANTBLADE, 5}
-}
-}
-, 
 [SKID.GS_TRIPLEACTION] = {"GS_TRIPLEACTION"; SkillName = "三連攻擊", MaxLv = 1, 
 SpAmount = {20}
 , bSeperateLv = false, 
@@ -4557,16 +4547,6 @@ AttackRange = {7, 7, 8, 8, 9, 9, 10, 10, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.RK_ENCHANTBLADE, 3}
-}
-}
-, 
-[SKID.RK_HUNDREDSPEAR] = {"RK_HUNDREDSPEAR"; SkillName = "百矛穿刺", MaxLv = 10, 
-SpAmount = {60, 60, 60, 60, 60, 60, 60, 60, 60, 60}
-, bSeperateLv = true, 
-AttackRange = {5, 5, 5, 5, 5, 5, 5, 5, 5, 5}
-, 
-_NeedSkillList = {
-{SKID.RK_PHANTOMTHRUST, 3}
 }
 }
 , 
@@ -12342,6 +12322,34 @@ _NeedSkillList = {
 , 
 {SKID.AS_ENCHANTPOISON, 6}
 }
+}
+, 
+[SKID.RK_HUNDREDSPEAR] = {"RK_HUNDREDSPEAR"; SkillName = "百矛穿刺", MaxLv = 10, 
+SpAmount = {60, 60, 60, 60, 60, 60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.RK_PHANTOMTHRUST, 3}
+}
+}
+, 
+[SKID.RK_WINDCUTTER] = {"RK_WINDCUTTER"; SkillName = "風壓飛刃", MaxLv = 5, 
+SpAmount = {34, 38, 42, 46, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.RK_ENCHANTBLADE, 5}
+}
+}
+, 
+[SKID.RK_LUXANIMA] = {"RK_LUXANIMA"; SkillName = "盧恩爆發", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {}
 }
 }
 

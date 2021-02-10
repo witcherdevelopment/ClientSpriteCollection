@@ -3231,6 +3231,16 @@ resource = {
 , 
 reward = {title = 1045}
 , score = 10}
+, 
+[200035] = {UI_Type = 0, group = "GOAL_LEVEL", major = 1, minor = 0, title = "Lv200達成!", 
+content = {summary = "BaseLv200達成!", details = "達成BaseLv200!!"}
+, 
+resource = {
+[1] = {text = "BaseLv200"}
+}
+, 
+reward = {buff = 10, item = 400124}
+, score = 100}
 }
 main = function()
   -- function num : 0_0

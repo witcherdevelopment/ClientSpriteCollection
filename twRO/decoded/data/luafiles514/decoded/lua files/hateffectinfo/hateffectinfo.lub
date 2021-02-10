@@ -197,7 +197,7 @@ hatEffectTable = {
 , 
 [HatEFID.HAT_EF_FluffyWing] = {resourceFileName = "efst_FluffyWing\\ypen.str", hatEffectPos = -8, hatEffectPosX = 0, isRenderBeforeCharacter = true, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 , 
-[HatEFID.HAT_EF_C_Ghost_Effect] = {resourceFileName = "efst_C_Ghost_Effect\\C_Ghost_Effect.str", hatEffectPos = -11, hatEffectPosX = -1, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
+[HatEFID.HAT_EF_C_Ghost_Effect] = {resourceFileName = "efst_C_Ghost_Effect\\C_Ghost_Effect.str", hatEffectPos = -11, hatEffectPosX = -1, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true, isRenderBeforeCharacter = true}
 , 
 [HatEFID.HAT_EF_C_Popping_Poring_Aura] = {resourceFileName = "efst_C_Popping_Poring_Aura\\C_Popping_Poring_Aura.str", hatEffectPos = -10, hatEffectPosX = 0, isIgnoreRiding = true, isRenderBeforeCharacter = true, isIgnoreRiding = true, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 , 

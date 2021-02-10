@@ -22,6 +22,10 @@ luadec.exe ".\System\RecommendedQuestInfoList.lub" > ".\System\RecommendedQuestI
 luadec.exe ".\System\RecommendedQuestInfoList_True.lub" > ".\System\RecommendedQuestInfoList_True.lua"
 luadec.exe ".\System\Towninfo.lub" > ".\System\Towninfo.lua"
 echo -------------------------------
+echo System\LuaFiles514:
+luadec.exe ".\System\LuaFiles514\MsgString.lub" > ".\System\LuaFiles514\MsgString.lua"
+luadec.exe ".\System\LuaFiles514\OptionInfo.lub" > ".\System\LuaFiles514\OptionInfo.lua"
+echo -------------------------------
 echo Switching to system2\
 echo -------------------------------
 luadec.exe ".\system2\OngoingQuestInfoList_True.lub" > ".\system2\OngoingQuestInfoList_True.lua"

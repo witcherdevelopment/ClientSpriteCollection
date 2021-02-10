@@ -1389,7 +1389,7 @@ mjolnir_10.rsw#妙勒妙勒尼山脈南區#
 mjolnir_11.rsw#妙勒妙勒尼山脈南區#
 mjolnir_12.rsw#妙勒妙勒尼山脈 北邊山麓#
 prt_fild00.rsw#普隆德拉原野#
-prt_fild01.rsw#普隆德拉原野#
+//prt_fild01.rsw#普隆德拉原野#
 prt_fild02.rsw#普隆德拉原野#
 prt_fild03.rsw#普隆德拉原野#
 prt_fild04.rsw#普隆德拉原野#
@@ -1943,3 +1943,16 @@ tra_fild.rsw#普隆德拉郊外訓練場#
 
 1@gl_k2.rsw#舊古城初心者#
 1@xm_d2.rsw#恐怖玩具工廠初心者#
+
+//210204 2月內容
+payon_in03.rsw#斐揚內部#
+ein_dun03.rsw#艾音貝赫礦山3樓#
+odin_past.rsw#古代奧丁神殿#
+abyss_04.rsw#毀葛深淵湖水地下洞穴4樓#
+//210204 200地圖分流
+odin_p_a.rsw#古代奧丁神殿(A)#
+odin_p_b.rsw#古代奧丁神殿(B)#
+abyss_04a.rsw#毀葛深淵湖水地下洞穴4樓(A)#
+abyss_04b.rsw#毀葛深淵湖水地下洞穴4樓(B)#
+prt_m3_ia.rsw#扭曲的迷宮森林(A)#
+prt_m3_ib.rsw#扭曲的迷宮森林(B)#
