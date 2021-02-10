@@ -4,6 +4,54 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["wolfvill.rsw"] = {displayName = "회색늑대 마을", notifyEnter = true, 
+signName = {subTitle = "원주민 은신처", mainTitle = "회색늑대 마을"}
+, backgroundBmp = "village"}
+, 
+["gw_fild01.rsw"] = {displayName = "회색늑대의 숲", notifyEnter = true, 
+signName = {mainTitle = "회색늑대의 숲"}
+, backgroundBmp = "field_s2"}
+, 
+["gw_fild02.rsw"] = {displayName = "회색늑대의 숲", notifyEnter = true, 
+signName = {mainTitle = "회색늑대의 숲"}
+, backgroundBmp = "field_s2"}
+, 
+["oz_dun01.rsw"] = {displayName = "오즈의 미로 1층", notifyEnter = true, 
+signName = {mainTitle = "오즈의 미로 1층"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["oz_dun02.rsw"] = {displayName = "오즈의 미로 2층", notifyEnter = true, 
+signName = {mainTitle = "오즈의 미로 2층"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@oz.rsw"] = {displayName = "오즈의 미로", notifyEnter = true, 
+signName = {mainTitle = "오즈의 미로"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["que_thr.rsw"] = {displayName = "토르 화산 내부", notifyEnter = true, 
+signName = {mainTitle = "토르 화산 내부"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@tcamp.rsw"] = {displayName = "토르화산 군수기지", notifyEnter = true, 
+signName = {mainTitle = "토르화산 군수기지"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@nyr.rsw"] = {displayName = "성역 세스룸니르 정원", notifyEnter = true, 
+signName = {mainTitle = "성역 세스룸니르 정원"}
+, backgroundBmp = "noname_s2"}
+, 
+["2@nyr.rsw"] = {displayName = "성역 세스룸니르 심장보관소", notifyEnter = true, 
+signName = {subTitle = "성역 세스룸니르", mainTitle = "심장보관소"}
+, backgroundBmp = "noname"}
+, 
+["1@adv.rsw"] = {displayName = "대신관의 별장", notifyEnter = true, 
+signName = {mainTitle = "대신관의 별장"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@advs.rsw"] = {displayName = "기만의 별장", notifyEnter = true, 
+signName = {mainTitle = "기만의 별장"}
+, backgroundBmp = "noname_s2"}
+, 
 ["1@ch_t.rsw"] = {displayName = "성좌의 탑", notifyEnter = true, 
 signName = {mainTitle = "성좌의 탑"}
 , backgroundBmp = "noname_s2"}
@@ -1670,6 +1718,10 @@ signName = {subTitle = "세스룸니르 교황 집무실", mainTitle = "하늘 정원"}
 signName = {mainTitle = "아우둠라 초원"}
 , backgroundBmp = "field_s2"}
 , 
+["ra_fild02.rsw"] = {displayName = "라헬 오즈 협곡", notifyEnter = true, 
+signName = {mainTitle = "오즈 협곡"}
+, backgroundBmp = "field_s2"}
+, 
 ["ra_fild03.rsw"] = {displayName = "라헬 이다 평원", notifyEnter = true, 
 signName = {mainTitle = "이다 평원"}
 , backgroundBmp = "field_s2"}
@@ -1686,12 +1738,32 @@ signName = {mainTitle = "아우둠라 초원"}
 signName = {mainTitle = "포르투 루나"}
 , backgroundBmp = "field_s2"}
 , 
+["ra_fild07.rsw"] = {displayName = "라헬 오즈 협곡", notifyEnter = true, 
+signName = {mainTitle = "오즈 협곡"}
+, backgroundBmp = "field_s2"}
+, 
 ["ra_fild08.rsw"] = {displayName = "라헬 이다 평원", notifyEnter = true, 
+signName = {mainTitle = "이다 평원"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild09.rsw"] = {displayName = "라헬 아우둠라 초원", notifyEnter = true, 
+signName = {mainTitle = "아우둠라 초원"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild10.rsw"] = {displayName = "라헬 오즈 협곡", notifyEnter = true, 
+signName = {mainTitle = "오즈 협곡"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild11.rsw"] = {displayName = "라헬 이다 평원", notifyEnter = true, 
 signName = {mainTitle = "이다 평원"}
 , backgroundBmp = "field_s2"}
 , 
 ["ra_fild12.rsw"] = {displayName = "라헬 이다 평원", notifyEnter = true, 
 signName = {mainTitle = "이다 평원"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild13.rsw"] = {displayName = "라헬 눈물의 해안", notifyEnter = true, 
+signName = {mainTitle = "눈물의 해안"}
 , backgroundBmp = "field_s2"}
 , 
 ["ra_san01.rsw"] = {displayName = "라헬 신전 성역 1층 북쪽 구역", notifyEnter = true, 

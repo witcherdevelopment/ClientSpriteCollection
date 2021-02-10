@@ -5,6 +5,46 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+AbsorbShadow_Mix = {ItemID = 100691, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"스피리츄얼웨폰S", 1, 24078}
+, 
+{"스피리츄얼이어링S", 1, 24079}
+, 
+{"스피리츄얼펜던트S", 1, 24080}
+, 
+{"스피리츄얼웨폰S2", 1, 24324}
+, 
+{"매리셔스아머S", 1, 24081}
+, 
+{"매리셔스슈즈S", 1, 24082}
+, 
+{"매리셔스쉴드S", 1, 24083}
+, 
+{"매리셔스아머S2", 1, 24325}
+}
+, NeedSource_String = "스피리츄얼, 매리셔스 쉐도우"}
+, 
+EXPShadow_Mix = {ItemID = 100661, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"비기너슈즈S", 1, 24210}
+, 
+{"비기너쉴드S", 1, 24211}
+, 
+{"루키슈즈S", 1, 24212}
+, 
+{"루키쉴드S", 1, 24213}
+, 
+{"어드벤스드슈즈S", 1, 24214}
+, 
+{"어드벤스드쉴드S", 1, 24215}
+, 
+{"익스퍼트슈즈S", 1, 24208}
+, 
+{"익스퍼트쉴드S", 1, 24209}
+}
+, NeedSource_String = "경험치 쉐도우"}
+, 
 True_GemShadow_Mix = {ItemID = 100620, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"젬스톤슈즈S", 1, 24085}
@@ -1320,6 +1360,12 @@ SourceItems = {
 {"S_M_Mammoth_Earring", 1, 24681}
 , 
 {"S_M_Mammoth_Pendant", 1, 24682}
+, 
+{"S_EXP_Shield", 1, 24683}
+, 
+{"S_Absorb_Shield", 1, 24685}
+, 
+{"S_Absorb_Weapon", 1, 24686}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -4908,6 +4954,12 @@ SourceItems = {
 {"S_M_Mammoth_Earring", 1, 24681}
 , 
 {"S_M_Mammoth_Pendant", 1, 24682}
+, 
+{"S_EXP_Shield", 1, 24683}
+, 
+{"S_Absorb_Shield", 1, 24685}
+, 
+{"S_Absorb_Weapon", 1, 24686}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6544,6 +6596,14 @@ SourceItems = {
 {"C눈의선물", 1, 20240}
 , 
 {"C큰리본머플러_빨강", 1, 20441}
+, 
+{"C_Imperial_Glory", 1, 420029}
+, 
+{"C검은시바이누모자", 1, 20496}
+, 
+{"C검은뿔테안경", 1, 19722}
+, 
+{"C_Wing_Of_Spider", 1, 20613}
 }
 , NeedSource_String = "냥다래 의상"}
 }

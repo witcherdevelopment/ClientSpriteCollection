@@ -5203,3 +5203,16 @@
 450173	1	1	0	1	0	1	1	1	//Star_Robe_Of_Spl
 450174	1	1	0	1	0	1	1	1	//Star_Robe_Of_Wis
 100616	1	1	1	1	1	1	1	1	//Auction_Promotion
+1000406	1	1	1	1	0	1	1	1	//Ep18_Very_Ddan_Crystal
+1000407	1	1	1	1	0	1	1	1	//Ep18_Half_Flower
+1000408	1	1	1	1	0	1	1	1	//Ep18_Recording_Note
+1000409	1	1	1	1	0	1	1	1	//Ep18_Docu_File
+1000410	1	1	1	1	0	1	1	1	//Ep18_Water_Filter
+1000411	1	1	1	1	0	1	1	1	//Ep18_Purified_Bucket
+1000412	1	1	1	1	0	1	1	1	//Ep18_Trapped01
+1000413	1	1	1	1	0	1	1	1	//Ep18_Trapped02
+1000414	1	1	1	1	0	1	1	1	//Ep18_Trapped03
+400127	1	1	1	1	1	1	1	1	//Ep18_Mini_Elly
+100626	1	1	0	1	0	1	1	1	//GrayWolf_7_Ticket
+100627	1	1	0	1	0	1	1	1	//GrayWolf_9_Ticket
+9999	1	1	1	1	1	1	1	1	//Season_Evt_Reward_2

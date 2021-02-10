@@ -10,14 +10,6 @@ IT_SIGNBOARD = 3
 SignBoardList = {
 {"Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "입력안하셨습니다", "#0x009EBDFF"}
 , 
-{"prontera", 166, 300, 6, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", "  부스터 프로모션", "#0x00FFFFFF"}
-, 
-{"sp_cor", 98, 136, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터일루시온인챈트", "#0x00FFFFFF"}
-, 
-{"malangdo", 152, 136, 0, IT_SIGNBOARD, "item\\C검은고양이후드.bmp", "  부스터 의상 인챈트", "#0x00FFFFFF"}
-, 
-{"malangdo", 124, 152, 0, IT_SIGNBOARD, "item\\suffragium.bmp", "  기간한정 스톤교환", "#0x00FFFFFF"}
-, 
 {"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
 , 
 {"ein_dun02", 16, 250, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  180Lv미만 출입금지", "#0x00FFFFFF"}
@@ -175,6 +167,8 @@ SignBoardList = {
 {"dewata", 202, 106, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
 , 
 {"dewata", 202, 184, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
+, 
+{"dewata", 182, 164, 0, IT_BMP, "information\\over_store.bmp"}
 , 
 {"dic_in01", 254, 119, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
 , 
@@ -356,6 +350,8 @@ SignBoardList = {
 , 
 {"malangdo", 224, 172, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}
 , 
+{"malangdo", 232, 163, 0, IT_BMP, "information\\over_store.bmp"}
+, 
 {"malaya", 224, 204, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
 , 
 {"malaya", 234, 204, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
@@ -365,6 +361,8 @@ SignBoardList = {
 {"malaya", 71, 72, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
 , 
 {"malaya", 71, 79, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
+, 
+{"ma_in01", 22, 23, 0, IT_BMP, "information\\over_store.bmp"}
 , 
 {"morocc", 146, 103, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
 , 

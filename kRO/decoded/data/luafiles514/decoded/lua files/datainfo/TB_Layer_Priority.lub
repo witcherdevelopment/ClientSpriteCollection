@@ -5,6 +5,14 @@
 -- function num : 0
 TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, 
 Items_List = {
+[ACCESSORY_IDs.ACCESSORY_C_American_S_hair] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Leopard_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Orange_Tabby_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Lady_Tanee] = {Default = 304, isIgnoreRiding = true}
+, 
 [ACCESSORY_IDs.ACCESSORY_Wonder_Egg_Basket] = {Default = 304, 
 Direction = {}
 }
@@ -231,11 +239,11 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = {Default = 304}
+[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 304}
+[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Fox] = {Default = 304}
+[ACCESSORY_IDs.ACCESSORY_C_Fox] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair] = {Default = 143, 
 Direction = {}
@@ -551,13 +559,9 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Baby_Penguin] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_C_Baby_Penguin] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_L_RibbonMuff_Red] = {Default = 303, 
 Direction = {}
@@ -567,17 +571,11 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_RABBIT_HEAD_DRESS] = {Default = 302, 
 Direction = {}

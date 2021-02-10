@@ -4109,6 +4109,62 @@ Description = {"100Lv 이상의 용족 몬스터를 30마리 사냥한 뒤에 <NAVI>[부관 장하성
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[3493] = {Title = "자라드와의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[자라드]<INFO>rachel,69,234,0,101,0</INFO></NAVI>와 대화를 나누고 오자."}
+, Summary = "자라드와 대화"}
+, 
+[3494] = {Title = "로히와의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[로히]<INFO>rachel,100,72,0,101,0</INFO></NAVI>와 대화를 나누고 오자."}
+, Summary = "로히와 대화"}
+, 
+[3495] = {Title = "저진과의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[저진]<INFO>rachel,258,207,0,101,0</INFO></NAVI>과 대화를 나누고 오자."}
+, Summary = "저진과 대화"}
+, 
+[3496] = {Title = "스쿠아인과의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[스쿠아인]<INFO>rachel,159,173,0,101,0</INFO></NAVI>과 대화를 나누고 오자."}
+, Summary = "스쿠아인과 대화"}
+, 
+[3497] = {Title = "세나도와의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[세나도]<INFO>rachel,190,30,0,101,0</INFO></NAVI>와 대화를 나누고 오자."}
+, Summary = "세나도와 대화"}
+, 
+[3498] = {Title = "제이퍼와의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[제이퍼]<INFO>rachel,210,52,0,101,0</INFO></NAVI>와 대화를 나누고 오자."}
+, Summary = "제이퍼와 대화"}
+, 
+[3499] = {Title = "시로안과의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[시로안]<INFO>rachel,40,73,0,101,0</INFO></NAVI>과 대화를 나누고 오자."}
+, Summary = "시로안과 대화"}
+, 
+[3500] = {Title = "이시라와의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[이시라]<INFO>rachel,88,151,0,101,0</INFO></NAVI>와 대화를 나누고 오자."}
+, Summary = "이시라와 대화"}
+, 
+[3501] = {Title = "지나와의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[지나]<INFO>rachel,240,182,0,101,0</INFO></NAVI>와 대화를 나누고 오자."}
+, Summary = "지나와 대화"}
+, 
+[3502] = {Title = "하리와의 대화", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[하리]<INFO>rachel,212,52,0,101,0</INFO></NAVI>와 대화를 나누고 오자."}
+, Summary = "하리와 대화"}
+, 
+[3503] = {Title = "분위기 살피기", IconName = "ico_dq.bmp", 
+Description = {"분위기를 살피기 위해 원주민 3명, 이주민 3명과 대화를 나눈 뒤에 <NAVI>[주녹]<INFO>rachel,155,236,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "6명과의 대화"}
+, 
+[3504] = {Title = "분위기 살피기 - 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[주녹]<INFO>rachel,155,236,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[3505] = {Title = "주녹에게 보고", IconName = "ico_dq.bmp", 
+Description = {"대화를 모두 마쳤으니 <NAVI>[주녹]<INFO>rachel,155,236,0,101,0</INFO></NAVI>에게 돌아가서 보고하도록 하자."}
+, Summary = "주녹에게 보고"}
+, 
+[3506] = {Title = "숙성된 카카오콩", IconName = "ico_ev.bmp", 
+Description = {"^4d4dff더부룩한 스윗츠링^000000를 사냥하여 ^4d4dff숙성된 카카오콩^000000 1개를 회수할 수 있도록 하자."}
+, Summary = "숙성된 카카오콩 회수"}
+, 
 [4000] = {Title = "셰린의 면접", 
 Description = {"셰린의 면접 시험에 통과해서 다음 과정으로 넘어가자."}
 , Summary = ""}
@@ -8132,6 +8188,78 @@ Description = {"유노 몬스터 학회 토벌 의뢰\n\t\t<NAVI>[양거촌]<INFO>tur_dun03,12
 [5931] = {Title = "[대기]토벌-양거촌", IconName = "ico_dq.bmp", 
 Description = {"유노 몬스터 학회의 양거촌 토벌 의뢰는 내일 다시 진행이 가능하다. 시간이 다 지나면, <NAVI>[조사관 트센서]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>를 찾아가자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_M_SIT_NOVICE", NpcNavi = "tur_dun03", NpcPosX = 125, NpcPosY = 186}
+, 
+[5932] = {Title = "학대 받는 아이", IconName = "ico_ep.bmp", 
+Description = {"어떤 남자에게 좀 과하다 싶은 대접을 받는 아이를 만났다. 무슨 일이 있었던 것일까? 아이와 대화를 나눠보자."}
+, Summary = "아이와 대화", NpcSpr = "4_M_DST_CHILD"}
+, 
+[5933] = {Title = "사업계획 발표회", IconName = "ico_ep.bmp", 
+Description = {"말투와 행실이 범상치 않은 메자이로부터 자신의 사업에 동참할 생각이 없냐는 제안을 들었다. 관심이 생긴다면 약도가 알려주는 장소로 찾아가 보자.", " ", "<NAVI>[메자이가 준 약도]<INFO>rachel,70,135,0,101,0</INFO></NAVI>"}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5934] = {Title = "채집 교육(1)", IconName = "ico_ep.bmp", 
+Description = {"메자이의 사업에 동참하려면, 하프 플라워 채집 교육이란 것을 받아야 한다는 것 같다. 교육을 받은 준비가 되면 메자이에게 말을 걸어보자."}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5935] = {Title = "채집 교육(2)", IconName = "ico_ep.bmp", 
+Description = {"연습용 하프 플라워에서 하프 플라워를 채집해보자.", " ", "하프 플라워 채집 방법", "1) 바위 인근에 핀 경우", "▶각도 40°/남기는 잎 2장/물 50ml/비법 가루 2g", "2) 평지에 핀 경우", "▶각도 30°/남기는 잎 4장/물 40ml/비법 가루 4g", "^0000FF3) 나무 인근에 핀 경우^000000", "^0000FF▶각도 20°/남기는 잎 4장/물 30ml/비법 가루 6g^000000", "4) 물가에 핀 경우", "▶각도 10°/남기는 잎 8장/물 20ml/비법 가루 8g"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5936] = {Title = "채집 교육(3)", IconName = "ico_ep.bmp", 
+Description = {"채집한 하프 플라워를 메자이에게 가져가자."}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5937] = {Title = "[대기]플라워룸의 업무", IconName = "ico_dq.bmp", 
+Description = {"플라워룸의 사규", "과한 업무는 하지 않는다. 하나의 일을 끝냈다면, 충분한 휴식을!", " ", "대기시간이 지난 후 다음 일을 원한다면,", "<NAVI>[메자이 사장]<INFO>rachel,70,135,0,101,0</INFO></NAVI>을 찾아가보자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5938] = {Title = "하프플라워 채집", IconName = "ico_dq.bmp", 
+Description = {"하프 플라워 채집 가방", "가방에는 화훼용 가위, 작은 원통, 메자이의 비법 가루, 약간의 물과 채집 방법을 자세하게 적은 종이가 들어있다.", "하프 플라워를 채집하면, 시들어 사라지기 전에 <NAVI>[메자이 사장]<INFO>rachel,70,135,0,101,0</INFO></NAVI>에게 가져다주자.", " ", "하프 플라워 채집 방법", "^0000FF1) 바위 인근에 핀 경우^000000", "^0000FF▶각도 40°/남기는 잎 2장/물 50ml/비법 가루 2g^000000", "2) 평지에 핀 경우", "▶각도 30°/남기는 잎 4장/물 40ml/비법 가루 4g", "3) 나무 인근에 핀 경우", "▶각도 20°/남기는 잎 4장/물 30ml/비법 가루 6g", "4) 물가에 핀 경우", "▶각도 10°/남기는 잎 8장/물 20ml/비법 가루 8g"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5939] = {Title = "하프플라워 채집", IconName = "ico_dq.bmp", 
+Description = {"하프 플라워 채집 가방", "가방에는 화훼용 가위, 작은 원통, 메자이의 비법 가루, 약간의 물과 채집 방법을 자세하게 적은 종이가 들어있다.", "하프 플라워를 채집하면, 시들어 사라지기 전에 <NAVI>[메자이 사장]<INFO>rachel,70,135,0,101,0</INFO></NAVI>에게 가져다주자.", " ", "하프 플라워 채집 방법", "1) 바위 인근에 핀 경우", "▶각도 40°/남기는 잎 2장/물 50ml/비법 가루 2g", "^0000FF2) 평지에 핀 경우^000000", "^0000FF▶각도 30°/남기는 잎 4장/물 40ml/비법 가루 4g^000000", "3) 나무 인근에 핀 경우", "▶각도 20°/남기는 잎 4장/물 30ml/비법 가루 6g", "4) 물가에 핀 경우", "▶각도 10°/남기는 잎 8장/물 20ml/비법 가루 8g"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5940] = {Title = "하프플라워 채집", IconName = "ico_dq.bmp", 
+Description = {"하프 플라워 채집 가방", "가방에는 화훼용 가위, 작은 원통, 메자이의 비법 가루, 약간의 물과 채집 방법을 자세하게 적은 종이가 들어있다.", "하프 플라워를 채집하면, 시들어 사라지기 전에 <NAVI>[메자이 사장]<INFO>rachel,70,135,0,101,0</INFO></NAVI>에게 가져다주자.", " ", "하프 플라워 채집 방법", "1) 바위 인근에 핀 경우", "▶각도 40°/남기는 잎 2장/물 50ml/비법 가루 2g", "2) 평지에 핀 경우", "▶각도 30°/남기는 잎 4장/물 40ml/비법 가루 4g", "^0000FF3) 나무 인근에 핀 경우^000000", "^0000FF▶각도 20°/남기는 잎 4장/물 30ml/비법 가루 6g^000000", "4) 물가에 핀 경우", "▶각도 10°/남기는 잎 8장/물 20ml/비법 가루 8g"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5941] = {Title = "하프플라워 채집", IconName = "ico_dq.bmp", 
+Description = {"하프 플라워 채집 가방", "가방에는 화훼용 가위, 작은 원통, 메자이의 비법 가루, 약간의 물과 채집 방법을 자세하게 적은 종이가 들어있다.", "하프 플라워를 채집하면, 시들어 사라지기 전에 <NAVI>[메자이 사장]<INFO>rachel,70,135,0,101,0</INFO></NAVI>에게 가져다주자.", " ", "하프 플라워 채집 방법", "1) 바위 인근에 핀 경우", "▶각도 40°/남기는 잎 2장/물 50ml/비법 가루 2g", "2) 평지에 핀 경우", "▶각도 30°/남기는 잎 4장/물 40ml/비법 가루 4g", "3) 나무 인근에 핀 경우", "▶각도 20°/남기는 잎 4장/물 30ml/비법 가루 6g", "^0000FF4) 물가에 핀 경우^000000", "^0000FF▶각도 10°/남기는 잎 8장/물 20ml/비법 가루 8g^000000"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5942] = {Title = "플라워룸 개업식", IconName = "ico_ep.bmp", 
+Description = {"플라워룸 개업식에 참석했습니다."}
+, Summary = ""}
+, 
+[5943] = {Title = "배송 서비스 개시", IconName = "ico_ep.bmp", 
+Description = {"플라워룸에서 배송 서비스를 시작했습니다."}
+, Summary = ""}
+, 
+[5944] = {Title = "꽃 배송 서비스", IconName = "ico_dq.bmp", 
+Description = {"의뢰인께서 적어주신 내용을 바탕으로 꽃을 배송해주세요. 배송 후에 배송 확인증 받아오는 거 잊지 마시고요.", " ", "오늘은 <NAVI>[신전으로 가는 계단]<INFO>rachel,150,192,0,101,0</INFO></NAVI>에서 만났던 아가씨에게 꽃 배송을 부탁하네. 그 아가씨 이름은 ^0000FF물리^000000거나 ^0000FF몰리^000000 일 거야. 기억이 잘 안 나는군. 많은 이야기를 나누지는 못했지만, 두 눈이 참 예쁜 아가씨였지. 아무튼 꽃을 보내겠다고 이야기해 두었으니 잘 부탁하네."}
+, Summary = ""}
+, 
+[5945] = {Title = "꽃 배송 서비스", IconName = "ico_dq.bmp", 
+Description = {"의뢰인께서 적어주신 내용을 바탕으로 꽃을 배송해주세요. 배송 후에 배송 확인증 받아오는 거 잊지 마시고요.", " ", "오늘은 <NAVI>[베인스 마을 북쪽]<INFO>veins,218,354,0,101,0</INFO></NAVI>에서 만난 아가씨에게 꽃 배송을 부탁하네. 아가씨 이름은 ^0000FF마사^000000? ^0000FF마샤^000000? 어려운 발음의 이름의 아가씨라네. 베인스와 어울리지 않는 이국적인 복색을 한 아가씨니 찾기는 어렵지 않을 거야. 아무튼 꽃을 보내겠다고 이야기는 해두었으니 잘 부탁하네."}
+, Summary = ""}
+, 
+[5946] = {Title = "꽃 배송 서비스", IconName = "ico_dq.bmp", 
+Description = {"의뢰인께서 적어주신 내용을 바탕으로 꽃을 배송해주세요. 배송 후에 배송 확인증 받아오는 거 잊지 마시고요.", " ", "오늘은 <NAVI>[라헬 무기 상점]<INFO>rachel,42,87,0,101,0</INFO></NAVI>에서 만난 아가씨에게 꽃 배송을 부탁하네. ^0000FF틸링^000000? ^0000FF텔링^000000? 아니 ^0000FF테일링^000000이던가? 노란색 머리가 아주 잘 어울리는 아가씨라네. 꽃을 보내겠다고 이야기는 해두었으니 잘 부탁하네."}
+, Summary = ""}
+, 
+[5947] = {Title = "꽃 배송 서비스", IconName = "ico_dq.bmp", 
+Description = {"의뢰인께서 적어주신 내용을 바탕으로 꽃을 배송해주세요. 배송 후에 배송 확인증 받아오는 거 잊지 마시고요.", " ", "오늘은 라헬에서 일하다가 고향인 <NAVI>[회색늑대 마을]<INFO>wolfvill,269,29,0,101,0</INFO></NAVI>로 떠난 아가씨에게 꽃 배송을 부탁하네. ^0000FF셰일^000000? ^0000FF세일^000000? 뭐라도 빨리 사야 할 것 같은 이름을 가진 아가씨였지. 얼굴을 못 본 지 오래되어 그립구먼. 허허 내가 꽃을 보냈다고 하면 좋아할 걸세. 잘 부탁하네."}
+, Summary = ""}
+, 
+[5948] = {Title = "배송 확인증", IconName = "ico_dq.bmp", 
+Description = {"하프 플라워를 배송하고 받았다는 확인증을 받았다. 이 증서를 <NAVI>[메자이 사장]<INFO>rachel,70,135,0,101,0</INFO></NAVI>에게 보여주고 보상을 받자."}
+, Summary = ""}
+, 
+[5949] = {Title = "배송 확인증", IconName = "ico_dq.bmp", 
+Description = {"하프 플라워를 배송하고 받았다는 확인증을 받았다. 이 증서를 <NAVI>[메자이 사장]<INFO>rachel,70,135,0,101,0</INFO></NAVI>에게 보여주고 보상을 받자."}
+, Summary = ""}
 , 
 [6000] = {Title = "태권 전직", 
 Description = {"태권의 길을 걷고자 합니다. 베이스 레벨을 상승시킨 후 봉황과 대화 해야 합니다."}
@@ -13533,6 +13661,158 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[조사관 듀]<I
 Description = {"<NAVI>[조사관 듀]<INFO>ve_fild03,348,230,0,101,0</INFO></NAVI>는 자기가 있는 베인스 필드 내의 몬스터를 조사하기 위해 파견되었다. 해당 필드의 몬스터를 도합 80마리 해치우는 것이 이번 목표다."}
 , Summary = ""}
 , 
+[8681] = {Title = "교국으로 (1)", IconName = "ico_ep.bmp", 
+Description = {"바르문트 저택의 자동인형들은 드디어 도착한 신호의 정체를 확인했다. 발신지는 <NAVI>[라헬]<INFO>rachel,182,176,0,101,0</INFO></NAVI>이며, 아무래도 빠르게 움직여야 할 것 같다."}
+, Summary = "라헬로 이동"}
+, 
+[8682] = {Title = "교국으로 (2)", IconName = "ico_ep.bmp", 
+Description = {"라헬은 이전에 왔을 때보다 훨씬 분위기가 험악하다. 누군가가 연설을 하는 걸 듣고 있자 구경꾼들 사이에서 싸움이 났는데, <NAVI>[한 사람]<INFO>rachel,183,170,0,101,0</INFO></NAVI>이 눈에 띈다."}
+, Summary = "신관과 대화"}
+, 
+[8683] = {Title = "싸움을 말려주세요", IconName = "ico_ep.bmp", 
+Description = {"초조한 신관은 싸움을 말려달라고는 하는데 과연 어떻게 해야 할까?"}
+, Summary = "신관과 대화"}
+, 
+[8684] = {Title = "일단락은 되었는데", IconName = "ico_ep.bmp", 
+Description = {"내내 초조한 기색을 감추지 못했던 신관 주녹은 현재의 아루나펠츠에 대해 이야기해 주겠다며 <NAVI>[신전 앞]<INFO>ra_temple,72,54,0,101,0</INFO></NAVI>에서 보자고 한다."}
+, Summary = "신전으로 이동"}
+, 
+[8685] = {Title = "신전에서 감지된 수상한 움직임", IconName = "ico_ep.bmp", 
+Description = {"신관 주녹과 치안대원에게 최근 세스룸니르에 침입자가 출몰한다는 불온한 소식을 듣자마자, <NAVI>[신전 서쪽]<INFO>ra_temple,30,142,0,101,0</INFO></NAVI>에 수상한 자가 나타났다는 전갈이 왔다."}
+, Summary = "치안대원을 따라가자"}
+, 
+[8686] = {Title = "신전의 침입자", IconName = "ico_ep.bmp", 
+Description = {"어디선가 본 적이 있는 그들의 정체는 하트헌터였다. 아직 저택에 쳐들어온 자들이 궤멸되었다는 소식은 듣지 못한 것 같다."}
+, Summary = "신관과 대화"}
+, 
+[8687] = {Title = "쳐부쉈는데?", IconName = "ico_ep.bmp", 
+Description = {"이상하게 하트헌터들의 전력이 약하다. 수상하게 여길 낌새도 없이 연극같은 한 순간이 끝나버리고, 이 쪽이 누구인지 알고 있는 것 같은 치안대원은 <NAVI>[니르엔]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>을 만나러 가라고 한다."}
+, Summary = "니르엔과 대화"}
+, 
+[8688] = {Title = "오늘도 감사한 일용할 양식", IconName = "ico_ep.bmp", 
+Description = {"회색늑대 마을의 <NAVI>[에루인]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>은 자신이 설치해 둔 덫을 확인하고 걸려 있는 것을 5개 모아 오라고 한다."}
+, Summary = "덫에 걸린 것 5개 회수"}
+, 
+[8689] = {Title = "오늘의 일용할 양식 - 대기", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[에루인]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>은 내일도 일을 도와주기를 바라는 듯하다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8690] = {Title = "오늘도 감사한 일용할 양식", IconName = "ico_dq.bmp", 
+Description = {"회색늑대 마을의 <NAVI>[에루인]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>은 자신이 설치해 둔 덫을 확인하고 걸려 있는 것을 5개 모아 오라고 한다."}
+, Summary = "덫에 걸린 것 5개 회수"}
+, 
+[8691] = {Title = "정수용 성물 (1)", IconName = "ico_ep.bmp", 
+Description = {"회색늑대 마을의 부단은 라헬에서 식수 정수용 성물을 사다 달라고 한다. 신선한 것이 필요한 모양이다. <NAVI>[성물 판매원]<INFO>rachel,103,141,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "정수용 성물 구매"}
+, 
+[8692] = {Title = "정수용 성물 (2)", IconName = "ico_ep.bmp", 
+Description = {"정수용 성물을 구매했다. 회색늑대 마을의 <NAVI>[물통]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI>에 가져다 넣으면 깨끗한 물을 얻을 수 있다."}
+, Summary = "물통에 정수용 성물 투입"}
+, 
+[8693] = {Title = "정수용 성물 (3)", IconName = "ico_ep.bmp", 
+Description = {"양동이에 담긴 물을 <NAVI>[부단]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>에게 가져다 주면 임무 완수다."}
+, Summary = "부단과 대화"}
+, 
+[8694] = {Title = "깨끗한 물 조달 - 대기", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[부단]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>은 내일도 일을 도와주기를 바라는 듯하다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8695] = {Title = "깨끗한 물 조달 (1)", IconName = "ico_dq.bmp", 
+Description = {"회색늑대 마을의 부단은 라헬에서 식수 정수용 성물을 사다 달라고 한다. 신선한 것이 필요한 모양이다. <NAVI>[성물 판매원]<INFO>rachel,103,141,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "정수용 성물 구매"}
+, 
+[8696] = {Title = "깨끗한 물 조달 (2)", IconName = "ico_dq.bmp", 
+Description = {"정수용 성물을 구매했다. 회색늑대 마을의 <NAVI>[물통]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI>에 가져다 넣으면 깨끗한 물을 얻을 수 있다."}
+, Summary = "물통에 정수용 성물 투입"}
+, 
+[8697] = {Title = "깨끗한 물 조달 (3)", IconName = "ico_dq.bmp", 
+Description = {"양동이에 담긴 물을 <NAVI>[부단]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>에게 가져다 주면 임무 완수다."}
+, Summary = "부단과 대화"}
+, 
+[8698] = {Title = "때늦은 이주", IconName = "ico_ep.bmp", 
+Description = {"라헬의 호텔에서 만난 종업원 호림은 회색늑대 마을로 가고 싶어한다. 그를 도와주기 위해 <NAVI>[라헬 서문 밖]<INFO>ra_fild11,358,229,0,101,0</INFO></NAVI>에서 만나기로 했다."}
+, Summary = "호림과 대화"}
+, 
+[8699] = {Title = "도시를 나가는 첫 발", IconName = "ico_ep.bmp", 
+Description = {"호림은 평생을 살던 곳에서 소속감을 느낀 적이 없다고 말했다. 아직도 망설이는 그를 <NAVI>[안내]<INFO>ra_fild10,375,293,0,101,0</INFO></NAVI>해야 한다."}
+, Summary = "호림과 대화"}
+, 
+[8700] = {Title = "반도 못 왔는데", IconName = "ico_ep.bmp", 
+Description = {"호림은 엄살을 부리는 것 같지만 단순히 처음 가는 길이라서 그래 보인다. 체력이 있어서 생각보다 매우 쉽게 따라오니<NAVI>[안내]<INFO>oz_dun01,285,170,0,101,0</INFO></NAVI>를 계속해도 될 것 같다."}
+, Summary = "호림과 대화"}
+, 
+[8701] = {Title = "처음 보는 풍경", IconName = "ico_ep.bmp", 
+Description = {"대자연에 압도된 호림은 회색늑대의 숲은 어떤 풍경인지 묻는다. 하지만 아마도 호림이 들었던 이야기와 실제는 크게 차이나지 않을 것이다. 호림은 <NAVI>[안내]<INFO>gw_fild01,275,338,0,101,0</INFO></NAVI>를 재촉한다."}
+, Summary = "호림과 대화"}
+, 
+[8702] = {Title = "화산재 냄새", IconName = "ico_ep.bmp", 
+Description = {"부주의한 자들이 군수 기지에서 나올 기밀을 여기저기서 말하고 다닌 모양이다. 어쨌든, 냄새로 위치를 파악한다고 해도 이 곳은 위험하다. <NAVI>[안내]<INFO>gw_fild01,38,99,0,101,0</INFO></NAVI>를 할 수밖에 없다."}
+, Summary = "호림과 대화"}
+, 
+[8703] = {Title = "쉬엄쉬엄 가는 길", IconName = "ico_ep.bmp", 
+Description = {"호림은 돌아갈 곳이 필요하다고 말한다. 그에게 집은 지금까지 돌아가고 싶은 곳이 아니었단 말인가. 오래 앉아 있을 수는 없다. <NAVI>[안내]<INFO>wolfvill,266,26,0,101,0</INFO></NAVI>를 계속하자."}
+, Summary = "호림과 대화"}
+, 
+[8704] = {Title = "신전 폐쇄 (1)", 
+Description = {"신전의 문이 갑자기 폐쇄되었다. 걱정하는 네마 신관을 위해 다른 출입구가 있는지 <NAVI>[수소문]<INFO>rachel,243,37,0,101,0</INFO></NAVI>해 보자."}
+, Summary = "다른 출입구를 아는 사람을 찾아보자"}
+, 
+[8705] = {Title = "신전 폐쇄 (2)", 
+Description = {"신전에는 몰래 드나들 수 있는 잠기지 않은 <NAVI>[창문]<INFO>ra_temple,67,209,0,101,0</INFO></NAVI>이 있다고 한다…."}
+, Summary = "열린 창문을 찾아보자"}
+, 
+[8706] = {Title = "신전 폐쇄 (3)", 
+Description = {"신전에 몰래 들어오는 것에 성공했다. <NAVI>[입구 방향]<INFO>que_rachel,59,112,0,101,0</INFO></NAVI>으로 가 보자."}
+, Summary = "신전 내부 탐색"}
+, 
+[8707] = {Title = "신전 폐쇄 (4)", 
+Description = {"어디선가 웅성대는 <NAVI>[소리]<INFO>que_rachel,94,138,0,101,0</INFO></NAVI>가 들려온다. 따라가 보자."}
+, Summary = "예배당 가는 복도로 이동"}
+, 
+[8708] = {Title = "신전 폐쇄 (5)", 
+Description = {"수상한 소리가 들려온다. <NAVI>[계단 쪽]<INFO>que_rachel,132,70,0,101,0</INFO></NAVI>에서 들려오는 것 같다."}
+, Summary = "계단 방향으로 이동"}
+, 
+[8709] = {Title = "신전 폐쇄 (6)", 
+Description = {"<NAVI>[소리]<INFO>que_rachel,239, 258,0,101,0</INFO></NAVI>는 계단 위에서 들려온 것 같다. 윗층으로 이동하자."}
+, Summary = "계단 위로 이동"}
+, 
+[8710] = {Title = "신전 폐쇄 (7)", 
+Description = {"<NAVI>[소리]<INFO>que_rachel,28,315,0,101,0</INFO></NAVI>가 들려온 쪽을 따라가 보자."}
+, Summary = "신전 내부 탐색"}
+, 
+[8711] = {Title = "신전 폐쇄 (8)", 
+Description = {"다른 것을 찾는 사이 누가 나타나면 어쩌지? 일단 핏자국을 다시 조사하기로 한다."}
+, Summary = "핏자국 조사"}
+, 
+[8712] = {Title = "신전 폐쇄 (9)", 
+Description = {"더 이상 시간을 보내다가 누군가와 마주치면 어떻게 될지 모른다. 일단 <NAVI>[문]<INFO>que_rachel,169,18,0,101,0</INFO></NAVI>으로 향하자."}
+, Summary = "신전 로비로 이동"}
+, 
+[8713] = {Title = "신전 폐쇄 (10)", 
+Description = {"무사히 문이 열리고 밖으로 나올 수 있었다. <NAVI>[네마 신관]<INFO>rachel,116,174,0,101,0</INFO></NAVI>과 이야기해 보자."}
+, Summary = "네마 신관과 대화"}
+, 
+[8714] = {Title = "신전 폐쇄 (11)", 
+Description = {"신전 안의 <NAVI>[파노 신관]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI>에게는 물어 볼 것이 있다."}
+, Summary = "파노 신관과 대화"}
+, 
+[8715] = {Title = "신전 폐쇄 (12)", 
+Description = {"신전 안의 <NAVI>[파노 신관]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI>에게는 물어 볼 것이 있다."}
+, Summary = "파노 신관과 대화"}
+, 
+[8716] = {Title = "신전 폐쇄 (13)", 
+Description = {" <NAVI>[네마 신관]<INFO>rachel,116,174,0,101,0</INFO></NAVI>은 정말로 아무것도 모르는 걸까?"}
+, Summary = "네마 신관과 대화"}
+, 
+[8717] = {Title = "신전 폐쇄 (14)", 
+Description = {" <NAVI>[네마 신관]<INFO>rachel,116,174,0,101,0</INFO></NAVI>은 <ITEM>[폭죽]<INFO>12018</INFO></ITEM> 20개를 조달해 달라고 부탁했다."}
+, Summary = "조달품 전달"}
+, 
+[8718] = {Title = "친구의 안부", IconName = "ico_ep.bmp", 
+Description = {"회색늑대 마을의 알베르는 라헬의 호텔에서 일하는 친구 <NAVI>[호림]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>의 안부를 걱정하고 있다."}
+, Summary = "호림과 대화"}
+, 
 [9000] = {Title = "나이트 전직으로의 시작", 
 Description = {"기사단장 \'헤르만\'은 기사전직을 위해 우선 다른 기사들의 승인을 받아야한다고 했다."}
 , Summary = "기사단에 있는 다른 기사들과의 대화"}
@@ -17915,6 +18195,226 @@ RewardItemList = {
 }
 , Summary = "슬퍼 보이는 잭에게"}
 , 
+[11696] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"치안대의 덴트는 최근 라헬 상황으로 고생이 많은 것 같다. <NAVI>[다른 치안대원]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI>의 이야기를 들어보자."}
+, Summary = "치안대원 닐과 대화"}
+, 
+[11697] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"치안대의 닐 역시 주민들의 싸움으로 고생 중이다. 신전 상황도 좋지 못한 것 같은데 <NAVI>[프레이야 사제<INFO>ra_temin,172,36,0,101,0</INFO></NAVI>의 이야기도 들어보자."}
+, Summary = "프레이야 사제와 대화"}
+, 
+[11698] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"하트헌터라는 단어를 들은 니르엔은 장소를 옮기자고 제안했다. 사람이 잘 다니지 않는 복도 구석에서 <NAVI>[니르엔<INFO>ra_temin,213,87,0,101,0</INFO></NAVI>과 다시 대화하자."}
+, Summary = "니르엔과 대화"}
+, 
+[11699] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"니르엔은 아들 마람과 함께 주민들의 상황을 파악해 달라고 한다. 신전 입구로 돌아가서 <NAVI>[치안대원 닐]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI>에게 마람이 있을 것 같은 장소를 물어보자."}
+, Summary = "치안대원 닐과 대화"}
+, 
+[11700] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"닐은 마람을 라헬 광장 근처에서 봤다고 한다. 라헬 중앙 분수대 근처에서 마을 사람들에게 마람의 행방을 묻자."}
+, Summary = "광장에서 마을사람과 대화"}
+, 
+[11701] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"필요한 정보는 얻지 못했다. 라헬 중앙 분수대 근처에서 마을 사람들에게 마람의 행방을 묻자."}
+, Summary = "광장에서 마을사람과 대화"}
+, 
+[11702] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"필요한 정보는 얻지 못했다. 라헬 상가 근처에서 마을 사람들에게 마람의 행방을 묻자."}
+, Summary = "광장에서 마을사람과 대화"}
+, 
+[11703] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"마람은 마을사람을 지나쳐 위로 올라갔다고 한다. 위쪽 길에서 <NAVI>[마람]<INFO>rachel,70,147,0,101,0</INFO></NAVI>을 찾자."}
+, Summary = "마람 찾기"}
+, 
+[11704] = {Title = "니르엔의 부탁", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[마람]<INFO>rachel,70,147,0,101,0</INFO></NAVI>에게 회색의 아이들에 대한 정보를 얻었다. 마람의 친구 <NAVI>[미리암]<INFO>rachel,62,144,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "미리암과 대화"}
+, 
+[11705] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"미리암은 구입하려 했던 물건을 구입하지 못한 것 같다. 마람이 <NAVI>[물건을 사는 것]<INFO>rachel,87,122,0,101,0</INFO></NAVI>을 지켜보자."}
+, Summary = "상인과 대화"}
+, 
+[11706] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"상인은 마람에게 물건을 팔지 않겠다고 한다. <NAVI>[다른 상인]<INFO>rachel,107,102,0,101,0</INFO></NAVI>에게 물건을 구입하자."}
+, Summary = "상인과 대화"}
+, 
+[11707] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"역시 물건을 구입하지 못했다. <NAVI>[상점]<INFO>rachel,107,102,0,101,0</INFO></NAVI> 앞의 미리암과 대화하자."}
+, Summary = "미리암과 대화"}
+, 
+[11708] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[상인]<INFO>rachel,107,102,0,101,0</INFO></NAVI>들은 회색의 아이들에게 물건을 팔지 않으려는 것 같다. 해결책을 찾아보자."}
+, Summary = "마람과 대화"}
+, 
+[11709] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"마람과 미리암은 라헬을 떠나 힘겹게 살아가고 있는 원주민들을 돕기 위해 물자를 구입하려고 했다고 한다. 마람 대신 <NAVI>[상인]<INFO>rachel,137,85,0,101,0</INFO></NAVI>에게서 물건을 구입해보자."}
+, Summary = "상인과 대화"}
+, 
+[11710] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"이국에서 온 상단이라는 거짓말로 물건 구입계약을 했다. <NAVI>[상인]<INFO>rachel,137,85,0,101,0</INFO></NAVI> 앞의 미리암과 대화하자."}
+, Summary = "미리암과 대화"}
+, 
+[11711] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"마람과 미리암이 상단으로 위장할 준비를 하는 동안 <NAVI>[만두]<INFO>rachel,108,73,0,101,0</INFO></NAVI>를 먹으며 기다리자."}
+, Summary = "만두 먹기"}
+, 
+[11712] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"우연히 타마린을 만났다. 상단 위장을 부탁하자 <NAVI>[마크]<INFO>rachel,122,120,0,101,0</INFO></NAVI>와 마기를 데려가자고 한다."}
+, Summary = "광장에서 마크 찾기"}
+, 
+[11713] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"마크와 마기도 합류했다. <NAVI>[마람]<INFO>rachel,70,147,0,101,0</INFO></NAVI>을 처음 만난 장소로 이동하자."}
+, Summary = "마람과 대화"}
+, 
+[11714] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"마람과 미리암은 상단과 함께 마을 입구에서 기다리겠다고 한다. 물건을 구입한 <NAVI>[상인]<INFO>rachel,137,85,0,101,0</INFO></NAVI>에게 가서 물건 배송을 요청하자."}
+, Summary = "상인과 대화"}
+, 
+[11715] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"상인과 대화했다. 라헬 서쪽 입구로 가서 <NAVI>[물건]<INFO>rachel,41,132,0,101,0</INFO></NAVI>을 확인하자."}
+, Summary = "라헬 서쪽 입구로"}
+, 
+[11716] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"물건을 무사히 구입했다. 라헬 서쪽 입구 밖에서 <NAVI>[마람]<INFO>ra_fild11,354,235,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "마람과 대화"}
+, 
+[11717] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"목적지를 들키지 않기 위해 마람과 따로 움직이기로 했다. 라헬 서서쪽의 오즈협곡에서 <NAVI>[미리암]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI>을 만나자."}
+, Summary = "미리암과 대화"}
+, 
+[11718] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"오즈의 미로로 가기 위한 준비가 완료 되면 다시 <NAVI>[미리암]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "미리암과 대화"}
+, 
+[11719] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"일행과 함께 오즈의 미로를 돌파하자."}
+, Summary = "오즈의 미로 돌파"}
+, 
+[11720] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"미로를 돌파했다.미로 밖에서 <NAVI>[마람]<INFO>gw_fild01,273,339,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "마람과 대화"}
+, 
+[11721] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"회색 늑대의 숲 서쪽에서 마을 입구를 찾고 마람과 대화하자."}
+, Summary = "마을 입구 찾기"}
+, 
+[11722] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"외지인과 함께 온 <NAVI>[마람]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI>을 마을로 들여보내 줄 것 같지 않다. 이므릴과 대화하자."}
+, Summary = "이므릴과 대화"}
+, 
+[11723] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"이므릴에게 수아드를 불러달라고 부탁했다. 수아드를 기다리며 <NAVI>[마람]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "마람과 대화"}
+, 
+[11724] = {Title = "회색의 아이들", IconName = "ico_ep.bmp", 
+Description = {"수아드에게 회색 늑대 마을로 들어가는 허락을 받았다. 마을에서 <NAVI>[이므릴]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "회색 늑대 마을로"}
+, 
+[11725] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"오즈의 미로 1층 입구에서 <NAVI>[이므릴]<INFO>oz_dun01,27,184,0,101,0</INFO></NAVI>과 만나자."}
+, Summary = "오즈의 미로 1층으로"}
+, 
+[11726] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"이므릴의 안내를 따라 <NAVI>[좁은 길]<INFO>oz_dun01,68,284,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "오즈의 미로 조사"}
+, 
+[11727] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"상자를 찾았다. 이므릴의 안내를 따라 <NAVI>[아래]<INFO>oz_dun01,65,189,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "오즈의 미로 조사"}
+, 
+[11728] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"위험해 보이는 길이다. 조심하며 이므릴의 안내를 따라 <NAVI>[아래]<INFO>oz_dun01,111,96,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "오즈의 미로 조사"}
+, 
+[11729] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"증기가 나오는 구멍을 조사하던 중 어디선가 이므릴을 부르는 소리가 들려왔다. <NAVI>[소리가 난 곳]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI>으로 이동하자."}
+, Summary = "부상자 찾기"}
+, 
+[11730] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[폴스]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI>씨의 체력이 회복되는데 방해되지 않도록 주변의 몬스터를 10마리 정도 처치하자."}
+, Summary = "폴스씨의 회복 돕기"}
+, 
+[11731] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"폴스씨는 마을로 돌아갔다. 이므릴의 안내를 따라 <NAVI>[아래]<INFO>oz_dun01,134,56,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "오즈의 미로 조사"}
+, 
+[11732] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"상자를 찾았다. 이므릴의 안내를 따라 <NAVI>[아래]<INFO>oz_dun01,110,37,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "오즈의 미로 조사"}
+, 
+[11733] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"오즈의 미로 2층 입구에 도착했다. 이므릴의 안내를 따라 <NAVI>[아래]<INFO>oz_dun02,152,276,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "2층으로"}
+, 
+[11734] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"2층 조사는 이므릴에게 버거운 것 같다. <NAVI>[주변]<INFO>oz_dun02,143,231,0,101,0</INFO></NAVI>을 조사하자."}
+, Summary = "오즈의 미로 조사"}
+, 
+[11735] = {Title = "오즈의 미로와 행상인", IconName = "ico_ep.bmp", 
+Description = {"미로지기 영감님을 만났다. 오즈의 미로 조사내용을 수아드에게 알리기 위해 마을로 돌아가 <NAVI>[이므릴]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "마을에서 이므릴과 대화"}
+, 
+[11736] = {Title = "오즈의 미로 1층 (170lv)", IconName = "ico_dq.bmp", 
+Description = {"오즈의 미로 1층에서 재두꺼비를 20마리 처치하고 회색 늑대 마을의 <NAVI>[이므릴]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "회색 늑대 마을로"}
+, 
+[11737] = {Title = "오즈의 미로 1층-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 <NAVI>[이므릴]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>을 통해 다시 받을 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11738] = {Title = "오즈의 미로 2층 (200lv)", IconName = "ico_dq.bmp", 
+Description = {"오즈의 미로 2층에서 뜨거운 어금니를 20마리 처치하고 회색 늑대 마을의 <NAVI>[이므릴]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "뜨거운 어금니 처치"}
+, 
+[11739] = {Title = "오즈의 미로 2층-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 <NAVI>[이므릴]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>을 통해 다시 받을 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11760] = {Title = "억울해소!", IconName = "ico_ev.bmp", 
+Description = {"말랑도 문어축제에 로인님이 방문했다고 한다. 로인과 대화하자."}
+, Summary = "로인과 대화"}
+, 
+[11761] = {Title = "억울해소!", IconName = "ico_ev.bmp", 
+Description = {"로인이 기운이 없는 것 같다. 문어축제 진행요원과 대화해서 해결책을 찾아보자."}
+, Summary = "문어축제 진행요원과 대화"}
+, 
+[11762] = {Title = "억울해소!", IconName = "ico_ev.bmp", 
+Description = {"전 지역으로 퍼져나간 쥐를 잡기 위해 워넛들이 각 지역으로 이동중이라고 한다. 말랑도 입구에서 출발 준비중인 워넛과 대화하자."}
+, Summary = "말랑도 입구에서 워넛과 대화"}
+, 
+[11763] = {Title = "억울해소!", IconName = "ico_ev.bmp", 
+Description = {"워넛은 프론테라로 출발할 예정이라고 한다. 함께 프론테라로 이동해서 상황을 살피자."}
+, Summary = "프론테라에서 워넛과 대화"}
+, 
+[11764] = {Title = "억울해소!", IconName = "ico_ev.bmp", 
+Description = {"당장은 눈에 띄지 않지만 상황이 좋지 않은 것 같다. 페이욘으로 이동해서 페이욘의 상황을 살피자."}
+, Summary = "페이욘에서 워넛과 대화"}
+, 
+[11765] = {Title = "억울해소!", IconName = "ico_ev.bmp", 
+Description = {"페이욘의 워넛은 쥐를 상대하느라 많이 지친 것 같다.돌아가는 길에 얼마나 치사한 쥐 10마리를 잡고 로인에게 보고하자."}
+, Summary = "말랑도에서 로인과 대화", 
+RewardItemList = {
+{ItemID = 500, ItemNum = 5}
+, 
+{ItemID = 766, ItemNum = 1}
+}
+}
+, 
+[11766] = {Title = "억울해소!", IconName = "ico_ev.bmp", 
+Description = {"여전히 쥐가 사라지지 않은 것 같다. 얼마나 치사한 쥐를 10마리 잡고 로인에게 돌아가자."}
+, Summary = "쥐 처치", 
+RewardItemList = {
+{ItemID = 500, ItemNum = 5}
+, 
+{ItemID = 766, ItemNum = 1}
+}
+}
+, 
+[11767] = {Title = "억울해소! -대기", IconName = "ico_ev.bmp", 
+Description = {"얼마나 치사한 쥐를 처치했다. 내일 다시 방문하자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
 [12000] = {Title = "친구:불협화음", 
 Description = {"마쿠의 또다른 친구를 찾아 그와 이야기를 나누어야 합니다."}
 , Summary = "마쿠의 또다른 친구 만나기"}
@@ -19870,6 +20370,54 @@ Description = {"탑의 생태계에 지각변동이 발생한 것이 분명합니다. 바뀐 왕좌의 주�
 [12519] = {Title = "원래 주인의 행방", 
 Description = {"탑이 이렇게 되었다면 원래 이곳을 지배하던 존재도 몸 성히 있진 못하겠군요"}
 , Summary = "이제 별 볼일 없을지도"}
+, 
+[12520] = {Title = "기만의 별장", 
+Description = {"대신관 유스의 여름 별장에서 이미 처치한 존재들의 형상이 여전히 목도되고 있다고 한다. 아이라는 불길한 그것이 신의 분노를 부르기 전에 모험가들의 손에 처리되길 바란다."}
+, Summary = "일그러진 신 처치"}
+, 
+[12521] = {Title = "기만의 별장 상급", 
+Description = {"대신관 유스의 여름 별장에서 이미 처치한 존재들의 형상이 여전히 목도되고 있다고 한다. 아이라는 불길한 그것이 세상에 쏟아져 나오기 전에 모험가들의 손에 처리되길 바란다."}
+, Summary = "일그러진 신 처치"}
+, 
+[12522] = {Title = "대기: 헌집 증후군", 
+Description = {"오래된 저택에 머물렀더니 속이 메스껍고 현기증이 납니다. 좀 쉬는 시간을 가지는 것이 좋겠습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[12531] = {Title = "미래의 총관후보", IconName = "ico_ep.bmp", 
+Description = {"이정도로 짐을 회수했다면 최악의 상황은 피할 수 있을 것 같습니다. 상단 회의장으로 돌아가 카밀에게 도움을 줍시다.", "<NAVI>[상단 회의장]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI>"}
+, Summary = "카밀에게 도움을..."}
+, 
+[12532] = {Title = "상단의 고난", IconName = "ico_ep.bmp", 
+Description = {"상행에 문제가 생긴 듯 하다. 망가져버린 수레바퀴를 수리할 만한 <ITEM>[재료]<INFO>7197</INFO></ITEM>를 찾아와야 할 것 같다."}
+, Summary = "적당한 자재 찾기."}
+, 
+[12533] = {Title = "숨은 조력자", IconName = "ico_ep.bmp", 
+Description = {"카밀이 이대로 상행을 무사히 마감할 수 있을지 걱정되는군요. 하자르의 부탁대로 몰래 따라가 보는것이 좋을 것 같습니다.", "<NAVI>[수레바퀴 흔적 따라가기]<INFO>gw_fild01,118,131,0,101,0</INFO></NAVI>"}
+, Summary = "카밀을 은밀히 따르기."}
+, 
+[12534] = {Title = "실종된 카밀", IconName = "ico_ep.bmp", 
+Description = {"우려했던 상황이 벌어진 것 같군요. 카밀은 아마 지금쯤 큰 고난에 빠져있는게 분명합니다. 그를 찾아 도웁시다.", "<NAVI>[카밀의 흔적 찾기]<INFO>gw_fild01,200,96,0,101,0</INFO></NAVI>"}
+, Summary = "카밀 구하기."}
+, 
+[12535] = {Title = "총관의 결정", IconName = "ico_ep.bmp", 
+Description = {"카밀이 마을에서 어떤 처분을 받게될지 알 수 없다. 마을로 돌아가서 카밀의 처분을 확인하고 필요하다면 개입하도록 하자.", "<NAVI>[상단 회의장]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI>"}
+, Summary = "총관에게 돌아가기."}
+, 
+[12536] = {Title = "흩어진 짐 (북쪽)", IconName = "ico_ep.bmp", 
+Description = {"회색늑대의 숲 북쪽 어딘가에 짐이 있을 지 모른다. 찾아보고 회수하도록 하자.", "<NAVI>[추정장소]<INFO>gw_fild01,242,321,0,101,0</INFO></NAVI>"}
+, Summary = "물품 회수."}
+, 
+[12537] = {Title = "흩어진 짐 (서쪽)", IconName = "ico_ep.bmp", 
+Description = {"회색늑대의 숲 서쪽 어딘가에 짐이 있을 지 모른다. 찾아보고 회수하도록 하자.", "<NAVI>[추정장소]<INFO>gw_fild01,93,211,0,101,0</INFO></NAVI>"}
+, Summary = "물품 회수."}
+, 
+[12538] = {Title = "흩어진 짐 (동쪽)", IconName = "ico_ep.bmp", 
+Description = {"회색늑대의 숲 동쪽 어딘가에 짐이 있을 지 모른다. 찾아보고 회수하도록 하자.", "<NAVI>[추정장소]<INFO>gw_fild01,343,194,0,101,0</INFO></NAVI>"}
+, Summary = "물품 회수."}
+, 
+[12539] = {Title = "흩어진 짐 (남쪽)", IconName = "ico_ep.bmp", 
+Description = {"회색늑대의 숲 남쪽 어딘가에 짐이 있을 지 모른다. 찾아보고 회수하도록 하자.", "<NAVI>[추정장소]<INFO>gw_fild01,228,59,0,101,0</INFO></NAVI>"}
+, Summary = "물품 회수."}
 , 
 [13000] = {Title = "RWC2011카드 구하기", 
 Description = {"파란카드를 모아서 RWC2011를 완성하자"}
@@ -25301,6 +25849,158 @@ Description = {"일손을 전부 도왔다. <NAVI>[농장 일꾼]<INFO>sp_cor,246,97,0,101,0
 Description = {""}
 , Summary = ""}
 , 
+[16548] = {Title = "잠이 오지 않아요", IconName = "ico_ep.bmp", 
+Description = {"밤새 한 숨도 자지 못한 <NAVI>[아히르]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>는 불바람 솔개의 울음소리만 없어도 좀 잘 만할 것 같다며, 불바람 솔개 30마리를 사냥해 달라고 한다."}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16549] = {Title = "잠이 오지 않아요", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[아히르]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>는 모험가가 다시 불바람 솔개 30마리를 사냥해 준다면, 오늘 밤도 편안하게 잘 수 있을 것이라고 한다."}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16550] = {Title = "잠이 오지 않아요-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 회색늑대 마을의 <NAVI>[아히르]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16551] = {Title = "디나르의 이야기", IconName = "ico_ep.bmp", 
+Description = {"구드라가 준 수첩을 가지고 <NAVI>[디나르]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI>에게 가서 디나르가 해 주는 놀라운 이야기를 적어 오자."}
+, Summary = "디나르와 대화", NpcSpr = "4_F_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 106, NpcPosY = 224}
+, 
+[16552] = {Title = "아미라의 이야기", IconName = "ico_ep.bmp", 
+Description = {"구드라가 준 수첩을 가지고 <NAVI>[아미라]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI>에게 가서 아미라가 해 주는 신비한 신들에 대한 이야기를 적어 오자."}
+, Summary = "아미라와 대화", NpcSpr = "4_F_DESERT", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 204}
+, 
+[16553] = {Title = "샤니나 할머니의 이야기", IconName = "ico_ep.bmp", 
+Description = {"구드라가 준 수첩을 가지고 <NAVI>[샤니나]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI> 할머니께 가서 할머니가 해 주시는 오래된 옛이야기를 적어 오자."}
+, Summary = "샤니나와 대화", NpcSpr = "4_F_DST_GRAND", NpcNavi = "wolfvill", NpcPosX = 154, NpcPosY = 184}
+, 
+[16554] = {Title = "이야기를 모아 주세요", IconName = "ico_ep.bmp", 
+Description = {"오늘 치 이야기를 모두 모았다. 모은 이야기를 가지고 <NAVI>[구드라]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "구드라와 대화", NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16555] = {Title = "디나르의 이야기", IconName = "ico_dq.bmp", 
+Description = {"구드라가 준 수첩을 가지고 <NAVI>[디나르]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI>에게 가서 디나르가 해 주는 놀라운 이야기를 적어 오자."}
+, Summary = "디나르와 대화", NpcSpr = "4_F_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 106, NpcPosY = 224}
+, 
+[16556] = {Title = "아미라의 이야기", IconName = "ico_dq.bmp", 
+Description = {"구드라가 준 수첩을 가지고 <NAVI>[아미라]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI>에게 가서 아미라가 해 주는 신비한 신들에 대한 이야기를 적어 오자."}
+, Summary = "아미라와 대화", NpcSpr = "4_F_DESERT", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 204}
+, 
+[16557] = {Title = "샤니나 할머니의 이야기", IconName = "ico_dq.bmp", 
+Description = {"구드라가 준 수첩을 가지고 <NAVI>[샤니나]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI> 할머니께 가서 할머니가 해 주시는 오래된 옛이야기를 적어 오자."}
+, Summary = "샤니나와 대화", NpcSpr = "4_F_DST_GRAND", NpcNavi = "wolfvill", NpcPosX = 154, NpcPosY = 184}
+, 
+[16558] = {Title = "이야기를 모아 주세요", IconName = "ico_dq.bmp", 
+Description = {"오늘 치 이야기를 모두 모았다. 모은 이야기를 가지고 <NAVI>[구드라]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "구드라와 대화", NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16559] = {Title = "이야기를 모아 주세요-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 회색늑대 마을의 <NAVI>[구드라]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16560] = {Title = "여기는 그곳이 아니에요", IconName = "ico_ep.bmp", 
+Description = {"호수 근처에서 누군가에 대해 투덜거리는 청년들이 보인다. <NAVI>[카야르]<INFO>wolfvill,83,109,0,101,0</INFO></NAVI>의 이야기를 들어 보자."}
+, Summary = "카야르와 대화", NpcSpr = "4W_M_03", NpcNavi = "wolfvill", NpcPosX = 83, NpcPosY = 109}
+, 
+[16561] = {Title = "여기는 그곳이 아니에요", IconName = "ico_ep.bmp", 
+Description = {"그들을 도와줄 수 있는 사람은 모험가 뿐이라는데…… 무슨 연유인지 <NAVI>[레드셀]<INFO>wolfvill,87,109,0,101,0</INFO></NAVI>에게 들어 보자."}
+, Summary = "레드셀과 대화", NpcSpr = "4_M_DESERT", NpcNavi = "wolfvill", NpcPosX = 87, NpcPosY = 109}
+, 
+[16562] = {Title = "여기는 그곳이 아니에요", IconName = "ico_ep.bmp", 
+Description = {"그들이 이야기하던 당사자와 직접 만나봐 주기를 부탁받았다. <NAVI>[아합]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>을 만나 보자."}
+, Summary = "아합과 대화", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16563] = {Title = "여기는 그곳이 아니에요", IconName = "ico_ep.bmp", 
+Description = {"억지로 심부름을 떠맡아 버렸다. 라헬의 <NAVI>[머노마트]<INFO>rachel,135,64,0,101,0</INFO></NAVI>에 가서 오이거트 소스를 한 병 사 오자."}
+, Summary = "머노마트 방문", NpcSpr = "4_M_RACHMAN2", NpcNavi = "rachel", NpcPosX = 135, NpcPosY = 64}
+, 
+[16564] = {Title = "여기는 그곳이 아니에요", IconName = "ico_ep.bmp", 
+Description = {"무사히 오이거트 소스를 구매했다. 내 돈으로……. <NAVI>[아합]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>에게 돌아가 심부름을 완료하자."}
+, Summary = "아합과 대화", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16565] = {Title = "여기는 그곳이 아니에요", IconName = "ico_ep.bmp", 
+Description = {"소스로 식사를 하느라 바쁜 <NAVI>[아합]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>을 설득해 보자."}
+, Summary = "아합과 대화", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16566] = {Title = "여기는 그곳이 아니에요", IconName = "ico_ep.bmp", 
+Description = {"아합은 마음을 고쳐먹겠다며 다른 사람들에게도 전해달라고 한다. <NAVI>[즐란]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>과 카야르, 레드셀에게 아합의 결심을 들려주자."}
+, Summary = "", NpcSpr = "4_M_RACHMAN1", NpcNavi = "wolfvill", NpcPosX = 85, NpcPosY = 111}
+, 
+[16567] = {Title = "회색늑대 숲의 대회의", IconName = "ico_ep.bmp", 
+Description = {"곧 회색늑대 숲의 대회의가 시작된다. <NAVI>[수아드]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI>와 사람들이 모여 있는 곳으로 가 대회의에 참석하자."}
+, Summary = "수아드와 대화", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 144, NpcPosY = 151}
+, 
+[16568] = {Title = "각자의 의견", IconName = "ico_ep.bmp", 
+Description = {"여러 의견을 들어보고 오라는 조언을 들었다. <NAVI>[열혈 청년]<INFO>wolfvill,145,146,0,101,0</INFO></NAVI>의 의견을 들어 보자."}
+, Summary = "열혈 청년과 대화", NpcSpr = "4_EP18_GW_MAN01", NpcNavi = "wolfvill", NpcPosX = 145, NpcPosY = 146}
+, 
+[16569] = {Title = "각자의 의견", IconName = "ico_ep.bmp", 
+Description = {"여러 의견을 들어보고 오라는 조언을 들었다. <NAVI>[토박이 노인]<INFO>wolfvill,139,148,0,101,0</INFO></NAVI>의 의견을 들어 보자."}
+, Summary = "토박이 노인과 대화", NpcSpr = "4_EP18_GW_OLD01", NpcNavi = "wolfvill", NpcPosX = 139, NpcPosY = 148}
+, 
+[16570] = {Title = "각자의 의견", IconName = "ico_ep.bmp", 
+Description = {"여러 의견을 들어보고 오라는 조언을 들었다. <NAVI>[열혈 장년]<INFO>wolfvill,150,147,0,101,0</INFO></NAVI>의 의견을 들어 보자."}
+, Summary = "열혈 장년과 대화", NpcSpr = "4_M_MIDDLE", NpcNavi = "wolfvill", NpcPosX = 150, NpcPosY = 147}
+, 
+[16571] = {Title = "각자의 의견", IconName = "ico_ep.bmp", 
+Description = {"여러 의견을 들어보고 오라는 조언을 들었다. <NAVI>[소심한 청년]<INFO>wolfvill,152,145,0,101,0</INFO></NAVI>의 의견을 들어 보자."}
+, Summary = "소심한 청년과 대화", NpcSpr = "4_M_RACHMAN1", NpcNavi = "wolfvill", NpcPosX = 152, NpcPosY = 145}
+, 
+[16572] = {Title = "회색늑대 숲의 대회의", IconName = "ico_ep.bmp", 
+Description = {"회색늑대 숲 사람들의 의견을 충분히 들어본 것 같다. <NAVI>[수아드]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "수아드와 대화", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 144, NpcPosY = 151}
+, 
+[16573] = {Title = "무기의 출처", IconName = "ico_ep.bmp", 
+Description = {"회의가 끝난 뒤 <NAVI>[미리암]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>이 조용히 모험가와 친구들을 불렀다. 무슨 일일까?"}
+, Summary = "미리암과 대화", NpcSpr = "4_EP18_MIRIAM", NpcNavi = "wolfvill", NpcPosX = 148, NpcPosY = 151}
+, 
+[16574] = {Title = "무기의 출처", IconName = "ico_ep.bmp", 
+Description = {"마람과 함께, 무장한 <NAVI>[과격파 청년]<INFO>wolfvill,143,145,0,101,0</INFO></NAVI>에게 가서 무기의 출처를 캐 보자."}
+, Summary = "과격파 청년과 대화", NpcSpr = "4_M_RASWORD", NpcNavi = "wolfvill", NpcPosX = 143, NpcPosY = 145}
+, 
+[16575] = {Title = "무기의 출처", IconName = "ico_ep.bmp", 
+Description = {"무기가 어디서 나왔는지 찾으려면 <NAVI>[수염쟁이 잭]<INFO>rachel,75,44,0,101,0</INFO></NAVI>에게 암호를 불러 주어야 한다."}
+, Summary = "수염쟁이 잭과 대화", NpcSpr = "4_M_MIDDLE1", NpcNavi = "rachel", NpcPosX = 75, NpcPosY = 44}
+, 
+[16576] = {Title = "무기의 출처", IconName = "ico_ep.bmp", 
+Description = {"수염쟁이 잭은 모험가와 마람에게 베인스의 무기상 <NAVI>[단데론]<INFO>veins,293,282,0,101,0</INFO></NAVI>을 소개해 주었다."}
+, Summary = "단데론과 대화", NpcSpr = "4_M_DESERT", NpcNavi = "veins", NpcPosX = 293, NpcPosY = 282}
+, 
+[16577] = {Title = "무기의 출처", IconName = "ico_ep.bmp", 
+Description = {"마람은 <NAVI>[군수기지]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>로 향하는 지름길을 알고 있다며 모험가를 안내했다."}
+, Summary = "마람과 접선", NpcSpr = "4_EP18_MARAM", NpcNavi = "que_thr", NpcPosX = 133, NpcPosY = 53}
+, 
+[16578] = {Title = "무기의 출처", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[토르 군수기지]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>안에서 만난 것은 예상치 못한 사람이었다."}
+, Summary = "미리암과 대화", NpcSpr = "4_EP18_MIRIAM"}
+, 
+[16579] = {Title = "무기의 출처", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[토르 군수기지]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>에서 마람과 대화하여, 얻은 실마리에 대해 이야기를 나눠 보자."}
+, Summary = "마람과 대화", NpcSpr = "4_EP18_MARAM"}
+, 
+[16580] = {Title = "무기의 출처", IconName = "ico_ep.bmp", 
+Description = {"토르 군수기지에서 알아낸 사실을 빠르게 <NAVI>[수아드]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>에게 전달해 주자."}
+, Summary = "수아드와 대화.", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 140, NpcPosY = 112}
+, 
+[16581] = {Title = "어린이들도 알고 있다", IconName = "ico_ep.bmp", 
+Description = {"돈이 없다는 나이만의 말에 <NAVI>[카르]<INFO>rachel,37,41,0,101,0</INFO></NAVI>가 눈을 동그랗게 떴다."}
+, Summary = "카르와 대화", NpcSpr = "4_M_RACHMAN1", NpcNavi = "rachel", NpcPosX = 37, NpcPosY = 41}
+, 
+[16582] = {Title = "어린이들도 알고 있다", IconName = "ico_ep.bmp", 
+Description = {"정색하며 화를 내는 나이만을 보고 <NAVI>[러크시]<INFO>rachel,40,45,0,101,0</INFO></NAVI>가 눈살을 찌푸렸다."}
+, Summary = "러크시와 대화", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 40, NpcPosY = 45}
+, 
+[16583] = {Title = "어린이들도 알고 있다", IconName = "ico_ep.bmp", 
+Description = {"도대체 <NAVI>[나이만]<INFO>rachel,36,45,0,101,0</INFO></NAVI>은 이런 아이들을 왜 친구로 삼은 걸까? 직접 물어보자."}
+, Summary = "나이만과 대화", NpcSpr = "4_F_DST_CHILD", NpcNavi = "rachel", NpcPosX = 36, NpcPosY = 45}
+, 
+[16584] = {Title = "노동의 대가", IconName = "ico_ep.bmp", 
+Description = {"아모디핀은 밀린 월급을 받을 수 있도록 도움받고 싶어한다. 아모디핀의 고용주인 <NAVI>[다힐]<INFO>rachel,136,95,0,101,0</INFO></NAVI>과 대화해보자."}
+, Summary = "다힐과 대화", NpcSpr = "4_M_RACHMAN2", NpcNavi = "rachel", NpcPosX = 136, NpcPosY = 95}
+, 
+[16585] = {Title = "노동의 대가", IconName = "ico_ep.bmp", 
+Description = {"다힐은 무척 언짢아했지만 어쨌든 이야기를 들어 주었다. <NAVI>[아모디핀]<INFO>rachel,181,51,0,101,0</INFO></NAVI>에게 가서 소식을 전하자."}
+, Summary = "아모디핀과 대화", NpcSpr = "4_M_MIDDLE", NpcNavi = "rachel", NpcPosX = 181, NpcPosY = 51}
+, 
 [17000] = {Title = "대화 거부", IconName = "ico_ep.bmp", 
 Description = {"<NAVI>[레이지]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>씨는 더 이상 카야 토스 부사장과 대화 하기를 거부했다. 무슨 사연이 있는지 물어 보자."}
 , Summary = "레이지씨와 대화"}
@@ -26139,6 +26839,102 @@ Description = {"따뜻한 솜 기부를 마쳤습니다."}
 Description = {"축제 카드를 교환하였습니다."}
 , Summary = ""}
 , 
+[17504] = {Title = "나의 집은 어디인가", IconName = "ico_ep.bmp", 
+Description = {"모험가님, 부탁 좀 드릴게요. 이곳에서 최신식의 진료소는 꼭 필요해요. <NAVI>[어르신]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>들을 설득해주세요."}
+, Summary = "어르신들 설득"}
+, 
+[17505] = {Title = "나의 집은 어디인가", IconName = "ico_ep.bmp", 
+Description = {"진료소 건은 나중에 우리가 가서 <NAVI>[그 이]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>에게 한 번 더 얘기할 테니, 외지인은 이 일에서 빠지는게 좋겠어요."}
+, Summary = "설득 실패"}
+, 
+[17506] = {Title = "나의 집은 어디인가", IconName = "ico_ep.bmp", 
+Description = {"웬만한 물건은 <NAVI>[이곳]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>에서 구할 수 있지만, 강철만은 그렇지 않거든요. 조금만 부탁드릴게요. 3개 정도만..."}
+, Summary = "강철 3개"}
+, 
+[17507] = {Title = "나의 집은 어디인가", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[에제키엘]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>이 치료하는 것을 지켜보자."}
+, Summary = "치료 과정"}
+, 
+[17508] = {Title = "물자 부족", IconName = "ico_dq.bmp", 
+Description = {"강철은 1개, 베리 딴딴 결정은 10개만 부탁드려요. 베리 딴딴 결정은 회색 늑대에게서 얻을 수 있어요. - <NAVI>[에제키엘]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>"}
+, Summary = "건축 재료"}
+, 
+[17509] = {Title = "대기: 물자 부족", IconName = "ico_dq.bmp", 
+Description = {"모험가님, 고생 많으셨어요. 오늘은 이만 쉬시고 새벽 시간이 지나면 다시 뵐게요! - <NAVI>[에제키엘]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>"}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17510] = {Title = "세상에 나쁜 짐승은 없다", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[아이샤]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI>가 주워온 것이 진짜 새끼 늑대인지 아니면 그냥 늑대처럼 보이는 강아지인지 확인만 하시면 돼요."}
+, Summary = "아이샤에게로"}
+, 
+[17511] = {Title = "세상에 나쁜 짐승은 없다", IconName = "ico_ep.bmp", 
+Description = {"고기만 있다면 <NAVI>[복실이]<INFO>wolfvill,100,177,0,101,0</INFO></NAVI> 훈련은 문제 없죠. 하나면 충분해요."}
+, Summary = "고기와 복실이"}
+, 
+[17512] = {Title = "세상에 나쁜 짐승은 없다", IconName = "ico_ep.bmp", 
+Description = {"복실이도 이 마을의 구성원으로서 살 준비가 되어 있다는 걸 <NAVI>[스카니아]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>에게 보여주러 가자!"}
+, Summary = "스카니아에게"}
+, 
+[17513] = {Title = "뜻밖의 양치기", IconName = "ico_dq.bmp", 
+Description = {"복실이는 <NAVI>[숲]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI>에서 풀을 뜯는 걸 좋아해요. 풀을 뜯는 동안 지켜주세요."}
+, Summary = "숲으로"}
+, 
+[17514] = {Title = "뜻밖의 양치기", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[복실이]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI>이가 풀을 뜯는 동안 애쉬링을 처치하자."}
+, Summary = "애쉬링 20"}
+, 
+[17515] = {Title = "뜻밖의 양치기", IconName = "ico_dq.bmp", 
+Description = {"풀을 다 뜯은 복실이는 <NAVI>[스카니아]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>에게 돌아갔나보다. 가서 보고하자."}
+, Summary = "스카니아에게"}
+, 
+[17516] = {Title = "대기: 뜻밖의 양치기", IconName = "ico_dq.bmp", 
+Description = {"모험가님, 고생 많이 하셨어요. 그럼 내일도 또 부탁드려요! - <NAVI>[스카니아]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>"}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17517] = {Title = "반란군", IconName = "ico_ep.bmp", 
+Description = {"상단 습격이라니. 일단 그 <NAVI>[녀석들]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI>을 먼저 만나 봐야겠어."}
+, Summary = "진상 확인"}
+, 
+[17518] = {Title = "반란군", IconName = "ico_ep.bmp", 
+Description = {"비교적 가벼운 처분을 내렸지만 <NAVI>[늑대들]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI>은 불만이 많아 보인다."}
+, Summary = "반발하는 사람들"}
+, 
+[17519] = {Title = "반란군", IconName = "ico_ep.bmp", 
+Description = {"그럼, 결정됐으니 서두르자. 시위를 위해 라헬의 <NAVI>[신전 앞]<INFO>rachel,169,245,0,101,0</INFO></NAVI>으로 모이라고 전해."}
+, Summary = "시위 결행!"}
+, 
+[17520] = {Title = "양 속의 늑대", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[신전]<INFO>rachel,169,245,0,101,0</INFO></NAVI>에서의 시위에 참여하자."}
+, Summary = "신전으로"}
+, 
+[17521] = {Title = "대화가 필요할 때", IconName = "ico_ep.bmp", 
+Description = {"대충 수습이 되었으면 빠르게 움직여요. 다들 <NAVI>[안전한]<INFO>rachel,116,200,0,101,0</INFO></NAVI> 곳으로 이동하고 있어요."}
+, Summary = "빠르게 피하자"}
+, 
+[17522] = {Title = "변절자 청소", IconName = "ico_dq.bmp", 
+Description = {"신전에 침투한 주요 세력은 빠져나갔지만 하트헌터 쪽으로 넘어간 신전 가드들의 청소를 부탁드립니다! - <NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "변절자 소탕"}
+, 
+[17523] = {Title = "성소 정화", IconName = "ico_dq.bmp", 
+Description = {"심장 보관소에 출몰하는 하트헌터의 잔당이 남아있어 골치입니다. 소탕작전에 함께 해주십시오! - <NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "하트헌터 잔당 소탕"}
+, 
+[17524] = {Title = "변절자 청소", IconName = "ico_dq.bmp", 
+Description = {"변절한 가드들의 소탕작전을 마무리했다. <NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>에게 돌아가 보고하자."}
+, Summary = "신관에게 보고"}
+, 
+[17525] = {Title = "대화가 필요할 때", IconName = "ico_ep.bmp", 
+Description = {"미리암은 동행할 사람이 있다며, 오즈의 미로에서 따로 만나자고 했다. 오즈의 미로가 절벽 외부로 드러나는 곳이 있다. <NAVI>[약속장소]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>에서 대기하자."}
+, Summary = "약속장소로"}
+, 
+[17526] = {Title = "성소 정화", IconName = "ico_dq.bmp", 
+Description = {"보관소의 하트헌터 소탕작전을 마무리했다. <NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>에게 돌아가 보고하자."}
+, Summary = "신관에게 보고"}
+, 
+[17527] = {Title = "대기: 소탕 작전", IconName = "ico_dq.bmp", 
+Description = {"모험가님의 협력에 감사드립니다. 오늘은 쉬시고 내일 또 다시 협조 부탁드립니다! - <NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
 [18000] = {Title = "진입 준비", IconName = "ico_ep.bmp", 
 Description = {"드디어 하수관의 잠금장치 해제에 성공한 리벨리온. 루키는 하수관으로 진입할 준비가 다 되면 다시 말을 걸어 달라고 했다."}
 , Summary = "루키와 대화"}
@@ -26458,6 +27254,30 @@ Description = {"해당 퀘스트는 대기시간이 지난 뒤 부스터 콜을 사용해 소환한 \'라�
 [18081] = {Title = "오크전사의 증표 납품-대기", IconName = "ico_dq.bmp", 
 Description = {"고블린 리더에게 하루에 한 번, 고블린의 영역관리를 돕기 위해 오크를 처치했다는 증거로 <ITEM>[오크전사의 증표]<INFO>931</INFO></ITEM> 100개를 납품할 수 있습니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[18082] = {Title = "대회의 참석 자격", IconName = "ico_ep.bmp", 
+Description = {"회색늑대 마을의 일원으로 인정 받아 대회의에 참석할 수 있는 자격이 생겼다. <NAVI>[마을 소년]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>에게 대회의가 열리는 곳을 물어보자."}
+, Summary = "마을 소년에게 대회의 위치 묻기", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 179}
+, 
+[18083] = {Title = "대신관의 별장 조사", IconName = "ico_ep.bmp", 
+Description = {"바곳와 하트헌터의 행방을 찾기 위해 대신관 아말의 별장을 조사하기로 했다. 가능하다면 바곳과 대신관 아말의 계획을 방해하자."}
+, Summary = "대신관의 별장 조사"}
+, 
+[18084] = {Title = "진상 조사", IconName = "ico_ep.bmp", 
+Description = {"대신관 아말의 진정한 목적이 무엇이었는지, 왜 일루시온과 협력했는지 알아내야 한다. 세스룸니르에서 <NAVI>[미리암]<INFO>ra_temin,254,117,0,101,0</INFO></NAVI>과 이야기하자."}
+, Summary = "미리암과 대화"}
+, 
+[18085] = {Title = "기도의 방향", IconName = "ico_ep.bmp", 
+Description = {"세스룸니르 신전에서 엘리가 신기한 모습으로 나타났다. 뭔가 중요한 이야기를 할 모양이다. <NAVI>[엘리]<INFO>ra_temin,258,117,0,101,0</INFO></NAVI>와 대화하자."}
+, Summary = "엘리와 대화"}
+, 
+[18086] = {Title = "회색늑대 숲을 더 안전하게", IconName = "ico_dq.bmp", 
+Description = {"회색늑대 마을의 <NAVI>[문지기]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>는 자신의 안전을 위해 회색늑대 숲의 몬스터를 처치해 달라고 부탁했다."}
+, Summary = "회색늑대 숲 몬스터 토벌", NpcSpr = "4_M_SITDOWN", NpcNavi = "gw_fild01", NpcPosX = 32, NpcPosY = 101}
+, 
+[18087] = {Title = "회색늑대 숲을 더 안전하게-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 대기시간이 지난 뒤 타나토스 타워 <NAVI>[문지기]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>를 통해 다시 받을 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_M_SITDOWN", NpcNavi = "gw_fild01", NpcPosX = 32, NpcPosY = 101}
 , 
 [21001] = {Title = "난파선 탈출", 
 Description = {"여행 중 풍랑을 만나 무인도에 난파해 버린 배에서 탈출해야 한다. 선내에 아직 부상자가 있음을 알리자."}
@@ -27580,7 +28400,7 @@ Description = {"휘겔의 <NAVI>[어부 아인]<INFO>hugel,100,149,0,101,0</INFO></NAVI
 , Summary = "게와 에스터 퇴치"}
 , 
 [21295] = {Title = "조개 캐기 체험", IconName = "ico_dq.bmp", 
-Description = {"휘겔의 <NAVI>[어부 아인]<INFO>hugel,100,149,0,101,0</INFO></NAVI>은 바다 낀 휴양지 휘겔에 왔으니 본격적인 어촌의 삶을 체험해 보는게 어떻겠냐며, 조개잡이를 건의했다. <NAVI>[해변]<INFO>hu_fild06,200,364,0,101,0</INFO></NAVI>에서 조개를 잡고 조개살을 구해하면 맛있는 요리를 해 줄 모양이다."}
+Description = {"휘겔의 <NAVI>[어부 아인]<INFO>hugel,100,149,0,101,0</INFO></NAVI>은 바다 낀 휴양지 휘겔에 왔으니 본격적인 어촌의 삶을 체험해 보는게 어떻겠냐며, 조개잡이를 건의했다. <NAVI>[해변]<INFO>hu_fild06,200,364,0,101,0</INFO></NAVI>에서 조개를 잡고 조개살을 구해오면 맛있는 요리를 해 줄 모양이다."}
 , Summary = "조개살 5개"}
 , 
 [21296] = {Title = "수도관 고장의 원흉", IconName = "ico_dq.bmp", 

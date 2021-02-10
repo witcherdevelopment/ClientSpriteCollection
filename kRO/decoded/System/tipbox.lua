@@ -985,7 +985,7 @@ Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 
 [4101] = {Title = "에피소드#퀘스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"커다란 줄기의 이야기를 따라 진행되는 퀘스트와 컨텐츠 모듬입니다.\n\n\t\t<TIPBOX>▶에피소드 13<INFO>4102</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 14<INFO>4103</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 15<INFO>4104</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 16<INFO>4105</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 17<INFO>4106</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"커다란 줄기의 이야기를 따라 진행되는 퀘스트와 컨텐츠 모듬입니다.\n\n\t\t<TIPBOX>▶에피소드 13<INFO>4102</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 14<INFO>4103</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 15<INFO>4104</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 16<INFO>4105</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 17<INFO>4106</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 18<INFO>4216</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4102] = {Title = "에피소드 13#ep", Search = 1, Image = "", 
@@ -1021,7 +1021,7 @@ Page = {"비밀 연구소를 찾아 슈발츠발드 곳곳을 조사하던 리벨리온과 비밀의 날개는 
 [4107] = {Title = "에피소드 보상#장비", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"특정 에피소드 진행시 획득할 수 있는 전용 재화로 여러가지 아이템 교환이 가능합니다.\n\n\t\t<TIPBOX>▶Ep16.1 명예의 증표 보상<INFO>4108</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 슈발츠 명예의 증표 보상<INFO>4109</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 일루시온, OS 시리즈<INFO>4110</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.2 오토매틱 시리즈<INFO>4111</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶Ep16.1 노블레스 시리즈<INFO>4112</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 임페리얼 시리즈<INFO>4113</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 그레이스 시리즈<INFO>4114</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"특정 에피소드 진행시 획득할 수 있는 전용 재화로 여러가지 아이템 교환이 가능합니다.\n\n\t\t<TIPBOX>▶Ep16.1 명예의 증표 보상<INFO>4108</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 슈발츠 명예의 증표 보상<INFO>4109</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 일루시온, OS 시리즈<INFO>4110</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.2 오토매틱 시리즈<INFO>4111</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶Ep16.1 노블레스 시리즈<INFO>4112</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 임페리얼 시리즈<INFO>4113</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 그레이스 시리즈<INFO>4114</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep18 그레이 울프 시리즈<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 아둘테르 시리즈<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 비바투스 시리즈<INFO>4220</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4108] = {Title = "Ep16.1 명예의 증표 보상#아첨독설도심", Search = 1, Image = "", 
@@ -1171,7 +1171,7 @@ Page = {"이하의 에피소드에 160레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 14.3
 [4132] = {Title = "퀘스트 레벨 170~179", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>Q 이상진화를 일으킨 딜리터 (175)<INFO>6116</INFO></TIPBOX>\n\t\t<TIPBOX>Q 실체가 된 악몽 퇴치 (175)<INFO>6117</INFO></TIPBOX>\n\t\t<TIPBOX>Q 밀도 확인 (175)<INFO>6118</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바스라지는 작은 것들 (175)<INFO>6119</INFO></TIPBOX>\n\t\t<TIPBOX>Q 내용물이 없는 것 (175)<INFO>6120</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어는점이 높은 것 (175)<INFO>6121</INFO></TIPBOX>\n\t\t<TIPBOX>Q 거울과도 같은 것 (175)<INFO>6122</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 170레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 17.2 현자의 유산<INFO>7068</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 170레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 라비린스<INFO>9092</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 이상진화를 일으킨 딜리터 (175)<INFO>6116</INFO></TIPBOX>\n\t\t<TIPBOX>Q 실체가 된 악몽 퇴치 (175)<INFO>6117</INFO></TIPBOX>\n\t\t<TIPBOX>Q 밀도 확인 (175)<INFO>6118</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바스라지는 작은 것들 (175)<INFO>6119</INFO></TIPBOX>\n\t\t<TIPBOX>Q 내용물이 없는 것 (175)<INFO>6120</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어는점이 높은 것 (175)<INFO>6121</INFO></TIPBOX>\n\t\t<TIPBOX>Q 거울과도 같은 것 (175)<INFO>6122</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 170레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 17.2 현자의 유산<INFO>7068</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 170레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 라비린스<INFO>9092</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4133] = {Title = "퀘스트 레벨 180~189", Search = 1, Image = "", 
@@ -1189,7 +1189,7 @@ Page = {"<TIPBOX>Q 특이한 색의 페러스 (190)<INFO>6112</INFO></TIPBOX>\n\t\t<TIPB
 [4135] = {Title = "퀘스트 레벨 200~209", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"아직 등록된 퀘스트가 없습니다.\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"이하의 에피소드에 200레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4136] = {Title = "퀘스트 레벨 210~219", Search = 1, Image = "", 
@@ -1670,6 +1670,204 @@ Page = {"베인스 필드에서 수행가능한 토벌 퀘스트. 파견된 조사관을 통해 토벌 의뢰�
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"아우둠라 초원에서 수행가능한 토벌 퀘스트. 파견된 조사관을 통해 토벌 의뢰를 받을 수 있다.\n\t\t위치: 라헬 동북북북\n\t\t대상: 데저트울프, 로우윈, 위레스\n\t\t^663399◈레벨 88^000000\n\t\t\n\t\t<NAVI>[조사관 시아라]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4216] = {Title = "에피소드 18#ep", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"바르문트 저택에서 분석한 정보에 따르면, 일루시온의 일부는 라헬에서 무언가를 진행하고 있었던 것 같습니다. 그들이 왜 라헬을 노리는지 조사할 모험가가 필요합니다.\n\t\t\n\t\t<TIPBOX>▶EP 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep18 그레이 울프 시리즈<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 아둘테르 시리즈<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 비바투스 시리즈<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4217] = {Title = "Episode 18 기도의 방향#퀘스트에피소드", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"비공정 관리자 엘리는 그간 분석한 정보를 통해 라헬에도 일루시온이 활동하고 있음을 알아낸다. 바르문트 저택과 공화국과의 마무리를 지어야 하는 리벨리온을 대신해 모험가는 라헬로 향하지만 그 곳에서 마주한 것은 불신과 선동이었다.\n\t\t\n\t\t<TIPBOX>▶EP. 17.2 현자의 유산<INFO>7068</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t▶시작 퀘스트\n\t\t<TIPBOX>Q 교국으로 <INFO>4221</INFO></TIPBOX>\n\t\t\n\t\t▶메인 퀘스트\n\t\t<TIPBOX>Q 니르엔의 부탁<INFO>4222</INFO></TIPBOX>\n\t\t<TIPBOX>Q 회색의 아이들<INFO>4223</INFO></TIPBOX>\n\t\t<TIPBOX>Q 대회의 참석 자격<INFO>4224</INFO></TIPBOX>\n\t\t<TIPBOX>Q 회색늑대 숲의 대회의<INFO>4225</INFO></TIPBOX>\n\t\t<TIPBOX>Q 무기의 출처<INFO>4226</INFO></TIPBOX>\n\t\t<TIPBOX>Q 반란군<INFO>4227</INFO></TIPBOX>\n\t\t<TIPBOX>Q 양 속의 늑대<INFO>4228</INFO></TIPBOX>\n\t\t<TIPBOX>Q 대화가 필요할 때<INFO>4229</INFO></TIPBOX>\n\t\t<TIPBOX>Q 대신관의 별장 조사<INFO>4230</INFO></TIPBOX>\n\t\t\n\t\t▶서브 퀘스트\n\t\t<TIPBOX>Q 회색늑대 마을의 총관<INFO>4232</INFO></TIPBOX>\n\t\t<TIPBOX>Q 잠이 오지 않아요<INFO>4233</INFO></TIPBOX>\n\t\t<TIPBOX>Q 이야기를 모아 주세요<INFO>4234</INFO></TIPBOX>\n\t\t<TIPBOX>Q 여기는 그곳이 아니에요<INFO>4235</INFO></TIPBOX>\n\t\t<TIPBOX>Q 오늘의 일용할 양식<INFO>4236</INFO></TIPBOX>\n\t\t<TIPBOX>Q 정수용 성물<INFO>4237</INFO></TIPBOX>\n\t\t<TIPBOX>Q 때늦은 이주<INFO>4238</INFO></TIPBOX>\n\t\t<TIPBOX>Q 나의 집은 어디인가<INFO>4239</INFO></TIPBOX>\n\t\t<TIPBOX>Q 세상에 나쁜 짐승은 없다<INFO>4240</INFO></TIPBOX>\n\t\t<TIPBOX>Q 오즈의 미로와 행상인<INFO>4241</INFO></TIPBOX>\n\t\t<TIPBOX>Q 분위기 살피기<INFO>4242</INFO></TIPBOX>\n\t\t<TIPBOX>Q 어린이들도 알고 있다<INFO>4243</INFO></TIPBOX>\n\t\t<TIPBOX>Q 노동의 대가<INFO>4244</INFO></TIPBOX>\n\t\t<TIPBOX>Q 회색늑대의 숲의 꽃<INFO>4245</INFO></TIPBOX>\n\t\t<TIPBOX>Q 플라워룸의 업무<INFO>4246</INFO></TIPBOX>\n\t\t<TIPBOX>Q 회색늑대 숲을 더 안전하게<INFO>4247</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep18 그레이 울프 시리즈<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 아둘테르 시리즈<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 비바투스 시리즈<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 18<INFO>4216</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4218] = {Title = "Ep18 그레이 울프 시리즈#자수정조각", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"에피소드를 진행하면서 획득한 <ITEM>[자수정 조각]<INFO>1000405</INFO></ITEM>으로 회색늑대 마을에서 여러가지 유용한 장비아이템으로 교환할 수 있습니다.\n\t\t\n\t\t^663399◈교환 위치^000000\n\t\t▶<NAVI>[에메트]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈그레이 울프 시리즈^000000\n\t\t<ITEM>[그레이 울프 슈츠]<INFO>450177</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 로브]<INFO>450178</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 망토]<INFO>480091</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 머플러]<INFO>480090</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 부츠]<INFO>470087</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 슈즈]<INFO>470088</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 펜던트]<INFO>490106</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 링]<INFO>490107</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 이어링]<INFO>490108</INFO></ITEM>\n\t\t<ITEM>[그레이 울프 네클리스]<INFO>490109</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶Ep18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4219] = {Title = "Ep18 아둘테르 피데스 시리즈#기만의별장ep18무기", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"에피소드를 클리어 하고 진입 가능한 MD 기만의 별장에서 획득 가능한 무기들입니다.\n\t\t\n\t\t^663399◈아둘테르 피데스 시리즈^000000\n\t\tMD기만의 별장 일반 난이도에서 획득할 수 있습니다.\n\t\t<ITEM>[투핸드소드]<INFO>600017</INFO></ITEM>\n\t\t<ITEM>[랜스]<INFO>630012</INFO></ITEM>\n\t\t<ITEM>[가디언 소드]<INFO>500025</INFO></ITEM>\n\t\t<ITEM>[가디언 스피어]<INFO>530013</INFO></ITEM>\n\t\t<ITEM>[액스]<INFO>520008</INFO></ITEM>\n\t\t<ITEM>[메이스]<INFO>590021</INFO></ITEM>\n\t\t<ITEM>[레이피어]<INFO>500026</INFO></ITEM>\n\t\t<ITEM>[홀]<INFO>590022</INFO></ITEM>\n\t\t<ITEM>[차크람]<INFO>610020</INFO></ITEM>\n\t\t<ITEM>[카타르]<INFO>610021</INFO></ITEM>\n\t\t<ITEM>[대거]<INFO>510032</INFO></ITEM>\n\t\t<ITEM>[크로스보우]<INFO>700030</INFO></ITEM>\n\t\t<ITEM>[투핸드 스태프]<INFO>640019</INFO></ITEM>\n\t\t<ITEM>[로드]<INFO>640020</INFO></ITEM>\n\t\t<ITEM>[매직 북]<INFO>540019</INFO></ITEM>\n\t\t<ITEM>[포이즌 북]<INFO>540020</INFO></ITEM>\n\t\t<ITEM>[바이블]<INFO>540021</INFO></ITEM>\n\t\t<ITEM>[완드]<INFO>550024</INFO></ITEM>\n\t\t<ITEM>[너클]<INFO>560018</INFO></ITEM>\n\t\t<ITEM>[크로]<INFO>560019</INFO></ITEM>\n\t\t<ITEM>[발리스타]<INFO>700031</INFO></ITEM>\n\t\t<ITEM>[에이밍 보우]<INFO>700032</INFO></ITEM>\n\t\t<ITEM>[바이올린]<INFO>570017</INFO></ITEM>\n\t\t<ITEM>[체인로프]<INFO>580017</INFO></ITEM>\n\t\t<ITEM>[하프]<INFO>570018</INFO></ITEM>\n\t\t<ITEM>[리본]<INFO>580018</INFO></ITEM>\n\t\t<ITEM>[풍마수리검]<INFO>650008</INFO></ITEM>\n\t\t<ITEM>[십자풍마수리검]<INFO>650009</INFO></ITEM>\n\t\t<ITEM>[리볼버]<INFO>800003</INFO></ITEM>\n\t\t<ITEM>[샷건]<INFO>820002</INFO></ITEM>\n\t\t<ITEM>[라이플]<INFO>810002</INFO></ITEM>\n\t\t<ITEM>[개틀링건]<INFO>830003</INFO></ITEM>\n\t\t<ITEM>[런쳐]<INFO>840002</INFO></ITEM>\n\t\t<ITEM>[문북]<INFO>540022</INFO></ITEM>\n\t\t<ITEM>[스타더스트북]<INFO>540023</INFO></ITEM>\n\t\t<ITEM>[소울스틱]<INFO>550025</INFO></ITEM>\n\t\t<ITEM>[다크완드]<INFO>550026</INFO></ITEM>\n\t\t<ITEM>[폭스테일 완드]<INFO>550027</INFO></ITEM>\n\t\t<ITEM>[폭스테일 모델]<INFO>550028</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶Ep18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4220] = {Title = "Ep18 비바투스 피데스 시리즈#기만의별장ep18무기", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"에피소드를 클리어 하고 진입 가능한 MD 기만의 별장에서 획득 가능한 무기들입니다. MD기만의 별장 상급 난이도에서 획득하거나 아둘테르 피데스 무기를 정화하여 제작할 수 있습니다. 정화의식에는 +9 제련된 아둘테스 피데스 무기가 필요합니다.\n\t\t\n\t\t^663399◈정화의식 위치^000000\n\t\t▶<NAVI>[밤다트]<INFO>wolfvill,170,131,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈비바투스 피데스 시리즈^000000\n\t\t<ITEM>[투핸드소드]<INFO>600018</INFO></ITEM>\n\t\t<ITEM>[랜스]<INFO>630013</INFO></ITEM>\n\t\t<ITEM>[가디언 소드]<INFO>500027</INFO></ITEM>\n\t\t<ITEM>[가디언 스피어]<INFO>530014</INFO></ITEM>\n\t\t<ITEM>[액스]<INFO>520009</INFO></ITEM>\n\t\t<ITEM>[메이스]<INFO>590023</INFO></ITEM>\n\t\t<ITEM>[레이피어]<INFO>500028</INFO></ITEM>\n\t\t<ITEM>[홀]<INFO>590024</INFO></ITEM>\n\t\t<ITEM>[차크람]<INFO>610022</INFO></ITEM>\n\t\t<ITEM>[카타르]<INFO>610023</INFO></ITEM>\n\t\t<ITEM>[대거]<INFO>510033</INFO></ITEM>\n\t\t<ITEM>[크로스보우]<INFO>700033</INFO></ITEM>\n\t\t<ITEM>[투핸드 스태프]<INFO>640021</INFO></ITEM>\n\t\t<ITEM>[로드]<INFO>640022</INFO></ITEM>\n\t\t<ITEM>[매직 북]<INFO>540024</INFO></ITEM>\n\t\t<ITEM>[포이즌 북]<INFO>540025</INFO></ITEM>\n\t\t<ITEM>[바이블]<INFO>540026</INFO></ITEM>\n\t\t<ITEM>[완드]<INFO>550029</INFO></ITEM>\n\t\t<ITEM>[너클]<INFO>560020</INFO></ITEM>\n\t\t<ITEM>[크로]<INFO>560021</INFO></ITEM>\n\t\t<ITEM>[발리스타]<INFO>700034</INFO></ITEM>\n\t\t<ITEM>[에이밍 보우]<INFO>700035</INFO></ITEM>\n\t\t<ITEM>[바이올린]<INFO>570019</INFO></ITEM>\n\t\t<ITEM>[체인로프]<INFO>580019</INFO></ITEM>\n\t\t<ITEM>[하프]<INFO>570020</INFO></ITEM>\n\t\t<ITEM>[리본]<INFO>580020</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶Ep18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4221] = {Title = "Q 교국으로(170)#퀘스트에피18시작", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"시간은 우리 편이라던 바르문트 저택의 자동인형들은 정말로 단서를 포착했습니다.\n\t\t과연 도망친 자들은 지금 어디서 무엇을 하고 있을까요?\n\t\t\n\t\t<TIPBOX>▶EP. 17.2 현자의 유산<INFO>7068</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[스마트 엘리]<INFO>ba_in01,26,266,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4222] = {Title = "Q 니르엔의 부탁 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"신전을 침입한 자들의 정보를 얻은 니르엔은 신전 경비에 집중하기 위해 모험가에게 부탁할 것이 있는 것 같습니다.\n\t\t<TIPBOX>▶교국으로<INFO>4221</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[치안대원 덴트]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4223] = {Title = "Q 회색의 아이들 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"니르엔의 아들 마람은 급히 처리해야할 일이 있는 것 같습니다.\n\t\t모험가가 도울만한 일이 있을까요?\n\t\t<TIPBOX>▶니르엔의 부탁<INFO>4222</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[마람]<INFO>rachel,70,147,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4224] = {Title = "Q 대회의 참석 자격 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을에서 대회의에 참석하려면 마을의 일원으로 받아들여져야 합니다. 마을내에서 할 수 있는 일을 찾아서 하다보면 어느순간 대회의 참가 자격이 주어질 것입니다.\n\t\t▶회색늑대 마을 일반퀘스트 10종 완료\n\t\t<TIPBOX>▶회색늑대 마을의 총관<INFO>4232</INFO></TIPBOX>\n\t\t<TIPBOX>▶잠이 오지 않아요<INFO>4233</INFO></TIPBOX>\n\t\t<TIPBOX>▶이야기를 모아 주세요<INFO>4234</INFO></TIPBOX>\n\t\t<TIPBOX>▶여기는 그곳이 아니에요<INFO>4235</INFO></TIPBOX>\n\t\t<TIPBOX>▶오늘의 일용할 양식<INFO>4236</INFO></TIPBOX>\n\t\t<TIPBOX>▶정수용 성물<INFO>4237</INFO></TIPBOX>\n\t\t<TIPBOX>▶때늦은 이주<INFO>4238</INFO></TIPBOX>\n\t\t<TIPBOX>▶나의 집은 어디인가<INFO>4239</INFO></TIPBOX>\n\t\t<TIPBOX>▶세상에 나쁜 짐승은 없다<INFO>4240</INFO></TIPBOX>\n\t\t<TIPBOX>▶오즈의 미로와 행상인<INFO>4241</INFO></TIPBOX>\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4225] = {Title = "Q 회색늑대 숲의 대회의 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 숲의 사람들과 인연을 쌓아 마을의 일원으로 받아들여진 모험가는, 그 노력을 인정받아 회색늑대 숲의 앞날을 결정하는 대회의에까지 참가하게 됩니다.\n\t\t마침내 시작된 대회의, 회의의 결과는 과연 어떻게 될까요?\n\t\t▶퀘스트 대회의 참석 자격 진행\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[마을 소년]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4226] = {Title = "Q 무기의 출처 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"격론 끝에 마친 대회의. 흩어지는 사람들 틈에서 미리암은 이상한 점을 발견합니다.\n\t\t과한 무장을 한 몇몇 주민들. 그 무기의 출처는 어디이며 주민들은 어떤 의도로 무장을 하고 있는 것일까요?\n\t\t<TIPBOX>▶회색늑대 숲의 대회의<INFO>4225</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[미리암]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4227] = {Title = "Q 반란군 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을에 등장한 무기와 그 출처에 대해 고민중인 수아드에게 이번엔, 회색늑대 마을 일원의 상단 습격 소식까지 전해집니다.\n\t\t<TIPBOX>▶무기의 출처<INFO>4226</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[수아드]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4228] = {Title = "Q 양 속의 늑대 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"드디어 신전 앞에 모인 회색늑대 마을 사람들.\n\t\t라헬의 사람들에게 자신의 목소리를 제대로 들려줄 수 있을까요?\n\t\t<TIPBOX>▶반란군<INFO>4227</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[평범한 사람]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4229] = {Title = "Q 대화가 필요할 때 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"믿었던 동료의 배신으로 큰 충격에 빠진 수아드와 사제들. 하지만 곧 충격에서 빠져나와 마을과 신전의 혼란을 수습하기로 합니다.\n\t\t미리암은 이번 일의 조사를 위해 자신의 아버지가 향한 곳으로 떠납니다.\n\t\t<TIPBOX>▶양 속의 늑대<INFO>4228</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[니르엔]<INFO>rachel,116,200,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4230] = {Title = "Q 대신관의 별장 조사 (170)#퀘스트에피18기도의방향", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이 모든 일의 배후에는 대신관 아말과 결탁한 일루시온이 있는 것 같습니다. 대신관의 별장에서 그들이 하려는 일이 무엇인지, 왜 라헬에 혼란을 야기시켰는지 알 수 있을까요?\n\t\t<TIPBOX>▶대화가 필요할 때<INFO>4229</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[약속지점]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4231] = {Title = "MD 18 기만의 별장 (170)", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"대신관 유스의 여름 별장에서 이미 처치한 존재들의 형상이 여전히 목도되고 있다고 한다. 아이라는 불길한 그것이 신의 분노를 부르기 전에 모험가들의 손에 처리되길 바랍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>대신관의 별장 조사<INFO>4230</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t▷ 일반 모드\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 170 이상\n\t\t\n\t\t▷ 상급 모드\n\t\t→ <ITEM>[별장의 지하 열쇠]<INFO>1000471</INFO></ITEM>를 사용해 공략 가능\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t\n\t\t<NAVI>[아이라]<INFO>wolfvill,77,257,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4219</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4232] = {Title = "Q 회색늑대 마을의 총관 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을의 상단 총관인 하자르는 자신의 제자인 카밀을 수행시키려 하지만 시작부터 일이 쉽게 풀리지 않는것 같습니다.\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[하자르]<INFO>wolfvill,54,237,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4233] = {Title = "Q 잠이 오지 않아요 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"졸음에 겨운 눈을 하고 있는 회색늑대 숲의 한 아이. 무슨 일로 한숨도 자지 못한 것일까요? 어쩐지 불바람 솔개의 울음소리가 들릴 때마다 어깨를 움찔거리는 듯한 아이에게서 이야기를 들어 봅시다.\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[아히르]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4234] = {Title = "Q 이야기를 모아 주세요 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"학자처럼 보이지 않지만 사실 뛰어난 학자인 구드라는, 회색늑대 마을 사람들의 이야기를 모아 무언가를 연구하려고 하는 모양입니다. 도와줄 수 있을까요?\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[구드라]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4235] = {Title = "Q 여기는 그곳이 아니에요 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을의 고요한 호숫가에 모여 중얼중얼 누군가를 욕하고 있는 청년들. 무슨 이야기를 하고 있는지 살짝 엿들어 봅시다.\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[즐란]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4236] = {Title = "Q 오늘의 일용할 양식(170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을에 사는 에루인은 덫 사냥꾼입니다. 매일 사냥감을 회수할 일꾼을 모으고 있습니다.\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[에루인]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4237] = {Title = "Q 정수용 성물(170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을의 물 관리 담당인 부단은 라헬에서 식수 정수용 성물을 구해다 줄 사람을 찾고 있습니다.\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[부단]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4238] = {Title = "Q 때늦은 이주(170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라헬의 호텔 종업원인 호림은 회색늑대 마을로 떠나고 싶어합니다.\n\t\t호림을 도와 회색늑대 마을까지 데려다 줍시다.\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[호림]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4239] = {Title = "Q 나의 집은 어디인가 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"마음 붙일 곳을 찾아 온 회색늑대 마을이지만, 뜻하는 바를 이루기는 어렵습니다.\n\t\t에제키엘의 계획은 무엇일까요?\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[에제키엘]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4240] = {Title = "Q 세상에 나쁜 짐승은 없다 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을의 일원은 사람뿐만이 아닙니다.\n\t\t모두가 함께 어울려 살기 위해서는 무엇이 필요할까요?\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[스카니아]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4241] = {Title = "Q 오즈의 미로와 행상인 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을로 향하는 유일한 통로인 오즈의 미로를 통과하기란 쉽지 않은 일입니다.\n\t\t오즈의 미로에는 어떤 문제가 있는 걸까요?\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t^663399◈대회의 참석 필수 퀘스트^000000\n\t\t\n\t\t<NAVI>[이므릴]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4242] = {Title = "Q 분위기 살피기 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라헬의 신관 주녹은 이주민과 원주민 간의 갈등에 몹시 곤란한 상태입니다. 주녹의 부탁에 따라 서로 간에 어떤 마찰이 있는지 살펴보도록 합시다.\n\t\t<TIPBOX>▶교국으로<INFO>4221</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[주녹]<INFO>rachel,155,236,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4243] = {Title = "Q 어린이들도 알고 있다 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"모험가는 라헬의 길 구석에서 여러 친구들에게 따돌림당하는 듯한 어린이를 발견합니다. 무슨 사정일까요? 직접 들어 봅시다.\n\t\t<TIPBOX>▶교국으로<INFO>4221</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[사마리암]<INFO>rachel,38,44,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4244] = {Title = "Q 노동의 대가 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라헬의 한 주택가. 한숨을 푹푹 쉬며 자꾸만 하늘을 바라보는 초라한 차림의 사람이 있습니다. 무언가 곤란한 사정이 있는 듯 한데… 이야기를 들어 봅시다.\n\t\t<TIPBOX>▶교국으로<INFO>4221</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[아모디핀]<INFO>rachel,181,51,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4245] = {Title = "Q 회색늑대의 숲의 꽃 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라헬의 골목을 지나던 중 마주친 불편한 진실. 그래도 아이는 포기하지 않고 노력해 나가고자 합니다.\n\t\t<TIPBOX>▶교국으로<INFO>4221</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[학대 받는 아이]<INFO>rachel,176,80,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶플라워룸의 업무<INFO>4246</INFO></TIPBOX>로 연결됩니다.\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4246] = {Title = "Q 플라워룸의 업무 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라헬의 구박받던 천덕꾸러기에서 벗어나 꿈을 향해 사업을 시작한 메자이. 매일 회색늑대의 숲으로 출근해 메자이의 사업을 도와줄 동업자가 바로 당신입니다.\n\t\t<TIPBOX>▶회색늑대의 숲의 꽃<INFO>4245</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[메자이]<INFO>rachel,70,135,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4247] = {Title = "Q 회색늑대 숲을 더 안전하게 (170)#퀘스트에피18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"회색늑대 마을의 입구를 지키는 문지기는 시시때때로 위협하는 숲의 마물들에게 시달리고 있습니다. 친절한 누군가가 회색늑대 숲을 더 안전하게 만들어주면 좋을텐데요.\n\t\t<TIPBOX>▶회색의 아이들<INFO>4223</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 170 이상^000000\n\t\t\n\t\t<NAVI>[캠퍼]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4248] = {Title = "MD 18 성소 정화 (170)", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라헬의 신관은 불미스러운 일이 발생했던 성소에 아직도 수상한 무리가 포착되는 것 같다며, 성소를 정화해 주기를 바랍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶양 속의 늑대<INFO>4228</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 170 이상\n\t\t^663399◈퀘스트 진행용 MD입니다.^000000\n\t\t\n\t\t<NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [5001] = {Title = "MD 게펜 야간 투기장(210)#게펜야간투기장대회영웅의흔적마법", Search = 1, Image = "유저인터페이스\\tipbox\\tip05001", 
@@ -2701,7 +2899,7 @@ Page = {"시공룡 오스카는 글래스트헤임에서 오염된 차원을 살피던 중 옛 글래스트헤�
 [7107] = {Title = "EPISODE MD#엠디에피소드메던", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"지금, 현재를 살아가는 우리 모두의 이야기. 미드가르드 대륙과 그 너머의 모든 이야기.\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.1<INFO>6041</INFO></TIPBOX>\n\t\t<TIPBOX>MD 안개 숲 미궁<INFO>7108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.3<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비오스의 섬 (160)<INFO>7109</INFO></TIPBOX>\n\t\t<TIPBOX>MD 모르스의 동굴 (160)<INFO>7110</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마신전 (160)<INFO>7111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 15.2<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중앙 실험실 (135)<INFO>7112</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마지막 방 (150)<INFO>7113</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.1<INFO>8118</INFO></TIPBOX>\n\t\t<TIPBOX>MD 축복의식 (100)<INFO>7114</INFO></TIPBOX>\n\t\t<TIPBOX>MD 의식의 방 (100)<INFO>7115</INFO></TIPBOX>\n\t\t<TIPBOX>MD 공중요새 침공 (140)<INFO>7116</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.2<INFO>8143</INFO></TIPBOX>\n\t\t<TIPBOX>MD 하트헌터 기지 외곽 (100)<INFO>7117</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중추실 (100)<INFO>7118</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.1<INFO>7055</INFO></TIPBOX>\n\t\t<TIPBOX>MD 레겐쉬름 탈환작전 (110)<INFO>7119</INFO></TIPBOX>\n\t\t<TIPBOX>MD 봉쇄된 오스 (110)<INFO>7120</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 점령 작전 (110)<INFO>7121</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 2차 수색 (110)<INFO>7122</INFO></TIPBOX>\n\t\t<TIPBOX>MD 코르 메모리얼 (110)<INFO>7123</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.2<INFO>7068</INFO></TIPBOX>\n\t\t<TIPBOX>MD 어스름밤의 정원 (130)<INFO>7124</INFO></TIPBOX>\n\t\t<TIPBOX>MD 헤이! 스위티 (130)<INFO>7125</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시간에게 잊혀진 사육장 (130)<INFO>7126</INFO></TIPBOX>\n\t\t<TIPBOX>MD 숨겨진 화원 (130)<INFO>7127</INFO></TIPBOX>\n\t\t<TIPBOX>MD 수상정원 (130)<INFO>7128</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"지금, 현재를 살아가는 우리 모두의 이야기. 미드가르드 대륙과 그 너머의 모든 이야기.\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.1<INFO>6041</INFO></TIPBOX>\n\t\t<TIPBOX>MD 안개 숲 미궁<INFO>7108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.3<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비오스의 섬 (160)<INFO>7109</INFO></TIPBOX>\n\t\t<TIPBOX>MD 모르스의 동굴 (160)<INFO>7110</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마신전 (160)<INFO>7111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 15.2<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중앙 실험실 (135)<INFO>7112</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마지막 방 (150)<INFO>7113</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.1<INFO>8118</INFO></TIPBOX>\n\t\t<TIPBOX>MD 축복의식 (100)<INFO>7114</INFO></TIPBOX>\n\t\t<TIPBOX>MD 의식의 방 (100)<INFO>7115</INFO></TIPBOX>\n\t\t<TIPBOX>MD 공중요새 침공 (140)<INFO>7116</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.2<INFO>8143</INFO></TIPBOX>\n\t\t<TIPBOX>MD 하트헌터 기지 외곽 (100)<INFO>7117</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중추실 (100)<INFO>7118</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.1<INFO>7055</INFO></TIPBOX>\n\t\t<TIPBOX>MD 레겐쉬름 탈환작전 (110)<INFO>7119</INFO></TIPBOX>\n\t\t<TIPBOX>MD 봉쇄된 오스 (110)<INFO>7120</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 점령 작전 (110)<INFO>7121</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 2차 수색 (110)<INFO>7122</INFO></TIPBOX>\n\t\t<TIPBOX>MD 코르 메모리얼 (110)<INFO>7123</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.2<INFO>7068</INFO></TIPBOX>\n\t\t<TIPBOX>MD 어스름밤의 정원 (130)<INFO>7124</INFO></TIPBOX>\n\t\t<TIPBOX>MD 헤이! 스위티 (130)<INFO>7125</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시간에게 잊혀진 사육장 (130)<INFO>7126</INFO></TIPBOX>\n\t\t<TIPBOX>MD 숨겨진 화원 (130)<INFO>7127</INFO></TIPBOX>\n\t\t<TIPBOX>MD 수상정원 (130)<INFO>7128</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 18<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>MD 성소 정화 (170)<INFO>4248</INFO></TIPBOX>\n\t\t<TIPBOX>MD 기만의 별장 (170)<INFO>4231</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7108] = {Title = "MD 14.1 안개 숲 미궁#보라수호", Search = 1, Image = "", 

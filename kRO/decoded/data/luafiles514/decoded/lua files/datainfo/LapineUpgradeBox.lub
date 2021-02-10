@@ -5,6 +5,342 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+Bio_Helm_Refine_Cube = {ItemID = 100684, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"BioWeapon_Helm_RK", 400078}
+, 
+{"BioWeapon_Helm_LG", 400079}
+, 
+{"BioWeapon_Helm_WL", 400094}
+, 
+{"BioWeapon_Helm_SO", 400095}
+, 
+{"BioWeapon_Helm_NC", 400098}
+, 
+{"BioWeapon_Helm_GN", 400099}
+, 
+{"BioWeapon_Helm_RA", 400116}
+, 
+{"BioWeapon_Helm_WM", 400117}
+, 
+{"BioWeapon_Helm_AB", 400118}
+, 
+{"BioWeapon_Helm_SR", 400119}
+, 
+{"BioWeapon_Helm_SC", 400120}
+, 
+{"BioWeapon_Helm_GC", 400121}
+}
+, NeedSource_String = "생체연구소 투구"}
+, 
+Pontifex_Courage = {ItemID = 100650, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Adulter_F_T_Sword", 600017}
+, 
+{"Adulter_F_Cakram", 610020}
+, 
+{"Adulter_F_Katar", 610021}
+, 
+{"Adulter_F_Lance", 630012}
+, 
+{"Adulter_F_T_Staff", 640019}
+, 
+{"Adulter_F_Rod", 640020}
+, 
+{"Adulter_F_Humma", 650008}
+, 
+{"Adulter_F_C_Humma", 650009}
+, 
+{"Adulter_F_C_Bow", 700030}
+, 
+{"Adulter_F_Ballista", 700031}
+, 
+{"Adulter_F_A_Bow", 700032}
+, 
+{"Adulter_F_Revolver", 800003}
+, 
+{"Adulter_F_Rifle", 810002}
+, 
+{"Adulter_F_Shotgun", 820002}
+, 
+{"Adulter_F_Gatling", 830003}
+, 
+{"Adulter_F_Launcher", 840002}
+, 
+{"Adulter_F_G_Sword", 500025}
+, 
+{"Adulter_F_Lapier", 500026}
+, 
+{"Adulter_F_Dagger", 510032}
+, 
+{"Adulter_F_Axe", 520008}
+, 
+{"Adulter_F_G_Spear", 530013}
+, 
+{"Adulter_F_M_Book", 540019}
+, 
+{"Adulter_F_P_Book", 540020}
+, 
+{"Adulter_F_Bible", 540021}
+, 
+{"Adulter_F_Moon_B", 540022}
+, 
+{"Adulter_F_Star_B", 540023}
+, 
+{"Adulter_F_Wand", 550024}
+, 
+{"Adulter_F_S_Stick", 550025}
+, 
+{"Adulter_F_D_Wand", 550026}
+, 
+{"Adulter_F_F_Wand", 550027}
+, 
+{"Adulter_F_F_model", 550028}
+, 
+{"Adulter_F_Knuckle", 560018}
+, 
+{"Adulter_F_Claw", 560019}
+, 
+{"Adulter_F_Violin", 570017}
+, 
+{"Adulter_F_Harp", 570018}
+, 
+{"Adulter_F_C_Rope", 580017}
+, 
+{"Adulter_F_Ribbon", 580018}
+, 
+{"Adulter_F_Mace", 590021}
+, 
+{"Adulter_F_Hall", 590022}
+}
+, NeedSource_String = "거짓된 믿음의 무기"}
+, 
+Pontifex_Wisdom = {ItemID = 100651, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Adulter_F_T_Sword", 600017}
+, 
+{"Adulter_F_Cakram", 610020}
+, 
+{"Adulter_F_Katar", 610021}
+, 
+{"Adulter_F_Lance", 630012}
+, 
+{"Adulter_F_T_Staff", 640019}
+, 
+{"Adulter_F_Rod", 640020}
+, 
+{"Adulter_F_Humma", 650008}
+, 
+{"Adulter_F_C_Humma", 650009}
+, 
+{"Adulter_F_C_Bow", 700030}
+, 
+{"Adulter_F_Ballista", 700031}
+, 
+{"Adulter_F_A_Bow", 700032}
+, 
+{"Adulter_F_Revolver", 800003}
+, 
+{"Adulter_F_Rifle", 810002}
+, 
+{"Adulter_F_Shotgun", 820002}
+, 
+{"Adulter_F_Gatling", 830003}
+, 
+{"Adulter_F_Launcher", 840002}
+, 
+{"Adulter_F_G_Sword", 500025}
+, 
+{"Adulter_F_Lapier", 500026}
+, 
+{"Adulter_F_Dagger", 510032}
+, 
+{"Adulter_F_Axe", 520008}
+, 
+{"Adulter_F_G_Spear", 530013}
+, 
+{"Adulter_F_M_Book", 540019}
+, 
+{"Adulter_F_P_Book", 540020}
+, 
+{"Adulter_F_Bible", 540021}
+, 
+{"Adulter_F_Moon_B", 540022}
+, 
+{"Adulter_F_Star_B", 540023}
+, 
+{"Adulter_F_Wand", 550024}
+, 
+{"Adulter_F_S_Stick", 550025}
+, 
+{"Adulter_F_D_Wand", 550026}
+, 
+{"Adulter_F_F_Wand", 550027}
+, 
+{"Adulter_F_F_model", 550028}
+, 
+{"Adulter_F_Knuckle", 560018}
+, 
+{"Adulter_F_Claw", 560019}
+, 
+{"Adulter_F_Violin", 570017}
+, 
+{"Adulter_F_Harp", 570018}
+, 
+{"Adulter_F_C_Rope", 580017}
+, 
+{"Adulter_F_Ribbon", 580018}
+, 
+{"Adulter_F_Mace", 590021}
+, 
+{"Adulter_F_Hall", 590022}
+}
+, NeedSource_String = "거짓된 믿음의 무기"}
+, 
+Pontifex_Tenacity = {ItemID = 100652, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Vivatus_F_T_Sword", 600018}
+, 
+{"Vivatus_F_Cakram", 610022}
+, 
+{"Vivatus_F_Katar", 610023}
+, 
+{"Vivatus_F_Lance", 630013}
+, 
+{"Vivatus_F_T_Staff", 640021}
+, 
+{"Vivatus_F_Rod", 640022}
+, 
+{"Vivatus_F_C_Bow", 700033}
+, 
+{"Vivatus_F_Ballista", 700034}
+, 
+{"Vivatus_F_A_Bow", 700035}
+, 
+{"Vivatus_F_G_Sword", 500027}
+, 
+{"Vivatus_F_Lapier", 500028}
+, 
+{"Vivatus_F_Dagger", 510033}
+, 
+{"Vivatus_F_Axe", 520009}
+, 
+{"Vivatus_F_G_Spear", 530014}
+, 
+{"Vivatus_F_M_Book", 540024}
+, 
+{"Vivatus_F_P_Book", 540025}
+, 
+{"Vivatus_F_Bible", 540026}
+, 
+{"Vivatus_F_Wand", 550029}
+, 
+{"Vivatus_F_Knuckle", 560020}
+, 
+{"Vivatus_F_Claw", 560021}
+, 
+{"Vivatus_F_Violin", 570019}
+, 
+{"Vivatus_F_Harp", 570020}
+, 
+{"Vivatus_F_C_Rope", 580019}
+, 
+{"Vivatus_F_Ribbon", 580020}
+, 
+{"Vivatus_F_Mace", 590023}
+, 
+{"Vivatus_F_Hall", 590024}
+}
+, NeedSource_String = "정화된 믿음의 무기"}
+, 
+Pontifex_Belief = {ItemID = 100653, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Vivatus_F_T_Sword", 600018}
+, 
+{"Vivatus_F_Cakram", 610022}
+, 
+{"Vivatus_F_Katar", 610023}
+, 
+{"Vivatus_F_Lance", 630013}
+, 
+{"Vivatus_F_T_Staff", 640021}
+, 
+{"Vivatus_F_Rod", 640022}
+, 
+{"Vivatus_F_C_Bow", 700033}
+, 
+{"Vivatus_F_Ballista", 700034}
+, 
+{"Vivatus_F_A_Bow", 700035}
+, 
+{"Vivatus_F_G_Sword", 500027}
+, 
+{"Vivatus_F_Lapier", 500028}
+, 
+{"Vivatus_F_Dagger", 510033}
+, 
+{"Vivatus_F_Axe", 520009}
+, 
+{"Vivatus_F_G_Spear", 530014}
+, 
+{"Vivatus_F_M_Book", 540024}
+, 
+{"Vivatus_F_P_Book", 540025}
+, 
+{"Vivatus_F_Bible", 540026}
+, 
+{"Vivatus_F_Wand", 550029}
+, 
+{"Vivatus_F_Knuckle", 560020}
+, 
+{"Vivatus_F_Claw", 560021}
+, 
+{"Vivatus_F_Violin", 570019}
+, 
+{"Vivatus_F_Harp", 570020}
+, 
+{"Vivatus_F_C_Rope", 580019}
+, 
+{"Vivatus_F_Ribbon", 580020}
+, 
+{"Vivatus_F_Mace", 590023}
+, 
+{"Vivatus_F_Hall", 590024}
+}
+, NeedSource_String = "정화된 믿음의 무기"}
+, 
+GrayWolf_7_Ticket = {ItemID = 100626, NeedRefineMin = 0, NeedRefineMax = 6, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Gray_W_Suits", 450177}
+, 
+{"Gray_W_Robe", 450178}
+, 
+{"Gray_W_Manteau", 480091}
+, 
+{"Gray_W_Muffler", 480090}
+, 
+{"Gray_W_Boots", 470087}
+, 
+{"Gray_W_Shoes", 470088}
+}
+, NeedSource_String = "그레이울프 방어구"}
+, 
+GrayWolf_9_Ticket = {ItemID = 100627, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Gray_W_Suits", 450177}
+, 
+{"Gray_W_Robe", 450178}
+, 
+{"Gray_W_Manteau", 480091}
+, 
+{"Gray_W_Muffler", 480090}
+, 
+{"Gray_W_Boots", 470087}
+, 
+{"Gray_W_Shoes", 470088}
+}
+, NeedSource_String = "그레이울프 방어구"}
+, 
 MD_Airboat_Random = {ItemID = 100476, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"MD_Airboat_Boots", 470071}
@@ -4218,6 +4554,12 @@ TargetItems = {
 {"S_M_Mammoth_Earring", 24681}
 , 
 {"S_M_Mammoth_Pendant", 24682}
+, 
+{"S_EXP_Shield", 24683}
+, 
+{"S_Absorb_Shield", 24685}
+, 
+{"S_Absorb_Weapon", 24686}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5534,6 +5876,12 @@ TargetItems = {
 {"S_M_Mammoth_Earring", 24681}
 , 
 {"S_M_Mammoth_Pendant", 24682}
+, 
+{"S_EXP_Shield", 24683}
+, 
+{"S_Absorb_Shield", 24685}
+, 
+{"S_Absorb_Weapon", 24686}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6670,6 +7018,12 @@ TargetItems = {
 {"S_M_Mammoth_Earring", 24681}
 , 
 {"S_M_Mammoth_Pendant", 24682}
+, 
+{"S_EXP_Shield", 24683}
+, 
+{"S_Absorb_Shield", 24685}
+, 
+{"S_Absorb_Weapon", 24686}
 }
 , NeedSource_String = "+7 쉐도우 아이템"}
 , 

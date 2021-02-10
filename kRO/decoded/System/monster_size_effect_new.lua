@@ -5359,6 +5359,42 @@ MonsterEff = {EFFECT.EF_NONE}
 [20112] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_BOTTOM_MANHOLE}
 }
+, 
+[10428] = {MonsterSize = 0.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10429] = {MonsterSize = 0.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10430] = {MonsterSize = 0.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10431] = {MonsterSize = 0.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10432] = {MonsterSize = 0.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21301] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[21313] = {MonsterSize = 1.7, 
+MonsterEff = {EFFECT.EF_UNDEADBODY, EFFECT.EF_DOUBLEGUMGANG2, EFFECT.EF_DOUBLEGUMGANG2, EFFECT.EF_DOUBLEGUMGANG2}
+}
+, 
+[21319] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21384] = {MonsterSize = 1.9, 
+MonsterEff = {EFFECT.EF_NONE}
+}
 }
 main = function()
   -- function num : 0_0
