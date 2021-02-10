@@ -18729,6 +18729,90 @@ unidentifiedDescriptionName = {}
 , identifiedDisplayName = "", identifiedResourceName = "", 
 identifiedDescriptionName = {}
 , slotCount = 0, ClassNum = 31, costume = false}
+, 
+[31602] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[19933] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 1131, costume = true}
+, 
+[31887] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400131] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400132] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400133] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[410051] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[410053] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[420048] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480095] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480096] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480097] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[15846] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[15877] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
 }
 main = function()
   -- function num : 0_0

@@ -2,7 +2,21 @@
 echo Japanese RO Client
 echo -------------------------------
 echo System:
+luadec.exe ".\System\achievement_list.lub" > ".\System\achievement_list.lua"
+luadec.exe ".\System\CheckAttendance.lub" > ".\System\CheckAttendance.lua"
 luadec.exe ".\System\iteminfo.lub" > ".\System\iteminfo.lua"
+luadec.exe ".\System\monster_size_effect.lub" > ".\System\monster_size_effect.lua"
+luadec.exe ".\System\monster_size_effect_new.lub" > ".\System\monster_size_effect_new.lua"
+luadec.exe ".\System\MsgString.lub" > ".\System\MsgString.lua"
+luadec.exe ".\System\OngoingQuestInfoList_True.lub" > ".\System\OngoingQuestInfoList_True.lua"
+luadec.exe ".\System\OptionInfo.lub" > ".\System\OptionInfo.lua"
+luadec.exe ".\System\PetEvolutionCln.lub" > ".\System\PetEvolutionCln.lua"
+luadec.exe ".\System\RecommendedQuestInfoList_True.lub" > ".\System\RecommendedQuestInfoList_True.lua"
+luadec.exe ".\System\Towninfo.lub" > ".\System\Towninfo.lua"
+echo -------------------------------
+echo System\LuaFiles514:
+luadec.exe ".\System\LuaFiles514\MsgString.lub" > ".\System\LuaFiles514\MsgString.lua"
+luadec.exe ".\System\LuaFiles514\OptionInfo.lub" > ".\System\LuaFiles514\OptionInfo.lua"
 echo -------------------------------
 echo Switching to data\luafiles514\
 echo -------------------------------

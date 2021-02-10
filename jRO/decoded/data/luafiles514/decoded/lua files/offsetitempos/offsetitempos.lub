@@ -2843,4 +2843,114 @@ OffsetItemPos.Sex = {MALE = 1, FEMALE = 2}
 (OffsetItemPos.AddOffsetForDoram)(2054, (OffsetItemPos.Direction).BACK, {x = 1}, (OffsetItemPos.Sex).FEMALE)
 ;
 (OffsetItemPos.AddOffsetForDoram)(2054, (OffsetItemPos.Direction).FRONTRIGHT, {x = -1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(887, (OffsetItemPos.Direction).LEFT, {x = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(887, (OffsetItemPos.Direction).BACK, {x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(887, (OffsetItemPos.Direction).RIGHT, {x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(887, (OffsetItemPos.Direction).BACKLEFT, {x = 1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(887, (OffsetItemPos.Direction).BACK, {x = 1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(887, (OffsetItemPos.Direction).BACKRIGHT, {x = -1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).FRONT, {y = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).FRONTLEFT, {y = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).LEFT, {y = -2, x = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).RIGHT, {y = -2, x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).FRONTRIGHT, {y = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).FRONT, {y = -1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).FRONTLEFT, {y = -1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).LEFT, {y = -1, x = -2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).RIGHT, {y = -1, x = 2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2060, (OffsetItemPos.Direction).FRONTRIGHT, {y = -1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2059, (OffsetItemPos.Direction).FRONT, {y = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2059, (OffsetItemPos.Direction).BACK, {y = 1, x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2059, (OffsetItemPos.Direction).BACKRIGHT, {x = -2}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2059, (OffsetItemPos.Direction).RIGHT, {x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2059, (OffsetItemPos.Direction).FRONT, {y = 1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2059, (OffsetItemPos.Direction).LEFT, {x = -3}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2059, (OffsetItemPos.Direction).RIGHT, {x = 3}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).BACKLEFT, {x = 2}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).BACKRIGHT, {x = -2}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).FRONTLEFT, {x = 1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).LEFT, {x = 1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).BACKLEFT, {x = 2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).BACK, {x = 2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).BACKRIGHT, {x = -2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).RIGHT, {x = -1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1530, (OffsetItemPos.Direction).FRONTRIGHT, {x = -1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1987, (OffsetItemPos.Direction).LEFT, {x = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1987, (OffsetItemPos.Direction).RIGHT, {x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1987, (OffsetItemPos.Direction).LEFT, {x = -2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1987, (OffsetItemPos.Direction).RIGHT, {x = 2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2081, (OffsetItemPos.Direction).LEFT, {x = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2081, (OffsetItemPos.Direction).RIGHT, {x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2081, (OffsetItemPos.Direction).LEFT, {x = -2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(2081, (OffsetItemPos.Direction).RIGHT, {x = 2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).FRONT, {y = 1, x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).FRONTLEFT, {y = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).LEFT, {x = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).BACKLEFT, {y = 1, x = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).BACK, {y = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).BACKRIGHT, {y = 1, x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).RIGHT, {x = -1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).FRONTRIGHT, {y = 1}, (OffsetItemPos.Sex).MALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).FRONT, {y = 1, x = -1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).FRONTLEFT, {y = 1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).LEFT, {y = 1, x = -2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).BACKLEFT, {y = 1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).BACKRIGHT, {y = 1}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).RIGHT, {y = 1, x = 2}, (OffsetItemPos.Sex).FEMALE)
+;
+(OffsetItemPos.AddOffsetForDoram)(1981, (OffsetItemPos.Direction).FRONTRIGHT, {y = 1}, (OffsetItemPos.Sex).FEMALE)
 

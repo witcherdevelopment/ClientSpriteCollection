@@ -608,6 +608,18 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_LPP] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tiger] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Golden] = {Default = 100, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_White_Corone] = {Default = 150, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
