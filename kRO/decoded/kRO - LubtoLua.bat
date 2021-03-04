@@ -48,6 +48,7 @@ luadec.exe ".\data\luafiles514\lua files\deletefiles.lub" > ".\data\luafiles514\
 luadec.exe ".\data\luafiles514\lua files\deletefiles_f.lub" > ".\data\luafiles514\decoded\lua files\deletefiles_f.lub"
 luadec.exe ".\data\luafiles514\lua files\HotKey.lub" > ".\data\luafiles514\decoded\lua files\HotKey.lub"
 luadec.exe ".\data\luafiles514\lua files\hotkey_v2.lub" > ".\data\luafiles514\decoded\lua files\hotkey_v2.lub"
+luadec.exe ".\data\luafiles514\lua files\ItemDBNameTbl.lub" > ".\data\luafiles514\decoded\lua files\ItemDBNameTbl.lub"
 luadec.exe ".\data\luafiles514\lua files\MsgString_KR.lub" > ".\data\luafiles514\decoded\lua files\MsgString_KR.lub"
 luadec.exe ".\data\luafiles514\lua files\SignBoardList.lub" > ".\data\luafiles514\decoded\lua files\SignBoardList.lub"
 luadec.exe ".\data\luafiles514\lua files\SignBoardList_F.lub" > ".\data\luafiles514\decoded\lua files\SignBoardList_F.lub"
@@ -224,6 +225,10 @@ echo data\luafiles514\lua files\emotion:
 luadec.exe ".\data\luafiles514\lua files\emotion\emotionlist.lub" > ".\data\luafiles514\decoded\lua files\emotion\emotionlist.lub"
 luadec.exe ".\data\luafiles514\lua files\emotion\emotionlist_f.lub" > ".\data\luafiles514\decoded\lua files\emotion\emotionlist_f.lub"
 echo -------------------------------
+echo data\luafiles514\lua files\Enchant:
+luadec.exe ".\data\luafiles514\lua files\Enchant\EnchantList.lub" > ".\data\luafiles514\decoded\lua files\Enchant\EnchantList.lub"
+luadec.exe ".\data\luafiles514\lua files\Enchant\EnchantList_f.lub" > ".\data\luafiles514\decoded\lua files\Enchant\EnchantList_f.lub"
+echo -------------------------------
 echo data\luafiles514\lua files\entryqueue:
 luadec.exe ".\data\luafiles514\lua files\entryqueue\entryqueuelist.lub" > ".\data\luafiles514\decoded\lua files\entryqueue\entryqueuelist.lub"
 echo -------------------------------
@@ -238,6 +243,9 @@ luadec.exe ".\data\luafiles514\lua files\exmacro\tactic_exmacro.lub" > ".\data\l
 echo -------------------------------
 echo data\luafiles514\lua files\HatEffectInfo:
 luadec.exe ".\data\luafiles514\lua files\HatEffectInfo\HatEffectInfo.lub" > ".\data\luafiles514\decoded\lua files\HatEffectInfo\HatEffectInfo.lub"
+echo -------------------------------
+echo data\luafiles514\lua files\ItemReform:
+luadec.exe ".\data\luafiles514\lua files\ItemReform\ItemReformSystem.lub" > ".\data\luafiles514\decoded\lua files\ItemReform\ItemReformSystem.lub"
 echo -------------------------------
 echo data\luafiles514\lua files\navigation:
 luadec.exe ".\data\luafiles514\lua files\navigation\Navi_f_krpri.lub" > ".\data\luafiles514\decoded\lua files\navigation\Navi_f_krpri.lub"
