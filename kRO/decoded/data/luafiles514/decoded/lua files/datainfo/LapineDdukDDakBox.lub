@@ -6603,7 +6603,15 @@ SourceItems = {
 , 
 {"C검은뿔테안경", 1, 19722}
 , 
-{"C_Wing_Of_Spider", 1, 20613}
+{"C_Snow_Powder", 1, 480097}
+, 
+{"C파란파자마모자", 1, 19866}
+, 
+{"C_Lady_Tanee_TW", 1, 31617}
+, 
+{"C_Fairy_Feathers", 1, 31472}
+, 
+{"C_Giant_White_Rabbit", 1, 480095}
 }
 , NeedSource_String = "냥다래 의상"}
 }

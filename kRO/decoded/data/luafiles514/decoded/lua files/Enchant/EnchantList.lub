@@ -638,7 +638,7 @@ Table[4] = CreateEnchantInfo()
 ;
 (Table[4]):SetReset(true, 100000, 100000, {"Ep18_Amethyst_Fragment", 25})
 ;
-(Table[4]):SetCaution("그레이 울프 펜던트, 이어링에 인챈트 부여 가능\n일반 인챈트 성공확률: 100%\n인챈트 초기화 확률: 100%")
+(Table[4]):SetCaution("그레이 울프 펜던트, 이어링에 인챈트 부여 가능(제련도에 따른 추가옵션이 적용되지 않습니다.)\n일반 인챈트 성공확률: 100%\n인챈트 초기화 확률: 100%")
 ;
 (((Table[4]).Slot)[3]):SetRequire(100000, {"Ep18_Amethyst_Fragment", 15})
 ;
@@ -835,7 +835,7 @@ Table[5] = CreateEnchantInfo()
 ;
 (Table[5]):SetReset(true, 100000, 100000, {"Ep18_Amethyst_Fragment", 25})
 ;
-(Table[5]):SetCaution("그레이 울프 링, 네클리스에 인챈트 부여 가능\n일반 인챈트 성공확률: 100%\n인챈트 초기화 확률: 100%")
+(Table[5]):SetCaution("그레이 울프 링, 네클리스에 인챈트 부여 가능(제련도에 따른 추가옵션이 적용되지 않습니다.)\n일반 인챈트 성공확률: 100%\n인챈트 초기화 확률: 100%")
 ;
 (((Table[5]).Slot)[3]):SetRequire(100000, {"Ep18_Amethyst_Fragment", 15})
 ;
@@ -1016,4 +1016,41 @@ Table[5] = CreateEnchantInfo()
 (((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Spell_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
 ;
 (((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_A_Delay_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+-- DECOMPILER ERROR at PC4608: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[6] = CreateEnchantInfo()
+;
+(Table[6]):SetSlotOrder(0)
+;
+(Table[6]):AddTargetItem("Cherryblossom_Fan")
+;
+(Table[6]):SetCondition(0, 0)
+;
+(Table[6]):ApproveRandomOption(true)
+;
+(Table[6]):SetReset(true, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[6]):SetCaution("2021 봄꽃 이벤트 아이템 인챈트\n기본 성공확률 100%\n초기화 확률 100% 실패시 파괴안됨")
+;
+(((Table[6]).Slot)[0]):SetRequire(10000, {"Small_Spray_Of_Flowers", 5})
+;
+(((Table[6]).Slot)[0]):SetSuccessRate(100000)
+;
+(((Table[6]).Slot)[0]):SetGradeBonus(1, 0)
+;
+(((Table[6]).Slot)[0]):SetGradeBonus(2, 0)
+;
+(((Table[6]).Slot)[0]):SetGradeBonus(3, 0)
+;
+(((Table[6]).Slot)[0]):SetEnchant(0, "Spring_Energy_1", 50000)
+;
+(((Table[6]).Slot)[0]):SetEnchant(0, "Spring_Warmth_1", 50000)
+;
+(((Table[6]).Slot)[0]):AddUpgradeEnchant("Spring_Energy_1", "Spring_Energy_2", 10000, {"Small_Spray_Of_Flowers", 10})
+;
+(((Table[6]).Slot)[0]):AddUpgradeEnchant("Spring_Energy_2", "Spring_Energy_3", 10000, {"Small_Spray_Of_Flowers", 15})
+;
+(((Table[6]).Slot)[0]):AddUpgradeEnchant("Spring_Warmth_1", "Spring_Warmth_2", 10000, {"Small_Spray_Of_Flowers", 10})
+;
+(((Table[6]).Slot)[0]):AddUpgradeEnchant("Spring_Warmth_2", "Spring_Warmth_3", 10000, {"Small_Spray_Of_Flowers", 15})
 

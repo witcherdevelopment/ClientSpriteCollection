@@ -4,6 +4,10 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["ant_d02_i.rsw"] = {displayName = "인식의 정원", notifyEnter = true, 
+signName = {subTitle = "일루전", mainTitle = "인식의 정원"}
+, backgroundBmp = "dungeon"}
+, 
 ["wolfvill.rsw"] = {displayName = "회색늑대 마을", notifyEnter = true, 
 signName = {subTitle = "원주민 은신처", mainTitle = "회색늑대 마을"}
 , backgroundBmp = "village"}

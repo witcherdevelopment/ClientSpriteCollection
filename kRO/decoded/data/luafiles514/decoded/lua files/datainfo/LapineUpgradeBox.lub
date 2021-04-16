@@ -5,6 +5,206 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+Hero_LT_Refine_Melee = {ItemID = 100744, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Saint_Hall_LT", 590030}
+, 
+{"Undine_Spear_K_LT", 530019}
+, 
+{"Demon_Hunting_Bible_LT", 540035}
+, 
+{"Light_Blade_LT", 500038}
+, 
+{"Magic_Sword_LT", 510040}
+, 
+{"Fatalist_LT", 510041}
+}
+, NeedSource_String = "영웅의 무기-LT"}
+, 
+Hero_LT_Refine_Magic = {ItemID = 100745, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Saint_Hall_LT", 590030}
+, 
+{"Undine_Spear_K_LT", 530019}
+, 
+{"Demon_Hunting_Bible_LT", 540035}
+, 
+{"Light_Blade_LT", 500038}
+, 
+{"Magic_Sword_LT", 510040}
+, 
+{"Fatalist_LT", 510041}
+}
+, NeedSource_String = "영웅의 무기-LT"}
+, 
+Booster_RandomOpt_P = {ItemID = 100722, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"IW_B_T_Sword", 600012}
+, 
+{"HB_B_T_Spear", 630008}
+, 
+{"BC_B_Spear", 530005}
+, 
+{"PG_B_Sword", 500015}
+, 
+{"PT_B_Axe", 620003}
+, 
+{"AK_B_Mace", 590008}
+, 
+{"AC_B_Club", 590009}
+, 
+{"HS_T_Sword", 500016}
+, 
+{"RC_B_Katar", 610013}
+, 
+{"CA_B_Katar", 610028}
+, 
+{"TB_B_Bow", 700014}
+, 
+{"MF_B_Dagger", 510018}
+, 
+{"CS_B_Staff", 640009}
+, 
+{"CJ_B_Staff", 640010}
+, 
+{"SB_B_Book", 540009}
+, 
+{"ES_B_Stick", 550010}
+, 
+{"AN_B_Wand", 550011}
+, 
+{"DD_B_Mace", 590010}
+, 
+{"PS_B_Knuckle", 560006}
+, 
+{"CP_B_Knuckle", 560007}
+, 
+{"AS_B_Bow", 700015}
+, 
+{"SB_B_Bow", 700016}
+, 
+{"RS_B_Violin", 570024}
+, 
+{"RS_B_Whip", 580024}
+, 
+{"MV_B_Violin", 570010}
+, 
+{"MV_B_Whip", 580010}
+}
+, NeedSource_String = "부스터 무기"}
+, 
+Booster_RandomOpt_M = {ItemID = 100723, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"IW_B_T_Sword", 600012}
+, 
+{"HB_B_T_Spear", 630008}
+, 
+{"BC_B_Spear", 530005}
+, 
+{"PG_B_Sword", 500015}
+, 
+{"PT_B_Axe", 620003}
+, 
+{"AK_B_Mace", 590008}
+, 
+{"AC_B_Club", 590009}
+, 
+{"HS_T_Sword", 500016}
+, 
+{"RC_B_Katar", 610013}
+, 
+{"CA_B_Katar", 610028}
+, 
+{"TB_B_Bow", 700014}
+, 
+{"MF_B_Dagger", 510018}
+, 
+{"CS_B_Staff", 640009}
+, 
+{"CJ_B_Staff", 640010}
+, 
+{"SB_B_Book", 540009}
+, 
+{"ES_B_Stick", 550010}
+, 
+{"AN_B_Wand", 550011}
+, 
+{"DD_B_Mace", 590010}
+, 
+{"PS_B_Knuckle", 560006}
+, 
+{"CP_B_Knuckle", 560007}
+, 
+{"AS_B_Bow", 700015}
+, 
+{"SB_B_Bow", 700016}
+, 
+{"RS_B_Violin", 570024}
+, 
+{"RS_B_Whip", 580024}
+, 
+{"MV_B_Violin", 570010}
+, 
+{"MV_B_Whip", 580010}
+}
+, NeedSource_String = "부스터 무기"}
+, 
+Twins_Box_IL = {ItemID = 100699, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Guard_IL", 460017}
+, 
+{"Siver_Guard_IL", 460018}
+, 
+{"Siver_Guard_IL", 460018}
+, 
+{"Sprint_Shoes_IL", 470066}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
+, 
+{"Sprint_Mail_IL", 450182}
+}
+, NeedSource_String = "일루전 오브 트윈스 장비"}
+, 
+S_Twins_Box_IL = {ItemID = 100700, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Guard_IL", 460017}
+, 
+{"Siver_Guard_IL", 460018}
+, 
+{"Sprint_Shoes_IL", 470066}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
+, 
+{"Sprint_Mail_IL", 450182}
+}
+, NeedSource_String = "일루전 오브 트윈스 장비"}
+, 
+EXP_Overclocker = {ItemID = 100710, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"EXP_Processor_", 410013}
+}
+, NeedSource_String = "EXP 어드바이저(1)"}
+, 
 Bio_Helm_Refine_Cube = {ItemID = 100684, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"BioWeapon_Helm_RK", 400078}
@@ -309,7 +509,7 @@ TargetItems = {
 }
 , NeedSource_String = "정화된 믿음의 무기"}
 , 
-GrayWolf_7_Ticket = {ItemID = 100626, NeedRefineMin = 0, NeedRefineMax = 6, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+GrayWolf_7_Ticket = {ItemID = 100626, NeedRefineMin = 0, NeedRefineMax = 6, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Gray_W_Suits", 450177}
 , 
@@ -325,7 +525,7 @@ TargetItems = {
 }
 , NeedSource_String = "그레이울프 방어구"}
 , 
-GrayWolf_9_Ticket = {ItemID = 100627, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+GrayWolf_9_Ticket = {ItemID = 100627, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Gray_W_Suits", 450177}
 , 
@@ -2483,9 +2683,21 @@ TargetItems = {
 , 
 {"Zephyrus_IL", 630007}
 , 
-{"Electronic_Guitar_IL", 570008}
+{"Electronic_Guitar_ILL", 570008}
 , 
 {"Electric_Eel_IL", 580008}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
 }
 , NeedSource_String = "4레벨 일루전 무기"}
 , 
@@ -2547,9 +2759,21 @@ TargetItems = {
 , 
 {"Zephyrus_IL", 630007}
 , 
-{"Electronic_Guitar_IL", 570008}
+{"Electronic_Guitar_ILL", 570008}
 , 
 {"Electric_Eel_IL", 580008}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
 }
 , NeedSource_String = "4레벨 일루전 무기"}
 , 
@@ -8353,7 +8577,7 @@ TargetItems = {
 , 
 {"RC_B_Katar", 610013}
 , 
-{"CA_B_Dagger", 510017}
+{"CA_B_Katar", 610028}
 , 
 {"TB_B_Bow", 700014}
 , 
@@ -8379,7 +8603,9 @@ TargetItems = {
 , 
 {"SB_B_Bow", 700016}
 , 
-{"RS_B_Bow", 700017}
+{"RS_B_Violin", 570024}
+, 
+{"RS_B_Whip", 580024}
 , 
 {"MV_B_Violin", 570010}
 , 

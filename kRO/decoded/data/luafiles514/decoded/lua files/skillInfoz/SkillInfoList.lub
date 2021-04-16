@@ -13751,5 +13751,101 @@ SkillScale = {
 [5] = {x = 13, y = 13}
 }
 }
+, 
+[SKID.MH_BLAST_FORGE] = {"MH_BLAST_FORGE"; SkillName = "블래스트 포지", MaxLv = 10, 
+SpAmount = {52, 59, 66, 73, 80, 87, 94, 101, 108, 115}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MH_TEMPERING] = {"MH_TEMPERING"; SkillName = "템퍼링", MaxLv = 10, 
+SpAmount = {83, 91, 99, 107, 115, 123, 131, 139, 147, 155}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MH_CLASSY_FLUTTER] = {"MH_CLASSY_FLUTTER"; SkillName = "클래시 플로터", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MH_TWISTER_CUTTER] = {"MH_TWISTER_CUTTER"; SkillName = "트위스트 커터", MaxLv = 10, 
+SpAmount = {106, 112, 118, 124, 130, 136, 142, 148, 154, 160}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+}
+, 
+[SKID.MH_ABSOLUTE_ZEPHYR] = {"MH_ABSOLUTE_ZEPHYR"; SkillName = "앱솔루트 제피르", MaxLv = 10, 
+SpAmount = {122, 129, 136, 143, 150, 157, 164, 171, 178, 185}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+}
+, 
+[SKID.MH_BRUSHUP_CLAW] = {"MH_BRUSHUP_CLAW"; SkillName = "브러쉬업 클로", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MH_BLAZING_AND_FURIOUS] = {"MH_BLAZING_AND_FURIOUS"; SkillName = "블레이징 앤 퓨리어스", MaxLv = 10, 
+SpAmount = {103, 108, 113, 118, 123, 128, 133, 138, 143, 148}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+}
+, 
+[SKID.MH_THE_ONE_FIGHTER_RISES] = {"MH_THE_ONE_FIGHTER_RISES"; SkillName = "더 원 파이터 라이즈", MaxLv = 10, 
+SpAmount = {100, 106, 112, 118, 124, 130, 136, 142, 148, 154}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+}
+, 
+[SKID.MH_POLISHING_NEEDLE] = {"MH_POLISHING_NEEDLE"; SkillName = "폴리싱 니들", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MH_TOXIN_OF_MANDARA] = {"MH_TOXIN_OF_MANDARA"; SkillName = "톡신 오브 만다라", MaxLv = 10, 
+SpAmount = {60, 65, 70, 75, 80, 85, 90, 95, 100, 105}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+}
+, 
+[SKID.MH_NEEDLE_STINGER] = {"MH_NEEDLE_STINGER"; SkillName = "니들 스팅어", MaxLv = 10, 
+SpAmount = {74, 82, 90, 98, 106, 114, 122, 130, 138, 146}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+}
+, 
+[SKID.MH_LICHT_GEHORN] = {"MH_LICHT_GEHORN"; SkillName = "리히트 그흔", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MH_GLANZEN_SPIES] = {"MH_GLANZEN_SPIES"; SkillName = "글랜슨 스피스", MaxLv = 10, 
+SpAmount = {60, 65, 70, 75, 80, 85, 90, 95, 100, 105}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3, 3, 3, 3, 3, 3}
+}
+, 
+[SKID.MH_HEILIGE_PFERD] = {"MH_HEILIGE_PFERD"; SkillName = "하일리게 피야드", MaxLv = 10, 
+SpAmount = {122, 129, 136, 143, 150, 157, 164, 171, 178, 185}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MH_GOLDENE_TONE] = {"MH_GOLDENE_TONE"; SkillName = "골든에 튜느", MaxLv = 10, 
+SpAmount = {124, 133, 142, 151, 160, 169, 178, 187, 196, 205}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MH_BLAZING_LAVA] = {"MH_BLAZING_LAVA"; SkillName = "블레이징 라바", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
 }
 

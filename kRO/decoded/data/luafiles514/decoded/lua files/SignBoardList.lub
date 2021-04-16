@@ -10,6 +10,12 @@ IT_SIGNBOARD = 3
 SignBoardList = {
 {"Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "입력안하셨습니다", "#0x009EBDFF"}
 , 
+{"prontera", 166, 300, 6, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", "  부스터 프로모션", "#0x00FFFFFF"}
+, 
+{"sp_cor", 98, 136, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터일루시온인챈트", "#0x00FFFFFF"}
+, 
+{"malangdo", 152, 136, 0, IT_SIGNBOARD, "item\\다람쥐귀모자.bmp", "  부스터 의상 인챈트", "#0x00FFFFFF"}
+, 
 {"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
 , 
 {"ein_dun02", 16, 250, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  180Lv미만 출입금지", "#0x00FFFFFF"}
@@ -20,9 +26,13 @@ SignBoardList = {
 , 
 {"moc_para01", 105, 41, 10, IT_SIGNBOARD, "information\\over_nmtrade.bmp", "  파라마켓", "#0x00FFFFFF"}
 , 
-{"moc_para01", 110, 97, 10, IT_SIGNBOARD, "유저인터페이스\\item\\suffragium.bmp", "  낙원단 주화서비스", "#0x00FFFFFF"}
+{"moc_para01", 110, 79, 10, IT_SIGNBOARD, "item\\C_Popping_Poring_Aura.bmp", "  기본 장비 지원", "#0x00FFFFFF"}
 , 
-{"moc_para01", 112, 76, 10, IT_SIGNBOARD, "유저인터페이스\\item\\suffragium.bmp", "  낙원단 주화서비스", "#0x00FFFFFF"}
+{"moc_para01", 110, 83, 10, IT_SIGNBOARD, "item\\t_sword_of_kingdom.bmp", "  중급 고급 무기 지원", "#0x00FFFFFF"}
+, 
+{"moc_para01", 110, 87, 10, IT_SIGNBOARD, "item\\md_geffen_shield.bmp", "  고급 방어구 지원", "#0x00FFFFFF"}
+, 
+{"moc_para01", 110, 91, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  쉐도우 장비 대여", "#0x00FFFFFF"}
 , 
 {"prontera", 124, 76, 10, IT_SIGNBOARD, "유저인터페이스\\item\\suffragium.bmp", "  낙원단 공간이동사", "#0x00FFFFFF"}
 , 

@@ -6298,7 +6298,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"이벤트 버프", COLOR_TITLE_BUFF}
+{"화려한 꽃가지", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6309,29 +6309,31 @@ descript = {
 {"변동 캐스팅 감소"}
 }
 }
--- DECOMPILER ERROR at PC13067: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13070: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF3] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"고소한 크림누들", COLOR_TITLE_BUFF}
+{"아담한 꽃가지", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"ATK + 5%"}
+{"MHP + 3%"}
+, 
+{"MSP + 3%"}
 }
 }
--- DECOMPILER ERROR at PC13091: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13094: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"달콤한 수박푸딩", COLOR_TITLE_BUFF}
+{"벚꽃 찰떡", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"MATK + 5%"}
+{"소형,중형,대형 적에게 주는 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC13115: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13118: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SOUND_OF_DESTRUCTION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6342,7 +6344,7 @@ descript = {
 {"모든 데미지 2배 입는 상태."}
 }
 }
--- DECOMPILER ERROR at PC13139: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13142: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6353,7 +6355,7 @@ descript = {
 {"속성 마법 데미지 증가."}
 }
 }
--- DECOMPILER ERROR at PC13160: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13163: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_MISTY_FROST] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6362,7 +6364,7 @@ descript = {
 {"%s", COLOR_TIME}
 }
 }
--- DECOMPILER ERROR at PC13184: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13187: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_MAGIC_POISON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6373,7 +6375,7 @@ descript = {
 {"모든 속성 공격에 대한 내성 50% 감소"}
 }
 }
--- DECOMPILER ERROR at PC13214: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13217: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6388,7 +6390,7 @@ descript = {
 {"근접 물리 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC13241: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13244: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6401,7 +6403,7 @@ descript = {
 {"공격 속도 증가"}
 }
 }
--- DECOMPILER ERROR at PC13268: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13271: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_VITALITYACTIVATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6414,7 +6416,7 @@ descript = {
 {"받는 근접 물리 반사 데미지 감소"}
 }
 }
--- DECOMPILER ERROR at PC13304: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13307: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_LUXANIMA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6433,7 +6435,7 @@ descript = {
 {"근접 및 원거리 물리 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC13328: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13331: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_AURABLADE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6444,7 +6446,7 @@ descript = {
 {"물리 공격력 증가"}
 }
 }
--- DECOMPILER ERROR at PC13355: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13358: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6457,7 +6459,7 @@ descript = {
 {"물리  방어력 감소"}
 }
 }
--- DECOMPILER ERROR at PC13382: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13385: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_DARKCROW] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6470,7 +6472,7 @@ descript = {
 {"일부 반사 효과 무력화"}
 }
 }
--- DECOMPILER ERROR at PC13412: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13415: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_POISONINGWEAPON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6485,7 +6487,7 @@ descript = {
 {"공격 시 대상에게 무기에 바른 독을 중독시킴"}
 }
 }
--- DECOMPILER ERROR at PC13439: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13442: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_BATH_FOAM_A] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6498,7 +6500,7 @@ descript = {
 {"물리/마법 데미지 5% 증가"}
 }
 }
--- DECOMPILER ERROR at PC13466: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13469: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_BATH_FOAM_B] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6511,7 +6513,7 @@ descript = {
 {"물리/마법 데미지 10% 증가"}
 }
 }
--- DECOMPILER ERROR at PC13493: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13496: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_BATH_FOAM_C] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6524,7 +6526,7 @@ descript = {
 {"물리/마법 데미지 15% 증가"}
 }
 }
--- DECOMPILER ERROR at PC13520: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13523: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_AROMA_OIL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6537,7 +6539,7 @@ descript = {
 {"물리/마법 데미지 10% 감소"}
 }
 }
--- DECOMPILER ERROR at PC13536: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13539: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
 descript = {
@@ -6546,7 +6548,7 @@ descript = {
 {"일정 시간마다 포격 공격 지점 생성"}
 }
 }
--- DECOMPILER ERROR at PC13563: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13566: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HELLS_PLANT_ARMOR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6559,7 +6561,7 @@ descript = {
 {"근접 물리 데미지"}
 }
 }
--- DECOMPILER ERROR at PC13587: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13590: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_REF_T_POTION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6570,7 +6572,7 @@ descript = {
 {"받는 반사 데미지 100% 감소"}
 }
 }
--- DECOMPILER ERROR at PC13614: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13617: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_ADD_ATK_DAMAGE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6583,7 +6585,7 @@ descript = {
 {"원거리 물리 데미지 15% 증가"}
 }
 }
--- DECOMPILER ERROR at PC13638: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13641: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_ADD_MATK_DAMAGE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6594,7 +6596,7 @@ descript = {
 {"모든 속성 마법 데미지 15% 증가"}
 }
 }
--- DECOMPILER ERROR at PC13665: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13668: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SERVANTWEAPON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6607,7 +6609,7 @@ descript = {
 {"일반 물리 공격 시, 무기체 사출"}
 }
 }
--- DECOMPILER ERROR at PC13689: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13692: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SERVANT_SIGN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6618,7 +6620,7 @@ descript = {
 {"서번트 웨폰에 의한 표식"}
 }
 }
--- DECOMPILER ERROR at PC13716: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13719: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CHARGINGPIERCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6631,7 +6633,7 @@ descript = {
 {"카운터 누적"}
 }
 }
--- DECOMPILER ERROR at PC13746: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13749: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_DRAGONIC_AURA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6646,7 +6648,7 @@ descript = {
 {"헌드레드 스피어 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC13773: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13776: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_VIGOR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6659,7 +6661,7 @@ descript = {
 {"매 공격시, HP 감소"}
 }
 }
--- DECOMPILER ERROR at PC13797: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13800: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_DEADLY_DEFEASANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6670,7 +6672,7 @@ descript = {
 {"마법 무효화 능력 제거"}
 }
 }
--- DECOMPILER ERROR at PC13824: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13827: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CLIMAX_DES_HU] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6683,7 +6685,7 @@ descript = {
 {"MATK + 100"}
 }
 }
--- DECOMPILER ERROR at PC13857: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13860: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CLIMAX] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6700,7 +6702,7 @@ descript = {
 {"바일런트 퀘이크"}
 }
 }
--- DECOMPILER ERROR at PC13881: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13884: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CLIMAX_EARTH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6711,7 +6713,7 @@ descript = {
 {"지속성 내성 감소"}
 }
 }
--- DECOMPILER ERROR at PC13905: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13908: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CLIMAX_BLOOM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6722,7 +6724,7 @@ descript = {
 {"화속성 내성 감소"}
 }
 }
--- DECOMPILER ERROR at PC13938: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13941: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CLIMAX_CRYIMP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6739,7 +6741,7 @@ descript = {
 {"수속성 마법 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC13965: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13968: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_GUARD_STANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6752,7 +6754,7 @@ descript = {
 {"장비 공격력이 감소"}
 }
 }
--- DECOMPILER ERROR at PC13992: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC13995: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_ATTACK_STANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6765,7 +6767,7 @@ descript = {
 {"물리 방어력이 감소"}
 }
 }
--- DECOMPILER ERROR at PC14016: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14019: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_GUARDIAN_S] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6776,7 +6778,7 @@ descript = {
 {"물리 공격을 막는 방어막이 부여된 상태"}
 }
 }
--- DECOMPILER ERROR at PC14040: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14043: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_REBOUND_S] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6787,7 +6789,7 @@ descript = {
 {"헌신으로 받는 데미지 감소 상태"}
 }
 }
--- DECOMPILER ERROR at PC14070: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14073: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HOLY_S] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6802,7 +6804,7 @@ descript = {
 {"크로스 레인 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC14094: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14097: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_ULTIMATE_S] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6813,7 +6815,7 @@ descript = {
 {"전투 불능 시, 즉시 부활"}
 }
 }
--- DECOMPILER ERROR at PC14121: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14124: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SPEAR_SCAR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6826,7 +6828,7 @@ descript = {
 {"캐논 스피어 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC14151: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14154: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SHIELD_POWER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6841,7 +6843,7 @@ descript = {
 {"어스 드라이브 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC14178: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14181: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_POWERFUL_FAITH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6854,7 +6856,7 @@ descript = {
 {"특성 공격력 증가"}
 }
 }
--- DECOMPILER ERROR at PC14205: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14208: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SINCERE_FAITH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6867,7 +6869,7 @@ descript = {
 {"유도 공격 효과 부여"}
 }
 }
--- DECOMPILER ERROR at PC14232: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14235: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_FIRM_FAITH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6880,7 +6882,7 @@ descript = {
 {"RES 증가"}
 }
 }
--- DECOMPILER ERROR at PC14256: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14259: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HOLY_OIL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6891,7 +6893,7 @@ descript = {
 {"받는 원거리 물리 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC14280: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14283: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_FIRST_BRAND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6902,7 +6904,7 @@ descript = {
 {"낙인이 부여된 상태"}
 }
 }
--- DECOMPILER ERROR at PC14304: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14307: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SECOND_BRAND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6913,7 +6915,7 @@ descript = {
 {"심판의 낙인이 부여된 상태"}
 }
 }
--- DECOMPILER ERROR at PC14340: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14343: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SECOND_JUDGE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6932,7 +6934,7 @@ descript = {
 {"기구체 소모 없음"}
 }
 }
--- DECOMPILER ERROR at PC14376: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14379: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_THIRD_EXOR_FLAME] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6951,7 +6953,7 @@ descript = {
 {"기구체 소모 없음"}
 }
 }
--- DECOMPILER ERROR at PC14412: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14415: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_FIRST_FAITH_POWER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6970,7 +6972,7 @@ descript = {
 {"기구체 소모 없음"}
 }
 }
--- DECOMPILER ERROR at PC14439: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14442: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_MASSIVE_F_BLASTER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6983,7 +6985,7 @@ descript = {
 {"기구체 소모 없음"}
 }
 }
--- DECOMPILER ERROR at PC14466: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14469: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SHADOW_EXCEED] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -6996,7 +6998,7 @@ descript = {
 {"데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC14493: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14496: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_DANCING_KNIFE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7009,7 +7011,7 @@ descript = {
 {"근접 물리 데미지"}
 }
 }
--- DECOMPILER ERROR at PC14517: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14520: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_POTENT_VENOM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7020,7 +7022,7 @@ descript = {
 {"물리 저항력 무시"}
 }
 }
--- DECOMPILER ERROR at PC14541: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14544: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SHADOW_SCAR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7031,7 +7033,7 @@ descript = {
 {"받는 근접 물리 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC14568: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14571: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SHADOW_WEAPON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7044,7 +7046,7 @@ descript = {
 {"받는 근접 물리 데미지 증가 효과 부여"}
 }
 }
--- DECOMPILER ERROR at PC14595: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14598: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_MEDIALE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7057,7 +7059,7 @@ descript = {
 {"HP가 회복되는 상태"}
 }
 }
--- DECOMPILER ERROR at PC14619: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14622: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_A_VITA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7068,7 +7070,7 @@ descript = {
 {"마법 저항력 일부 무시"}
 }
 }
--- DECOMPILER ERROR at PC14643: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14646: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_A_TELUM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7079,7 +7081,7 @@ descript = {
 {"물리 저항력 일부 무시"}
 }
 }
--- DECOMPILER ERROR at PC14667: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14670: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_PRE_ACIES] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7090,7 +7092,7 @@ descript = {
 {"크리티컬 데미지 비율 증가"}
 }
 }
--- DECOMPILER ERROR at PC14691: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14694: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_COMPETENTIA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7101,7 +7103,7 @@ descript = {
 {"P.ATK, S.MATK 증가"}
 }
 }
--- DECOMPILER ERROR at PC14715: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14718: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_RELIGIO] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7112,7 +7114,7 @@ descript = {
 {"SPL, WIS, STA 증가"}
 }
 }
--- DECOMPILER ERROR at PC14739: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14742: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_BENEDICTUM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7123,7 +7125,7 @@ descript = {
 {"POW, CRT, CON 증가"}
 }
 }
--- DECOMPILER ERROR at PC14763: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14766: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_WINDSIGN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7134,7 +7136,7 @@ descript = {
 {"윈드 호크의 낙인이 부여된 상태"}
 }
 }
--- DECOMPILER ERROR at PC14796: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14799: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CALAMITYGALE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7151,7 +7153,7 @@ descript = {
 {"크레시브 볼트, 가일 스톰으로 동물, 어패형에게 주는 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC14823: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14826: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_MYSTIC_SYMPHONY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7164,7 +7166,7 @@ descript = {
 {"어패형, 인간형 몬스터에게 주는 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC14847: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14850: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_KVASIR_SONATA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7175,7 +7177,7 @@ descript = {
 {"혼자서 합주를 할 수 있게 된 상태"}
 }
 }
--- DECOMPILER ERROR at PC14871: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14874: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SOUNDBLEND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7186,7 +7188,7 @@ descript = {
 {"음파 낙인이 찍힌 상태"}
 }
 }
--- DECOMPILER ERROR at PC14895: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14898: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_GEF_NOCTURN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7197,7 +7199,7 @@ descript = {
 {"마법 저항력 감소"}
 }
 }
--- DECOMPILER ERROR at PC14919: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14922: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_AIN_RHAPSODY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7208,7 +7210,7 @@ descript = {
 {"RES 감소"}
 }
 }
--- DECOMPILER ERROR at PC14943: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14946: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_MUSICAL_INTERLUDE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7219,7 +7221,7 @@ descript = {
 {"물리 저항력 증가"}
 }
 }
--- DECOMPILER ERROR at PC14970: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC14973: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_JAWAII_SERENADE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7232,7 +7234,7 @@ descript = {
 {"이동 속도 증가"}
 }
 }
--- DECOMPILER ERROR at PC14997: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15000: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_PRON_MARCH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7245,7 +7247,7 @@ descript = {
 {"이동 속도 증가"}
 }
 }
--- DECOMPILER ERROR at PC15021: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15024: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SHADOW_STRIP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7256,7 +7258,7 @@ descript = {
 {"쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
--- DECOMPILER ERROR at PC15045: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15048: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_ABYSS_DAGGER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7267,7 +7269,7 @@ descript = {
 {"페이탈 메나스 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC15072: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15075: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_ABYSSFORCEWEAPON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7280,7 +7282,7 @@ descript = {
 {"일반 물리 공격 시, 구체 공격"}
 }
 }
--- DECOMPILER ERROR at PC15099: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15102: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_ABYSS_SLAYER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7293,7 +7295,7 @@ descript = {
 {"S.MATK 증가"}
 }
 }
--- DECOMPILER ERROR at PC15123: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15126: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_AXE_STOMP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7304,7 +7306,7 @@ descript = {
 {"액스 토네이도 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC15150: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15153: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_A_MACHINE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7317,7 +7319,7 @@ descript = {
 {"근접 물리 데미지"}
 }
 }
--- DECOMPILER ERROR at PC15177: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15180: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_D_MACHINE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7330,7 +7332,7 @@ descript = {
 {"RES 증가"}
 }
 }
--- DECOMPILER ERROR at PC15201: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15204: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SPELL_ENCHANTING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7341,7 +7343,7 @@ descript = {
 {"S.MATK 증가"}
 }
 }
--- DECOMPILER ERROR at PC15228: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15231: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_CONFLAGRATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7354,7 +7356,7 @@ descript = {
 {"주기적으로 HP 감소"}
 }
 }
--- DECOMPILER ERROR at PC15255: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15258: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEEPBLIND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7367,7 +7369,7 @@ descript = {
 {"회피, 완전회피 감소"}
 }
 }
--- DECOMPILER ERROR at PC15282: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15285: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEEPSILENCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7380,7 +7382,7 @@ descript = {
 {"공격 속도 감소"}
 }
 }
--- DECOMPILER ERROR at PC15309: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15312: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_LASSITUDE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7393,7 +7395,7 @@ descript = {
 {"이동 속도 감소"}
 }
 }
--- DECOMPILER ERROR at PC15342: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15345: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_FROSTBITE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7410,7 +7412,7 @@ descript = {
 {"데미지 입을 경우 해제"}
 }
 }
--- DECOMPILER ERROR at PC15372: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15375: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_SWOONING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7425,7 +7427,7 @@ descript = {
 {"데미지 입을 경우 해제"}
 }
 }
--- DECOMPILER ERROR at PC15405: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15408: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_LIGHTNINGSTRIKE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7442,7 +7444,7 @@ descript = {
 {"데미지 입을 경우 해제"}
 }
 }
--- DECOMPILER ERROR at PC15438: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15441: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_CRYSTALLIZATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7459,7 +7461,7 @@ descript = {
 {"데미지 입을 경우 해제"}
 }
 }
--- DECOMPILER ERROR at PC15465: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15468: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_MISFORTUNE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7472,7 +7474,7 @@ descript = {
 {"스킬 사용 시, 일정 확률로 실패"}
 }
 }
--- DECOMPILER ERROR at PC15492: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15495: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEADLYPOISON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7485,7 +7487,7 @@ descript = {
 {"DEF 감소, 주기적으로 HP 감소"}
 }
 }
--- DECOMPILER ERROR at PC15519: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15522: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEPRESSION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7498,7 +7500,7 @@ descript = {
 {"주기적으로 SP 감소"}
 }
 }
--- DECOMPILER ERROR at PC15546: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15549: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_HOLYFLAME] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7511,7 +7513,7 @@ descript = {
 {"받는 물리 데미지 추가 증가"}
 }
 }
--- DECOMPILER ERROR at PC15570: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15573: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_PROTECTSHADOWEQUIP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7522,7 +7524,7 @@ descript = {
 {"쉐도우 장비가 절대로 손상되지 않는 상태"}
 }
 }
--- DECOMPILER ERROR at PC15597: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15600: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_RESEARCHREPORT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7535,7 +7537,7 @@ descript = {
 {"무형, 식물형에게 주는 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC15621: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15624: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_BO_HELL_DUSTY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7546,7 +7548,7 @@ descript = {
 {"무형, 식물형에게 주는 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC15654: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15657: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7563,7 +7565,7 @@ descript = {
 {"폭기 상태 유지"}
 }
 }
--- DECOMPILER ERROR at PC15684: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15687: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_ANCILLA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7578,7 +7580,7 @@ descript = {
 {"아도라무스 무속성 부여"}
 }
 }
--- DECOMPILER ERROR at PC15708: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15711: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7589,7 +7591,7 @@ descript = {
 {"자신이 받는 반사 데미지 감소"}
 }
 }
--- DECOMPILER ERROR at PC15732: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15735: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_BANDING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7600,7 +7602,7 @@ descript = {
 {"물리 방어력 증가"}
 }
 }
--- DECOMPILER ERROR at PC15765: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15768: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_INSPIRATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7617,7 +7619,7 @@ descript = {
 {"지속적으로 HP, SP 감소"}
 }
 }
--- DECOMPILER ERROR at PC15795: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15798: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7632,7 +7634,7 @@ descript = {
 {"마법 스킬 사용 가능"}
 }
 }
--- DECOMPILER ERROR at PC15819: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15822: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_MAGICPOWER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7643,7 +7645,7 @@ descript = {
 {"마법 공격력 증폭 상태"}
 }
 }
--- DECOMPILER ERROR at PC15843: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15846: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_OVERBRANDREADY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7654,7 +7656,7 @@ descript = {
 {"오버 브랜드 위력 증가"}
 }
 }
--- DECOMPILER ERROR at PC15867: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15870: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SHIELDSPELL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7665,7 +7667,7 @@ descript = {
 {"방패 마법 효과"}
 }
 }
--- DECOMPILER ERROR at PC15891: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15894: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CLOUD_POISON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7676,7 +7678,7 @@ descript = {
 {"독속성 공격에 대한 내성 감소"}
 }
 }
--- DECOMPILER ERROR at PC15915: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15918: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_SPORE_EXPLOSION_DEBUFF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7687,7 +7689,7 @@ descript = {
 {"받는 원거리 물리 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC15942: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15945: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_BLOOD_SUCKER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7700,7 +7702,7 @@ descript = {
 {"HP 흡수"}
 }
 }
--- DECOMPILER ERROR at PC15966: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15969: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_UNLIMIT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7711,7 +7713,7 @@ descript = {
 {"원거리 물리 데미지 상승"}
 }
 }
--- DECOMPILER ERROR at PC15993: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC15996: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_STRIKING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7724,7 +7726,7 @@ descript = {
 {"유도 공격 발동 확률 증가"}
 }
 }
--- DECOMPILER ERROR at PC16017: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16020: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_POISON_MIST] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7735,7 +7737,7 @@ descript = {
 {"회피율 감소"}
 }
 }
--- DECOMPILER ERROR at PC16044: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16047: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_STONE_WALL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7748,7 +7750,7 @@ descript = {
 {"마법 방어력 증가"}
 }
 }
--- DECOMPILER ERROR at PC16068: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16071: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_HOMUN_TIME] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7759,7 +7761,7 @@ descript = {
 {"호문클루스 활성화 상태"}
 }
 }
--- DECOMPILER ERROR at PC16095: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16098: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_PAIN_KILLER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7772,7 +7774,7 @@ descript = {
 {"받는 데미지 감소"}
 }
 }
--- DECOMPILER ERROR at PC16122: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16125: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_NEEDLE_OF_PARALYZE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7785,7 +7787,7 @@ descript = {
 {"물리 및 마법 방어력 감소"}
 }
 }
--- DECOMPILER ERROR at PC16146: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16149: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7796,7 +7798,7 @@ descript = {
 {"무기 공격력 상승"}
 }
 }
--- DECOMPILER ERROR at PC16170: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16173: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_NOEQUIPWEAPON2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7807,7 +7809,7 @@ descript = {
 {"웨폰 쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
--- DECOMPILER ERROR at PC16194: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16197: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_NOEQUIPARMOR2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7818,7 +7820,7 @@ descript = {
 {"아머 쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
--- DECOMPILER ERROR at PC16218: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16221: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7829,7 +7831,7 @@ descript = {
 {"쉴드 웨폰 쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
--- DECOMPILER ERROR at PC16242: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16245: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_NOEQUIPSHOES2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7840,7 +7842,7 @@ descript = {
 {"신발 쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
--- DECOMPILER ERROR at PC16266: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16269: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_NOEQUIPPENDANT2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7851,7 +7853,7 @@ descript = {
 {"악세서리 쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
--- DECOMPILER ERROR at PC16290: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16293: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_NOEQUIPEARING2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7862,7 +7864,7 @@ descript = {
 {"악세서리 쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
--- DECOMPILER ERROR at PC16314: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16317: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_NOEQUIPFULL2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7873,7 +7875,7 @@ descript = {
 {"모든 쉐도우 장비를 착용할 수 없는 상태"}
 }
 }
--- DECOMPILER ERROR at PC16335: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16338: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CURSE_R_CUBE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -7882,13 +7884,46 @@ descript = {
 {"%s", COLOR_TIME}
 }
 }
--- DECOMPILER ERROR at PC16356: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC16359: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CURSE_B_CUBE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
 {"커스 오브 블루 큐브", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC16383: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_TOXIN_OF_MANDARA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"만다라", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"물리 저항력 감소"}
+}
+}
+-- DECOMPILER ERROR at PC16407: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GOLDENE_TONE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"골든에 튜느", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"물리 및 마법 저항력 증가"}
+}
+}
+-- DECOMPILER ERROR at PC16431: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_TEMPERING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"템퍼링", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"P.ATK 증가"}
 }
 }
 
