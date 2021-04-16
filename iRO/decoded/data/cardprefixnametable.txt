@@ -751,3 +751,41 @@
 27117#Lethal#
 27118#Of Pierce#
 27119#Of Turtle Shell#
+
+
+4480#of Half Reload#
+4481#Half Jack Frost#
+4482#of Half Regeneration#
+4483#Half Spiritual#
+4484#of Half Gemstone#
+4485#Half Abyss#
+4486#of Half Bigmouth#
+4487#Half Inferno#
+4488#of Half Doom#
+4490#Half Hasty#
+4491#of Half Squeezing#
+4494#Half Explosive#
+4497#Half Storm-Bringer#
+4499#Half Bloodlust#
+4500#Half Mirror#
+4501#Sealed Protection#
+4502#Half Holgren#
+4503#of Half Vision#
+4504#Half Bearer's#
+4538#Half Life Stream#
+4539#Half Arrogant#
+27209#Half Scaraba#
+27211#Half Scythelike#
+27212#Half Reflect#
+27213#of Half Bragi#
+27214#of Half Magic Protection#
+27215#of Half Penetrating#
+27216#of Half Acid#
+27217#of Half Gentleman#
+27218#of Half Grand Cross#
+27219#of Half Lucky#
+27220#Half Sword Master#
+27221#Half Educe#
+27222#Half Fear#
+27224#of Half Devilish#
+27225#Half Wise Man's#

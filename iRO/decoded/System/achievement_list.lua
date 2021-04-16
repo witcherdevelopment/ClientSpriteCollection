@@ -3529,6 +3529,16 @@ resource = {
 , 
 reward = {title = 9981}
 , score = 5}
+, 
+[999965] = {UI_Type = 0, group = "ADVENTURE", major = 4, minor = 1, title = "Lunar Valentines Greeting Card 2021", 
+content = {summary = "Lunar Valentines Greeting Card  2021", details = "Winner of the Lunar Valentines Greeting Card Contest."}
+, 
+resource = {
+[1] = {text = "Winner of the Lunar Valentines Greeting Card Contest."}
+}
+, 
+reward = {title = 9980}
+, score = 5}
 }
 main = function()
   -- function num : 0_0

@@ -25031,3 +25031,232 @@ If you'd like to grow snow Boy, you need holy water. Please bring 5 Holy water. 
 17158#Waiting: Growing Snow Boy#SG_FEEL#QUE_NOIMAGE#
 You can grow snow boy with the holy water you brought. Please come back after dawn. - <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>#
 Waiting Time#
+
+
+
+11539#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+I heard Hyul humming alone in the Payon inn. Let's talk to Hyul.#
+Talk to Hyul#
+
+11540#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul wants to find ingredients to make Freshly boiled octopus Tteoguk. Let's check Cauldron in Payon's Inn and make a Freshly boiled octopus Tteoguk and bring it to Hyul.#
+Freshly boiled octopus Tteokguk#
+
+11541#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul said he would visit an elderly man at south of Alberta#
+Talk to Elderly in Alberta#
+
+11542#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+I greeted Elderly in Alberta safely. Let's go back to Payon to talk to Hyul.#
+To Payon#
+
+11543#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul wants to find ingredients to make Freshly boiled octopus Tteoguk. Let's check Cauldron in Payon's Inn and make a Freshly boiled octopus Tteoguk and bring it to Hyul.#
+Freshly boiled octopus Tteokguk#
+
+11544#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul said he would visit an elderly man at North of Prontera#
+Talk to Elderly in Prontera#
+
+11545#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+I greeted Elderly in Prontera safely.  Let's go back to Payon to talk to Hyul.#
+To Payon#
+
+11546#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul wants to find ingredients to make Freshly boiled octopus Tteoguk. Let's check Cauldron in Payon's Inn and make a Freshly boiled octopus Tteoguk and bring it to Hyul.#
+Freshly boiled octopus Tteokguk#
+
+11547#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul said he would visit an elderly man at north of Geffen#
+Talk to Elderly in Geffen#
+
+11548#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+I greeted Elderly in Geffen safely.  Let's go back to Payon to talk to Hyul.#
+To Payon#
+
+11549#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul wants to find ingredients to make Freshly boiled octopus Tteoguk. Let's check Cauldron in Payon's Inn and make a Freshly boiled octopus Tteoguk and bring it to Hyul.#
+Freshly boiled octopus Tteokguk#
+
+11550#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul said he would visit an elderly man at west of Aldebaran#
+Talk to Elderly in Aldebaran#
+
+11551#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+I greeted Elderly in Aldebaran safely.  Let's go back to Payon to talk to Hyul.#
+To Payon#
+
+11552#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul wants to find ingredients to make Freshly boiled octopus Tteoguk. Let's check Cauldron in Payon's Inn and make a Freshly boiled octopus Tteoguk and bring it to Hyul.#
+Freshly boiled octopus Tteokguk#
+
+11553#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Hyul says he will go to his hometown at east of Payon.#
+Talk to Elderly in Payon#
+
+11554#Try to find the taste of hometown#SG_FEEL#QUE_NOIMAGE#
+Freshly boiled octopus Tteokguk Material : 5 Picnic Octopus Leg, 2 Pecopeco Egg, 5 Fresh Octupus Leg, 2 Chewy bar rice cake(Picnic Octopus Leg, can be acquired defeating Picnic Octopus.)#
+put the ingredients in Cauldron#
+
+11555#Try to find the taste of hometown - Waiting#SG_FEEL#QUE_NOIMAGE#
+The pot is too hot to make  [Freshly boiled octopus Tteokguk]. Let's try tomorrow again.#
+Waiting Cauldron#
+
+11760#It's unfair, moo!#SG_FEEL#QUE_NOIMAGE#
+It is said that Roin visited the Malangdo Octopus Festival. Talk to Roin.#
+Talk to Roin#
+
+11761#It's unfair, moo!#SG_FEEL#QUE_NOIMAGE#
+I don't think Roin has any energy. Talk to Festival Staff to find the solution.#
+Talk to Festival Staff.#
+
+11762#It's unfair, moo!#SG_FEEL#QUE_NOIMAGE#
+Warnuts are moving to each region to defeat rats that have spread throughout the region. Let's talk to Warnut, who's getting ready to leave at the entrance to Malangdo.#
+Talk to Warnut in front of Malangdo#
+
+11763#It's unfair, moo!#SG_FEEL#QUE_NOIMAGE#
+Warnut is scheduled to depart for Prontera. Let's go to Prontera together and look into the situation.#
+Talk to Warnut at Prontera#
+
+11764#It's unfair, moo!#SG_FEEL#QUE_NOIMAGE#
+I can't see the rats right now, but the situation seems to be bad.#
+Talk to Warnut at Payon#
+
+11765#It's unfair, moo!#SG_FEEL#QUE_NOIMAGE#
+Warnut at Payon seems to be very tired of dealing with rats. Let's catch 10 What a cheap Rat on our way back and report it to Roin.#
+Talk to Roin at Malangdo#
+
+11766#It's unfair, moo!#SG_FEEL#QUE_NOIMAGE#
+It still seems that the rats have not disappeared. Let's catch 10 What a cheap Rat on our way back and report it to Roin.#
+Defeat Rats#
+
+11767#It's unfair, moo! -Waiting#SG_FEEL#QUE_NOIMAGE#
+I defeated What a cheap Rat. Let's visit again tomorrow.#
+Reset at 4:00#
+
+
+//--- Happy Egg Festival
+16261#Happy Egg Explore#SG_FEEL#QUE_NOIMAGE#
+The festival has begun. Break 3 Happy Eggs hidden in the dungeon and field and return to Member of the Happy Egg Festival.#
+Return to Yulata#
+
+16262#Happy Egg Explore-Cool down#SG_FEEL#QUE_NOIMAGE#
+These quests are daily quests and can be recieved at the expiration of the Cool down time. You can receive quests through the Member of the Happy Egg Festival.#
+#
+
+16263#Happy Egg Explore#SG_FEEL#QUE_NOIMAGE#
+The festival continues. Break 3 Happy Eggs hidden in the dungeon and field and return to Member of the Happy Egg Festival.#
+Return to Yulata#
+
+16264#Happy Clover Decoration#SG_FEEL#QUE_NOIMAGE#
+The festival has begun. Hunt 3 clovers each in dungeons and fields, then collect 3 Happy Three Leaf Clovers and return to the Festival Deco Expert.#
+Return to Luluphant#
+
+16265#Happy Clover Decoration-Cool down#SG_FEEL#QUE_NOIMAGE#
+These quests are daily quests and can be recieved at the expiration of the Cool down time. You can receive quests through Festival Deco Expert.#
+#
+
+16266#Happy Clover Decoration#SG_FEEL#QUE_NOIMAGE#
+The festival continues. Hunt 3 clovers each in dungeons and fields, then collect 3 Happy Three Leaf Clovers and return to the Festival Deco Expert.#
+Return to Luluphant#
+
+16267#Looking for Happy Hint#SG_FEEL#QUE_NOIMAGE#
+After helping Member of the Happy Egg Festival, Yulata, let's check if there's anything suspicious and report to Frowny.#
+Investigate Yulata#
+
+16268#Looking for Happy Hint#SG_FEEL#QUE_NOIMAGE#
+After helping Festival Deco Expert, Luluphant, let's check if there's anything suspicious and report to Frowny.#
+Investigate Luluphant#
+
+16269#Jump into the Enemy camp#SG_FEEL#QUE_NOIMAGE#
+Let's help Zilean make egg-shaped snacks at Schweitzerville Academy and see if there's anything suspicious.#
+Investigate Zilean#
+
+16270#Invest the Enemy camp#SG_FEEL#QUE_NOIMAGE#
+Let's help Salem care of pets at Schweitzervill Academy, and see if there's anything suspicious.#
+Investigate Salem#
+
+16271#Report Happy Result#SG_FEEL#QUE_NOIMAGE#
+I've completed investigating Academy. Let's report the this happy results to Frowny waiting at the new place.#
+Return to Frowny#
+
+16272#Track the truth#SG_FEEL#QUE_NOIMAGE#
+Let's comfort Frowny, who has become very depressed.#
+Talk to Frowny#
+
+16273#Sweet Cookie Egg Ingredients#SG_FEEL#QUE_NOIMAGE#
+Meet Farmer Sheran waiting in Izlude and get an Almond and go back to Zilean.#
+Talk to Sheran#
+
+16274#Chocolate Egg Ingredients#SG_FEEL#QUE_NOIMAGE#
+Meet Patissier Ian waiting in Prontera and get a solid chocolate and go back to Zilean.#
+Talk to Ian#
+
+16275#Sweet Ingredients#SG_FEEL#QUE_NOIMAGE#
+These quests are daily quests and can be recieved at the expiration of the Cool down time. You can receive quests through Zilean.#
+#
+
+16276#Sweet Cookie Egg Ingredients#SG_FEEL#QUE_NOIMAGE#
+Meet Farmer Sheran waiting in Izlude and get an Almond and go back to Zilean.#
+Talk to Sheran#
+
+16277#Chocolate Egg Ingredients#SG_FEEL#QUE_NOIMAGE#
+Meet Patissier Ian waiting in Prontera and get a solid chocolate and go back to Zilean.#
+Talk to Ian#
+
+16278#Take a walk with Pet Lunatic#SG_FEEL#QUE_NOIMAGE#
+You decided to take a walk with Pet Lunatic#
+Take a walk with Lunatic#
+
+16279#Take a walk with Pet Poring#SG_FEEL#QUE_NOIMAGE#
+You decided to take a walk with Pet Poring.#
+Take a walk with Poring#
+
+16280#Take a walk with Pet Desert Wolf Baby#SG_FEEL#QUE_NOIMAGE#
+You decided to take a walk with Pet Desert Wolf Baby.#
+Take a walk with Desert Wolf Baby#
+
+16281#Take a walk with Pet Deviruchi#SG_FEEL#QUE_NOIMAGE#
+You decided to take a walk with pet Deviruchi.#
+Take a walk with Deviruchi#
+
+16282#Happy Survey#SG_FEEL#QUE_NOIMAGE#
+Talk to Salem and fill out the questionnaire, and today's experiment is over.#
+Survey#
+
+16283#Happy Walking#SG_FEEL#QUE_NOIMAGE#
+These quests are daily quests and can be recieved at the expiration of the Cool down time. You can receive quests through Salem.#
+#
+
+16284#Happy Walking Course#SG_FEEL#QUE_NOIMAGE#
+Let's go to the first Walking Course on the map.#
+First Walking Course#
+
+16285#Happy Walking Course#SG_FEEL#QUE_NOIMAGE#
+Let's go to the second Walking Course on the map.#
+Second Walking Course#
+
+16286#Happy Walking Course#SG_FEEL#QUE_NOIMAGE#
+Let's go to the third Walking Course on the map.#
+Third Walking Course#
+
+16287#Happy Walking Course#SG_FEEL#QUE_NOIMAGE#
+Let's go to the fourth Walking Course on the map.#
+Fourth Walking Course#
+
+16288#Happy Walking Course#SG_FEEL#QUE_NOIMAGE#
+Let's get back to Schweitzervill Academy.#
+Return to Acedemy#
+
+16289#Happy Pet Vending Machine#SG_FEEL#QUE_NOIMAGE#
+Happy Pet Vending Machine#
+#
+
+//-- Corridor of Phantom
+5846#Corridor of Phantom#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Phantom's Spirit]<INFO>comodo,214,186,0,101,0</INFO></NAVI> gives away <ITEM>[Phantom's Seal]<INFO>25504</INFO></ITEM> to play the corridor for an hour once every three days.#
+#
+
+63715#Corridor of Phantom#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Phantom's Spirit]<INFO>comodo,214,186,0,101,0</INFO></NAVI> gives away sells Phantom Ticket to play the corridor for two hours once a day.#
+#
