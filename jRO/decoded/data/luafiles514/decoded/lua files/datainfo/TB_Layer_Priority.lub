@@ -620,6 +620,26 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_White_Corone] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Hair_Bun_Wave] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Floating_Parasol] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Ribbon] = {Default = 200, 
+Direction = {[3] = 450, [4] = 450, [5] = 450}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_P_blossom_Hairpin] = {Default = 450, 
+Direction = {[3] = 321, [4] = 321, [5] = 321}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Shadow_Devil] = {Default = 75, isIgnoreRiding = true, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

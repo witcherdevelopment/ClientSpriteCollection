@@ -1,10 +1,17 @@
 loadingscreen#
-7#
+8#
 
 //クリスマスデコレーション
 //event#
 //1#
-
+//
+//HaloweenMap用エフェクト
+//以下、永久実装（ハロウィン専用マップ）
 weather#hal_main.rsw#pokjuk#
 weather#hal_fes2.rsw#pokjuk#
-//file end
+
+//以下、桜ゴザ設置期間中に追加
+weather#amatsu.rsw#sakura#
+weather#pay_arche.rsw#sakura#
+
+//file end

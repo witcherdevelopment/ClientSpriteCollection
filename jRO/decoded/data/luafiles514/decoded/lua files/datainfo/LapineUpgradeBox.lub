@@ -706,6 +706,22 @@ TargetItems = {
 {"Ep172_1h_Hammer", 590006}
 }
 , NeedSource_String = "大罪武器改造装置(Type6)"}
+, 
+Illu_Enhance_Cube2 = {ItemID = 100729, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Illusion_Armor_A", 15376}
+, 
+{"Illusion_Armor_B", 15377}
+, 
+{"Illusion_Engine_A", 20933}
+, 
+{"Illusion_Engine_B", 20934}
+, 
+{"Illusion_Leg_A", 22196}
+, 
+{"Illusion_Leg_B", 22197}
+}
+, NeedSource_String = "エンハンスキューブII(イルシオン)"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

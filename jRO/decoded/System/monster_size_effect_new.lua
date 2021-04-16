@@ -6465,6 +6465,230 @@ MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT}
 [20580] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
 }
+, 
+[21396] = {MonsterSize = 4, 
+MonsterEff = {EFFECT.EF_PINKBODY}
+}
+, 
+[21397] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21398] = {MonsterSize = 2.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21399] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_BULLSEYE}
+}
+, 
+[21400] = {MonsterSize = 1.6, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21401] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_SUPER_STAR}
+}
+, 
+[21402] = {MonsterSize = 1.8, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21403] = {MonsterSize = 1.6, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21404] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21405] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21406] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21407] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21408] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21409] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21410] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_REFLECTBODY}
+}
+, 
+[21411] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_GLASSWALL, EFFECT.EF_TORCH_PURPLE}
+}
+, 
+[21412] = {MonsterSize = 2.1, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_FLOWERSMOKE}
+}
+, 
+[21413] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_WATER_BELOW}
+}
+, 
+[21414] = {MonsterSize = 1.8, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_LEVEL99_3, EFFECT.EF_GRAYBODY, EFFECT.EF_BRANDISH2}
+}
+, 
+[21415] = {MonsterSize = 1.6, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_LEVEL99_3, EFFECT.EF_BLACKBODY, EFFECT.EF_DOUBLEGUMGANG3}
+}
+, 
+[21416] = {MonsterSize = 1.6, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_LEVEL99_3, EFFECT.EF_REDBODY, EFFECT.EF_SPLASHER}
+}
+, 
+[21417] = {MonsterSize = 1.8, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_WHITEBODY, EFFECT.EF_DARKCASTING2, EFFECT.EF_DOUBLEGUMGANG}
+}
+, 
+[21418] = {MonsterSize = 1.7, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_WHITEBODY, EFFECT.EF_DARKCASTING2}
+}
+, 
+[21419] = {MonsterSize = 1.8, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_WHITEBODY, EFFECT.EF_DARKCASTING2}
+}
+, 
+[21420] = {MonsterSize = 1.6, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_GRAYBODY, EFFECT.EF_FLOWERSMOKE, EFFECT.EF_BRANDISH2}
+}
+, 
+[21421] = {MonsterSize = 1.7, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_REDLIGHTBODY, EFFECT.EF_BRANDISH2, EFFECT.EF_BIG_PORTAL2}
+}
+, 
+[21450] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21451] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21452] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21453] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21454] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21455] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21456] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21457] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21458] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21459] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21460] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21461] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21462] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21463] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21464] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21465] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21466] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21467] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21468] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21469] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21470] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21471] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21472] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21473] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21474] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21475] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21476] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21477] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21478] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21479] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
 }
 main = function()
   -- function num : 0_0
