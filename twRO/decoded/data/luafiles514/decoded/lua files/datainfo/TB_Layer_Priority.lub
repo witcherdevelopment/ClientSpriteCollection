@@ -103,7 +103,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Nydhog_Wig] = {Default = 152, 
+[ACCESSORY_IDs.ACCESSORY_Nydhog_Wig] = {Default = 153, 
 Direction = {}
 }
 , 
@@ -135,35 +135,35 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cowlick_YL] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_Cowlick_YL] = {Default = 152, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cowlick_GN] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_Cowlick_GN] = {Default = 152, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cowlick_PP] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_Cowlick_PP] = {Default = 152, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cowlick_RD] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_Cowlick_RD] = {Default = 152, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cowlick_OM] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_Cowlick_OM] = {Default = 152, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cowlick_BU] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_Cowlick_BU] = {Default = 152, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cowlick_WH] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_Cowlick_WH] = {Default = 152, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cowlick_BL] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_Cowlick_BL] = {Default = 152, 
 Direction = {}
 }
 , 
@@ -409,7 +409,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_SV] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_SV] = {Default = 152, 
 Direction = {}
 }
 , 
@@ -495,7 +495,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_L_RibbonMuff_Red] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_L_RibbonMuff_Red] = {Default = 305, 
 Direction = {}
 }
 , 
@@ -531,11 +531,11 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {Default = 300, 
+[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {Default = 304, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {Default = 305, 
+[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {Default = 301, 
 Direction = {}
 }
 , 
@@ -691,7 +691,11 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Large_Ribbon_Muffler] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_Large_Ribbon_Muffler] = {Default = 305, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Warm_Cat_Muffler] = {Default = 305, 
 Direction = {}
 }
 , 
@@ -827,13 +831,43 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Poring_Soap_Pipe] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_Poring_Soap_Pipe] = {Default = 305, 
 Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Baby_Polar_Bear] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_WitchManteau] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_GN] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_BL] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_WH] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_OM] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_PP] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_BU] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_RD] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Country_Tail_YL] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Poulet_TW] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Sleep_Sheep] = {Default = 305, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_L_RibbonMuff_Black] = {Default = 305, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Warm_Cat_Muffler_BL] = {Default = 305, 
 Direction = {}
 }
 }

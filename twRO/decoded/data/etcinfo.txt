@@ -4,10 +4,10 @@
 //weather#
 //pay_arche.rsw#
 //sakura#
-//weather#
+weather#
 comodo.rsw#
 pokjuk#
-//weather#
+weather#
 malangdo.rsw#
 pokjuk#
 //file end

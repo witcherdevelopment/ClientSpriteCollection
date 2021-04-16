@@ -59,7 +59,6 @@ mosk_dun01.rsw#森林洞穴#
 mosk_dun02.rsw#深森林洞穴#
 mosk_dun03.rsw#深淵森林洞穴#
 
-bossnia_01.rsw#波士尼亞#
 bossnia_02.rsw#波士尼亞#
 bossnia_03.rsw#波士尼亞#
 bossnia_04.rsw#波士尼亞#
@@ -708,7 +707,6 @@ pvp_y_7-5.rsw#PvP : 夢羅克#
 pvp_y_8-5.rsw#PvP : 夢羅克#
 pvp_2vs2.rsw#PvP : 活動 競技場#
 //----------------bein ep.11.3------------
-bossnia_01.rsw#波士尼亞#
 bossnia_02.rsw#波士尼亞#
 bossnia_03.rsw#波士尼亞#
 bossnia_04.rsw#波士尼亞#
@@ -1069,7 +1067,6 @@ cave.rsw#洞穴村#
 moc_fild20.rsw#蘇克拉特沙漠次元裂縫#
 moc_fild21.rsw#蘇克拉特沙漠次元裂縫#
 moc_fild22.rsw#蘇克拉特沙漠次元裂縫#
-bossnia_01.rsw#波士尼亞#
 bossnia_02.rsw#波士尼亞#
 bossnia_03.rsw#波士尼亞#
 bossnia_04.rsw#波士尼亞#
@@ -1956,3 +1953,6 @@ abyss_04a.rsw#毀葛深淵湖水地下洞穴4樓(A)#
 abyss_04b.rsw#毀葛深淵湖水地下洞穴4樓(B)#
 prt_m3_ia.rsw#扭曲的迷宮森林(A)#
 prt_m3_ib.rsw#扭曲的迷宮森林(B)#
+
+//210302 3月自製活動
+bossnia_01.rsw#陰森古堡領地#

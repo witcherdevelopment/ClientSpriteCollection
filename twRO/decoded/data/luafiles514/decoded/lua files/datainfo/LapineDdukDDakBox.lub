@@ -9044,6 +9044,8 @@ SourceItems = {
 {"C_2018_RTC_Cape_TW", 1, 20523}
 , 
 {"C_Gold_Shower_J", 1, 20544}
+, 
+{"C_2018_RTC_Cape_ROS", 1, 20529}
 }
 , NeedSource_String = "©ÜªÓ"}
 , 
@@ -9064,6 +9066,48 @@ SourceItems = {
 {"Ancient_Hero_Boots", 1, 22171}
 }
 , NeedSource_String = "¥j¥N­^¶¯¾Ô¹u"}
+, 
+Oriental_Sword_Cube = {ItemID = 100274, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Oriental_Sword", 1, 21038}
+}
+, NeedSource_String = "¯«¸Ü±ÙÅ]¼C"}
+, 
+Shadow_Staff_K_Cube = {ItemID = 100378, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadow_Staff_K", 1, 26118}
+}
+, NeedSource_String = "¥j¥N­^¶¯Å]§ú"}
+, 
+Saint_Hall_Cube = {ItemID = 100398, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Saint_Hall", 1, 590003}
+}
+, NeedSource_String = "¥j¥N¸t·µ¼f§PÁè"}
+, 
+Trumpet_Shell_K_Cube = {ItemID = 100330, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Trumpet_Shell_K", 1, 570002}
+}
+, NeedSource_String = "¨©´ß³ý²Ã"}
+, 
+Barb_Wire_K_Cube = {ItemID = 100331, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Barb_Wire_K", 1, 580002}
+}
+, NeedSource_String = "­Ë¹_¦y¾UÃ@"}
+, 
+Sword_Of_Bluefire_Cube = {ItemID = 100327, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Sword_Of_Bluefire", 1, 13485}
+}
+, NeedSource_String = "¬õ½¬¼C"}
+, 
+Slate_Sword_Cube = {ItemID = 100328, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Slate_Sword", 1, 500004}
+}
+, NeedSource_String = "¥ÛªOÆF¼C"}
 }
 , serverMain = function()
   -- function num : 0_0

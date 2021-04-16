@@ -18001,14 +18001,6 @@ Description = {"與幸福的小惡魔散步!"}
 Description = {"聽取幸福寵物販賣機的使用方法。"}
 , Summary = "幸福寵物販賣機"}
 , 
-[16425] = {Title = "幸福的散步(一)", 
-Description = {"第一回合散步結束了。"}
-, Summary = "第一回合散步"}
-, 
-[16426] = {Title = "幸福的散步(二)", 
-Description = {"第二回合散步結束了。"}
-, Summary = "第二回合散步"}
-, 
 [17036] = {Title = "豐年祭的涵義", 
 Description = {"摘下蘋果了。"}
 , Summary = "摘蘋果"}
@@ -25698,5 +25690,113 @@ Description = {"全部擊殺了施琳所召喚的怪物，去跟施琳對話吧!"}
 [3506] = {Title = "熟成可可豆", IconName = "ico_ev.bmp", 
 Description = {"擊殺^4d4dff小胖蜜糖波利^000000後，收集^4d4dff熟成可可豆^000000 1個吧!"}
 , Summary = "收集熟成可可豆"}
+, 
+[293242] = {Title = "斯庫爾之日降臨-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日第一次攻略，可於冷卻時間過後再次接取執行，或支付^4d4dff古堡參訪卷1張^000000後重置。"}
+, Summary = "凌晨四點重置"}
+, 
+[293243] = {Title = "斯庫爾之日降臨-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日第二次攻略，可於冷卻時間過後再次接取執行，或支付^4d4dff古堡參訪卷2張^000000後重置。"}
+, Summary = "凌晨四點重置"}
+, 
+[293244] = {Title = "斯庫爾之日降臨-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日第三次攻略，已無法再重置，須於冷卻時間過後再次接取執行。"}
+, Summary = "凌晨四點重置"}
+, 
+[293245] = {Title = "斯庫爾之日降臨", IconName = "ico_ev.bmp", 
+Description = {"最近發現了無法被陽光所照亮的區域，我們需要去調查該處的冒險家。"}
+, Summary = "與文物收藏家對話"}
+, 
+[16404] = {Title = "探索幸福之蛋", IconName = "ico_ev.bmp", 
+Description = {"慶典開跑了，向<NAVI>[慶典委員]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 烏拉扎聽取有關慶典的事吧!"}
+, Summary = "參加幸福之蛋活動"}
+, 
+[16405] = {Title = "探索幸福之蛋-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向<NAVI>[慶典委員]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>烏拉扎承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[16406] = {Title = "探索幸福之蛋", IconName = "ico_ev.bmp", 
+Description = {"慶典繼續展開，找出埋藏在洞穴和野外的幸福之蛋並敲破3個後去找<NAVI>[慶典委員]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>烏拉扎吧!"}
+, Summary = "參加幸福之蛋活動"}
+, 
+[16407] = {Title = "佈置幸福幸運草-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向<NAVI>[慶典佈置魯魯潘特]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[16408] = {Title = "佈置幸福幸運草", IconName = "ico_ev.bmp", 
+Description = {"慶典繼續展開，在洞穴和野外擊殺幸運草瘋兔3隻後，收集<ITEM>[幸福三葉幸運草]<INFO>25295</INFO></ITEM>三個再去找<NAVI>[慶典佈置魯魯潘特]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>吧!"}
+, Summary = "參加佈置幸運草"}
+, 
+[16409] = {Title = "配送幸福之蛋材料-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向<NAVI>[阿嬌]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[16410] = {Title = "配送幸福杏仁", IconName = "ico_ev.bmp", 
+Description = {"去依斯魯得島找<NAVI>[農夫薛藍]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>領取杏仁一袋。"}
+, Summary = "領取杏仁"}
+, 
+[16411] = {Title = "配送幸福巧克力", IconName = "ico_ev.bmp", 
+Description = {"去普隆德拉找<NAVI>[糕點師伊恩]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>領取巧克力塊一個。"}
+, Summary = "領取巧克力"}
+, 
+[16412] = {Title = "配送幸福杏仁", IconName = "ico_ev.bmp", 
+Description = {"向依斯魯得島的農夫薛藍領取了杏仁一袋，再拿巧克力後去找<NAVI>[阿嬌]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>吧!"}
+, Summary = "配送杏仁"}
+, 
+[16413] = {Title = "配送幸福巧克力", IconName = "ico_ev.bmp", 
+Description = {"向普隆德拉的糕點師伊恩領取了巧克力塊一個，再拿杏仁後去找<NAVI>[阿嬌]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>吧!"}
+, Summary = "配送巧克力"}
+, 
+[16414] = {Title = "幸福寵物散步-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向<NAVI>[賽勒]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[16415] = {Title = "幸福寵物散步", IconName = "ico_ev.bmp", 
+Description = {"跟所選的寵物對話後一起散步吧!"}
+, Summary = "跟寵物散步"}
+, 
+[16416] = {Title = "幸福寵物散步", IconName = "ico_ev.bmp", 
+Description = {"向第一個<NAVI>[地點]<INFO>yuno,195,302,0,101,0</INFO></NAVI>跟寵物散步去吧!"}
+, Summary = "散步到第一個地點"}
+, 
+[16417] = {Title = "幸福寵物散步", IconName = "ico_ev.bmp", 
+Description = {"向第二個<NAVI>[地點]<INFO>yuno,343,257,0,101,0</INFO></NAVI>跟寵物散步去吧!"}
+, Summary = "散步到第二個地點"}
+, 
+[16418] = {Title = "幸福寵物散步", IconName = "ico_ev.bmp", 
+Description = {"向第三個<NAVI>[地點]<INFO>yuno,282,102,0,101,0</INFO></NAVI>跟寵物散步去吧!"}
+, Summary = "散步到第三個地點"}
+, 
+[16419] = {Title = "幸福寵物散步", IconName = "ico_ev.bmp", 
+Description = {"回到<NAVI>[廣場]<INFO>yuno,150,155,0,101,0</INFO></NAVI>後結束這次的散步吧!"}
+, Summary = "返回廣場"}
+, 
+[16420] = {Title = "跟幸福瘋兔散步", IconName = "ico_ev.bmp", 
+Description = {"跟幸福瘋兔散步!"}
+, Summary = "跟瘋兔散步"}
+, 
+[16421] = {Title = "跟幸福波利散步", IconName = "ico_ev.bmp", 
+Description = {"跟幸福波利散步!"}
+, Summary = "跟波利散步"}
+, 
+[16422] = {Title = "跟幸福沙漠幼狼散步", IconName = "ico_ev.bmp", 
+Description = {"跟幸福沙漠幼狼散步!"}
+, Summary = "跟沙漠幼狼散步"}
+, 
+[16423] = {Title = "跟幸福小惡魔散步", IconName = "ico_ev.bmp", 
+Description = {"跟幸福小惡魔散步!"}
+, Summary = "跟小惡魔散步"}
+, 
+[16424] = {Title = "幸福寵物販賣機", IconName = "ico_ev.bmp", 
+Description = {"聽取了有關幸福寵物販賣機的使用方法。"}
+, Summary = "幸福寵物販賣機"}
+, 
+[16425] = {Title = "探索幸福之蛋第一次", IconName = "ico_ev.bmp", 
+Description = {"完成了第一次的幸福之蛋探索，在手背上蓋第一個紀念戳吧!"}
+, Summary = "第一次幸福之蛋探索"}
+, 
+[16426] = {Title = "探索幸福之蛋第二次", IconName = "ico_ev.bmp", 
+Description = {"完成了第二次的幸福之蛋探索，在手背上蓋第二個紀念戳吧!"}
+, Summary = "第二次幸福之蛋探索"}
 }
 

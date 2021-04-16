@@ -1170,18 +1170,6 @@ NeedSkillList = {
 }
 }
 , 
-[SKID.CR_ACIDDEMONSTRATION] = {"CR_ACIDDEMONSTRATION"; SkillName = "強酸火煙瓶投擲", MaxLv = 10, 
-SpAmount = {30, 30, 30, 30, 30, 30, 30, 30, 30, 30}
-, bSeperateLv = false, 
-AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
-, 
-_NeedSkillList = {
-{SKID.AM_DEMONSTRATION, 5}
-, 
-{SKID.AM_ACIDTERROR, 5}
-}
-}
-, 
 [SKID.CR_CULTIVATION] = {"CR_CULTIVATION"; SkillName = "植物栽培", MaxLv = 2, 
 SpAmount = {10, 10}
 , bSeperateLv = true, 
@@ -7502,36 +7490,10 @@ SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
 , 
-[SKID.WM_REVERBERATION] = {"WM_REVERBERATION"; SkillName = "殘響", MaxLv = 5, 
-SpAmount = {60, 66, 72, 78, 84}
-, bSeperateLv = true, 
-AttackRange = {9, 9, 9, 9, 9}
-, 
-NeedSkillList = {
-[JOBID.JT_MINSTREL] = {
-{SKID.BA_DISSONANCE, 5}
-}
-, 
-[JOBID.JT_WANDERER] = {
-{SKID.DC_UGLYDANCE, 5}
-}
-}
-}
-, 
 [SKID.SA_GRAVITY] = {"SA_GRAVITY"; SkillName = "重力社", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-}
-, 
-[SKID.WM_METALICSOUND] = {"WM_METALICSOUND"; SkillName = "重金屬音樂", MaxLv = 10, 
-SpAmount = {62, 64, 66, 68, 70, 72, 74, 76, 78, 80}
-, bSeperateLv = true, 
-AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
-, 
-_NeedSkillList = {
-{SKID.WM_DOMINION_IMPULSE, 1}
-}
 }
 , 
 [SKID.SA_LEVELUP] = {"SA_LEVELUP"; SkillName = "升級", MaxLv = 10, 
@@ -11440,22 +11402,10 @@ SpAmount = {48, 52, 56, 60, 64, 68, 72, 76, 80, 84}
 AttackRange = {5, 5, 5, 5, 5, 5, 5, 5, 5, 5}
 }
 , 
-[SKID.MH_SILVERVEIN_RUSH] = {"MH_SILVERVEIN_RUSH"; SkillName = "銀脈衝擊", MaxLv = 10, 
-SpAmount = {17, 19, 21, 23, 25, 27, 29, 31, 33, 35}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-}
-, 
 [SKID.MH_CBC] = {"MH_CBC"; SkillName = "連續突破組合", MaxLv = 5, 
 SpAmount = {10, 20, 30, 40, 50}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
-}
-, 
-[SKID.MH_MIDNIGHT_FRENZY] = {"MH_MIDNIGHT_FRENZY"; SkillName = "午夜狂暴", MaxLv = 10, 
-SpAmount = {18, 21, 24, 27, 30, 33, 36, 39, 42, 45}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
 , 
 [SKID.MH_EQC] = {"MH_EQC"; SkillName = "永恆快速組合", MaxLv = 5, 
@@ -12350,6 +12300,56 @@ SpAmount = {0}
 AttackRange = {1}
 , 
 _NeedSkillList = {}
+}
+, 
+[SKID.MH_SILVERVEIN_RUSH] = {"MH_SILVERVEIN_RUSH"; SkillName = "銀脈衝擊", MaxLv = 10, 
+SpAmount = {17, 19, 21, 23, 25, 27, 29, 31, 33, 35}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3, 3, 3, 3, 3, 3}
+}
+, 
+[SKID.MH_MIDNIGHT_FRENZY] = {"MH_MIDNIGHT_FRENZY"; SkillName = "午夜狂暴", MaxLv = 10, 
+SpAmount = {18, 21, 24, 27, 30, 33, 36, 39, 42, 45}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3, 3, 3, 3, 3, 3}
+}
+, 
+[SKID.CR_ACIDDEMONSTRATION] = {"CR_ACIDDEMONSTRATION"; SkillName = "強酸火煙瓶投擲", MaxLv = 10, 
+SpAmount = {50, 50, 50, 50, 50, 50, 50, 50, 50, 50}
+, bSeperateLv = false, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AM_DEMONSTRATION, 5}
+, 
+{SKID.AM_ACIDTERROR, 5}
+}
+}
+, 
+[SKID.WM_REVERBERATION] = {"WM_REVERBERATION"; SkillName = "殘響", MaxLv = 5, 
+SpAmount = {40, 46, 52, 58, 64}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+NeedSkillList = {
+[JOBID.JT_MINSTREL] = {
+{SKID.BA_DISSONANCE, 5}
+}
+, 
+[JOBID.JT_WANDERER] = {
+{SKID.DC_UGLYDANCE, 5}
+}
+}
+}
+, 
+[SKID.WM_METALICSOUND] = {"WM_METALICSOUND"; SkillName = "重金屬音樂", MaxLv = 10, 
+SpAmount = {62, 64, 66, 68, 70, 72, 74, 76, 78, 80}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WM_REVERBERATION, 5}
+}
 }
 }
 

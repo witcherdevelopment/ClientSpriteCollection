@@ -6272,4 +6272,52 @@ descript = {
 {"物理防禦減少"}
 }
 }
+-- DECOMPILER ERROR at PC12900: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HELLS_PLANT_ARMOR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"地獄植物", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"給予附近範圍內目標"}
+, 
+{"近距離物理傷害"}
+}
+}
+-- DECOMPILER ERROR at PC12924: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_REF_T_POTION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"黃金抵抗藥水", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"所受反射傷害減少100%"}
+}
+}
+-- DECOMPILER ERROR at PC12951: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ADD_ATK_DAMAGE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"紅色藥草活化液", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"近距離物理傷害增加15%"}
+, 
+{"遠距離物理傷害增加15%"}
+}
+}
+-- DECOMPILER ERROR at PC12975: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ADD_MATK_DAMAGE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"藍色藥草活化液", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"所有屬性魔法傷害增加15%"}
+}
+}
 
