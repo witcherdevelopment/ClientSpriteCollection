@@ -18,6 +18,18 @@ TargetItems = {
 {"Magic_Sword_LT", 510040}
 , 
 {"Fatalist_LT", 510041}
+, 
+{"Iron_Staff_LT", 640027}
+, 
+{"Blue_Crystal_Staff_LT", 640028}
+, 
+{"Shadow_Staff_K_LT", 550045}
+, 
+{"Freezing_Rod_LT", 550046}
+, 
+{"Iron_Nail_K_LT", 560026}
+, 
+{"Ray_Knuckle_LT", 560027}
 }
 , NeedSource_String = "영웅의 무기-LT"}
 , 
@@ -34,6 +46,18 @@ TargetItems = {
 {"Magic_Sword_LT", 510040}
 , 
 {"Fatalist_LT", 510041}
+, 
+{"Iron_Staff_LT", 640027}
+, 
+{"Blue_Crystal_Staff_LT", 640028}
+, 
+{"Shadow_Staff_K_LT", 550045}
+, 
+{"Freezing_Rod_LT", 550046}
+, 
+{"Iron_Nail_K_LT", 560026}
+, 
+{"Ray_Knuckle_LT", 560027}
 }
 , NeedSource_String = "영웅의 무기-LT"}
 , 
@@ -811,6 +835,42 @@ TargetItems = {
 }
 , NeedSource_String = "트루아 헌팅 방어구"}
 , 
+MD_Geffen_Rarmor = {ItemID = 100365, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"MD_Geffen_Suits", 450149}
+, 
+{"MD_Geffen_Robe", 450150}
+}
+, NeedSource_String = "게펜 투기장 가슴 방어구"}
+, 
+MD_Geffen_Rhood = {ItemID = 100366, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"MD_Geffen_Hood", 480065}
+, 
+{"MD_Geffen_Hood2", 480066}
+, 
+{"MD_Geffen_Hood3", 480067}
+, 
+{"MD_Geffen_Hood4", 480068}
+}
+, NeedSource_String = "게펜 투기장 걸칠것"}
+, 
+MD_Geffen_Racc = {ItemID = 100367, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"MD_Geffen_Ring", 490077}
+, 
+{"MD_Geffen_Ring2", 490078}
+}
+, NeedSource_String = "게펜 투기장 장신구"}
+, 
+MD_Geffen_Rsheild = {ItemID = 100368, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"MD_Geffen_Shield", 460005}
+, 
+{"MD_Geffen_Shield2", 460006}
+}
+, NeedSource_String = "게펜 투기장 방패"}
+, 
 Dark_Stone = {ItemID = 100580, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Red_Force_Pendant", 490100}
@@ -1231,7 +1291,7 @@ TargetItems = {
 }
 , NeedSource_String = "레이싱 캡"}
 , 
-Temporal_Refine_Cube = {ItemID = 100268, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Temporal_Refine_Cube = {ItemID = 100268, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Overwhelm_Str_Armor", 15278}
 , 
@@ -1307,7 +1367,7 @@ TargetItems = {
 }
 , NeedSource_String = "시간의 방어구"}
 , 
-Geffen_Refine_Cube = {ItemID = 100269, NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Geffen_Refine_Cube = {ItemID = 100269, NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"안티매직슈츠", 15073}
 , 
@@ -1319,7 +1379,7 @@ TargetItems = {
 }
 , NeedSource_String = "게펜 마법 대회 방어구"}
 , 
-Old_Refine_Cube = {ItemID = 100270, NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Old_Refine_Cube = {ItemID = 100270, NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"낡은룬서클릿", 18971}
 , 
@@ -1351,7 +1411,7 @@ TargetItems = {
 }
 , NeedSource_String = "전사자의 투구"}
 , 
-Refine_Hero_Weapon = {ItemID = 100271, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Refine_Hero_Weapon = {ItemID = 100271, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Royal_Bow_K", 18164}
 , 
@@ -1427,7 +1487,7 @@ TargetItems = {
 }
 , NeedSource_String = "영웅의 무기"}
 , 
-Refine_Hero_Boots = {ItemID = 100272, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Refine_Hero_Boots = {ItemID = 100272, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Ancient_Hero_Boots", 22171}
 }
@@ -4784,6 +4844,30 @@ TargetItems = {
 {"S_Absorb_Shield", 24685}
 , 
 {"S_Absorb_Weapon", 24686}
+, 
+{"S_AutoSpell_Shield", 24722}
+, 
+{"S_AutoSpell_Armor", 24723}
+, 
+{"S_AutoSpell_Shoes", 24724}
+, 
+{"S_AutoSpell_Weapon", 24725}
+, 
+{"S_AutoSpell_Pendant", 24726}
+, 
+{"S_AutoSpell_Earring", 24727}
+, 
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+, 
+{"S_Hasty_Shield", 24732}
+, 
+{"S_Infinity_Shield", 24733}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6106,6 +6190,30 @@ TargetItems = {
 {"S_Absorb_Shield", 24685}
 , 
 {"S_Absorb_Weapon", 24686}
+, 
+{"S_AutoSpell_Shield", 24722}
+, 
+{"S_AutoSpell_Armor", 24723}
+, 
+{"S_AutoSpell_Shoes", 24724}
+, 
+{"S_AutoSpell_Weapon", 24725}
+, 
+{"S_AutoSpell_Pendant", 24726}
+, 
+{"S_AutoSpell_Earring", 24727}
+, 
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+, 
+{"S_Hasty_Shield", 24732}
+, 
+{"S_Infinity_Shield", 24733}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -7248,6 +7356,30 @@ TargetItems = {
 {"S_Absorb_Shield", 24685}
 , 
 {"S_Absorb_Weapon", 24686}
+, 
+{"S_AutoSpell_Shield", 24722}
+, 
+{"S_AutoSpell_Armor", 24723}
+, 
+{"S_AutoSpell_Shoes", 24724}
+, 
+{"S_AutoSpell_Weapon", 24725}
+, 
+{"S_AutoSpell_Pendant", 24726}
+, 
+{"S_AutoSpell_Earring", 24727}
+, 
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+, 
+{"S_Hasty_Shield", 24732}
+, 
+{"S_Infinity_Shield", 24733}
 }
 , NeedSource_String = "+7 쉐도우 아이템"}
 , 
@@ -8908,42 +9040,6 @@ TargetItems = {
 {"Morrigane_Manyeau_IL", 480054}
 }
 , NeedSource_String = "일루전 오브 언더워터 장비"}
-, 
-MD_Geffen_Rarmor = {ItemID = 100365, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
-TargetItems = {
-{"MD_Geffen_Suits", 450149}
-, 
-{"MD_Geffen_Robe", 450150}
-}
-, NeedSource_String = "게펜 투기장 가슴 방어구"}
-, 
-MD_Geffen_Rhood = {ItemID = 100366, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
-TargetItems = {
-{"MD_Geffen_Hood", 480065}
-, 
-{"MD_Geffen_Hood2", 480066}
-, 
-{"MD_Geffen_Hood3", 480067}
-, 
-{"MD_Geffen_Hood4", 480068}
-}
-, NeedSource_String = "게펜 투기장 걸칠것"}
-, 
-MD_Geffen_Racc = {ItemID = 100367, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
-TargetItems = {
-{"MD_Geffen_Ring", 490077}
-, 
-{"MD_Geffen_Ring2", 490078}
-}
-, NeedSource_String = "게펜 투기장 장신구"}
-, 
-MD_Geffen_Rsheild = {ItemID = 100368, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
-TargetItems = {
-{"MD_Geffen_Shield", 460005}
-, 
-{"MD_Geffen_Shield2", 460006}
-}
-, NeedSource_String = "게펜 투기장 방패"}
 }
 , serverMain = function()
   -- function num : 0_0

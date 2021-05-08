@@ -33,6 +33,30 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_BU] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_RK_Hair_YL] = {Default = 143, 
 Direction = {}
 }

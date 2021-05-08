@@ -604,6 +604,14 @@ SignBoardList = {
 , 
 {"prt_monk", 135, 263, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp"}
 , 
+{"dali", 109, 94, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
+, 
+{"moro_vol", 95, 96, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
+, 
+{"verus04", 144, 239, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
+, 
+{"mosk_in", 21, 254, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
+, 
 {"itemmall", 19, 74, 0, IT_BMP, "유저인터페이스\\information\\over_style.bmp"}
 , 
 {"itemmall", 24, 77, 0, IT_BMP, "유저인터페이스\\information\\over_smithy.bmp"}

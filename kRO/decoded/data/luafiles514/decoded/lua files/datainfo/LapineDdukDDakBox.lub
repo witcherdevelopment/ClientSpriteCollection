@@ -5,6 +5,22 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+MajorAutoSpell_Mix = {ItemID = 100783, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_AutoSpell_Shoes", 1, 24724}
+, 
+{"S_AutoSpell_Armor", 1, 24723}
+, 
+{"S_AutoSpell_Weapon", 1, 24725}
+, 
+{"S_AutoSpell_Shield", 1, 24722}
+, 
+{"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_AutoSpell_Pendant", 1, 24726}
+}
+, NeedSource_String = "ø¿≈‰Ω∫∆Á Ω¶µµøÏ"}
+, 
 AbsorbShadow_Mix = {ItemID = 100691, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"Ω∫««∏Æ√ÚæÛø˛∆˘S", 1, 24078}
@@ -1366,6 +1382,30 @@ SourceItems = {
 {"S_Absorb_Shield", 1, 24685}
 , 
 {"S_Absorb_Weapon", 1, 24686}
+, 
+{"S_AutoSpell_Shield", 1, 24722}
+, 
+{"S_AutoSpell_Armor", 1, 24723}
+, 
+{"S_AutoSpell_Shoes", 1, 24724}
+, 
+{"S_AutoSpell_Weapon", 1, 24725}
+, 
+{"S_AutoSpell_Pendant", 1, 24726}
+, 
+{"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_M_AutoSpell_Armor", 1, 24728}
+, 
+{"S_M_AutoSpell_Shoes", 1, 24729}
+, 
+{"S_M_AutoSpell_Earring", 1, 24730}
+, 
+{"S_M_AutoSpell_Pendant", 1, 24731}
+, 
+{"S_Hasty_Shield", 1, 24732}
+, 
+{"S_Infinity_Shield", 1, 24733}
 }
 , NeedSource_String = "Ω¶µµøÏ æ∆¿Ã≈€"}
 , 
@@ -4960,6 +5000,30 @@ SourceItems = {
 {"S_Absorb_Shield", 1, 24685}
 , 
 {"S_Absorb_Weapon", 1, 24686}
+, 
+{"S_AutoSpell_Shield", 1, 24722}
+, 
+{"S_AutoSpell_Armor", 1, 24723}
+, 
+{"S_AutoSpell_Shoes", 1, 24724}
+, 
+{"S_AutoSpell_Weapon", 1, 24725}
+, 
+{"S_AutoSpell_Pendant", 1, 24726}
+, 
+{"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_M_AutoSpell_Armor", 1, 24728}
+, 
+{"S_M_AutoSpell_Shoes", 1, 24729}
+, 
+{"S_M_AutoSpell_Earring", 1, 24730}
+, 
+{"S_M_AutoSpell_Pendant", 1, 24731}
+, 
+{"S_Hasty_Shield", 1, 24732}
+, 
+{"S_Infinity_Shield", 1, 24733}
 }
 , NeedSource_String = "Ω¶µµøÏ æ∆¿Ã≈€"}
 , 
@@ -5424,6 +5488,22 @@ SourceItems = {
 {"Melee_Stone_Middle", 1, 1000378}
 , 
 {"Melee_Stone_Bottom", 1, 1000379}
+, 
+{"ASPDStone_Robe_D", 1, 1000520}
+, 
+{"CastStone_Robe_D", 1, 1000522}
+, 
+{"Melee_Stone_Robe_D", 1, 1000524}
+, 
+{"HPdrainStone_Robe_D", 1, 1000526}
+, 
+{"Magic_Stone_Robe_D", 1, 1000527}
+, 
+{"Magic_Stone_Top", 1, 1000528}
+, 
+{"Magic_Stone_Middle", 1, 1000529}
+, 
+{"Magic_Stone_Bottom", 1, 1000530}
 }
 , NeedSource_String = "¿«ªÛ¿Œ√¶∆ÆΩ∫≈Ê"}
 , 
@@ -6612,6 +6692,14 @@ SourceItems = {
 {"C_Fairy_Feathers", 1, 31472}
 , 
 {"C_Giant_White_Rabbit", 1, 480095}
+, 
+{"C_Katashiro_Flying", 1, 420016}
+, 
+{"C∑Ø∫Í¥Îµ", 1, 31323}
+, 
+{"C∫¢≤…»≠∞¸", 1, 19768}
+, 
+{"Cæﬁ»≠≥≠∏∏¿«∫Ò≥‡", 1, 19806}
 }
 , NeedSource_String = "≥…¥Ÿ∑° ¿«ªÛ"}
 }

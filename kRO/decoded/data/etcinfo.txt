@@ -1,4 +1,2 @@
 weather#comodo.rsw#pokjuk#
 //weather#pay_arche.rsw#sakura#
-weather#prontera.rsw#sakura#
-weather#pay_arche.rsw#sakura#

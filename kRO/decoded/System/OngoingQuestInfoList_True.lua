@@ -27095,43 +27095,43 @@ Description = {"보관소의 하트헌터 소탕작전을 마무리했다. <NAVI>[신관]<INFO>rache
 Description = {"모험가님의 협력에 감사드립니다. 오늘은 쉬시고 내일 또 다시 협조 부탁드립니다! - <NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[17528] = {Title = "낙원단 기본 장비 지급", IconName = "ico_ep.bmp", 
+[17528] = {Title = "낙원단 기본 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"앞으로 장비를 지속적으로 제공할 관리자들을 만나 봐. 먼저 방어구를 담당하는 관리자 <NAVI>[토른]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>님을 만나보는 것이 좋겠다."}
 , Summary = "관리자 토른"}
 , 
-[17529] = {Title = "낙원단 기본 장비 지급", IconName = "ico_ep.bmp", 
+[17529] = {Title = "낙원단 기본 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"다음은 고급 무기를 담당하는 <NAVI>[미하엘]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>님을 만나 봐."}
 , Summary = "관리자 미하엘"}
 , 
-[17530] = {Title = "낙원단 기본 장비 지급", IconName = "ico_ep.bmp", 
+[17530] = {Title = "낙원단 기본 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"이젠 네가 지금 사용할 수 있는 장비를 받을 차례야. 어서 <NAVI>[비케이]<INFO>moc_para01,110,79,0,101,0,</INFO></NAVI>님께 가 봐."}
 , Summary = "관리자 비케이"}
 , 
-[17531] = {Title = "낙원단 기본 장비 지급", IconName = "ico_ep.bmp", 
+[17531] = {Title = "낙원단 기본 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"<NAVI>[우르]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>한테 가서 기본 장비를 모두 지급 받았다고 얘기하면 돼."}
 , Summary = "교관 우르에게 보고"}
 , 
-[17532] = {Title = "낙원단 쉐도우 장비 지급", IconName = "ico_dq.bmp", 
+[17532] = {Title = "낙원단 쉐도우 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"추가적인 장비를 받고 싶다면 <NAVI>[보야]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>와 상담을 해 봐."}
 , Summary = "교관 보야와 상담"}
 , 
-[17533] = {Title = "낙원단 쉐도우 장비 지급", IconName = "ico_dq.bmp", 
+[17533] = {Title = "낙원단 쉐도우 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"쉐도우 장비가 필요하면 무기고에 있는 관리자 <NAVI>[에밀]<INFO>moc_para01,110,91,0,101,0,</INFO></NAVI>을 만나 봐."}
 , Summary = "관리자 에밀"}
 , 
-[17534] = {Title = "낙원단 쉐도우 장비 지급", IconName = "ico_ep.bmp", 
+[17534] = {Title = "낙원단 쉐도우 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"<NAVI>[보야]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>에게 쉐도우 장비를 받았다고 보고해. 지급 기록이 보고되지 않으면 곤란하다고."}
 , Summary = "교관 보야에게 보고"}
 , 
-[17535] = {Title = "낙원단 기본 장비 지급", IconName = "ico_ep.bmp", 
+[17535] = {Title = "낙원단 기본 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"쓸만한 기본 장비가 없다면 이 옆에 있는 <NAVI>[우르]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>라는 교관과 기본 장비에 대해 상담해 봐."}
 , Summary = "교관 우르와 상담"}
 , 
-[17536] = {Title = "낙원단 고급 장비 지급", IconName = "ico_ep.bmp", 
+[17536] = {Title = "낙원단 고급 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"탄력있는 줄 15개랑 코볼트의 털 3개를 <NAVI>[토른]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>님께 가져다 드리면 고급 방어구를 받을 수 있어."}
 , Summary = "방어구의 재료"}
 , 
-[17537] = {Title = "낙원단 고급 장비 지급", IconName = "ico_dq.bmp", 
+[17537] = {Title = "낙원단 고급 장비 지급", IconName = "ico_nq.bmp", 
 Description = {"오래된 곡괭이 15개를 <NAVI>[미하엘]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>님께 가져다 드리면 고급 무기를 주실 거야."}
 , Summary = "무기의 재료"}
 , 

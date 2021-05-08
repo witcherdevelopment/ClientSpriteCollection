@@ -5371,3 +5371,11 @@
 590027	1	1	1	1	0	1	1	1	//2Para_Mace_PR
 590028	1	1	1	1	0	1	1	1	//3Para_Mace_GN
 590029	1	1	1	1	0	1	1	1	//3Para_Mace_AB
+200108	1	1	0	1	1	1	1	1	//LI_Nyangvine_Stone_Box
+200109	1	1	0	1	1	1	1	1	//LI_A_Refine_Ore_Box
+200110	1	1	0	1	1	1	1	1	//LI_A_HD_Elunium_Box
+200111	1	1	0	1	1	1	1	1	//LI_A_HD_Oridecon_Box
+200112	1	1	0	1	1	1	1	1	//LI_A_HD_Carnium_Box
+200113	1	1	0	1	1	1	1	1	//LI_A_HD_Bradium_Box
+23907	1	1	1	1	1	1	1	1	//Season_Evt_Reward_5
+100810	1	1	0	1	1	1	1	1	//BroadcastBox_
